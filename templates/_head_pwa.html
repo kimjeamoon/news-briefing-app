@@ -1,0 +1,20 @@
+{# PWA 공용 head 조각 — manifest·아이콘·iOS 메타·서비스 워커 등록 #}
+<meta name="theme-color" content="#1a1a1a">
+<meta name="description" content="세계 주요국과 AI 분야의 최신 뉴스를 매일 자동으로 수집·교차검증해 정리한 아침 브리핑.">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="/static/icon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/static/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="뉴스 브리핑">
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function (err) {
+        console.warn("서비스 워커 등록 실패:", err);
+      });
+    });
+  }
+</script>

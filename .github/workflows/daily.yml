@@ -1,0 +1,73 @@
+name: 매일 뉴스 브리핑 생성 및 게시
+
+on:
+  schedule:
+    # cron 은 UTC 기준. KST 07:00 = UTC 22:00 (전날).
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}  # GitHub UI 에서 수동 실행 가능
+
+# gh-pages 브랜치에 push 하려면 쓰기 권한이 필요하다.
+permissions:
+  contents: write
+
+# 동시에 여러 번 돌지 않도록 한다.
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 브리핑 생성 (+ 이메일 발송)
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'gemini' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-4-6' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o' }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          OUTPUT_DIR: ./output
+          TZ: Asia/Seoul
+        run: python run_daily.py
+
+      - name: 게시용 사이트 폴더 구성
+        run: |
+          mkdir -p _site
+          # 최신 브리핑만 게시한다(아카이브 없음). 세계=/, AI=/ai.html.
+          cp output/index.html _site/index.html
+          cp output/index.json _site/index.json
+          cp output/ai.html    _site/ai.html    2>/dev/null || true
+          cp output/ai.json    _site/ai.json    2>/dev/null || true
+          # /ai 로도 접근되도록 디렉터리 인덱스를 만든다.
+          mkdir -p _site/ai
+          cp output/ai.html _site/ai/index.html 2>/dev/null || true
+          # PWA 자산(매니페스트·서비스워커·아이콘)도 함께 게시한다.
+          cp -r static/* _site/ 2>/dev/null || true
+
+      - name: GitHub Pages 에 게시
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages

@@ -1,0 +1,9 @@
+# server.py 의 내장 스케줄러 대신 OS 의 cron 으로 돌리고 싶을 때 사용.
+# `crontab -e` 로 아래 줄을 추가한다. (경로는 실제 설치 위치로 수정)
+#
+# 매일 오전 7시(서버 시간 기준)에 브리핑 생성 + 이메일 발송:
+
+0 7 * * * cd /path/to/news-briefing-app && /path/to/news-briefing-app/.venv/bin/python run_daily.py >> /path/to/news-briefing-app/cron.log 2>&1
+
+# 이 방식에서는 웹 페이지를 따로 제공하려면 정적 호스팅(output/ 폴더)을 쓰거나
+# server.py 를 함께 띄우면 된다.

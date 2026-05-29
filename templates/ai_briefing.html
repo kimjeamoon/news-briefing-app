@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 브리핑 · {{ date_str }}</title>
+{% include "_head_pwa.html" %}
+{% include "_style.html" %}
+</head>
+<body>
+{% from "_macros.html" import section_block %}
+<div class="wrap">
+
+  <header class="top">
+    <div class="kicker">AI Briefing</div>
+    <h1 class="title">AI 브리핑</h1>
+    <div class="meta">{{ date_str }} · 모델·제품 · 연구·논문 · 산업·투자 · 정책·안전</div>
+    <div class="pagelinks"><a href="index.html">&larr; 세계 뉴스 브리핑</a></div>
+  </header>
+
+  <div class="summary">
+    <h2>오늘의 AI 핵심</h2>
+    <ul>
+      {% for item in highlights %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% for section in sections %}
+  {{ section_block(section) }}
+  {% endfor %}
+
+  <footer class="note">
+    <p><strong>AI 브리핑</strong> · 매일 오전 7시 자동 업데이트</p>
+    <p>AI 전문 매체와 논문 피드를 웹 검색으로 교차 검증해 정리했습니다. <strong>✓ 다출처 확인</strong>은 둘 이상의 독립 출처에서 확인된 사안, <strong>단일 출처 · 확인 필요</strong>는 한 출처에서만 확인된 사안입니다. 사전공개 논문은 동료평가 전이므로 참고용입니다.</p>
+  </footer>
+
+</div>
+</body>
+</html>

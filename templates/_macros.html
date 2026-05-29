@@ -1,0 +1,35 @@
+{# 기사 카드 매크로 — 세계 브리핑·AI 브리핑·이메일이 공유한다. #}
+{% macro story_card(story) -%}
+<article class="story">
+  <span class="tag {{ story.tag }}">{{ story.tag_label }}</span>
+  {% if story.verification == 'single' -%}
+  <span class="badge single">단일 출처 · 확인 필요</span>
+  {%- else -%}
+  <span class="badge verified">✓ 다출처 확인</span>
+  {%- endif %}
+  <h3>{{ story.title }}</h3>
+  <p>{{ story.summary }}</p>
+  <p class="src">출처:
+    {% for s in story.sources -%}
+    {% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}
+    {%- if not loop.last %} · {% endif %}
+    {%- endfor %}
+  </p>
+</article>
+{%- endmacro %}
+
+{# 섹션(지역 또는 분야) 매크로 #}
+{% macro section_block(section) -%}
+<section class="region">
+  <div class="region-head">
+    <span class="flag">{{ section.flag }}</span>
+    <h2>{{ section.name }}</h2>
+    <span class="en">{{ section.en }}</span>
+  </div>
+  {% for story in section.stories -%}
+  {{ story_card(story) }}
+  {%- else -%}
+  <article class="story"><p>이 섹션의 기사를 수집하지 못했습니다.</p></article>
+  {%- endfor %}
+</section>
+{%- endmacro %}
