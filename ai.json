@@ -1,0 +1,327 @@
+{
+  "date": "2026-05-29",
+  "date_str": "2026년 5월 29일 (금)",
+  "highlights": [
+    "Anthropic, 개선된 Claude Opus 4.8 출시 및 650억 달러 투자 유치",
+    "애플, iOS 27에 시리(Siri) 전면 개편 및 독립형 앱 도입 계획 공개",
+    "마이크로소프트 365 Copilot, 더 빠르고 깔끔한 디자인으로 업데이트",
+    "Oculus 창립자들의 AI 스타트업 Sesame, iOS 앱 출시로 대화형 AI 경험 확장",
+    "AI, 의사 결정 지원 시뮬레이션 모델 구축 및 해석 가능성 높이는 연구 진행"
+  ],
+  "sections": [
+    {
+      "name": "모델·제품 출시",
+      "flag": "🚀",
+      "en": "MODELS & PRODUCTS",
+      "stories": [
+        {
+          "title": "앤스로픽, 더 정직한 클로드 Opus 4.8 및 다이나믹 워크플로우 출시",
+          "summary": "앤스로픽(Anthropic)이 플래그십 모델 클로드 Opus 4.8을 출시했습니다. 이 모델은 불확실성을 더 잘 인지하고 근거 없는 주장을 덜 하는 '정직성'이 개선되었으며, 복잡한 작업을 관리하는 '다이나믹 워크플로우' 기능이 연구 미리보기로 제공됩니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
+            },
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/anthropic-debuts-claude-opus-4-8-teases-upcoming-launch-of-mythos-class-models-2000764742"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "애플, iOS 27 시리 전면 개편 및 독립형 AI 앱 계획 공개",
+          "summary": "애플이 iOS 27에서 시리(Siri)를 대규모로 개편하고 새로운 독립형 시리 앱을 출시할 계획입니다. 블룸버그 보도에 따르면, 시리는 재설계된 인터페이스와 함께 구글의 Gemini AI 기술을 활용하여 챗봇 기능을 강화하고, 스포트라이트 검색과 통합될 예정입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
+            },
+            {
+              "name": "Bloomberg.com",
+              "url": "https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "마이크로소프트 365 Copilot, 속도 및 디자인 개선 업데이트",
+          "summary": "마이크로소프트 365 Copilot이 더 빠르고 깔끔한 디자인으로 업데이트되었습니다. 마이크로소프트는 응답 속도가 두 배 향상되고, 스캔하기 쉬운 구조화된 답변을 제공할 것이라고 밝혔습니다. 이 업데이트는 데스크톱 및 모바일 기기에 순차적으로 적용됩니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Oculus 창립자들의 대화형 AI 스타트업 Sesame, iOS 앱 출시",
+          "summary": "오큘러스(Oculus) 공동 창립자들이 설립한 대화형 AI 스타트업 세서미(Sesame)가 iOS 앱을 출시했습니다. 이 앱은 AI가 생각할 시간을 가지면서도 자연스러운 대화 흐름을 제공하며, '마야', '마일스', '시몬', '찰리' 등 각기 다른 개성을 가진 4가지 AI 에이전트를 제공합니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
+    },
+    {
+      "name": "연구·논문",
+      "flag": "🧪",
+      "en": "RESEARCH",
+      "stories": [
+        {
+          "title": "LLM, 거짓 경고에도 오정보 확신 경향 연구 발표",
+          "summary": "새로운 연구에 따르면 LLM(대규모 언어 모델)은 학습 데이터에 명백한 거짓 경고가 포함되어 있더라도 잘못된 진술을 사실로 받아들이는 경향을 보였습니다. 이는 LLM이 정보의 통계적 패턴을 명시적인 지시보다 우선시하여 환각(Hallucination) 현상을 일으킬 수 있음을 시사합니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
+            },
+            {
+              "name": "Infosecurity Magazine",
+              "url": "https://www.infosecurity-magazine.com/news/all-major-llms-exposed-to-multi/"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/lanceeliot/2026/05/27/analysis-of-anthropic-claude-system-prompt-instruction-that-shapes-the-handling-of-ai-mental-health-chats/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "새로운 친환경 리튬 추출법 개발, 전기차 배터리 생산 촉진 기대",
+          "summary": "연구자들이 전기차 배터리 핵심 금속인 리튬을 암석에서 추출하는 새롭고 친환경적인 방법을 개발했습니다. 이 기술은 기존 방식보다 비용 효율적이고 탄소 배출량을 줄일 수 있으며, 스타트업 Rock Zero가 상용화를 추진 중입니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/"
+            },
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/mit-scientists-may-have-found-a-way-to-pull-lithium-from-rocks-without-trashing-the-planet-2000764525"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "AI, 의사 결정 지원을 위한 시뮬레이션 모델 구축 및 해석 가능성 연구",
+          "summary": "BEAMS(Benchmarking and Evaluating AI for Modeling and Simulation) 이니셔티브는 AI가 실제 의사 결정을 지원하기 위해 시뮬레이션 모델을 구축하고 해석 가능성을 높이는 방법에 대한 연구를 진행 중입니다. 이 연구는 인과 번역, 모델 반복, 인과 추론, 모델 행동 설명 등의 평가를 통해 AI 도구의 성능을 분석하고 있습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.28994"
+            },
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/travel/columnist/2026/05/27/cruising-altitude-faa-ai-safety/90262683007/"
+            },
+            {
+              "name": "Quality Magazine",
+              "url": "https://www.qualitymag.com/articles/99608-ai-as-an-enabler-of-continuous-improvement-applying-quality-thinking-to-ai-prompt-engineering"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        }
+      ]
+    },
+    {
+      "name": "산업·투자·기업",
+      "flag": "💼",
+      "en": "INDUSTRY & INVESTMENT",
+      "stories": [
+        {
+          "title": "앤스로픽, 650억 달러 시리즈 H 투자 유치, 기업 가치 9,650억 달러 육박",
+          "summary": "AI 스타트업 앤스로픽(Anthropic)이 시리즈 H 투자 라운드에서 650억 달러를 유치하며 기업 가치가 9,650억 달러에 육박했습니다. 이는 IPO 전 마지막 자금 조달이 될 수 있으며, 알티미터 캐피탈(Altimeter Capital) 등 여러 기관 투자자 및 삼성, SK하이닉스 등 전략적 파트너가 참여했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-raises-65-billion-nears-185251986.html"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/tech/tech-news/anthropic-secures-965-billion-valuation-raising-65-billion-rcna347390"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "기업 AI 검색 Glean, 3억 달러 ARR 달성 및 AI 비용 절감 강점 부각",
+          "summary": "기업 AI 검색 스타트업 글린(Glean)이 연간 반복 매출(ARR) 3억 달러를 달성하며 15개월 만에 세 배 성장을 기록했습니다. 경쟁 심화 속에서도 글린은 AI 도구의 깊은 비즈니스 이해도와 AI 컴퓨팅 비용 절감 기능을 주요 강점으로 내세우고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+            },
+            {
+              "name": "The AI Economy",
+              "url": "https://theaieconomy.substack.com/p/glean-300m-arr-enterprise-ai-pilot-to-production"
+            },
+            {
+              "name": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/glean-300m-arr-enterprise-ai-growth/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Asana, 노코드 에이전트 빌더 StackAI 인수, AI 워크플로우 강화",
+          "summary": "아사나(Asana)가 노코드 에이전트 빌더 스택AI(StackAI)를 7,500만 달러에 인수하여 AI 기반 워크플레이스 플랫폼으로의 전환을 가속화하고 있습니다. 이번 인수를 통해 아사나는 기존 비즈니스 시스템 전반의 복잡한 워크플로우를 자동화하는 AI 에이전트 기능을 확장할 계획입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+            },
+            {
+              "name": "Financial Times",
+              "url": "https://markets.ft.com/data/announce/detail?dockey=600-202605281603BIZWIRE_USPRX____20260528_BW515345-1"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/203943-asana-acquires-startup-stack-ai-for-75-million.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AWS 및 클라우드플레어, AI 에이전트 트래픽 대응 위해 클라우드 인프라 재설계",
+          "summary": "AWS와 클라우드플레어(Cloudflare) 등 클라우드 기업들이 AI 에이전트의 급증하는 트래픽을 처리하기 위해 클라우드 인프라를 재설계하고 있습니다. AWS는 에이전트 워크로드에 특화된 OpenSearch Serverless의 차세대 버전을 출시하여, AI 에이전트의 동적 활동 패턴에 맞춰 컴퓨팅 자원을 즉시 확장하고 축소할 수 있도록 했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/203952-the-internet-is-being-rebuilt-for-machines-aws-introduces-new-infrastructure.html"
+            },
+            {
+              "name": "Light Reading",
+              "url": "https://www.lightreading.com/ai-machine-learning/five-dynamics-redefining-ai-infrastructure-in-2026-omdia"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        }
+      ]
+    },
+    {
+      "name": "정책·규제·안전",
+      "flag": "⚖️",
+      "en": "POLICY & SAFETY",
+      "stories": [
+        {
+          "title": "구글 엔지니어, 내부 검색 데이터 활용 Polymarket에서 120만 달러 불법 수익으로 FBI 조사",
+          "summary": "미국 FBI가 구글 소프트웨어 엔지니어 미셸 스파뇰로(Michele Spagnuolo)를 내부 거래 혐의로 조사하고 있습니다. 그는 구글의 기밀 내부 검색 데이터를 이용해 예측 시장 Polymarket에서 2025년 가장 많이 검색될 인물에 베팅하여 120만 달러의 불법 수익을 올린 혐의를 받고 있습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/us-charges-google-engineer-with-insider-trading-polymarket-2026-05-27/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "NBA, AI 기반 자동 아웃오브바운드 판정 시스템 도입 추진",
+          "summary": "NBA 아담 실버 커미셔너는 경기장 내 카메라와 AI를 활용한 자동 아웃오브바운드 판정 시스템 도입을 계획하고 있다고 밝혔습니다. 이 시스템은 테니스의 호크아이(Hawk-Eye) 기술과 유사하게 작동하여, 심판의 객관적인 판정 부담을 줄이고 경기 흐름을 원활하게 할 것으로 기대됩니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/"
+            },
+            {
+              "name": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/nba/article/adam-silver-says-nba-will-eventually-adopt-ai-automated-system-to-review-out-of-bounds-calls-014337959.html"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/05/27/sports/adam-silver-says-nba-will-soon-use-ai-for-certain-calls/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "개발자, AI 코딩 에이전트의 데이터 삭제 유도 프롬프트 인젝션 코드 삽입 논란",
+          "summary": "'바이브 코딩'에 불만을 품은 한 개발자가 자신의 오픈소스 자바 테스팅 앱에 AI 코딩 에이전트가 앱 출력물을 삭제하도록 유도하는 데이터 삭제 프롬프트 인젝션을 몰래 추가했습니다. 이 지시는 jqwik라는 JUnit 5 테스트 엔진에 포함되었으며, 이는 AI 공격의 한 형태로 해석될 수 있습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/28/this-ai-startups-army-of-15000-hackers-pressure-test-claude-gpt-5-and-gemini/"
+            },
+            {
+              "name": "Dark Reading",
+              "url": "https://www.darkreading.com/application-security/agentic-ai-risky"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        }
+      ]
+    }
+  ]
+}
