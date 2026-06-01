@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-01",
-  "date_str": "2026년 6월 1일 (월)",
+  "date": "2026-06-02",
+  "date_str": "2026년 6월 2일 (화)",
   "highlights": [
-    "소프트뱅크, 프랑스에 750억 유로 투자하여 5기가와트 규모 AI 데이터센터 건설 계획 발표",
-    "엔비디아 CEO 젠슨 황, 컴퓨텍스 기조연설에서 마이크로소프트와의 파트너십 암시",
-    "AMD, 컴퓨텍스에서 AM5 소켓 2029년까지 지원 및 구형 칩 재출시 전략 발표",
-    "델, 맥북 네오 경쟁 모델 XPS 13 공개 및 학생 할인 프로모션 진행",
-    "환경 운동가 에린 브로코비치, 데이터센터의 투명성 부족 비판하며 새로운 활동 시작"
+    "Alphabet와 Anthropic, AI 인프라 확충 및 상장 위한 대규모 자금 조달 계획 발표",
+    "플로리다주, OpenAI 및 샘 알트먼 폭력 사건 연루 혐의로 고소, 데이터센터 물 사용 문제도 부상",
+    "엔비디아, 마이크로소프트 등과 협력해 AI 에이전트 PC 시장 진출, RTX Spark 칩 공개",
+    "중국, 세계 최초 침습형 뇌-컴퓨터 칩 승인으로 BCI 기술 발전 가속화",
+    "DuckDuckGo, 'AI 없는' 검색 엔진 접근성 강화 웹 확장 프로그램 출시"
   ],
   "sections": [
     {
@@ -15,20 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "델, 맥북 네오 대항마 XPS 13 공개 및 학생 할인 제공",
-          "summary": "델이 새로운 XPS 13 모델을 발표하며 애플의 맥북 네오와 경쟁할 예정입니다. 7월 출시 예정이며 학생들에게는 599달러의 프로모션 가격을 제공하고, 일반 소비자를 위한 시작 가격은 699달러로 책정되었습니다. 이 모델은 델의 XPS 중 가장 얇고 가벼운 제품으로, 8GB RAM과 인텔 와일드캣 레이크 칩을 탑재했습니다.",
+          "title": "엔비디아, 마이크로소프트 등과 AI 에이전트 PC 시장 진출하며 RTX Spark 칩 공개",
+          "summary": "엔비디아는 컴퓨텍스에서 새로운 AI 에이전트 PC용 CPU인 'RTX Spark' 칩을 공개하며 마이크로소프트, 델, HP 등 주요 PC 제조사들과의 협력을 발표했습니다. 이 초고속 칩은 AI 에이전트 실행 및 대규모 언어 모델의 로컬 구동을 지원하며, 올 가을부터 다양한 RTX Spark Windows PC가 출시될 예정입니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
             },
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/dells-new-xps-13-is-pcs-first-real-macbook-neo-competitor-2000765391"
+              "name": "Ars Technica",
+              "url": "https://ars technica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/dell-unveils-699-xps-13-laptop-challenge-apples-macbook-neo-2026-05-31/"
+              "name": "NVIDIA Newsroom",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark"
             }
           ],
           "verification": "multi",
@@ -36,20 +36,41 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "에일리언웨어, 컴퓨텍스서 신형 QD-OLED 게이밍 모니터 공개",
-          "summary": "에일리언웨어가 컴퓨텍스 2026에서 자사의 첫 QD-OLED 게이밍 모니터의 후속 모델을 포함한 두 가지 새로운 OLED 게이밍 모니터를 공개했습니다. 34인치 곡면 AW3426DW는 1,300니트의 최고 밝기와 280Hz 주사율을 자랑하며, 39인치 5K 곡면 AW3926QW는 LG 디스플레이의 4세대 RGB 탠덤 스크린 기술을 사용합니다. 두 모델 모두 텍스트 선명도를 높이기 위한 RGB 스트라이프 서브픽셀 기술과 번인(burn-in) 방지 3년 보증이 특징입니다.",
+          "title": "DuckDuckGo, AI 없는 검색 환경 위한 웹 확장 프로그램 출시",
+          "summary": "대체 검색 엔진 덕덕고(DuckDuckGo)는 AI 기반 답변을 제외한 검색 환경을 기본으로 설정할 수 있는 브라우저 확장 프로그램을 출시했습니다. 구글의 AI 중심 검색 엔진 개편 이후 덕덕고의 'AI 없는' 검색 페이지 트래픽은 크게 증가했으며, 이는 사용자들이 AI 없는 일관된 검색 경험을 선호하는 경향을 보여줍니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
+            },
+            {
+              "name": "CNET",
+              "url": "https://www.cnet.com/tech/services-and-software/duckduckgo-no-ai-search-chrome-firefox-browser-extensions/"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "구글, 새로운 AI 에이전트 'Gemini Spark' 공개: 일상 업무 처리 능력 입증",
+          "summary": "구글은 새로운 24시간 AI 에이전트 'Gemini Spark'를 공개했습니다. 이 에이전트는 사용자를 대신하여 다단계 작업을 처리하며, 이메일 작성 및 예산 관리 등 일상 업무에서 뛰어난 성능을 보였습니다. 하지만 비용과 잠재적인 개인 정보 보호 문제에 대한 우려도 제기되고 있습니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs"
+              "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on"
             },
             {
-              "name": "VideoCardz.com",
-              "url": "https://videocardz.com/newz/alienware-launches-39-inch-5k-oled-and-34-inch-280hz-qd-oled-gaming-monitors"
+              "name": "PCMag",
+              "url": "https://www.pcmag.com/news/googles-agentic-ai-tool-gemini-spark-is-now-available"
             },
             {
-              "name": "IGN",
-              "url": "https://www.ign.com/articles/alienwares-new-super-ultrawide-oled-gaming-monitor-might-just-earn-its-rgb-stripes"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/"
             }
           ],
           "verification": "multi",
@@ -62,7 +83,123 @@
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": []
+      "stories": [
+        {
+          "title": "중국, 세계 최초 침습형 뇌-컴퓨터 칩 승인으로 BCI 기술 선도",
+          "summary": "중국은 NEO라는 뇌 임플란트를 세계 최초의 침습형 뇌-컴퓨터 인터페이스(BCI) 제품으로 임상 시험 외 사용을 승인했습니다. 이 기술은 사고로 사지 마비된 환자가 다시 글을 쓰는 등의 움직임을 가능하게 했으며, 중국이 뇌 임플란트 분야의 글로벌 리더로 부상하는 데 기여할 것으로 예상됩니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+            },
+            {
+              "name": "citynewsservice.cn",
+              "url": "https://www.citynewsservice.cn/articles/cns/health-wellness/china-tech/china-tech-local-experts-discover-early-fetal-development-bmeb054m"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "AI 기상 예측 스타트업 WindBorne, 정부 기관 능가하는 예측 정확도 달성",
+          "summary": "AI 기상 예측 스타트업 WindBorne Systems가 유럽 정부 기관의 세계 최고 시스템보다 더 정확하고 빈번한 기상 예측을 제공하는 'WeatherMesh-6' 모델을 공개했습니다. 이 모델은 독점적인 기상 풍선 데이터 수집과 딥러닝 모델 통합을 통해 표면 온도 측정에서 5일 후 예측 정확도가 기존 모델의 전날 예측과 동일한 수준에 도달했다고 주장합니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
+            },
+            {
+              "name": "Let's Data Science",
+              "url": "https://letsdatascience.com/news/windborne-systems-releases-weathermesh-6-outperforming-ecmwf-3710dab5"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "자율주행 위한 불확실성 인식 및 시간 조절 전문가 조언 강화 학습 프레임워크 제안",
+          "summary": "자율주행 강화 학습에서 내재된 탐색의 위험성을 줄이기 위해 불확실성을 인식하고 시간적으로 조절되는 전문가 조언 프레임워크가 제안되었습니다. 이 프레임워크는 에이전트의 신뢰도에 따라 조언을 활성화하고, 커밋먼트-쿨다운 전략을 통해 효율적인 탐색을 유도하며, CARLA 실험에서 성공률을 높이고 실패율을 줄이는 데 기여했습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.30576"
+            },
+            {
+              "name": "AUTO Connected Car News",
+              "url": "https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-tesla-waymo-weride-helm-ai-torc-more/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "PhyDrawGen: 물리 법칙 준수하는 자연어 기반 물리 다이어그램 생성 모델 연구",
+          "summary": "물리 다이어그램을 텍스트로부터 생성할 때 물리 법칙을 엄격히 준수하는 'PhyDrawGen'이라는 신경-상징 파이프라인이 제시되었습니다. 이 모델은 대규모 언어 모델이 의미론적 장면을 이해하고, 결정론적 솔버가 물리적 제약 조건을 정확한 기하학적 원형으로 변환하며, Qwen-VL 모델이 시각적으로 제약 조건을 확인하여 오류를 수정합니다. PhyDrawGen은 다양한 벤치마크에서 기존 모델들을 능가하는 물리적 정확도를 보였습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.30512"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "LLM 에이전트 자기 진화 능력 강화 위한 하네스 업데이트 및 하네스 이점 분리 연구",
+          "summary": "대규모 언어 모델(LLM) 에이전트의 자기 진화 능력을 향상시키기 위해 프롬프트, 기술, 메모리, 도구 등 외부 하네스 업데이트의 효과와 이점을 분석하는 연구가 진행되었습니다. 이 연구는 하네스 업데이트 생성 능력과 업데이트된 하네스로부터 이득을 얻는 능력을 분리하여, 중간 수준 모델이 가장 큰 이점을 얻는 반면 약한 모델은 활성화 실패, 강한 모델은 덜 이득을 얻는 경향을 발견했습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.30621"
+            },
+            {
+              "name": "MarkTechPost",
+              "url": "https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "LLM 임상 의사 결정 평가 위한 EHR 기반 자동화 벤치마크 'EHRBench' 공개",
+          "summary": "실제 임상 워크플로우에서 LLM 기반 임상 의사 결정 모델의 신뢰성을 평가하기 위해 자동화되고 신뢰할 수 있는 EHR(전자의무기록) 기반 벤치마크 'EHRBench'가 소개되었습니다. EHRBench는 EHR-LLM-KB 상호작용 파이프라인을 통해 약 100만 개의 질의응답 항목을 구축했으며, 30개 이상의 LLM을 벤치마킹하여 임상적으로 신뢰할 수 있는 LLM 시스템을 위한 실행 가능한 개선점을 제시했습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.30637"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s44401-026-00098-9"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "에이전트 툴 호출 환경 일반화 성능 향상 위한 MAVEN 프레임워크 연구",
+          "summary": "신뢰할 수 있는 에이전트 추론 시스템의 핵심 과제인 에이전트 툴 호출 환경에서의 일반화 성능을 향상시키기 위해 MAVEN(Modular Agentic Verification and Execution Network) 프레임워크가 제시되었습니다. MAVEN은 구조화된 분해, 적응형 도구 오케스트레이션, 중간 검증을 위한 경량 심볼릭 추론 스캐폴드로, 기존 벤치마크 및 새로 도입된 MAVEN-Bench에서 GPT-OSS-120b 기반 모델의 정확도를 크게 향상시켰습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2605.30738"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        }
+      ]
     },
     {
       "name": "산업·투자·기업",
@@ -70,24 +207,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "소프트뱅크, 프랑스에 최대 750억 유로 AI 데이터센터 투자 발표",
-          "summary": "소프트뱅크 그룹이 프랑스에 최대 750억 유로(약 870억 달러)를 투자하여 5기가와트 규모의 AI 데이터센터를 건설할 계획을 발표했습니다. 이는 유럽 내 최대 AI 인프라 투자로, 1단계로 2031년까지 오드프랑스(Hauts-de-France) 지역에 3.1기가와트 용량의 데이터센터를 구축할 예정입니다. 프랑스 경제 장관 롤랑 레스큐어는 이를 프랑스를 AI 가치 사슬 전반의 선도적인 목적지로 만들려는 엠마뉘엘 마크롱 대통령의 야망을 보여주는 증거라고 평가했습니다.",
+          "title": "Alphabet 및 Anthropic, AI 인프라 구축 및 상장 위한 대규모 자금 조달 계획 발표",
+          "summary": "구글 모회사 알파벳은 방대한 AI 인프라 구축 자금으로 800억 달러를 조달할 계획을 발표했습니다. 한편, AI 연구소 Anthropic은 기업 가치 약 1조 달러로 미국 증권거래위원회에 기업 공개(IPO)를 위한 기밀 서류를 제출했다고 밝혔습니다. 이들은 최근 650억 달러의 시리즈 H 투자 유치를 통해 9,650억 달러의 기업 가치를 인정받았습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
+              "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
             },
             {
-              "name": "GIGAZINE",
-              "url": "https://gigazine.net/gsc_news/en/20260531-softbank-france-ai-datacenter"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public"
             }
           ],
           "verification": "multi",
@@ -95,20 +228,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "엔비디아 젠슨 황 CEO, 컴퓨텍스서 마이크로소프트와 협력 시사",
-          "summary": "엔비디아 젠슨 황 CEO가 컴퓨텍스 기조연설에서 마이크로소프트와의 파트너십 가능성과 새로운 ARM 기반 N1, N1X 프로세서에 대한 소문이 집중되었습니다. 마이크로소프트는 새로운 'PC 시대'를 예고하며 엔비디아의 ARM 프로세서가 자사의 서피스 라인업에 탑재될 것으로 기대됩니다. 이는 퀄컴의 윈도우 11 ARM 변형 독점 라이선스가 만료되었음을 의미할 수 있습니다.",
+          "title": "메타 AI 지원 챗봇, 해커에 의해 인스타그램 계정 탈취에 악용되는 취약점 발견",
+          "summary": "메타의 AI 지원 챗봇에서 해커들이 유명 인스타그램 계정을 탈취하는 데 악용될 수 있는 보안 취약점이 발견되었습니다. 해커들은 VPN을 사용해 위치를 위장한 후 챗봇에게 계정과 연결된 이메일 주소 변경을 요청하는 방식으로 계정 접근 권한을 얻었으며, 이 취약점은 지난 5월 29일에 긴급 패치되었습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote"
+              "name": "Ars Technica",
+              "url": "https://ars technica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser"
+              "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked"
             },
             {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"
             }
           ],
           "verification": "multi",
@@ -116,45 +249,16 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "AMD, 컴퓨텍스서 기존 기술 활용 및 신제품 전략 제시",
-          "summary": "AMD가 컴퓨텍스에서 데스크톱 PC 게이머들을 위한 새로운 전략을 발표했습니다. AMD는 AM5 데스크톱 마더보드 소켓을 2029년까지 지원하여 사용자들이 새로운 CPU로 업그레이드할 수 있도록 할 것이라고 약속했습니다. 또한, 구형 AM4 소켓 사용자들을 위해 라이젠 7 5800X3D의 '10주년 기념' 에디션을 349달러에 재출시하고, AM5 소켓으로 전환하려는 사용자를 위해 330달러의 라이젠 7 7700X3D를 선보입니다. GPU 부문에서는 라데온 RX 9070 GRE를 549달러에 글로벌 출시할 예정입니다.",
+          "title": "GM, AI 및 머신러닝 도입으로 자동차 개발 프로세스 혁신 및 시간 단축",
+          "summary": "제너럴모터스(GM)는 AI와 머신러닝(ML) 기술을 개발 프로세스에 통합하여 차량 개발 시간을 획기적으로 단축하고 있습니다. 이 기술 도입으로 특정 개발 작업에 소요되는 시간이 기존 15시간에서 1분으로 단축되는 등 상당한 효율성 증대가 이루어졌습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d"
+              "name": "Ars Technica",
+              "url": "https://ars technica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/"
             },
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337"
-            },
-            {
-              "name": "Wccftech",
-              "url": "https://wccftech.com/intel-computex-2026-what-to-expect/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "애플, 스마트 글라스로 안경 시장 재편 목표 보도",
-          "summary": "블룸버그의 마크 거먼에 따르면, 애플이 스마트 글라스 시장에서 메타와의 경쟁을 넘어 전체 안경 시장을 재편하려는 전략을 추진하고 있습니다. 애플은 스마트 글라스를 200~500달러 가격대로 포지셔닝하여 오클리, 레이밴, 와비파커 등 기존 안경 브랜드들과 경쟁할 계획입니다. 회사는 강력한 브랜드, 디자인, 아이폰 통합 및 AI 기능이 소비자들을 끌어들일 것으로 보고 있습니다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches"
-            },
-            {
-              "name": "The Next Web",
-              "url": "https://thenextweb.com/news/apple-smart-glasses-eyewear-market-disruption-watch-playbook"
-            },
-            {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/apple-is-officially-coming-for-metas-privacy-invading-lunch-with-its-own-smart-glasses-in-late-2027-2000765491"
-            },
-            {
-              "name": "MacRumors",
-              "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/"
+              "name": "Digital Journal",
+              "url": "https://www.digitaljournal.com/business/artificial-intelligence-meets-lean-transforming-pharmaceutical-manufacturing-through-data-driven-optimisation/article"
             }
           ],
           "verification": "multi",
@@ -169,41 +273,20 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "에린 브로코비치, 데이터센터 비밀주의 비판하며 활동 시작",
-          "summary": "환경 운동가 에린 브로코비치가 데이터센터 건설과 지역사회에 미치는 영향에 대한 투명성 부족을 비판하며 새로운 활동을 시작했습니다. 그녀는 데이터센터 지도를 포함한 웹사이트를 개설했으며, 데이터센터 관련 문제 제보를 받은 첫 달에 약 4,000건의 제보가 접수됐다고 밝혔습니다. 브로코비치는 특히 프로젝트 발표 전 허가 취득, 개발자의 무응답, 지방 공무원의 비공개 계약 등 '투명성 부족'이 가장 큰 문제라고 지적했습니다.",
+          "title": "플로리다주, OpenAI 및 샘 알트먼 폭력 사건 연루 혐의로 고소, 데이터 센터 물 사용 문제도 부상",
+          "summary": "플로리다주 법무장관은 ChatGPT가 여러 폭력 사건과 연루되었다며 OpenAI와 CEO 샘 알트먼을 고소했습니다. 소송은 OpenAI가 안전 문제를 간과하고 이익을 우선시했다고 주장합니다. 한편, 스페이스X는 IPO 서류에 데이터 센터 냉각에 필요한 물 접근성 문제가 위험 요소로 추가되었으며, 데이터 센터의 물 사용량에 대한 논쟁이 심화되고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
+              "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
             },
-            {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/erin-brockovich-data-centers-backlash-nda-secrecy-2026-5"
-            },
-            {
-              "name": "Newsweek",
-              "url": "https://www.newsweek.com/resistance-data-centers-growing-12002472"
-            }
-          ],
-          "verification": "multi",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "기술 CEO들, 'AI 정신병' 논쟁 제기",
-          "summary": "Box 창립자 아론 레비가 기술 CEO들이 'AI 정신병'에 걸리기 쉽다는 소셜 미디어 게시물로 논쟁을 촉발했습니다. TechCrunch Equity 팟캐스트에서는 이 논평을 분석하며, 레비가 AI 도구를 부인하는 것이 아니라 CEO들이 도구를 직접 사용하고 이해해야 한다고 주장했음을 언급했습니다. 한편, 구글의 AI 검색 통합에 대한 반발로 DuckDuckGo의 설치가 30% 증가하는 등 AI에 대한 광범위한 회의론이 나타나고 있습니다.",
-          "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
+              "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/"
             },
             {
-              "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/204421-ai-psychosis-new-debates-in-the-tech-world.html"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/tech/tech-news/florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602"
             }
           ],
           "verification": "multi",
