@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-31",
-  "date_str": "2026년 5월 31일 (일)",
+  "date": "2026-06-01",
+  "date_str": "2026년 6월 1일 (월)",
   "key5": [
-    "한국 지방선거 사전투표율 역대 최고치 기록, 여야 총력전",
-    "이재명 정부 1년, 외교 성과와 국내 정치 양극화 심화",
-    "AI 해킹 산업화 가속화, 랜섬웨어 피해 급증 및 다크넷 시장 활성화",
-    "트럼프 행정부, 이란 핵 합의 및 호르무즈 해협 개방 협상 장기화",
-    "AUKUS 동맹국, 해저 드론 기술 공동 개발로 해양 안보 강화"
+    "트럼프 전 대통령, 인지력 테스트 만점 주장…'지능 과시' 논란",
+    "한국 5월 수출액 역대 최대, 반도체 호황에 힘입어 무역수지 16개월 연속 흑자",
+    "중국, 한국 수입차 시장에서 전기차 앞세워 일본 추월",
+    "미국 국방부, 이스라엘 레바논 지상작전 확장에 우려 표명 및 유엔 안보리 회의 요구",
+    "말타 노동당, 총선 4연속 승리…로베르트 아벨라 총리 재집권"
   ],
   "regions": [
     {
@@ -16,16 +16,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "지방선거 사전투표율 역대 최고치 기록, 여야 총력전",
-          "summary": "6.3 지방선거 사전투표율이 역대 최고치를 기록한 가운데, 여야는 막판 총력전에 돌입했다. 더불어민주당은 이재명 대통령에 대한 지지를 호소하며 정권 안정론을 강조하고, 국민의힘은 '정권 심판론'을 내세워 보수 표심 결집에 집중하고 있다.",
+          "title": "재외선거 참정권 확대 위해 우편·전자투표 도입 논의 본격화",
+          "summary": "재외선거의 실질적 참정권 보장을 위해 우편·전자투표 도입 논의가 활발히 진행 중이며, 전문가들은 2028년 총선 적용을 위해 올해 안에 관련 법 개정이 시급하다고 촉구하고 있습니다. 현재 국회에는 관련 공직선거법 개정안이 발의되어 심사 중입니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260530055000011"
+              "url": "https://www.yna.co.kr/view/AKR20260530006800371"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260530052000001"
+              "url": "https://www.yna.co.kr/view/AKR20260529172200371"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260529172100371"
             }
           ],
           "verification": "multi",
@@ -33,20 +37,20 @@
         },
         {
           "tag": "pol",
-          "title": "이재명 정부 1년: 외교 성과와 국내 정치 양극화 심화",
-          "summary": "이재명 정부 출범 1년 동안 미국발 관세 압박, 중동 위기 등 대외 악재 속에서도 국익 중심의 실용 외교를 통해 관세 협상, 핵추진잠수함 협력, 한중일 관계 개선 등의 성과를 거두었다. 그러나 국내 정치에서는 거대 양당이 강성 지지층에 집중하며 강대강 대결이 심화되고, 협치가 더욱 어려워졌다는 평가가 나온다.",
+          "title": "이재명 대통령, 부동산 투기·탈세 근절 및 '불로소득 공화국' 탈출 강조",
+          "summary": "이재명 대통령은 엑스(X)를 통해 부동산 불법 투기와 탈세 근절을 강조하며, '부동산 불로소득 공화국'에서 벗어나야 한다고 언급했습니다. 국세청 부동산 탈세 신고센터에 접수된 780건의 제보 중 80% 이상이 수도권에 집중되었다는 언론 보도를 공유했습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260531001800001"
+              "url": "https://www.yna.co.kr/view/AKR20260601014100001"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260529128600504"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1261290.html"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260529126900001"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606010800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -54,41 +58,37 @@
         },
         {
           "tag": "eco",
-          "title": "반도체 기업 자사주 수익률 최대 400%, 금 시장 변동성 확대",
-          "summary": "최근 '30만전자', '200만닉스'를 달성한 삼성전자와 SK하이닉스 일부 임원의 자사주 수익률이 최소 180%에서 최대 400%에 달하는 것으로 나타났다. 한편, 미국과 이란의 종전 기대감으로 금 가격이 반등했으나, 중동전쟁 기간 동안 금의 안전자산 프리미엄에 대한 의문이 제기되며 투자자들의 시선이 엇갈리고 있다.",
+          "title": "한국 5월 수출액 역대 최대, 반도체 호황에 힘입어 무역수지 16개월 연속 흑자",
+          "summary": "한국의 5월 수출액이 반도체 '슈퍼 사이클'에 힘입어 878억 달러를 기록하며 월 기준 역대 최대 실적을 달성했습니다. 반도체 수출은 169.4% 증가한 371억 5천만 달러로 3개월 연속 300억 달러를 넘어섰고, 이에 따라 무역수지는 270억 달러 흑자를 기록하며 16개월 연속 흑자 행진을 이어갔습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260530045700008"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260601025400003"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260530001900008"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260601025000003"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-market-capitalisation-tops-1-trln-2026-05-27/"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260601024700003"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "랜섬웨어와 AI 해킹, 사이버 범죄 산업화 문제 대두",
-          "summary": "최근 사이버 공격이 단발성 해킹을 넘어 분업화된 산업 생태계로 진화하며, 인공지능(AI)을 통한 공격 효율화로 랜섬웨어 피해가 389% 폭증했다. 다크넷 시장에서는 해킹 도구와 계정 정보 등이 가상자산을 통해 거래되며, 한국인터넷진흥원(KISA)과 국가정보원도 AI 기반 사이버 위협에 대한 대응 전략을 강화하고 있다.",
+          "tag": "eco",
+          "title": "중국, 한국 수입차 시장 판매량 3위 등극…일본 첫 추월",
+          "summary": "지난 4월 국내 수입차 시장에서 중국 완성차 업체들이 전기차를 앞세워 사상 처음으로 국가별 판매량 3위에 올랐습니다. BYD 단일 브랜드가 일본 전체 판매량을 넘어설 정도로 약진하며, 중국산 수입차가 전통 강자인 일본차를 추월했습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260528164300017"
-            },
-            {
-              "name": "securityboulevard.com",
-              "url": "https://securityboulevard.com/2026/05/the-ai-governance-gap-verizons-2026-dbir-shows-attackers-scaling-ai-while-employees-leak-data-through-it/"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606010848001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "multi",
-          "tag_label": "사회"
+          "verification": "single",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -99,20 +99,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 이란 핵 합의 및 호르무즈 해협 개방 협상 장기화",
-          "summary": "도널드 트럼프 미국 대통령이 이란과의 휴전 연장 및 호르무즈 해협 재개방에 대한 최종 결정을 유보했다. 트럼프 대통령은 이란이 핵무기를 절대 보유하지 않고 호르무즈 해협을 즉시 개방해야 한다는 입장을 고수하고 있으며, 협상은 이란의 핵 프로그램과 호르무즈 해협 통행료 징수 문제에 직면해 장기화될 조짐을 보인다.",
+          "title": "트럼프 전 대통령, 인지력 테스트 만점 주장…'지능 과시' 논란",
+          "summary": "도널드 트럼프 전 미국 대통령이 최근 건강검진 결과가 '극도로 좋다'며 인지력 테스트에서 만점을 받았다고 주장했습니다. 그러나 그가 받은 '몬트리올 인지 평가'는 인지 장애 여부를 판단하는 검사로, 지능을 측정하는 것과는 다르다는 지적이 제기되고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1261178.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260601001551071"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1261173.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606010709001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/05/28/iran-war-us-peace-deal-close-vance"
+              "name": "HuffPost",
+              "url": "https://www.huffpost.com/entry/trump-perfect-score-cognitive-test-truth-social_n_6a1c88f6e4b0dade60327aca/amp"
             }
           ],
           "verification": "multi",
@@ -120,66 +120,66 @@
         },
         {
           "tag": "pol",
-          "title": "미국 정치권, AI 기술 활용한 선거 운동 및 슈퍼 PAC 활동 증가",
-          "summary": "미국 중간선거를 앞두고 인공지능(AI) 관련 슈퍼 PAC들이 수백만 달러를 지출하며 선거에 영향을 미치려 하고 있다. AI 기술은 선거운동의 효율성을 높이고 있지만, 동시에 정치적 편향성, 딥페이크, 허위 정보 확산 등 선거 개입 위험에 대한 우려도 커지고 있다.",
+          "title": "미국-이란 종전 협상 교착, 트럼프 행정부 추가 양보 요구",
+          "summary": "미국과 이란 간의 종전 협상이 수정안과 역제안이 오가며 교착 상태에 빠졌습니다. 트럼프 미국 대통령 행정부는 이란에 고농축 우라늄 확보, 핵무기 비보유, 호르무즈 해협 개방 등 추가 양보를 요구했으며, 이란 역시 자체 수정안을 준비하며 '노딜' 가능성까지 언급하고 있습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/arabafrica/1261291.html"
             },
             {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/05/29/inside-democratic-resistance-ai"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/arabafrica/1261287.html"
             },
             {
-              "name": "CyberScoop",
-              "url": "https://cyberscoop.com/openai-2026-election-security-plans/"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606010749001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "높은 물가로 인한 미국 가계 경제 부담 증가",
-          "summary": "미국에서 휘발유, 공과금, 식료품, 주택, 보육, 의료비 등 일상생활 필수품의 가격 상승으로 인해 많은 미국 가정이 더 적은 것으로 생활해야 하는 경제적 어려움에 처했다. 물가 상승률이 임금 상승률을 앞지르면서 가계 소득과 지출 여력이 감소하고 있으며, 이는 소비 지출 감소로 이어질 수 있다는 분석이 나온다.",
+          "tag": "pol",
+          "title": "미국 국방부, 이스라엘 레바논 지상작전 확장에 우려 표명 및 유엔 안보리 회의 요구",
+          "summary": "이스라엘군이 레바논 남부의 중세 보포르 성채를 점령하고 지상 작전을 확대하자, 미국 국방부가 이에 대한 강한 우려를 표명하며 유엔 안전보장이사회 회의를 요구했습니다. 이는 26년 만에 이스라엘의 가장 깊은 레바논 군사 개입으로, 휴전 협상에도 영향을 미칠 수 있습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/05/30/us/midterm-voters-affordability.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon"
             },
             {
-              "name": "KITCO",
-              "url": "https://www.kitco.com/news/off-the-wire/2026-05-28/us-inflation-firming-iran-war-drives-prices"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/05/31/world/israel-medieval-castle-lebanon/"
             },
             {
-              "name": "nbcnews.com",
-              "url": "https://www.nbcnews.com/business/economy/april-inflation-worsens-income-erodes-rcna347328"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cdep04kzz5wo"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "AUKUS 동맹국, 해저 드론 기술 공동 개발로 해양 안보 강화",
-          "summary": "미국, 영국, 호주는 AUKUS 군사 동맹의 일환으로 해저 케이블 보호 및 국방력 강화를 위한 무인 해저 차량(UUV) 기술을 공동 개발하기로 합의했다. 이 기술은 내년까지 준비될 예정이며, 해저 기반 시설 보호, 정찰 및 물류 작전 수행 등 다양한 임무에 활용될 것으로 보인다. 이는 중국의 인도-태평양 지역 해양 확장과 러시아의 해저 케이블 위협에 대응하기 위한 움직임으로 해석된다.",
+          "tag": "soc",
+          "title": "유나이티드 항공, 블루투스 기기명으로 인한 보안 위협에 회항",
+          "summary": "스페인 팔마데마요르카행 유나이티드 항공편이 기내에서 'BOMB'라는 이름의 블루투스 기기 발견으로 인해 회항하는 사건이 발생했습니다. 승객들은 기기 전원을 끌 것을 요청받았으며, 항공기는 뉴어크로 돌아와 승객 재검색 후 다시 이륙하여 9시간 30분 지연 도착했습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/may/31/united-airlines-flight-turns-around-spain-newark-security"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/aukus-develop-unmanned-undersea-vehicles-pentagon-chief-says-2026-05-30/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3355484/united-airlines-flight-spain-turns-back-newark-us-after-possible-security-threat?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "사회"
         }
       ]
     },
@@ -190,16 +190,37 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국-일본, 미사일 공동 생산 가속화 합의로 안보 협력 강화",
-          "summary": "미국과 일본 국방장관은 싱가포르에서 열린 안보 회의에서 중국의 강경한 태도에 대한 우려가 커지는 가운데, 동맹의 군사적 역량을 강화하기 위해 첨단 미사일 시스템의 공동 생산을 가속화하기로 합의했다. 양국은 산업 역량 확장, 획득 절차 간소화, 공동 개발 프로그램 추진에 중점을 두었다.",
+          "title": "중국, 남중국해 스카보로 암초 순찰 강화…필리핀과 영유권 갈등 지속",
+          "summary": "중국 군과 해경이 남중국해 스카보로 암초 인근 해역에서 순찰을 강화했습니다. 이는 필리핀이 중국으로부터의 위협이 여전하다고 경고한 직후 이루어졌으며, 스카보로 암초는 남중국해에서 중국과 필리핀 간 영유권 및 어업권 분쟁이 빈번하게 발생하는 핵심 지역입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/05/30/japan/us-japan-hegseth-koizumi-missiles/"
+              "url": "https://www.japantimes.co.jp/news/2026/05/31/asia-pacific/politics/china-scarborough-shoal-philippines/"
             },
             {
-              "name": "AP News",
-              "url": "https://apnews.com/article/japan-philippines-china-marcos-takaichi-defense-e2439a67c75e1645e6d1498f3c1da8d8"
+              "name": "Marine News Magazine",
+              "url": "https://www.marinelink.com/news/china-patrols-scarborough-shoal-539761"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "일본-필리핀, 지대함 미사일 수출 논의 등 국방 협력 강화",
+          "summary": "일본과 필리핀 국방장관이 지대함 미사일 수출과 아부쿠마급 구축함 양도 등을 논의하며 국방 협력을 강화하기로 합의했습니다. 이는 남중국해에서 중국과의 영유권 분쟁을 겪고 있는 필리핀의 억지력 및 대응 능력 강화에 기여할 것으로 보입니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/05/31/japan/japan-philippines-surface-to-ship-missiles/"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-japan-seek-to-strengthen-defense-ties-amid-us-china-thaw"
             },
             {
               "name": "Politico",
@@ -210,67 +231,42 @@
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "중국, 핵미사일 사일로 주변 발사대 건설로 핵 전력 확장",
-          "summary": "중국이 외딴 사막 지역의 핵미사일 사일로 주변에 발사대, 벙커, 통신 노드 등으로 이루어진 광범위한 군사 단지를 건설하고 있는 것이 위성 이미지 분석을 통해 확인되었다. 이는 미국의 선제 공격에도 불구하고 보복 능력을 보장하려는 목적으로 보이며, 중국의 육상 기반 핵 전력을 보호하고 운용하는 인프라를 대폭 확장하는 것을 시사한다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/05/30/asia-pacific/china-launchpads-nuclear-missile-silos/"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/"
-            },
-            {
-              "name": "Defense News",
-              "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "일본, 엔화 가치 방어 위해 기록적인 시장 개입 단행",
-          "summary": "일본 재무성 데이터에 따르면 일본은 지난 한 달간 엔화 가치를 방어하기 위해 약 736억 달러(약 11조 7천억 엔)라는 기록적인 규모의 시장 개입을 단행했다. 엔화가 달러당 160엔을 넘어선 이후 정부의 첫 공식적인 시장 개입으로, 엔화의 급락을 막기 위한 당국의 의지를 보여준다.",
+          "title": "모건 스탠리, 중국 전기차 시장 경쟁 초점 AI 기능으로 전환 분석",
+          "summary": "모건 스탠리는 중국 전기차 시장의 경쟁이 가격 중심에서 인공지능(AI) 기능으로 전환되고 있다고 분석했습니다. 중국 자동차 제조사들이 자율주행 기술 업그레이드에 자원을 재배치하며, AI가 보조금 위주 판매를 넘어선 성장을 이끌 것으로 기대하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/05/30/markets/yen-intervention-japan/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley?utm_source=rss_feed"
             },
             {
-              "name": "WSJ",
-              "url": "https://www.wsj.com/economy/central-banking/japan-spent-record-11-735-trillion-yen-on-currency-intervention-5a0267e2"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/yen-back-danger-zone-tokyo-officials-keep-investors-edge-2026-05-29/"
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/companies-markets/byd-debuts-smart-driving-chip-it-calls-chinas-most-powerful"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "일본 총리, 북한 납북자 문제 해결에 강력한 의지 표명",
-          "summary": "다카이치 사나에 일본 총리는 북한에 납치된 일본인 문제 해결에 대한 강한 의지를 표명하며, 정상 회담을 포함한 모든 선택지를 고려하겠다고 밝혔다. 그녀는 북한 지도자 김정은에게 양국 국민의 이익을 위해 '용기 있는 조치'를 취할 것을 촉구했다.",
+          "tag": "tec",
+          "title": "미국, 첨단 AI 칩 중국 해외 자회사 선적 중단 조치",
+          "summary": "미국 상무부가 엔비디아의 루빈 및 블랙웰 프로세서 등 최첨단 AI 칩이 중국 해외 자회사로 선적되는 것을 막기 위한 조치를 취했습니다. 이는 지난 1년간 말레이시아 등 해외 거점의 중국 AI 기업 자회사로 미국 AI 칩이 유입되었을 가능성에 대응하여 취해진 것입니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/east-asia/article/3355417/japan-pm-vows-breakthrough-north-korea-abduction-issue?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3355492/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china?utm_source=rss_feed"
             },
             {
-              "name": "Military.com",
-              "url": "https://www.military.com/japan-woos-visiting-philippine-leader-during-state-visit-with-arms-sales-and-china-in-mind"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/05/27/japan/politics/intelligence-council-bill-passed/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -281,79 +277,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "루마니아에 러시아 드론 추락, 주민 불안감 고조",
-          "summary": "러시아 드론이 루마니아 동부 갈라치의 한 아파트 옥상에 추락하여 2명이 부상을 입고 화재가 발생했다. 우크라이나와 인접한 루마니아는 이 사건이 러시아와 우크라이나 간 드론전 과정에서 발생한 것으로 추정하며, 이는 나토 회원국 영토로 전쟁이 확산될 수 있다는 우려를 고조시키고 있다. 루마니아 주민들은 더 이상 안전하지 않다고 느끼며 불안감을 표출하고 있다.",
+          "title": "말타 노동당, 로베르트 아벨라 총리 아래 총선 4연속 승리",
+          "summary": "말타 노동당이 조기 총선에서 로베르트 아벨라 총리 아래 역사적인 4연속 승리를 거두었습니다. 아벨라 총리는 '말타 전체의 승리'라고 선언했으며, 국민당 후보인 알렉스 보그는 패배를 인정했습니다. 이번 선거는 중동 사태로 인한 지정학적 불안정 속에서 치러졌습니다.",
           "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202605301819001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/05/30/galati-residents-fear-future-incidents-after-russian-drone-crashed-into-building"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "스페인 총리 산체스, 부패 스캔들로 정치적 위기 직면",
-          "summary": "페드로 산체스 스페인 총리가 집권 8년 만에 부패 스캔들로 인해 정치적 위기에 처했다. 그의 형제와 측근들이 영향력 행사, 돈세탁 등의 혐의로 조사를 받으면서 야당은 산체스 총리의 사임을 요구하고 있으며, 그의 정부와 사회당은 거센 비판에 직면해 있다.",
-          "sources": [
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss"
+              "url": "http://www.euronews.com/my-europe/2026/05/31/maltas-labour-party-wins-historic-fourth-term-preliminary-count"
             },
-            {
-              "name": "politico.eu",
-              "url": "https://www.politico.eu/article/scandal-after-scandal-lands-spain-pedro-sanchez-on-the-ropes/"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/europe/spains-sanchez-running-out-road-corruption-probes-stack-up-2026-05-29/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "프랑스 아탈 총리, 대선 출마 선언 및 마크롱 시대와의 차별화 시도",
-          "summary": "가브리엘 아탈 프랑스 총리가 파리에서 대규모 집회를 열고 대선 출마를 공식 선언했다. 그는 마크롱 시대를 넘어 미래를 위한 개혁을 다짐하며, 과거의 실패를 덮으려 하는 현 체제가 프랑스 국민에게 더 이상 도움이 되지 않는다고 주장하며 차별화를 시도하고 있다.",
-          "sources": [
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/gabriel-attal-breaks-emmanuel-macron-first-rally-french-presidential-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/maltas-prime-minister-declares-historic-victory-in-snap-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/maltas-labour-party-wins-record-fourth-term-parliamentary-election-2026-05-31/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "몰타 총선, 노동당 4연임 가능성 및 부패 우려 속 투표 진행",
-          "summary": "로버트 아벨라 총리의 노동당이 4연임을 노리는 몰타 총선이 조기 실시되었다. 노동당은 경제적 안정과 높은 GDP 성장률을 내세우며 여론조사에서 우위를 보이고 있으나, 환경 문제, 해외 자본 주도 건설 붐, 그리고 고위급 부패에 대한 우려도 제기되고 있다.",
+          "tag": "soc",
+          "title": "프랑스 챔피언스 리그 우승 축하 후 폭력 사태 발생, 수백 명 체포",
+          "summary": "파리 생제르맹(PSG)의 챔피언스 리그 우승 축하 행사 후 프랑스 전역에서 축구 팬들과 경찰 간의 폭력적인 충돌이 발생했습니다. 내무장관에 따르면 219명이 부상당하고 780명이 체포되었으며, 이 중 450명 이상이 구금되었습니다. 특히 파리 시내에서 폭동이 심했습니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/05/30/maltese-cast-ballots-as-labour-government-seeks-fourth-term-in-snap-election"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/voting-starts-malta-parliamentary-elections-ruling-party-set-win-2026-05-30/"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://abcnews.com/International/wireStory/france-detains-hundreds-rioters-after-paris-saint-german-133461267"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "독일, 아시아 호랑이 모기 확산에 뎅기열 등 질병 매개 우려 증폭",
+          "summary": "독일에서 열대성 아시아 호랑이 모기가 본, 쾰른, 베를린 등 광범위하게 확산되면서 보건 당국이 우려하고 있습니다. 이 모기는 뎅기열, 치쿤구니아열과 같은 질병을 전파할 수 있으며, 따뜻하고 습한 독일의 기후가 확산에 유리한 조건을 제공하고 있습니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/health/2026/05/31/asian-tiger-mosquito-spreads-as-far-as-berlin-how-dangerous-is-it"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "콩고민주공화국 에볼라 발병 지속, WHO 지역사회 협력 촉구",
+          "summary": "콩고민주공화국(DRC)에서 에볼라 발병이 계속되는 가운데, 세계보건기구(WHO)는 지역사회 협력이 질병 확산 통제에 필수적이라고 강조했습니다. 우간다 접경 지역의 허술한 국경 통제와 에볼라에 대한 잘못된 정보가 확산 저지를 더욱 어렵게 만들고 있습니다. 이탈리아에서는 DRC에서 귀국한 의심 환자가 발생하여 검사 중입니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/05/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak"
+            },
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/health/2026/05/31/suspected-ebola-case-in-cagliari-patient-in-hospital"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -364,20 +360,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "AI 해킹 산업의 진화와 다크넷 시장",
-          "summary": "최근 사이버 공격이 단발성 해킹을 넘어 분업화된 산업 생태계로 진화하고 있으며, 인공지능(AI)을 통한 공격 효율화로 랜섬웨어 피해가 389% 폭증했다. 다크넷 시장에서는 해킹 도구와 기업 시스템 관리자 계정, 클라우드 접근 권한 등이 가상자산을 통해 거래되며, 이는 사이버 보안 산업화의 주요 요인으로 지목된다.",
+          "title": "오픈AI 기술 윤리 논란, AI 윤리적 사용 및 사회적 대화 필요성 증대",
+          "summary": "오픈AI의 기술 윤리적 문제와 관련하여 인공지능(AI)의 윤리적 사용에 대한 논의와 사회적 대화의 필요성이 제기되고 있습니다. 인공지능이 일자리에 미치는 영향과 이익 분배, 그리고 AI가 생성한 텍스트에 대한 인간의 인식 변화 등 다양한 윤리적, 사회적 쟁점들이 심도 있게 다뤄져야 한다는 목소리가 커지고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260528164300017"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/it/1261286.html"
             },
             {
-              "name": "Dark Reading",
-              "url": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/it/1261285.html"
             },
             {
-              "name": "SecurityWeek",
-              "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/amp/"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/it/1261284.html"
             }
           ],
           "verification": "multi",
@@ -385,16 +381,16 @@
         },
         {
           "tag": "tec",
-          "title": "수면 부족으로 인한 기억력 손상, 카페인으로 회복 가능성 확인",
-          "summary": "싱가포르 국립대학 연구팀이 수면 부족이 사회적 기억을 담당하는 핵심 뇌 회로를 손상시켜 친숙한 사람을 인식하기 어렵게 만든다는 사실을 발견했다. 실험실 연구에서 카페인이 이 경로의 뉴런 간 통신을 복원하고 수면 부족으로 인한 기억력 결함을 회복시키는 것으로 나타났으며, 이는 뇌 기능에 과도한 자극 없이 손상된 회복을 돕는 표적 효과를 보였다.",
+          "title": "새로운 태양열 담수화 기술 개발, 독성 염수 없이 식수 생산",
+          "summary": "유니버시티 오브 로체스터 연구팀이 독성 염수를 생성하지 않고 해수를 식수로 전환하는 새로운 태양열 담수화 기술을 개발했습니다. 이 시스템은 특수 레이저 처리된 금속 패널을 사용하여 햇빛으로 물을 증발시키고, 염분 침전물을 자동으로 작업 표면에서 이동시켜 막힘을 방지합니다. 또한 거의 모든 염분을 고체 형태로 회수하여 배터리용 리튬 등 귀중한 미네랄을 얻을 수 있습니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm"
             },
             {
-              "name": "Medical Xpress",
-              "url": "https://medicalxpress.com/news/2026-05-caffeine-sabotage-deep-hours.html"
+              "name": "AZoM",
+              "url": "https://www.azom.com/news.aspx?newsID=65482"
             }
           ],
           "verification": "multi",
@@ -402,23 +398,15 @@
         },
         {
           "tag": "tec",
-          "title": "새로운 물질상 발견, 양자 기술 적용 가능성 제시",
-          "summary": "브라운 대학교 연구팀이 맞춤 설계된 은 나노입자를 쌓아 기존에 관찰되지 않았던 신비로운 결정상을 안정화하는 데 성공했다. 이 물질은 재료 과학의 오랜 난제를 해결할 뿐만 아니라, 상온에서 양자 컴퓨팅 및 기타 양자 정보 기술에 유용할 수 있는 특이한 광학적 특성을 보인다.",
+          "title": "침팬지와 보노보, 인간과 유사한 친구 관계 형성 연구 결과 발표",
+          "summary": "새로운 국제 연구에 따르면 침팬지와 보노보가 인간처럼 소수의 신뢰하는 파트너와 넓은 네트워크를 가진 친구 관계를 형성하는 것으로 밝혀졌습니다. 24개 집단의 침팬지와 보노보의 사회적 그루밍 행동을 분석한 결과, 이들 유인원도 관계를 계층적으로 조직하며, 침팬지는 나이가 들수록 더 선택적이 되는 경향을 보였습니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm"
-            },
-            {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-05-topological-states-emerge-quantum-hall.html"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "http://www.sciencedaily.com/releases/2026/05/260528074028.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
