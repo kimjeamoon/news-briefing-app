@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-06",
-  "date_str": "2026년 6월 6일 (토)",
+  "date": "2026-06-08",
+  "date_str": "2026년 6월 8일 (월)",
   "key5": [
-    "美 고용 호조에 금리 인상 기대감 증폭, 주식·채권·금 동반 급락",
-    "시진핑 주석, 방북 앞두고 북중 관계 우호 강조",
-    "투표용지 부족 사태, 선관위 개혁 및 진상 규명 요구 증폭",
-    "AI 설계 범용 코로나 백신, 첫 인체 임상서 안전성 확인",
-    "프랑스 11세 소녀 살해 용의자, 과거 전과 기록 드러나 공분 확산"
+    "이재명 대통령, 취임 1주년 기자회견서 2년차 국정 비전 및 4대 목표 발표",
+    "6·3 지방선거 투표용지 부족 사태, 경찰 수사 본격화 및 국회 국정조사 요구",
+    "트럼프 전 대통령, NBC 인터뷰 중 이란 전쟁 전략과 선거 사기 주장에 대한 질문에 반발하며 인터뷰 중단",
+    "이스라엘의 베이루트 공습과 이란의 미사일 보복 공격으로 중동 긴장 고조",
+    "슈뢰딩거의 100년 된 색채 이론이 완성되어 인간 시각 이해 증진 및 기술 발전 기대"
   ],
   "regions": [
     {
@@ -16,20 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "투표용지 부족 사태, 선관위 개혁 및 진상 규명 요구 증폭",
-          "summary": "제9회 전국동시지방선거에서 투표용지 부족 사태가 발생하여 참정권 훼손 논란이 불거졌습니다. 오세훈 서울시장은 대통령의 책임론을 제기하며 근본적인 개혁을 촉구했으며, 야당은 정부의 안보관에 대한 불신을 표명했습니다.",
+          "title": "이재명 대통령, 취임 1주년 기자회견 개최 및 2년차 국정 비전 공개",
+          "summary": "이재명 대통령이 8일 청와대 영빈관에서 취임 1주년 기자회견을 열고 지난 1년간의 소회와 함께 2년차 국정 비전, 4대 목표를 공개할 예정이다. 이번 회견은 취임 후 네 번째 기자회견으로, 민생경제, 정치·외교·안보, 사회문화 등 세 분야에 걸쳐 기자들의 질문에 답할 계획이다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606020300011"
+              "url": "https://www.yna.co.kr/view/AKR20260607039400001"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606018300004"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606080655001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -37,16 +33,20 @@
         },
         {
           "tag": "pol",
-          "title": "현충일 맞아 순국선열 기려…여야 안보 상황 진단 이견",
-          "summary": "제71회 현충일 추념식이 진행되었으며, 이재명 대통령은 추념사에서 국가와 국민을 위한 희생을 기리고 자랑스러운 대한민국을 만들겠다고 다짐했습니다. 여야는 순국선열의 희생을 한목소리로 기리면서도, 현재 한반도 안보 상황 진단과 해법에 대해서는 이견을 보이며 대립했습니다.",
+          "title": "6·3 지방선거 투표용지 부족 사태, 경찰 수사 착수 및 국정조사 요구",
+          "summary": "6·3 지방선거 투표용지 부족 사태와 관련하여 경찰이 고발인 조사를 시작으로 수사를 본격화하며, 이재명 대통령은 검경 합동수사본부 구성을 지시하고 국회에 국정조사를 촉구했다. 이번 사태로 인해 서울 잠실 개표소 일대에서는 재선거를 요구하는 시위가 나흘째 이어지고 있다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606021000001"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260607051600004"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606021600001"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260607045151001"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/south-koreas-president-orders-probe-into-ballot-shortage-issue-2026-06-07/"
             }
           ],
           "verification": "multi",
@@ -54,20 +54,20 @@
         },
         {
           "tag": "pol",
-          "title": "윤석열 전 대통령, '계엄 정당화 메시지' 피의자로 특검 첫 출석",
-          "summary": "윤석열 전 대통령이 '계엄 정당화 메시지' 피의자 신분으로 종합특검에 처음 출석했습니다. 이는 2024년 말 계엄령 선포와 이후 탄핵으로 인한 구금 이후 이어지는 사법 절차의 일환입니다.",
+          "title": "시진핑 중국 주석 방북 환영 및 북중 관계 발전 강조",
+          "summary": "북한 노동당 기관지 노동신문은 시진핑 중국 국가주석의 방북을 환영하는 사설을 싣고 북·중 친선의 발전과 국제정세 속 양국 단결 강화를 강조했다. 시 주석은 노동신문 기고문을 통해 유엔을 핵심으로 하는 국제체계와 국제법에 기초한 국제질서 공동 수호를 언급하며, 평등하고 질서 있는 세계 다극화를 공동 추진해야 한다고 밝혔다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606022400004"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606080735001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/02/world/asia/south-korea-election.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606080724001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "AP News",
-              "url": "https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/"
             }
           ],
           "verification": "multi",
@@ -75,23 +75,15 @@
         },
         {
           "tag": "eco",
-          "title": "K바이오 기술 수출 13조원 돌파, 30조원 시대 가속화 기대",
-          "summary": "올해 국내 바이오·제약기업의 기술 수출액이 지난 4일 기준 13조원을 넘어섰으며, 이는 지난해 같은 기간보다 15% 증가한 수치입니다. 한미약품과 오스코텍이 각각 일라이 릴리, 아지오스 파마슈티컬스와 대규모 기술이전 계약을 체결하는 등 기술 수출이 활발히 이어지고 있어 올해 역대 최대 수출액 경신이 기대됩니다.",
+          "title": "고환율 지속에 해외직구 위축, 배송대행업체 경영난 심화",
+          "summary": "원·달러 환율이 17년 만에 최고 수준을 기록하는 초고환율 시대가 지속되면서 해외 직접구매(직구) 시장이 위축되고 있다. 미국 소재 배송대행업체 투패스츠에서는 배송 지연과 고객센터 답변 지연 사례가 잇따르며 700여 명의 피해자들이 발생, 소비자 보호 조치가 필요하다는 지적이 나온다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260605054600017"
-            },
-            {
-              "name": "BioSpace",
-              "url": "https://www.biospace.com/press-releases/sk-bioscience-secures-first-unicef-procurement-contract-improving-vaccine-access"
-            },
-            {
-              "name": "thelec.net",
-              "url": "https://www.thelec.net/news/articleView.html?idxno=11044"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260607021600004"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         }
       ]
@@ -103,45 +95,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "자비어 베세라, 캘리포니아 주지사 예비선거 선두로 본선 진출 확정",
-          "summary": "민주당 소속 자비어 베세라 후보가 캘리포니아 주지사 예비선거에서 1위를 차지하며 11월 본선에 진출했습니다. 그는 경선 막판까지 주목받지 못했지만, 에릭 스왈웰의 갑작스러운 사퇴로 기회를 얻어 놀라운 역전승을 거두었습니다. 11월 본선에서는 스티브 힐튼 공화당 후보 또는 톰 스타이어 민주당 후보와 맞붙을 것으로 예상됩니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미국 상원, 트럼프 이민 정책 기관에 700억 달러 예산 승인",
-          "summary": "미국 상원이 도널드 트럼프 대통령의 이민 정책 관련 기관들에 700억 달러(약 520억 파운드) 이상의 예산 지원을 승인했습니다. 이 예산은 이민세관집행국(ICE)과 국경순찰대 등의 운영에 사용될 예정이며, 논란이 된 18억 달러 규모의 '반무기화 기금' 관련 수정안은 부결되었습니다. 트럼프 행정부의 강경 이민 정책은 국경 관리 강화와 더불어 법적 분쟁을 야기하고 있습니다.",
+          "title": "트럼프, NBC 인터뷰 중 이란 전쟁 전략·선거 사기 주장 질문에 반발 중단",
+          "summary": "도널드 트럼프 전 대통령이 NBC '밋 더 프레스' 인터뷰 도중 이란 전쟁 전략과 캘리포니아 주 예비선거가 '조작됐다'는 주장에 대한 질문을 받자 격분하여 인터뷰를 중단했다. 그는 언론을 '부정직하다'고 비난하며 자리를 떠났다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.com/news/articles/c4g4g3zxp79o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/05/g-s1-126290/up-first-newsletter-immigration-fund-save-act-john-bolton-artificial-intelligence-teachers-brady-atf-doj"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy?utm_source=rss_feed"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/05/ice-deaths-data-memo"
-            },
-            {
-              "name": "NBC New York",
-              "url": "https://www.nbcnewyork.com/news/national-international/federal-judge-blocks-trump-administration-immigration-policy/6509488/?amp=1"
+              "name": "AP News",
+              "url": "https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"
             }
           ],
           "verification": "multi",
@@ -149,49 +116,66 @@
         },
         {
           "tag": "pol",
-          "title": "이란, 호르무즈 해협에 공격 드론 발사…美 격추 후 이란 감시 시설 타격",
-          "summary": "미군에 따르면 이란이 호르무즈 해협을 향해 여러 대의 공격 드론을 발사했으며, 미국은 이 중 최소 4대를 격추했습니다. 이후 미군은 이란의 감시 레이더 시설을 타격하며 양국 간의 긴장이 고조되고 있습니다. 이번 사건은 불안정한 휴전 분위기를 위협하고 지역 해상 교통에 즉각적인 위협을 가하는 것으로 평가됩니다.",
+          "title": "트럼프 행정부, D-Day 기념식서 유럽 이민 문제 '침략' 비유 논란",
+          "summary": "피트 헥스게스 미 국방장관이 프랑스 D-Day 기념식 연설에서 유럽의 이민 정책을 비판하며 '다른 위험한 이데올로기'가 유럽 해안을 '침략'하고 있다고 비유해 논란을 불러일으켰다. 이는 트럼프 행정부의 국가 안보 전략과 유럽 극우 정당들의 이민 관련 언사와 맥을 같이한다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
+              "url": "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/middle-east/article/3356182/us-strikes-iranian-radar-sites-after-drone-shootdown-strait-hormuz?utm_source=rss_feed"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "AP News",
-              "url": "https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/hegseth-d-day-event-says-europe-faces-invasion-dangerous-ideologies-2026-06-06/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "美 고용 호조에 금리 인상 기대감 증폭, 주식·채권·금 동반 급락",
-          "summary": "5월 미국 비농업 일자리가 전문가 예상치를 크게 웃돌며 고용 시장 호조를 보이자, 연방준비제도(Fed)의 금리 인상 기대감이 확산되었습니다. 이에 따라 5일 뉴욕증시는 기술주를 중심으로 급락했으며, 미국채 수익률은 상승하고 국제 금값은 연초 수준으로 떨어지는 등 주식, 채권, 금 시장이 동반 급락했습니다.",
+          "tag": "pol",
+          "title": "이스라엘 베이루트 공습, 이란 미사일 보복으로 중동 긴장 고조",
+          "summary": "이스라엘군이 레바논 수도 베이루트 남부 외곽을 공습하자 이란이 즉각 보복을 경고하며 이스라엘 북부를 겨냥해 미사일을 발사했다. 이번 사태는 미국의 중재로 이란과 종전 협상이 진행 중인 상황에서 발생하여 중동 지역의 긴장이 고조되고 있다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260606005751072"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606080748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260606005700072"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/view-strong-may-jobs-number-sends-yields-rate-expectations-higher-2026-06-05/"
-            },
-            {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/business/story/2026-06-05/hiring-surged-in-may-boosting-bets-on-fed-rate-hike"
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "오하이오주 축제 인근 총기 난사로 12명 부상, 용의자 수색 중",
+          "summary": "오하이오주 털리도의 올드 웨스트 엔드 축제 인근에서 총기 난사 사건이 발생하여 최소 12명이 총상을 입었다. 경찰은 2명 이상의 용의자가 서로에게 총격을 가한 것으로 보고 수색을 진행 중이며, 부상자 중 2명은 위중한 상태이다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/07/us/ohio-festival-shooting-gunmen-search.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/c4gyqzkgwn2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/07/nx-s1-5849137/12-people-shot-ohio-festival"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -202,20 +186,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "시진핑 주석, 방북 앞두고 북중 관계 우호 강조",
-          "summary": "시진핑 중국 국가주석이 오는 8일부터 9일까지 북한을 국빈 방문하는 것을 앞두고, 왕야쥔 주북 중국대사가 북중 관계의 전략적 의미를 부각하며 양국 우호를 강조했습니다. 왕 대사는 이번 방문이 시 주석의 7년 만의 북한 국빈 방문이자 올해 첫 해외 순방임을 강조하며 '좋은 이웃, 좋은 친구, 좋은 동지' 관계 발전을 기대한다고 밝혔습니다.",
+          "title": "시진핑 방북 앞두고 북한, 비핵화 협상 불가 입장 표명",
+          "summary": "시진핑 중국 국가주석의 북한 방문을 앞두고 북한은 비핵화가 협상 대상이 아니며, 핵보유국 지위는 '후퇴 없는 선'이라는 입장을 명확히 했다. 북한 노동신문은 김여정의 발언을 인용해 핵무기 국가 지위가 외부의 희망이나 수사로 변하지 않는 현실임을 강조했다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260606021400083"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/07/asia-pacific/north-korea-china-xi-kim-summit-preview/"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.com/news/2026/06/07/north-korea-calls-us-push-for-its-denuclearization-anachronistic-dream-00952796"
             },
             {
               "name": "NPR",
               "url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3356021/chinese-leader-xi-jinping-visit-north-korea-confirmed-next-week"
             }
           ],
           "verification": "multi",
@@ -223,58 +207,42 @@
         },
         {
           "tag": "pol",
-          "title": "일본 국회, 황위 계승 안정화 위한 초안 제안 채택",
-          "summary": "일본 국회 지도자들이 안정적인 황위 계승을 위해 새로운 시스템 설계 초안을 채택했습니다. 이 제안은 여성 황족이 결혼 후에도 황족 신분을 유지하고, 전 황족 가문에서 남성 후계자를 입양할 수 있도록 황실전범 개정을 요구하고 있습니다. 집권 자민당은 입양안을 지지하고 있으나, 야당은 신중한 접근을 요구하고 있습니다.",
+          "title": "일본, 황실 계승 관련 여성 황족 지위 유지 및 남성 양자 입양 제안",
+          "summary": "일본 국회 지도자들이 황실 계승 안정화를 위한 초안을 채택했다. 이 초안은 결혼 후에도 여성 황족이 황실 지위를 유지하고, 옛 황족 남성을 양자로 입양하는 것을 허용하는 내용을 담고 있다. 이 제안은 의회 합의를 거쳐 공식 발표될 예정이다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/05/japan/politics/imperial-succession-ok-draft-proposal/"
+              "url": "https://www.japantimes.co.jp/news/2026/06/07/japan/politics/imperial-succession-ok-draft-proposal/"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "일본 곰 출몰 급증에 곰 퇴치 용품 시장 활황",
-          "summary": "일본에서 곰 출몰 사건이 급증하며 곰 퇴치 용품 시장이 호황을 맞고 있습니다. 2025회계연도에 곰 목격 사례가 5만 건을 넘고 부상자가 238명에 달하는 등 전례 없는 수준을 기록했습니다. 정부는 긴급 상황 시 주거 지역 내 곰 사살을 허용하고 새로운 사냥꾼 양성을 촉구하는 등 대응책을 마련하고 있습니다.",
+          "tag": "eco",
+          "title": "중국 희토류 수출 감소에 일본 기업들 대책 마련 분주",
+          "summary": "올해 3~4월 중국의 일본 희토류 수출이 전년 대비 80% 이상 급감하며, 일본 기업들이 호주와 인도 등 대체 공급처를 물색하고 있다. 전 세계 희토류 생산의 70%와 가공 및 정제의 90%를 중국이 차지하고 있어, 일본 기업들은 공급망 다변화에 주력하고 있다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/life/2026/06/06/lifestyle/bears-deterrent-products-spray-pole-alarm/"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/05/japan/bears-environment-white-paper/"
-            },
-            {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/bear-rampage-japan-injuries/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling"
             }
           ],
-          "verification": "multi",
-          "tag_label": "사회"
+          "verification": "single",
+          "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "일본, 폐식용유 활용 친환경 제트 연료 생산 증대 추진",
-          "summary": "일본이 폐식용유를 활용하여 친환경 항공 연료(SAF) 생산을 늘리기 위한 'Fry to Fly' 프로젝트를 가속화하고 있습니다. 이는 2030년까지 항공 연료의 10%를 지속 가능한 자원에서 조달하려는 목표의 일환입니다. 현재 국내 SAF 생산량은 전체 제트 연료 사용량의 0.3%에 불과하지만, 정부와 민간의 노력이 활발합니다.",
+          "tag": "soc",
+          "title": "일본 사업 관리 비자 규정 강화로 외국인 사업자 불안감 증대",
+          "summary": "일본의 사업 관리 비자 규정이 엄격해지면서 일본 내 외국인 사업자들이 불안감을 느끼고 있다. 사이타마현 쓰루가시마에서 18년간 식당을 운영하던 인도 국적 사업자는 비자 변경으로 인해 사업을 접어야 할 처지에 놓이는 등 많은 외국인 사업자들이 어려움을 겪고 있다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/east-asia/article/3356183/how-everyday-cooking-oil-helping-japan-fight-aviation-fuel-crisis?utm_source=rss_feed"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/video/watch/idRW625005062026RP1/"
-            },
-            {
-              "name": "WSJ",
-              "url": "https://www.wsj.com/pro/sustainable-business/airlines-called-sustainable-fuel-the-future-when-an-energy-crisis-broke-out-barely-any-was-around-f84a200a"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/community/2026/06/08/our-lives/indian-restaurateur-business-visa/"
             }
           ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
+          "verification": "single",
+          "tag_label": "사회"
         }
       ]
     },
@@ -285,24 +253,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "푸틴, 젤렌스키 회담 제안 거부하며 전쟁 목표 재확인",
-          "summary": "블라디미르 푸틴 러시아 대통령이 볼로디미르 젤렌스키 우크라이나 대통령의 회담 제안을 거부하며, 러시아의 우크라이나 전쟁 목표 달성 의지를 재확인했습니다. 푸틴 대통령은 젤렌스키 대통령의 공개 서한을 '무례하다'고 평하며, 휴전은 우크라이나의 재정비를 위한 수단일 뿐이며 러시아의 목표가 달성되어야 전쟁이 끝날 것이라고 강조했습니다.",
+          "title": "젤렌스키, 주요 유럽 동맹국들과 평화 협상 조건 및 방공망 강화 논의",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 영국, 프랑스, 독일 지도자들과 만나 휴전 회담의 직접적인 조건과 우크라이나 방공망 강화를 논의했다. 이들은 러시아의 미사일 및 드론 공격이 심화되는 상황에서 우크라이나에 대한 확고한 지지를 표명하며, G7 및 NATO 정상회담에서 추가 지원을 모색할 계획이다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3356180/putin-says-no-reason-meet-ukraines-zelensky-calls-his-letter-rude?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/europe/article/3356285/uk-france-germany-back-direct-ukraine-russia-talks-joint-statement?utm_source=rss_feed"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims"
-            },
-            {
-              "name": "HuffPost",
-              "url": "https://www.huffpost.com/entry/putin-rejects-zelenskyy-offer-meet_n_6a231d45e4b0d8021c9fe256"
+              "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
             }
           ],
           "verification": "multi",
@@ -310,45 +274,20 @@
         },
         {
           "tag": "pol",
-          "title": "EU, 신규 회원국 수용 의지 표명 및 확대 절차 신속화 강조",
-          "summary": "EU 지도자들이 몬테네그로 티바트에서 열린 서부 발칸 6개국 정상회담에서 새로운 회원국을 수용할 의지와 능력을 증명하고 확대 절차를 신속하고 신뢰성 있게 추진해야 한다고 밝혔습니다. 독일, 프랑스, 이탈리아 등 주요국 정상들은 13년째 신규 회원국이 없는 현실을 '결점'으로 지적하며 '점진적 통합' 방안을 제안했습니다.",
+          "title": "러시아, 체르노빌 인근 핵연료 저장 시설 드론 공격 감행",
+          "summary": "러시아가 우크라이나 체르노빌 폐쇄 핵발전소 인근의 사용후 핵연료 저장 시설을 드론으로 공격해 건물 일부를 손상시켰다. 우크라이나는 이를 '극도로 비열한 공격'이라고 비난했지만, 화재는 진압되었고 방사선 수치는 안정적인 상태를 유지하고 있다고 밝혔다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/07/world/russian-drone-hits-nuclear-fuel-facility/"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/05/albanias-edi-rama-tells-euronews-there-is-no-alternative-to-eu-accession"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/eu-membership-lite-plan-candidate-countries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "politico.eu",
-              "url": "https://www.politico.eu/article/eu-membership-lite-plan-candidate-countries/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "말리, 프랑스 외교관에 '국가 안보 훼손' 혐의로 20년형 선고",
-          "summary": "말리 법원이 프랑스 대사관 직원을 간첩 및 '국가 안보 훼손' 혐의로 20년 징역형을 선고했습니다. 이 판결은 2021년 쿠데타 이후 군사 정권이 들어선 말리가 러시아와 밀착하며 서방과의 관계가 악화되는 상황을 반영합니다. 프랑스 외교부는 해당 혐의가 근거 없으며 프랑스는 말리 불안정화에 관여하지 않았다고 주장했습니다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/05/mali-jails-french-diplomat-for-20-years-for-undermining-state-security-sources-say"
-            },
-            {
-              "name": "Marine News Magazine",
-              "url": "https://www.marinelink.com/blogs/blog/russia-says-france-should-release-a-tanker-captain-who-it-claims-104860"
-            },
-            {
-              "name": "France 24",
-              "url": "https://www.france24.com/en/europe/20260603-france-arrests-russian-captain-of-moscow-linked-oil-tanker"
+              "url": "https://www.politico.eu/article/russia-strikes-chernobyl-amid-drone-attacks-with-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -356,20 +295,41 @@
         },
         {
           "tag": "soc",
-          "title": "프랑스 11세 소녀 살해 용의자, 과거 전과 기록 드러나 공분 확산",
-          "summary": "프랑스에서 11세 소녀 라이한나 살해 사건의 주요 용의자가 과거 여러 차례 아동 성범죄 가능성으로 지목되었던 사실이 드러나면서 전국적인 공분이 일고 있습니다. 특히 용의자에 대한 강간 혐의 고발이 있었음에도 수개월간 조사가 이루어지지 않은 점이 밝혀져 사법 시스템의 미비함에 대한 비판이 커지고 있습니다. 이 사건은 대선을 앞두고 정치적 논쟁으로까지 확산되고 있습니다.",
+          "title": "알렉산더 츠베레프, 프랑스오픈 테니스 남자 단식 우승으로 첫 메이저 타이틀 획득",
+          "summary": "독일의 알렉산더 츠베레프(3위)가 프랑스오픈 테니스 남자 단식 결승에서 이탈리아의 플라비오 코볼리(14위)를 3대2로 꺾고 생애 첫 메이저 대회 우승을 차지했다. 츠베레프는 4시간 16분간의 접전 끝에 승리하며, 지난 준우승의 아픔을 딛고 개인 통산 25번째 우승을 메이저 대회에서 달성했다.",
           "sources": [
             {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260608015500007"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/06/07/sports/alexander-zverev-wins-french-open-for-first-career-grand-slam/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "교황 마드리드 방문, 백만 명 이상 운집한 가운데 야외 미사 집전",
+          "summary": "교황 레오 14세가 스페인 마드리드를 방문하여 백만 명 이상이 운집한 가운데 야외 미사를 집전했다. 교황은 스페인의 종교적 헌신 전통을 '믿음의 학교'로 치하하며, 꽃으로 장식된 거리를 지나는 성체 행렬에 참여하는 등 스페인 방문 둘째 날 일정을 소화했다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3356278/more-1-million-people-flood-madrid-streets-see-pope-leo-preside-over-open-air-mass?utm_source=rss_feed"
+            },
+            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Greenwich Time",
-              "url": "https://www.greenwichtime.com/news/world/article/case-of-missing-11-year-old-feared-killed-exposes-22292484.php"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/france-lyhanna-missing-macron-gers-suspect-police-darmanin-08a98e6578a4b53550c39987543dc414"
+              "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -384,24 +344,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "美 정부, AI 기업 지분 보유 검토…트럼프 “곧 만날 것”",
-          "summary": "도널드 트럼프 미국 대통령이 인공지능(AI) 연구·개발 기업들의 정부 차원 지분 확보 방안을 검토 중이라고 밝혔습니다. 트럼프 대통령은 곧 AI 기업 관계자들을 만나 이 방안을 논의할 예정이며, 이는 미국인들이 AI 기업의 '파트너'가 되어 이익을 공유하고 기술에 대한 긍정적 인식을 높이는 데 목적이 있다고 설명했습니다. 앞서 인텔 지분 확보 사례를 예로 들었습니다.",
+          "title": "슈뢰딩거의 100년 된 색채 이론 완성, 인간 시각 이해 증진",
+          "summary": "과학자들이 에르빈 슈뢰딩거의 100년 된 색채 이론의 핵심 문제를 해결하며 인간의 색채 인식에 대한 이해를 높였다. 이 연구는 색상의 본질적인 특성이 색 공간 자체의 수학적 구조에 내재되어 있음을 보여주며, 향후 보다 정밀한 색채 기술 및 시각화 발전에 기여할 것으로 기대된다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260606008400071"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NOTUS",
-              "url": "https://www.notus.org/technology/trump-ai-stake-openai"
-            },
-            {
-              "name": "WSJ",
-              "url": "https://www.wsj.com/tech/ai/u-s-officials-discuss-taking-financial-stakes-in-ai-industry-b654d41a"
+              "name": "ScienceDaily",
+              "url": "http://www.sciencedaily.com/releases/2026/06/260606015140.htm"
             }
           ],
           "verification": "multi",
@@ -409,20 +361,20 @@
         },
         {
           "tag": "tec",
-          "title": "AI 설계 범용 코로나 백신, 첫 인체 임상서 안전성 확인",
-          "summary": "인공지능(AI)이 설계한 범용 코로나바이러스 백신이 최초의 인체 임상시험에서 안전성과 내약성을 입증했습니다. 케임브리지 대학 연구진이 개발한 이 백신은 SARS-CoV-2, SARS를 포함한 여러 사르베코 코로나바이러스에 대한 면역 반응을 유도했으며, 향후 다른 바이러스 계열에도 적용될 수 있을 것으로 기대됩니다.",
+          "title": "NASA, 2028년 달 탐사 위한 프라다 협력 첨단 우주복 내부 의류 공개",
+          "summary": "NASA가 2028년 아르테미스 IV 달 탐사에 사용될 액시엄 스페이스의 우주복(AxEMU) 아래에 입을 액체 냉각 및 환기 의류(LCVG)를 공개했다. 이 고성능 기본 레이어는 우주복 내부에서 우주비행사들이 시원하고 편안함을 유지하도록 냉각수 튜브와 환기 시스템을 갖추고 있다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis"
             },
             {
-              "name": "pharmaphorum",
-              "url": "https://pharmaphorum.com/news/first-human-trial-backs-ai-designed-universal-vaccine"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/06/07/business/nasa-to-wear-prada-as-luxury-group-pushes-into-space-industry/"
             },
             {
-              "name": "BBC",
-              "url": "https://www.bbc.com/news/articles/crrpggegwe0o"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/science/nasa-wear-prada-luxury-group-pushes-into-space-industry-2026-06-07/"
             }
           ],
           "verification": "multi",
@@ -430,20 +382,20 @@
         },
         {
           "tag": "tec",
-          "title": "문어, 거울 이용해 숨겨진 음식 찾는 능력 입증",
-          "summary": "문어가 거울을 이용해 숨겨진 음식을 찾는 능력을 학습하는 것을 다트머스 대학 연구진이 밝혀냈습니다. 이는 포유류와 조류와 같은 척추동물에서만 관찰되던 고등 지능으로, 문어가 거울을 단순히 반사된 이미지가 아닌 도구로 활용할 수 있음을 보여줍니다. 이번 연구 결과는 무척추동물의 인지 능력에 대한 새로운 이해를 제공합니다.",
+          "title": "MS, Xbox 25주년 기념 반투명 녹색 한정판 콘솔 공개 및 신작 게임 발표",
+          "summary": "마이크로소프트가 Xbox 출시 25주년을 기념하여 오리지널 Xbox 콘솔에서 영감을 받은 반투명 녹색 디자인의 한정판 Xbox Series X 콘솔과 컨트롤러를 공개했다. 또한, 던전 크롤러 게임 '마인크래프트 던전스 2'는 9월 29일에, RPG 신작 '페이블'은 2027년 2월 23일에 출시될 예정임을 발표했다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date"
             },
             {
-              "name": "Quanta Magazine",
-              "url": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer"
             },
             {
-              "name": "ScienceDaily",
-              "url": "http://www.sciencedaily.com/releases/2026/06/260604044258.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026"
             }
           ],
           "verification": "multi",
