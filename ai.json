@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-08",
-  "date_str": "2026년 6월 8일 (월)",
+  "date": "2026-06-09",
+  "date_str": "2026년 6월 9일 (화)",
   "highlights": [
-    "AI 기업 상장 계획에 따른 AI 토큰 가격 상승 가능성 제기",
-    "OpenAI, 민감 데이터 보호 위한 '록다운 모드' 공개",
-    "Notion, 서비스 중단 후 Anthropic 접근 복원",
-    "OpenAI, '채팅은 죽었다' 선언하며 슈퍼 앱 개발 지속",
-    "학교 총기 난사 생존자, AI 총기 탐지 시스템 실패로 회사 고소"
+    "Apple, WWDC에서 'Apple Intelligence' 등 AI 기능 대거 발표하며 운영체제에 AI 통합",
+    "OpenAI, Anthropic에 이어 기업공개(IPO) 위한 기밀 서류 제출하며 AI 경쟁 가속화",
+    "Google NotebookLM, Gemini 3.5 및 'Antigravity' 기술 도입하며 대규모 업데이트 단행",
+    "보험사 Aviva, AI 활용해 2억 3천만 파운드 규모 정교한 보험 사기 적발",
+    "arXiv, LLM 에이전트 다단계 워크플로우 형식 모델링 및 검증 위한 'Lean4Agent' 논문 발표"
   ],
   "sections": [
     {
@@ -15,20 +15,41 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "OpenAI, 민감 데이터 보호 위한 '록다운 모드' 공개",
-          "summary": "OpenAI가 민감한 데이터를 프롬프트 주입 공격으로부터 보호하기 위한 '록다운 모드(Lockdown Mode)'를 공개했습니다. 이 모드는 실시간 웹 브라우징, 웹 이미지 검색, 심층 연구 및 에이전트 모드를 비활성화하여 데이터 유출 위험을 줄이는 데 중점을 둡니다. 하지만 캐시된 웹 콘텐츠나 업로드된 파일 내의 프롬프트 주입에는 여전히 취약할 수 있다고 OpenAI는 밝혔습니다.",
+          "title": "Apple, WWDC서 'Apple Intelligence' 등 AI 기능 대거 발표",
+          "summary": "Apple이 2026년 WWDC에서 'Apple Intelligence'를 포함한 새로운 AI 기능을 공개하며, Siri 및 iOS, macOS 등 핵심 운영체제에 AI를 통합합니다. 새로운 Siri는 문맥을 이해하고 다단계 작업을 처리하며, 앱과의 상호작용이 더욱 자연스러워질 것으로 예상됩니다. 또한, Apple은 소규모 개발자들에게 AI 인프라 비용 면제 혜택을 제공하여 AI 모델 활용을 장려할 계획입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+              "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
             },
             {
-              "name": "GIGAZINE",
-              "url": "https://gigazine.net/gsc_news/en/20260607-openai-lockdown-mode/"
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/what-were-expecting-at-apple-wwdc-2026-2000768245"
             },
             {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Google NotebookLM, Gemini 3.5 및 'Antigravity' 기술 도입 대규모 업데이트",
+          "summary": "Google의 AI 기반 연구 도구 NotebookLM이 대규모 업데이트를 단행하여 최신 Gemini 3.5 모델과 'Antigravity' 기술을 도입했습니다. 이번 업데이트로 NotebookLM은 더 빠른 처리 속도와 효율성을 제공하며, 새로운 파일 형식 지원 및 웹 소스 통합이 강화되었습니다. 또한, NotebookLM은 자체 '클라우드 컴퓨터'를 통해 Antigravity를 활용해 코드를 작성하고 실행하여 연구 목표를 지원할 수 있게 되었습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/"
+            },
+            {
+              "name": "CNET",
+              "url": "https://www.cnet.com/tech/services-and-software/notebooklm-big-upgrade-better-research/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
             }
           ],
           "verification": "multi",
@@ -41,7 +62,64 @@
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": []
+      "stories": [
+        {
+          "title": "기계 학습 편향, 대칭성 파괴 작업으로 공식화한 연구 발표",
+          "summary": "arXiv에 발표된 연구 논문은 기계 학습 시스템의 편향을 대칭성 파괴 작업으로 공식화하여 감지 및 완화하는 새로운 방법을 제시했습니다. 이 프레임워크는 민감한 속성을 변경하는 반사실적 작업에서 분류기의 출력이 불변하게 유지될 때 공정성을 확보한다고 정의합니다. 손실 기반 정규화를 대칭성 복원 메커니즘으로 활용하여 편향을 줄이고 정확도 손실을 최소화하는 효과를 보였습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.06514"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "오픈 가중치 LLM 안전성 약화 방지 'SafeGene' 논문 발표",
+          "summary": "arXiv에 공개된 'SafeGene' 논문은 오픈 가중치 대규모 언어 모델(LLM)의 안전성 정렬 약화를 방지하고 전이 가능한 안전성 정렬을 위한 재사용 가능한 어댑터를 제안합니다. 이 연구는 안전성 복구를 모델별 수리 단계가 아닌, 작업별 업데이트와 분리된 독립적이고 재사용 가능한 어댑터 표현으로 접근합니다. 다양한 모델, 작업 및 안전성 평가에서 SafeGene은 유해한 응답률을 줄이면서도 성능을 유지하며 기존 방법을 능가하는 것으로 나타났습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.06519"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "물리적 AI 장기 작동 실패 조기 감지 'AEGIS' 연구 소개",
+          "summary": "arXiv에 소개된 'AEGIS' 연구는 물리적 AI 시스템의 장기 작동 실패를 조기에 감지하고 백업 반사 신경을 제공하는 방법을 제시합니다. AEGIS(Activation-probe Early-warning, Gated Inference Switching)는 약한 정책의 고정된 활성화를 경량 프로브로 감지하여 고위험 단계를 파악하고, 필요한 경우 더 강력한 별도의 정책으로 제어를 전환합니다. 이 시스템은 약한 정책 단독 실패 경로에서 10.1%의 궤적을 복구하며, 계산 비용을 최소화하면서도 상당한 개선을 보였습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.06660"
+            },
+            {
+              "name": "The Robot Report",
+              "url": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "LLM 수학적 추론 평가 새 접근법 'CrowdMath' 데이터셋 공개",
+          "summary": "수학적 연구 토론을 위한 크라우드소싱 데이터셋 'CrowdMath'가 arXiv에 공개되어 대규모 언어 모델(LLM)의 수학적 추론 능력 평가에 새로운 접근법을 제시합니다. 이 데이터셋은 MIT PRIMES--Art of Problem Solving (AoPS) CrowdMath 프로그램의 164개 전문가 주석 진행 체인을 포함하며, 부분적 논증 제안, 오류 식별 및 수정, 증명 합성 등 협력적 문제 해결 과정을 담고 있습니다. 이를 통해 기존 벤치마크가 놓쳤던 협업적 오픈 문제 해결 능력을 평가할 수 있습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.06526"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        }
+      ]
     },
     {
       "name": "산업·투자·기업",
@@ -49,24 +127,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "AI 기업 상장 계획에 따른 AI 토큰 가격 상승 가능성 제기",
-          "summary": "Anthropic 및 다른 주요 AI 기업들이 기업공개(IPO)를 계획함에 따라, 수익성에 대한 의문이 제기되고 비용 관리의 필요성이 대두되며 AI 제품의 가격 인상 가능성이 제기되고 있습니다. 이는 마이크로소프트의 GitHub Copilot 토큰당 요금 부과 사례처럼 AI 사용량 기반 비용이 증가하는 현상과 맞물려, AI 관련 지출 관리를 위한 새로운 도구 및 서비스 개발로 이어지고 있습니다.",
+          "title": "OpenAI, Anthropic에 이어 기업공개(IPO) 위한 기밀 서류 제출",
+          "summary": "ChatGPT 개발사 OpenAI가 주요 경쟁사 Anthropic에 이어 기업공개(IPO)를 위한 기밀 서류를 미국 증권거래위원회(SEC)에 제출했습니다. OpenAI는 블로그 게시물을 통해 이러한 사실을 공개했으며, IPO 시기는 아직 결정되지 않았다고 밝혔습니다. 이번 IPO 추진은 두 AI 기업 간의 경쟁을 심화시키고, AI 분야의 자본 시장 진출을 가속화할 것으로 예상됩니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/"
+              "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential"
             },
             {
               "name": "Forbes",
-              "url": "https://www.forbes.com/sites/paulocarvao/2026/06/04/making-sense-of-the-ai-ipo-tsunami-heading-for-wall-street/"
-            },
-            {
-              "name": "ynetnews.com",
-              "url": "https://www.ynetnews.com/business/article/bkkdmt0lfg"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/04/ramp-valuation-funding-ai-spend.html"
+              "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/08/openai-says-it-filed-paperwork-to-go-public/"
             }
           ],
           "verification": "multi",
@@ -74,16 +148,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Notion, 서비스 중단 후 Anthropic 접근 복원",
-          "summary": "Notion이 이번 주말 Anthropic과의 통합 서비스에서 일시적인 성능 저하를 겪었으며, 이에 따라 Notion AI에서 Anthropic 모델의 사용을 일시적으로 비활성화했습니다. 12시간 후, Notion은 서비스 복원을 발표했으며 Anthropic 대변인도 짧은 인프라 문제로 인한 오류였고 현재는 해결되었다고 밝혔습니다. 이번 사태는 모델 품질 논란으로 이어지기도 했습니다.",
+          "title": "Sam Altman의 신원 확인 회사 'Tools for Humanity', 매출 부진으로 인력 감축 보도",
+          "summary": "OpenAI의 CEO Sam Altman이 설립한 신원 확인 회사 'Tools for Humanity'가 매출 부진으로 인해 인력 감축을 단행하고 있다는 보도가 나왔습니다. 이 회사는 월드코인(Worldcoin) 프로젝트를 통해 홍채 스캔으로 신원을 확인하는 시스템을 운영하고 있으며, Andreessen Horowitz 등으로부터 25억 달러의 가치로 투자를 유치했었습니다. 그러나 케냐, 인도, 홍콩 등 여러 국가에서 프라이버시 및 윤리적 문제로 규제 당국의 조사를 받거나 운영이 금지되는 어려움을 겪었습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
+              "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
             },
             {
-              "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/205840-notion-restores-access-to-anthropic-models-after-technical-glitch.html"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/sam-altman-orb-worldcoin-tools-for-humanity-layoffs-2026-6"
+            },
+            {
+              "name": "Business Insider Africa",
+              "url": "https://africa.businessinsider.com/news/sam-altmans-eye-scanning-startup-is-laying-off-employees/xwm6hxe"
             }
           ],
           "verification": "multi",
@@ -91,20 +169,33 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "OpenAI, '채팅은 죽었다' 선언하며 슈퍼 앱 개발 지속",
-          "summary": "OpenAI가 향후 몇 주 안에 코딩 도구와 AI 에이전트를 포함하는 '슈퍼 앱' 버전의 ChatGPT를 출시할 계획이라고 밝혔습니다. 이는 비즈니스 고객 사이에서 Anthropic과의 경쟁력을 높이고 IPO 전 수익성을 확보하기 위한 전략으로 해석됩니다. OpenAI는 ChatGPT를 무료 사용자를 유료 제품으로 이끄는 관문으로 활용하며, '채팅은 죽었다'고 선언하며 기존의 챗봇 기능을 넘어선 개인 에이전트 개발에 집중하고 있습니다.",
+          "title": "보험사 Aviva, AI 활용해 2.3억 파운드 규모 정교한 보험 사기 적발",
+          "summary": "보험사 Aviva가 AI 도구를 활용하여 2억 3천만 파운드 규모의 정교한 보험 사기를 적발하고 차단했습니다. Aviva는 사기범들이 AI를 이용해 가짜 교통사고 현장 이미지나 위조된 문서(수리 송장, 의료 보고서 등)를 생성하는 등 수법이 진화하고 있다고 밝혔습니다. 이에 맞서 Aviva는 자체 AI 기반 방어 시스템을 구축하여 대규모 데이터 포인트를 분석하고 사기 패턴을 식별해 의심스러운 청구를 조기에 차단하고 있습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/"
             },
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/chat-is-dead-openai-reportedly-planning-radical-changes-to-chatgpt-2000768491"
+              "name": "Insurance Times",
+              "url": "https://www.insurancetimes.co.uk/news/aviva-stops-record-levels-of-claims-fraud-as-new-scams-identified/1458757.article"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Weis Markets, Instacart AI 기반 스마트 쇼핑 카트 'Caper Carts' 도입",
+          "summary": "Weis Markets가 Instacart의 AI 기반 스마트 쇼핑 카트인 'Caper Carts'를 일부 매장에 도입했습니다. 이 스마트 카트에는 카메라, 공인 저울, 위치 시스템 및 터치스크린이 탑재되어 있으며, 고객은 디지털 쿠폰, 로열티 기능, 이전 구매 이력 기반 추천 등을 이용할 수 있습니다. Caper Carts는 장바구니에 담긴 품목을 인식하고 결제를 지원하며, Instacart의 온라인 식료품 주문 데이터로 훈련된 클라우드 AI와 엣지 컴퓨팅을 결합하여 작동합니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/"
             },
             {
-              "name": "The Jerusalem Post",
-              "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-898640"
+              "name": "Chain Store Age",
+              "url": "https://chainstoreage.com/instacart-expands-nutritious-food-access-virtual-care-provider"
             }
           ],
           "verification": "multi",
@@ -119,19 +210,36 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "학교 총기 난사 생존자, AI 총기 탐지 시스템 실패로 회사 고소",
-          "summary": "2025년 1월 테네시주 내슈빌 고등학교 총기 난사 사건의 생존자가 AI 기반 총기 탐지 시스템 제조업체인 옴닐러트(Omnilert)를 고소했습니다. 소송은 시스템이 총기를 탐지하지 못해 2명의 사망자가 발생했으며, 회사가 카메라 배치, 무기 근접성, 카메라 각도, 조명, 무기 가시성 등 운영상의 중대한 한계를 알고 있었거나 알아야 했다고 주장합니다. 옴닐러트는 사건 전 마케팅에서 제품의 한계를 언급하지 않았습니다.",
+          "title": "Meta, NSO 그룹 WhatsApp 공격으로 스파이웨어 금지 명령 위반 주장하며 소환 요청",
+          "summary": "Meta가 스파이웨어 개발사 NSO 그룹이 WhatsApp 사용자 대상의 새로운 공격을 통해 스파이웨어 금지 명령을 위반했다고 주장하며 법원에 소환을 요청했습니다. Meta는 WhatsApp이 NSO 그룹과 관련된 스피어 피싱 시도를 감지하고 차단했다고 밝혔습니다. 작년 미국 연방 법원은 WhatsApp에 대한 NSO 그룹의 영구적인 접근 금지 명령을 내린 바 있으며, Meta는 이번 공격이 해당 명령을 위반한 것이라고 보고 있습니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
+              "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/"
             },
             {
-              "name": "Politico",
-              "url": "https://www.politico.com/news/2026/06/06/the-lawsuits-that-could-give-ai-its-big-tobacco-moment-00951764"
+              "name": "CyberScoop",
+              "url": "https://cyberscoop.com/meta-contempt-complaint-nso-group-spyware/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/"
             }
           ],
           "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "AI 에이전트 공격 선택이 안전성 저해, 새로운 안전성 프레임워크 필요성 제기",
+          "summary": "arXiv에 발표된 연구 결과에 따르면, AI 에이전트 제어 평가에서 공격자가 전략적으로 공격 시점을 선택할 경우 안전성이 크게 저해되는 것으로 나타났습니다. 기존 평가 방식은 무차별적인 공격을 가정하지만, 전략적 공격 선택(공격 시작 및 중단 정책)은 실제 측정된 안전성을 크게 낮추는 것으로 확인되었습니다. 이는 현재 AI 제어 평가가 선택적 공격에 대해 낙관적인 안전성 추정치를 제공할 수 있음을 시사하며, 향후 평가에서 이러한 공격 선택 능력을 고려해야 할 필요성을 제기합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.06529"
+            }
+          ],
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
