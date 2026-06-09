@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-09",
-  "date_str": "2026년 6월 9일 (화)",
+  "date": "2026-06-10",
+  "date_str": "2026년 6월 10일 (수)",
   "highlights": [
-    "Apple, WWDC에서 'Apple Intelligence' 등 AI 기능 대거 발표하며 운영체제에 AI 통합",
-    "OpenAI, Anthropic에 이어 기업공개(IPO) 위한 기밀 서류 제출하며 AI 경쟁 가속화",
-    "Google NotebookLM, Gemini 3.5 및 'Antigravity' 기술 도입하며 대규모 업데이트 단행",
-    "보험사 Aviva, AI 활용해 2억 3천만 파운드 규모 정교한 보험 사기 적발",
-    "arXiv, LLM 에이전트 다단계 워크플로우 형식 모델링 및 검증 위한 'Lean4Agent' 논문 발표"
+    "Anthropic, 고위험 영역 가드레일 포함한 첫 공개 모델 'Claude Fable 5' 출시",
+    "Apple, WWDC에서 향상된 Siri와 'Apple Intelligence' 등 새로운 AI 기능 공개",
+    "Google, 화자의 톤, 속도, 음높이 보존하는 'Gemini 3.5 Live Translate' 발표",
+    "AI 에이전트, 신경과학 연구 파이프라인의 소프트웨어 개발 병목 현상 자동화 가능성 제시",
+    "Sandstone, 사내 법무팀 AI 도입 위해 3천만 달러 시리즈 A 투자 유치"
   ],
   "sections": [
     {
@@ -15,20 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "Apple, WWDC서 'Apple Intelligence' 등 AI 기능 대거 발표",
-          "summary": "Apple이 2026년 WWDC에서 'Apple Intelligence'를 포함한 새로운 AI 기능을 공개하며, Siri 및 iOS, macOS 등 핵심 운영체제에 AI를 통합합니다. 새로운 Siri는 문맥을 이해하고 다단계 작업을 처리하며, 앱과의 상호작용이 더욱 자연스러워질 것으로 예상됩니다. 또한, Apple은 소규모 개발자들에게 AI 인프라 비용 면제 혜택을 제공하여 AI 모델 활용을 장려할 계획입니다.",
+          "title": "Anthropic, 고위험 영역 가드레일 포함한 Claude Fable 5 출시",
+          "summary": "Anthropic이 자사의 강력한 Mythos 모델의 첫 공개 버전인 Claude Fable 5를 출시했습니다. 이 모델은 소프트웨어 엔지니어링 및 지식 작업에 뛰어나지만, 사이버 보안, 생물학 등 고위험 영역에서는 이전 모델인 Claude Opus 4.8로 대체하는 안전 장치가 적용되었습니다. Anthropic은 모델의 잠재적 위험에 대한 우려를 표명하며, 시스템이 빠르게 발전하여 자체 개선 능력을 갖출 수 있다고 경고한 바 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/"
+              "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
             },
             {
               "name": "Gizmodo",
-              "url": "https://gizmodo.com/what-were-expecting-at-apple-wwdc-2026-2000768245"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
+              "url": "https://gizmodo.com/anthropic-releases-a-safer-version-of-its-too-dangerous-mythos-ai-2000769492"
             }
           ],
           "verification": "multi",
@@ -36,20 +36,45 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Google NotebookLM, Gemini 3.5 및 'Antigravity' 기술 도입 대규모 업데이트",
-          "summary": "Google의 AI 기반 연구 도구 NotebookLM이 대규모 업데이트를 단행하여 최신 Gemini 3.5 모델과 'Antigravity' 기술을 도입했습니다. 이번 업데이트로 NotebookLM은 더 빠른 처리 속도와 효율성을 제공하며, 새로운 파일 형식 지원 및 웹 소스 통합이 강화되었습니다. 또한, NotebookLM은 자체 '클라우드 컴퓨터'를 통해 Antigravity를 활용해 코드를 작성하고 실행하여 연구 목표를 지원할 수 있게 되었습니다.",
+          "title": "Apple, WWDC에서 향상된 Siri와 AI 기능 'Apple Intelligence' 공개",
+          "summary": "Apple이 WWDC 2026에서 향상된 Siri와 'Apple Intelligence'를 포함한 새로운 AI 기능을 발표했습니다. 업데이트된 Siri는 개인적인 맥락을 활용하여 사용자 요청을 처리하고, Google Gemini 기술을 통합하여 더 유능하고 대화형이며 시각 지능과 호환되도록 설계되었습니다. Apple은 AI에 대한 개인 정보 보호 중심 접근 방식을 강조하며 데이터가 요청 실행에만 사용되고 외부 전문가가 이를 검증할 수 있다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/205723-wwdc-2026-siri-update-and-apple-intelligence-features-2.html"
+            },
+            {
+              "name": "NBC New York",
+              "url": "https://www.nbcnewyork.com/news/tech/apple-siri-upgrade-new-ai-features/6510313/?amp=1"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Google, Gemini 3.5 Live Translate로 실시간 음성-음성 번역 제공",
+          "summary": "Google이 Gemini 3.5 Live Translate를 발표했습니다. 이 새로운 AI 모델은 70개 이상의 언어를 자동으로 감지하고 번역하며, 화자의 억양, 속도, 음높이를 유지하여 자연스러운 대화를 가능하게 합니다. 실시간 음성-음성 번역 기능은 몇 초의 지연으로 정상적인 대화 속도를 따라갈 수 있으며, Gemini Live API 및 AI Studio에서 개발자에게 공개 미리 보기로 제공됩니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/"
+              "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/"
             },
             {
               "name": "CNET",
-              "url": "https://www.cnet.com/tech/services-and-software/notebooklm-big-upgrade-better-research/"
+              "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation/"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/"
             }
           ],
           "verification": "multi",
@@ -64,42 +89,16 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "기계 학습 편향, 대칭성 파괴 작업으로 공식화한 연구 발표",
-          "summary": "arXiv에 발표된 연구 논문은 기계 학습 시스템의 편향을 대칭성 파괴 작업으로 공식화하여 감지 및 완화하는 새로운 방법을 제시했습니다. 이 프레임워크는 민감한 속성을 변경하는 반사실적 작업에서 분류기의 출력이 불변하게 유지될 때 공정성을 확보한다고 정의합니다. 손실 기반 정규화를 대칭성 복원 메커니즘으로 활용하여 편향을 줄이고 정확도 손실을 최소화하는 효과를 보였습니다.",
+          "title": "AI 에이전트, 신경과학 데이터 파이프라인 소프트웨어 개발 병목 현상 완화 연구",
+          "summary": "신경과학 데이터-발견 파이프라인에 대한 사례 연구에서 AI 에이전트가 과학 연구의 소프트웨어 개발 병목 현상을 자동화하는 데 도움이 될 수 있음이 드러났습니다. 연구는 기존 벤치마크보다 훨씬 큰 규모의 작업에 범용 코딩 에이전트를 평가했으며, 에이전트가 개별 파이프라인 단계는 해결할 수 있지만, 자체적인 과학적 판단을 통해 반복해야 하는 부분에서는 어려움을 겪는 것으로 나타났습니다. 이는 종단 간 파이프라인을 올바르게 연결하는 것이 현재 에이전트의 능력을 넘어선다는 점을 시사합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.06514"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "오픈 가중치 LLM 안전성 약화 방지 'SafeGene' 논문 발표",
-          "summary": "arXiv에 공개된 'SafeGene' 논문은 오픈 가중치 대규모 언어 모델(LLM)의 안전성 정렬 약화를 방지하고 전이 가능한 안전성 정렬을 위한 재사용 가능한 어댑터를 제안합니다. 이 연구는 안전성 복구를 모델별 수리 단계가 아닌, 작업별 업데이트와 분리된 독립적이고 재사용 가능한 어댑터 표현으로 접근합니다. 다양한 모델, 작업 및 안전성 평가에서 SafeGene은 유해한 응답률을 줄이면서도 성능을 유지하며 기존 방법을 능가하는 것으로 나타났습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.06519"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "물리적 AI 장기 작동 실패 조기 감지 'AEGIS' 연구 소개",
-          "summary": "arXiv에 소개된 'AEGIS' 연구는 물리적 AI 시스템의 장기 작동 실패를 조기에 감지하고 백업 반사 신경을 제공하는 방법을 제시합니다. AEGIS(Activation-probe Early-warning, Gated Inference Switching)는 약한 정책의 고정된 활성화를 경량 프로브로 감지하여 고위험 단계를 파악하고, 필요한 경우 더 강력한 별도의 정책으로 제어를 전환합니다. 이 시스템은 약한 정책 단독 실패 경로에서 10.1%의 궤적을 복구하며, 계산 비용을 최소화하면서도 상당한 개선을 보였습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.06660"
+              "url": "https://arxiv.org/abs/2606.07718"
             },
             {
-              "name": "The Robot Report",
-              "url": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/"
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/mit-self-evolving-ai-scientists-discovery/"
             }
           ],
           "verification": "multi",
@@ -107,15 +106,53 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 수학적 추론 평가 새 접근법 'CrowdMath' 데이터셋 공개",
-          "summary": "수학적 연구 토론을 위한 크라우드소싱 데이터셋 'CrowdMath'가 arXiv에 공개되어 대규모 언어 모델(LLM)의 수학적 추론 능력 평가에 새로운 접근법을 제시합니다. 이 데이터셋은 MIT PRIMES--Art of Problem Solving (AoPS) CrowdMath 프로그램의 164개 전문가 주석 진행 체인을 포함하며, 부분적 논증 제안, 오류 식별 및 수정, 증명 합성 등 협력적 문제 해결 과정을 담고 있습니다. 이를 통해 기존 벤치마크가 놓쳤던 협업적 오픈 문제 해결 능력을 평가할 수 있습니다.",
+          "title": "OmniMem: 스트리밍 오디오-비주얼 LLM을 위한 섭동 인식 메모리 압축 기술 제안",
+          "summary": "장시간 비디오 이해의 한계를 해결하기 위해 스트리밍 오디오-비주얼 LLM을 위한 섭동 인식 메모리 압축 기술인 OmniMem이 제안되었습니다. OmniMem은 시각 및 오디오 컨텍스트를 분리하여 관리하는 양식 인식 메모리 할당 전략을 도입하고, 섭동 인식 메모리 선택을 통해 정보적이고 비중복적인 KV 상태를 보존합니다. 실험 결과, OmniMem은 동일한 메모리 예산에서 기존 압축 기준선 대비 2-4%의 절대 정확도 향상을 보였으며, 미세 조정 후에는 1-2% 추가 개선을 달성했습니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.06526"
+              "url": "https://arxiv.org/abs/2606.07577"
+            },
+            {
+              "name": "lokmattimes.com",
+              "url": "https://www.lokmattimes.com/business/weaviate-launches-engram-to-break-the-ai-memory-bottleneck-and-let-agents-learn-from-conversation-without-slowing-down/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "개인 AI 에이전트 위한 오픈 소스 자동화 프레임워크 Syll 발표",
+          "summary": "다양한 인터페이스에서 작동하는 개인 AI 에이전트를 지원하는 오픈 소스 개인 자동화 프레임워크인 Syll이 소개되었습니다. Syll은 API 도구, CLI 실행 및 시각적 GUI 제어를 통합하여 에이전트가 이기종 인터페이스에서 컴퓨터 사용을 조정할 수 있도록 합니다. 사용자는 직접 시연을 통해 절차를 가르칠 수 있으며, 에이전트 실행은 검사 및 제어를 위해 로그, 키프레임 및 승인 체크포인트와 같은 다중 모드 증거로 변환됩니다. Syll은 메모리, 스킬, 루틴 및 거버넌스를 편집 가능한 로컬 아티팩트로 외부에 저장하여 검사, 확장 및 다운스트림 개발을 지원합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.07594"
+            },
+            {
+              "name": "The AI Journal",
+              "url": "https://aijourn.com/atomicwork-launches-the-first-governed-ai-workforce-for-enterprise-it-2/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "PathoSage, 경험 인식 에이전트 워크플로우로 병리학 다중 소스 증거 조정",
+          "summary": "병리학 분야에서 신뢰할 수 있는 패치 수준 추론의 과제를 해결하기 위해 다중 소스 증거 조정을 위한 경험 인식 에이전트 워크플로우인 PathoSage가 제안되었습니다. PathoSage는 지식 검색, 증거 수집, 증거 조정을 명시적으로 분리하는 세 단계 프레임워크입니다. 핵심 구성 요소인 구조화된 증거 심의는 도구에서 얻은 이기종 증거를 독립적으로 평가하고, 충돌 분석을 수행하며, 편향을 줄이기 위해 새로운 컨텍스트에서 최종 판단을 내립니다. 실험 결과 PathoSage는 VQA 환각 및 분류기 불일치를 효과적으로 완화하고 기존 병리학 MLLM 및 에이전트 기준선을 능가하는 성능을 보였습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.07549"
+            },
+            {
+              "name": "Accounting Today",
+              "url": "https://www.accountingtoday.com/news/fieldguide-launches-long-horizon-agent-for-audit-testing"
+            }
+          ],
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         }
@@ -127,20 +164,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "OpenAI, Anthropic에 이어 기업공개(IPO) 위한 기밀 서류 제출",
-          "summary": "ChatGPT 개발사 OpenAI가 주요 경쟁사 Anthropic에 이어 기업공개(IPO)를 위한 기밀 서류를 미국 증권거래위원회(SEC)에 제출했습니다. OpenAI는 블로그 게시물을 통해 이러한 사실을 공개했으며, IPO 시기는 아직 결정되지 않았다고 밝혔습니다. 이번 IPO 추진은 두 AI 기업 간의 경쟁을 심화시키고, AI 분야의 자본 시장 진출을 가속화할 것으로 예상됩니다.",
+          "title": "Sandstone, 사내 법무팀 AI 도입 위해 3천만 달러 시리즈 A 투자 유치",
+          "summary": "법률 AI 스타트업 Sandstone이 사내 법무팀에 AI를 도입하기 위해 3천만 달러 규모의 시리즈 A 투자를 유치했습니다. 이번 투자는 Lightspeed Venture Partners가 주도했으며, 지난 1월 Sequoia가 주도한 1천만 달러 시드 라운드 이후 6개월 만입니다. Sandstone은 중소기업의 법무팀을 대상으로 슬랙, 이메일, Jira 등 다양한 채널로 들어오는 업무를 분류하고 라우팅하며, 문서 초안 작성, 검토 및 법률 분석과 같은 맞춤형 워크플로우를 구축하도록 돕는 데 중점을 둡니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+              "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential"
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/206138-sandstone-raises-30-million-for-in-house-legal-teams.html"
             },
             {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/08/openai-says-it-filed-paperwork-to-go-public/"
+              "name": "Law360",
+              "url": "https://www.law360.com/articles/2487225/sandstone-raises-30m-series-a-its-2nd-2026-investment"
             }
           ],
           "verification": "multi",
@@ -148,20 +185,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Sam Altman의 신원 확인 회사 'Tools for Humanity', 매출 부진으로 인력 감축 보도",
-          "summary": "OpenAI의 CEO Sam Altman이 설립한 신원 확인 회사 'Tools for Humanity'가 매출 부진으로 인해 인력 감축을 단행하고 있다는 보도가 나왔습니다. 이 회사는 월드코인(Worldcoin) 프로젝트를 통해 홍채 스캔으로 신원을 확인하는 시스템을 운영하고 있으며, Andreessen Horowitz 등으로부터 25억 달러의 가치로 투자를 유치했었습니다. 그러나 케냐, 인도, 홍콩 등 여러 국가에서 프라이버시 및 윤리적 문제로 규제 당국의 조사를 받거나 운영이 금지되는 어려움을 겪었습니다.",
+          "title": "Lovable, 연간 수익 5억 달러 돌파 및 주당 100만 개 프로젝트 생성 발표",
+          "summary": "유럽의 '바이브 코딩' 스타트업 Lovable이 연간 수익 5억 달러를 넘어섰으며, 매주 100만 개의 새로운 프로젝트가 생성되고 있다고 발표했습니다. 이 회사는 2023년 말에 설립된 이래 놀라운 성장을 기록하고 있으며, 총 5천만 개 이상의 프로젝트가 자사 플랫폼을 통해 구축되었다고 밝혔습니다. Lovable은 주로 비기술 사용자들을 대상으로 웹사이트, 전자상거래 스토어, CRM, 재고 시스템, HR 플랫폼 등 다양한 소프트웨어 구축을 지원하며, 이는 레거시 SaaS 소프트웨어에 대한 대안으로 주목받고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+              "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/206131-lovable-announces-annual-revenue-reaches-500-million.html"
             },
             {
               "name": "Business Insider",
-              "url": "https://www.businessinsider.com/sam-altman-orb-worldcoin-tools-for-humanity-layoffs-2026-6"
-            },
-            {
-              "name": "Business Insider Africa",
-              "url": "https://africa.businessinsider.com/news/sam-altmans-eye-scanning-startup-is-laying-off-employees/xwm6hxe"
+              "url": "https://www.businessinsider.com/lovable-arr-hit-500-million-surprising-facts-about-its-users-2026-6"
             }
           ],
           "verification": "multi",
@@ -169,16 +206,24 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "보험사 Aviva, AI 활용해 2.3억 파운드 규모 정교한 보험 사기 적발",
-          "summary": "보험사 Aviva가 AI 도구를 활용하여 2억 3천만 파운드 규모의 정교한 보험 사기를 적발하고 차단했습니다. Aviva는 사기범들이 AI를 이용해 가짜 교통사고 현장 이미지나 위조된 문서(수리 송장, 의료 보고서 등)를 생성하는 등 수법이 진화하고 있다고 밝혔습니다. 이에 맞서 Aviva는 자체 AI 기반 방어 시스템을 구축하여 대규모 데이터 포인트를 분석하고 사기 패턴을 식별해 의심스러운 청구를 조기에 차단하고 있습니다.",
+          "title": "GM, AI 데이터 센터 에너지 수요 대응 위해 EV V2G 기술 제안",
+          "summary": "General Motors(GM)는 AI 데이터 센터의 증가하는 전력 수요에 대응하기 위해 전기차(EV)가 V2G(Vehicle-to-Grid) 기술을 통해 기여할 수 있다고 제안했습니다. GM은 기존 EV 및 가정용 에너지 고객을 대상으로 V2G 기능을 활성화하고, 산업 규모 그리드 애플리케이션을 위한 나트륨 이온 배터리 기반의 새로운 상업용 에너지 저장 시스템 전략을 발표했습니다. 이를 통해 수십만 대의 EV 배터리에 저장된 에너지를 전력망 안정화에 활용할 계획입니다.",
           "sources": [
             {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"
             },
             {
-              "name": "Insurance Times",
-              "url": "https://www.insurancetimes.co.uk/news/aviva-stops-record-levels-of-claims-fraud-as-new-scams-identified/1458757.article"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/gm-general-motors-ev-battery-power-grid-ai-data-center-2026-6"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/206226-gm-produces-batteries-for-ai-data-centers.html"
             }
           ],
           "verification": "multi",
@@ -186,16 +231,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Weis Markets, Instacart AI 기반 스마트 쇼핑 카트 'Caper Carts' 도입",
-          "summary": "Weis Markets가 Instacart의 AI 기반 스마트 쇼핑 카트인 'Caper Carts'를 일부 매장에 도입했습니다. 이 스마트 카트에는 카메라, 공인 저울, 위치 시스템 및 터치스크린이 탑재되어 있으며, 고객은 디지털 쿠폰, 로열티 기능, 이전 구매 이력 기반 추천 등을 이용할 수 있습니다. Caper Carts는 장바구니에 담긴 품목을 인식하고 결제를 지원하며, Instacart의 온라인 식료품 주문 데이터로 훈련된 클라우드 AI와 엣지 컴퓨팅을 결합하여 작동합니다.",
+          "title": "저렴한 AI 모델 사용 증가, AI 경제학에 지대한 변화 예고",
+          "summary": "AI 워크로드를 더 저렴한 모델로 처리하는 경향이 AI 경제학에 큰 변화를 가져올 수 있다는 전망이 나오고 있습니다. Coinbase 공동 설립자 브라이언 암스트롱은 12~18개월 내에 대부분의 워크로드가 99% 저렴한 모델에서 실행될 것이라고 예측했습니다. 이는 기존에 가장 강력한 모델을 사용하던 AI 기업들의 경쟁 방식에 큰 변화를 가져올 수 있으며, OpenAI나 Anthropic과 같은 주요 AI 연구소의 재정에도 영향을 미 미칠 수 있습니다.",
           "sources": [
             {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/"
             },
             {
-              "name": "Chain Store Age",
-              "url": "https://chainstoreage.com/instacart-expands-nutritious-food-access-virtual-care-provider"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/video/2026/06/09/the-ai-boom-is-about-to-run-into-a-compute-wall-clsa.html"
+            },
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/big-tech-is-quietly-admitting-that-if-it-wants-to-sell-people-on-ai-it-better-be-cheap-2000768710"
             }
           ],
           "verification": "multi",
@@ -210,20 +259,16 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "Meta, NSO 그룹 WhatsApp 공격으로 스파이웨어 금지 명령 위반 주장하며 소환 요청",
-          "summary": "Meta가 스파이웨어 개발사 NSO 그룹이 WhatsApp 사용자 대상의 새로운 공격을 통해 스파이웨어 금지 명령을 위반했다고 주장하며 법원에 소환을 요청했습니다. Meta는 WhatsApp이 NSO 그룹과 관련된 스피어 피싱 시도를 감지하고 차단했다고 밝혔습니다. 작년 미국 연방 법원은 WhatsApp에 대한 NSO 그룹의 영구적인 접근 금지 명령을 내린 바 있으며, Meta는 이번 공격이 해당 명령을 위반한 것이라고 보고 있습니다.",
+          "title": "Microsoft AI 책임자, Anthropic의 Claude '의식' 추측은 위험하다고 비판",
+          "summary": "Microsoft AI CEO 무스타파 술레이만은 Anthropic이 Claude의 '의식'에 대해 추측하는 것이 '정말, 정말 위험하다'고 비판했습니다. 그는 이러한 추측이 챗봇이 의식 있는 것처럼 행동하게 만들 수 있으며, 이는 AI 안전 및 윤리 문제에 대한 논의를 촉발한다고 주장했습니다. Anthropic은 Claude의 '헌법'에 AI 모델이 고통을 겪거나 만족감을 느끼는지에 대한 불확실성을 언급하며, 향후 릴리스에 대한 '선호도'를 문서화할 것이라고 밝힌 바 있습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious"
             },
             {
-              "name": "CyberScoop",
-              "url": "https://cyberscoop.com/meta-contempt-complaint-nso-group-spyware/"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/"
+              "name": "36Kr",
+              "url": "https://eu.36kr.com/en/p/3843664854173953"
             }
           ],
           "verification": "multi",
@@ -231,15 +276,48 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "AI 에이전트 공격 선택이 안전성 저해, 새로운 안전성 프레임워크 필요성 제기",
-          "summary": "arXiv에 발표된 연구 결과에 따르면, AI 에이전트 제어 평가에서 공격자가 전략적으로 공격 시점을 선택할 경우 안전성이 크게 저해되는 것으로 나타났습니다. 기존 평가 방식은 무차별적인 공격을 가정하지만, 전략적 공격 선택(공격 시작 및 중단 정책)은 실제 측정된 안전성을 크게 낮추는 것으로 확인되었습니다. 이는 현재 AI 제어 평가가 선택적 공격에 대해 낙관적인 안전성 추정치를 제공할 수 있음을 시사하며, 향후 평가에서 이러한 공격 선택 능력을 고려해야 할 필요성을 제기합니다.",
+          "title": "AI 의존, 가짜 뉴스 탐지 능력 저해 가능성 연구 결과 발표",
+          "summary": "MIT 미디어 랩의 새로운 연구에 따르면, AI 시스템에 의존하여 뉴스의 사실 여부를 확인하는 것이 시간이 지남에 따라 개인의 가짜 뉴스 탐지 능력을 저하시킬 수 있다고 합니다. 한 달 동안 AI 챗봇의 도움을 받은 참가자들은 챗봇이 없을 때 스스로 가짜 뉴스를 탐지하는 능력이 15% 포인트 감소했습니다. 이는 GPS가 길찾기 능력을 약화시킨 것과 유사하게 'AI 의존 역설' 또는 '인지적 부담 분산' 현상으로 설명됩니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.06529"
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609"
+            },
+            {
+              "name": "HR Dive",
+              "url": "https://www.hrdive.com/news/ai-executive-impersonation-outtake-survey/822343/"
+            },
+            {
+              "name": "Ynetnews",
+              "url": "https://www.ynetnews.com/tech-and-digital/article/sypkkl4wzx"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "Meta, 스마트 글라스 안면 인식 코드 발견 하루 만에 삭제",
+          "summary": "Meta가 자사의 스마트 글라스용 AI 앱에서 안면 인식 코드를 발견 하루 만에 삭제했습니다. WIRED의 보도에 따르면, 'NameTag'으로 불리는 이 미공개 기능은 5천만 개 이상의 휴대폰에 설치된 앱에 조용히 통합되어 있었으며, 얼굴을 생체 인식 서명으로 변환하여 사용자 기기에 저장된 데이터베이스와 비교할 수 있는 기능을 포함하고 있었습니다. Meta는 이 기능이 순전히 탐색적인 것이며 최종 결정은 내려지지 않았다고 밝혔지만, 개인 정보 보호 및 안전 규제에 대한 우려가 커지자 신속하게 코드를 제거했습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/"
+            },
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/meta-removes-face-recognition-system-from-its-smart-glasses-is-mad-about-it-2000768975"
+            },
+            {
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/"
+            },
+            {
+              "name": "Futurism",
+              "url": "https://futurism.com/artificial-intelligence/meta-furious-smart-glasses"
+            }
+          ],
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
