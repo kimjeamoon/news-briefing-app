@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-12",
-  "date_str": "2026년 6월 12일 (금)",
+  "date": "2026-06-13",
+  "date_str": "2026년 6월 13일 (토)",
   "key5": [
-    "증권사 1분기 순이익 4.3조, 역대 최대 실적 달성",
-    "이재명 대통령 이탈리아 국빈 방문, '특별 전략적 동반자 관계' 격상",
-    "광주대표도서관 붕괴 사고 관련 공사 관계자 4명 구속",
-    "트럼프, 이란 공습 취소 및 휴전 협상 임박 발표",
-    "나루히토 천황, 황실 계획에 대한 국민적 지지 요청"
+    "미국과 이란, 종전 합의 임박 기대감 속 유가 하락 및 환율 변동",
+    "EU, 우크라이나 및 몰도바 가입 협상 개시 승인",
+    "사르데냐 해변, 특정 연령대 파라솔 사용 금지 조치 시행",
+    "이재명 대통령, 이탈리아 국빈 방문으로 경제 협력 강화",
+    "Kioxia, AI 열풍 타고 일본 최고 가치 기업 등극"
   ],
   "regions": [
     {
@@ -15,80 +15,80 @@
       "en": "KOREA",
       "stories": [
         {
+          "tag": "pol",
+          "title": "이재명 대통령, 이탈리아 국빈 방문해 경제협력 강화 논의",
+          "summary": "이재명 대통령이 이탈리아를 국빈 방문하여 조르자 멜로니 총리와 회담하고 양국 간 전략적 연계 및 공급망 위기 극복 방안을 논의했습니다. 국방, 인공위성, 우주, 첨단산업 분야에서의 협력을 강화하고, 2034년까지 연간 인적교류를 150만 명으로 확대하기로 합의했습니다. 또한, '한-이탈리아 비즈니스 라운드 테이블'에 참석해 양국 기업인들과 미래 성장 동력 확보를 위한 협력 방안을 모색했습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260613001951001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260613003800001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260613003500001"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "윤석열 전 대통령, 관저 이전 특검 2차 조사 및 반란 혐의",
+          "summary": "윤석열 전 대통령이 12·3 비상계엄 당시 군형법상 반란 혐의로 권창영 2차 종합특별검사팀에 출석해 2차 조사를 받았습니다. 특검팀은 공소장에서 윤 전 대통령 정부가 대통령 관저 이전 공사 과정에서 예산 불법 전용 및 집행을 지시하고, 이에 대한 우려를 표한 관계자들에게 압력을 가했다고 적시했습니다. 윤 전 대통령 측은 내란 우두머리 혐의와 반란 혐의가 이중 기소에 해당한다고 주장하며 혐의를 부인하고 있습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260612162900004"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606130704001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "6.3 지방선거 투표용지 부족 사태, 개표소 시위 확산 및 선거무효소청 제기",
+          "summary": "6.3 지방선거 투표용지 부족 사태로 촉발된 잠실 개표소 봉쇄 시위가 12일 저녁 규모를 다시 키웠습니다. 평일 고령층 위주였던 시위에 주말을 앞두고 20~30대 젊은층이 합류했으며, '부정선거 재선거' 등의 구호를 외쳤습니다. 국민의힘 당무감사위원장 이호선 교수는 서울시선관위에 서울시장 선거에 대한 무효 소청을 제기하며 투표용지 부족 문제와 선관위의 임의적 결정에 대한 의혹을 제기했습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260612165500004"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260612157100001"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
           "tag": "eco",
-          "title": "증권사 1분기 순이익 4.3조 달성, 역대 최대 기록",
-          "summary": "올해 1분기 국내 증권사들이 총 4조 3,271억 원의 당기순이익을 기록하며 분기 기준 사상 최대 실적을 달성했습니다. 이는 전년 동기 대비 77.1% 증가한 수치로, 국내 주식 거래대금 급증과 자산관리 부문 수수료 증가가 주요 요인으로 꼽힙니다. 다만 중동 정세 불안 등 금융 시장 불확실성은 지속될 것으로 전망됩니다.",
+          "title": "미국·이란 종전 합의 임박 기대감에 유가 급락, 원/달러 환율 하락",
+          "summary": "미국과 이란의 종전 합의가 임박했다는 기대감에 국제 유가가 이틀 연속 3%대 가파른 하락세를 보이며 브렌트유와 WTI가 각각 3월과 4월 이후 최저 수준으로 떨어졌습니다. 이란 외무장관은 종전 MOU에 최고지도자 승인이 있었다고 밝혔고, 트럼프 미 대통령도 합의가 마무리 단계에 있다고 언급했습니다. 이러한 시장 분위기에 힘입어 원/달러 환율 또한 야간 거래에서 낙폭을 확대하며 1,518.30원에 마감했습니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260611166400002"
+              "url": "https://www.yna.co.kr/view/AKR20260613007400072"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260613005900002"
             },
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260612024700008"
+              "url": "https://www.yna.co.kr/view/AKR20260613015400087"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "pol",
-          "title": "이재명 대통령, 이탈리아 국빈 방문 및 협력 강화",
-          "summary": "이재명 대통령이 이탈리아를 국빈 방문하여 세르지오 마타렐라 이탈리아 대통령과 만찬에 참석했습니다. 양국은 '특별 전략적 동반자 관계'로 격상되었음을 기쁘게 생각하며, 평화와 협력을 위한 노력을 강조했습니다. 또한 이재명 대통령은 이탈리아 정부로부터 최고 등급의 훈장을 수여받았습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260612015300001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260612001900001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "soc",
-          "title": "광주대표도서관 붕괴사고 공사 관계자 4명 구속",
-          "summary": "지난해 12월 4명의 사망자를 낸 광주대표도서관 붕괴 사고와 관련해 공사 관계자 4명이 구속되었습니다. 구속된 인원은 시공사 현장소장, 하청업체 대표이사 및 현장소장, 감리단장 등이며, 이들은 구조설계도 미이행과 기초 안전조치 불량 등의 혐의를 받습니다. 한편, 정부는 연이은 산업재해에 전국 공장·창고 19만동에 대한 화재안전 실태조사를 착수할 계획입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260612010451054"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260612010400054"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260611167800003"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, '10% 글로벌 관세' 유지 및 이란과 휴전 협상 중",
-          "summary": "도널드 트럼프 미국 대통령이 부과한 '10% 글로벌 관세'가 항소법원 결정으로 7월 하순까지 유지될 전망입니다. 한편 트럼프 대통령은 이란과의 종전 협상이 최종 문서 조율 단계에 있으며 유럽에서 서명식이 열릴 수 있다고 밝혔으나, 이란 외교부는 아직 최종 결정이 내려지지 않았다고 전했습니다. 이스라엘 총리실은 트럼프 대통령과 전화 통화로 이란의 핵 문제 합의를 논의했다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606120808001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606120740001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606120709001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
         }
       ]
     },
@@ -99,20 +99,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 이란 공습 취소 및 평화 협상 임박 발표",
-          "summary": "도널드 트럼프 미국 대통령이 이란에 대한 예정된 공습을 취소하고, 이란과의 평화 협상이 임박했다고 밝혔습니다. 그는 이란 최고 지도부와의 논의가 승인되었으며, 해군 봉쇄는 거래가 완료될 때까지 유지될 것이라고 전했습니다. 트럼프 대통령은 이번 주말 유럽에서 서명식이 열릴 수 있다고 언급하며, 핵 문제에 대한 개념적 합의를 확보했다고 주장했습니다.",
+          "title": "트럼프 행정부, 이민 및 난민 처리 재개 발표",
+          "summary": "트럼프 행정부가 연방 판사의 명령에 따라 이민 및 난민 처리 절차를 재개한다고 발표했습니다. 이는 지난주 연방법원 판사가 행정부가 명령을 즉시 준수하지 않은 것에 대해 질책한 이후 나온 조치입니다. 앞서 트럼프 행정부는 39개국 출신 이민자에 대한 그린카드 및 취업 허가증 처리 절차를 중단한 바 있습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "WSJ",
-              "url": "https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/green-card-update-donald-trump-admin-dhs-immigration-12065912"
             }
           ],
           "verification": "multi",
@@ -120,20 +116,41 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프, 제이 클레이튼을 국가정보국장으로 지명",
-          "summary": "도널드 트럼프 대통령이 맨해튼 연방 검사이자 전 증권거래위원회 위원장이었던 제이 클레이튼을 국가정보국장(DNI)으로 지명했습니다. 이는 전임 지명자에 대한 의회 반발 이후 나온 결정입니다. 클레이튼은 18개 정보기관을 총괄하는 역할을 맡게 됩니다.",
+          "title": "미국-이란 종전 합의 임박, 트럼프 대통령 입장 변화",
+          "summary": "미국과 이란 간의 종전 합의가 임박했다는 기대감이 높아지고 있으며, 트럼프 미 대통령이 이란과의 평화 협상이 곧 체결될 것이라고 여러 차례 언급했습니다. 이란 외무장관 또한 최고지도자의 승인을 받아 최종 단계에 이르렀으며 며칠 내 원격 서명을 기대한다고 밝혔습니다. 양측은 호르무즈 해협 재개방 등 잠정 합의안에 가까워졌으나, 이란 핵 프로그램 협상은 이후 단계에서 진행될 예정입니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260613008451079"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/06/11/nx-s1-5855365/trump-director-of-national-intelligence-jay-clayton-bill-pulte-fisa-702"
+              "url": "https://www.npr.org/2026/06/12/g-s1177-127971/trump-says-he-has-canceled-planned-strikes-on-iran-and-peace-deal-is-near-again"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미국 감시법 FISA 702조 만료, 외국인 감시 지속 여부 논란",
+          "summary": "미국의 주요 감시 권한인 해외정보감시법(FISA) 702조가 의회 연장 실패로 12일 자정 만료될 예정입니다. 그러나 전문가들과 일부 의원들은 이 법이 만료되더라도 기존 인증에 따라 내년 3월까지 외국인 감시 활동이 계속될 것이라고 보고 있습니다. 정부는 이 조항이 국가 안보에 필수적이라고 주장하는 반면, 사생활 옹호자들은 미국 시민의 통신이 영장 없이 수집되는 문제점을 지적합니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/12/us/politics/fisa-expiration.html"
             },
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/us-news/2026/jun/11/trump-jay-clayton-director-of-national-intelligence"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte"
             }
           ],
           "verification": "multi",
@@ -141,45 +158,24 @@
         },
         {
           "tag": "eco",
-          "title": "스페이스X, 주당 135달러로 IPO 최종 확정",
-          "summary": "일론 머스크의 로켓 기업 스페이스X가 주당 135달러에 5억 5천5백만 주 이상을 매각하여 IPO 공모가를 최종 확정했습니다. 이는 세계 최대 규모의 기업공개 중 하나로, 금요일부터 거래를 시작할 예정입니다. 뉴욕타임스 기자들은 스페이스X의 높은 기업 가치와 잠재적 경제적 영향에 대해 분석했습니다.",
+          "title": "미국 법무부, 파라마운트-워너 브로스 합병 승인",
+          "summary": "미국 법무부가 파라마운트와 워너 브로스 디스커버리의 1110억 달러 규모 합병을 승인했습니다. 이번 합병으로 CBS 뉴스와 CNN이 같은 회사 산하에 놓이게 되며, 할리우드 미디어 산업에 큰 변화를 가져올 것으로 예상됩니다. 법무부는 이번 거래가 경쟁이나 미국 소비자에게 해를 끼치지 않을 것이라고 판단했으나, 캘리포니아주 등 일부 주에서는 여전히 합병에 대한 우려를 표하며 조사를 진행 중입니다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html"
+              "url": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
             },
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-cusp-record-ipo-could-013526589.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/06/09/business/elon-musks-spacex-is-set-to-shatter-ipo-records-but-experts-warn-regular-investors-should-be-wary/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "미국 내 다양한 사회 문제 직면: 아동 복지부터 산업 재해까지",
-          "summary": "멜라니아 트럼프 여사는 위탁 아동을 위한 새로운 투자 계좌 프로그램을 발표했습니다. 이와 동시에 보스턴에서는 대낮에 어린이 레모네이드 가판대가 무장 강도를 당하는 사건이 발생했으며, 워싱턴 제지 공장 폭발 사고로 10명의 근로자가 화학 화상으로 사망하는 등 여러 사회 문제가 보고되었습니다. 또한 우편 서비스는 유권자 명단을 제공하지 않는 주에 우편 투표 용지 배송을 거부할 계획을 밝혀 투표권 논란이 일고 있습니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/11/us/politics/melania-trump-foster-youth-accounts.html"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/melania-trump-accounts-foster-care-df92da587073dc4150563fcef39cb4e5"
-            },
-            {
-              "name": "CNN",
-              "url": "https://www.cnn.com/2026/06/10/politics/postal-service-deliver-mail-in-ballots"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
         }
       ]
     },
@@ -189,55 +185,17 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "나루히토 천황, 황실 계획에 대한 국민적 지지 요청",
-          "summary": "나루히토 천황은 황실 구성원 수에 대한 대중의 지지를 얻을 수 있는 계획이 만들어지기를 희망한다고 밝혔습니다. 그는 이 계획이 국민의 이해를 얻는 것이어야 한다고 강조했습니다. 이번 발언은 네덜란드와 벨기에 공식 방문을 앞두고 황궁에서 열린 기자회견에서 나왔습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/11/japan/emperor-public-support/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "중국 투자 규제로 홍콩 은행 및 보험사 전망 불투명",
-          "summary": "중국의 역외 투자 규제 강화로 홍콩의 은행, 보험사, 자산 관리 회사들의 수익 사업에 그림자가 드리워지고 있습니다. 5월 말 중국 당국은 역외 투자를 단속하고 3개 온라인 중개업체를 '불법적으로' 중국 투자자들의 해외 주식 매매를 도운 혐의로 처벌했습니다. 분석가들은 이러한 움직임이 자본 유출에 대한 감시 강화 우려로 홍콩으로의 자금 흐름을 단기적으로 위축시킬 수 있다고 전망했습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/11/beijing-clampdown-hong-kong-banks/"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/finance/china-says-illegal-outbound-investment-crackdown-wont-lead-forced-liquidation-2026-06-07/"
-            },
-            {
-              "name": "Asian Business Review",
-              "url": "https://asianbusinessreview.com/insurance/in-focus/hong-kong-insurers-face-sales-drag-china-clampdown"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "tec",
-          "title": "일본, AI 산업 협력 및 반도체 회사 Rapidus의 국제 협력 추진",
-          "summary": "일본 전자 회사 NEC는 주요 일본 금융 기관들이 미국 스타트업 Anthropic과의 AI 협력에 참여할 것이라고 발표했습니다. 이 협력은 금융 서비스 품질 향상과 사이버 공격 방어 강화를 목표로 합니다. 또한 일본 반도체 회사 Rapidus는 영국 및 이탈리아 공공 기관들과 연구 개발 협력을 위한 협약을 체결할 예정이며, 이는 최첨단 반도체 제조 기술 협력을 포함합니다.",
+          "title": "Kioxia, AI 열풍 속 일본에서 가장 가치 있는 기업으로 등극",
+          "summary": "메모리 칩 제조업체인 Kioxia Holdings가 시장 가치 44조 엔(약 2740억 달러)을 돌파하며 도요타 자동차를 제치고 일본에서 가장 가치 있는 기업이 되었습니다. 이는 전 세계적인 인공지능(AI) 붐으로 인해 AI 데이터 센터용 칩 수요가 급증한 결과로, Kioxia 주가는 올해 670% 이상 급등하여 MSCI World Index에서 최고 실적을 기록했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/11/japan-banks-nec-collaboration/"
+              "url": "https://www.japantimes.co.jp/business/2026/06/12/companies/kioxia-ai-valuable-firm/"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/11/companies/rapidus-tieup/"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-caps-years-of-uncertainty-to-become-japan-s-most-valuable-company"
             }
           ],
           "verification": "multi",
@@ -245,24 +203,37 @@
         },
         {
           "tag": "pol",
-          "title": "미국 의원들, AI 경쟁에서 중국에 대한 자국 혁신 강조",
-          "summary": "미국 의원들은 인공지능(AI) 분야에서 중국과의 경쟁이 심화되는 가운데, 다음 기술 혁명은 미국에서 이루어져야 한다고 경고했습니다. 사이버 보안 및 국가 안보가 심각하게 다루어져야 하며, 미국이 AI 기술 우위를 잃어서는 안 된다고 강조했습니다. 이는 AI와 미국인의 꿈: 혁신, 경제성, 미국의 지배력 증진에 관한 청문회에서 초당적인 지지를 얻었습니다.",
+          "title": "필리핀, 남중국해 영유권 주장 강화로 중국과 대치",
+          "summary": "필리핀이 남중국해 영유권 주장을 강화하며 중국과 대치하고 있습니다. 필리핀은 중국이 스카버러 암초에 배치한 부유식 '구조물'에 대해 항의했으며, 이는 중국이 무인 암초를 섬 기지로 만들려는 시도로 보고 있습니다. 이러한 필리핀의 강경한 태도는 아세안 국가들의 실용적인 대중국 관계와는 다른 양상을 보이며 역내 긴장을 고조시키고 있습니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3356820/us-lawmakers-warn-next-revolution-ai-race-must-be-america-not-china?utm_source=rss_feed"
+              "url": "https://www.scmp.com/opinion/asia-opinion/article/3356584/philippines-belligerence-towards-china-out-step-asean-trend?utm_source=rss_feed"
             },
             {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/06/11/warrens-warning-is-the-ai-boom-americas-next-financial-crisis/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-patrols-waters-east-of-taiwan-in-response-to-japan-philippine-talks"
             },
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/06/08/business/microsoft-launches-incubator-for-chinese-tech-startups-reigniting-fears-about-cozy-beijing-ties-makes-no-sense/"
+              "name": "Greenwich Time",
+              "url": "https://www.greenwichtime.com/news/world/article/the-philippines-protests-china-s-floating-22297242.php"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "일본, 소셜 미디어 관련 소비자 상담 10만 건 돌파",
+          "summary": "일본에서 2025년 소셜 미디어 관련 소비자 상담 건수가 처음으로 10만 건을 넘어섰습니다. 총 101,045건으로 2021년 대비 약 두 배 증가했으며, 특히 50대 이상 고령층의 상담 비중이 절반 이상을 차지했습니다. 정부 보고서는 디지털화와 AI 기술 관련 문제도 포함했으며, 응답자의 약 25%가 AI를 사용하고 20%가 유명인과 인플루언서의 온라인 게시물을 신뢰한다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/12/japan/society/consumer-affairs-social-media/"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
         }
       ]
     },
@@ -273,79 +244,67 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "교황 레오 14세, 카나리아 제도 방문하여 이주민 문제 강조",
-          "summary": "교황 레오 14세가 스페인 카나리아 제도를 방문하여 위험한 대서양 횡단 여정을 감수하는 이주민들의 이야기를 경청했습니다. 교황은 이주민들을 '숫자나 서류가 아닌 사람'으로 여기고, 유럽의 양심이 바다를 미지의 무덤으로 여기는 것에 익숙해지지 않기를 촉구했습니다. 그는 또한 이주민들을 위한 '합법적이고 안전한 경로'의 필요성을 강조했습니다.",
+          "title": "EU, 우크라이나 및 몰도바 가입 협상 개시 승인",
+          "summary": "유럽연합 27개국이 우크라이나와 몰도바의 EU 가입 협상 개시를 공식 승인했습니다. 이번 결정은 헝가리가 2년간 유지했던 거부권을 철회하면서 이루어졌으며, 양국은 6월 15일 룩셈부르크에서 정부간 회의를 통해 첫 번째 가입 협상 클러스터인 '기본 원칙' 분야를 열게 됩니다. 이는 양국의 개혁 노력에 대한 인정이자 유럽의 평화, 안보, 번영 강화를 위한 전략적 선택으로 평가됩니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/pope-leo-xiv-criticizes-europe-migrant-policies-gran-canaria/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
               "name": "Euronews",
-              "url": "http://www.euronews.com/video/2026/06/11/pope-leo-xiv-casts-wreath-into-sea-in-memory-of-migrants-lost-on-atlantic-route"
+              "url": "http://www.euronews.com/my-europe/2026/06/12/eu-countries-reach-deal-to-unblock-accession-talks-with-ukraine-and-moldova"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova"
+            },
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/world-nation/story/2026-06-12/eu-agrees-to-talk-ukraine-membership-despite-ongoing-war-with-russia"
             }
           ],
           "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "NATO, 드론 격추 관련 최고사령관 권한 확대 모색",
+          "summary": "NATO 회원국들이 다음 달 앙카라 정상회담까지 연합군 최고사령관(SACEUR)에게 드론 격추에 대한 더 많은 재량권을 부여하는 방안을 추진하고 있습니다. 최근 폴란드, 루마니아, 에스토니아, 라트비아 등 동부 전선 국가들에 대한 드론 침범 및 공역 침해 사례가 증가하면서 NATO는 이러한 항공 위협에 대응하기 위한 역량 강화의 필요성을 느끼고 있습니다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/nato-allies-back-greater-drone-defense-powers-for-top-commander/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "ECB, 이란 전쟁으로 인한 금리 인상 결정",
-          "summary": "유럽중앙은행(ECB)이 중동 전쟁으로 인한 인플레이션 압력에 대응하여 3년 만에 처음으로 금리를 0.25% 인상했습니다. 크리스틴 라가르드 ECB 총재는 이번 금리 인상 결정이 '세 가지 시나리오에 걸쳐 견고하다'고 옹호했습니다. 국제통화기금(IMF)은 유로존 국가들에게 추가적인 재정 정책 완화에 반대하며 예산 균형 개선을 촉구했습니다.",
+          "title": "EU, 항공 승객 권리 개혁 합의, 7월 최종 승인 예정",
+          "summary": "유럽연합 회원국 대사들이 항공 승객 권리 개혁에 대한 최종 합의안을 승인했습니다. 이 합의안은 키프로스 이사회 의장국과 유럽 의회 간의 협상을 통해 도출되었으며, 필요한 과반수를 훨씬 넘는 지지를 얻었습니다. 이르면 7월 중 의회 전체 투표를 거쳐 최종 입법 절차를 밟을 예정입니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/business/2026/06/11/lagarde-defends-ecb-interest-rate-hike-as-robust-across-three-scenarios"
-            },
-            {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/ecb-first-major-central-bank-hike-rates-iran-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
+              "url": "https://www.politico.eu/article/eu-countries-approve-compromise-on-air-passenger-rights-reform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "영국 국방장관 존 힐리, 국방 예산 부족으로 사임",
-          "summary": "영국 국방장관 존 힐리가 국방 예산 부족을 이유로 사임했습니다. 힐리는 총리에게 보낸 서한에서 국방 투자 계획(DIP)에 대한 정부의 재정 지원이 국방과 국가 안보에 필요한 수준에 훨씬 못 미친다고 비판했습니다. 그의 사임은 런던에서 열릴 NATO 정상회담과 도널드 트럼프 미국 대통령의 이란 공습 재개 위협을 앞두고 발생하여 키어 스타머 총리에게 큰 타격을 주었습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/11/world/europe/uk-defense-secretary-resigns-healey-starmer.html"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "라이언에어, 자녀 동반 좌석 유료화 정책으로 조사 착수",
-          "summary": "영국 경쟁시장청(CMA)이 라이언에어가 부모에게 자녀 옆 좌석을 유료로 제공하는 정책에 대해 소비자 법 위반 여부를 조사하고 있습니다. CMA는 라이언에어가 2세에서 11세 사이의 자녀와 동반하는 부모에게 의무적으로 가족 좌석 비용을 부과하는 것이 불공정한지 검토하고 있습니다. 라이언에어는 이 조사를 '가짜'라고 비난하며 자사 정책이 관련 법규를 준수한다고 주장했습니다.",
+          "title": "사르데냐 해변, 특정 연령대 파라솔 사용 금지 조치 시행",
+          "summary": "이탈리아 사르데냐 섬의 푼타 몰렌티스 해변이 10세 미만 아동 동반 가족과 65세 이상을 제외한 방문객의 파라솔 사용을 금지하는 조치를 시행했습니다. 이는 지난해 해변과 주변 지역을 휩쓴 산불 피해 이후 환경 보호를 위해 방문객 수를 150명으로 제한하고 인간의 영향을 줄이려는 목적입니다. 이 해변은 입장료를 부과하며, 차량 접근도 제한됩니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/c8728yrr14ro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/jun/10/sardinian-beach-bans-umbrellas-people-aged-10-65-punta-molentis"
             },
             {
               "name": "CNN",
-              "url": "https://www.cnn.com/2026/06/11/travel/ryanair-parent-children-charges-scli-intl"
+              "url": "https://www.cnn.com/2026/06/11/travel/italian-beach-bans-umbrellas-scli-intl"
             }
           ],
           "verification": "multi",
@@ -360,20 +319,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "NASA, 아르테미스 III 승무원 선정 및 달 탐사 미래 테스트",
-          "summary": "NASA는 2027년 예정된 아르테미스 III 임무에 참여할 승무원을 공개했습니다. 이번 임무는 달 탐사의 미래를 시험하기 위해 설계된 매우 복잡한 우주 비행으로, 오리온 우주선에 탑승한 우주비행사들이 블루 오리진과 스페이스X가 개발 중인 달 착륙선과 전례 없는 도킹 작업을 수행할 예정입니다. 이 임무는 미래 달 착륙과 화성 유인 임무를 위한 길을 닦는 데 기여할 것입니다.",
+          "title": "일론 머스크의 SpaceX IPO, 세계 최초 조만장자 등극 전망",
+          "summary": "일론 머스크의 우주 탐사 기업 SpaceX가 금요일 나스닥 시장에 상장될 예정이며, 이는 사상 최대 규모의 기업 공개(IPO)가 될 것으로 보입니다. SpaceX의 IPO 성공 시 일론 머스크는 약 1.1조 달러의 재산을 보유하며 세계 최초의 조만장자가 될 것으로 전망됩니다. SpaceX는 1.8조 달러에 육박하는 기업 가치로 월스트리트 상위 10대 기업에 진입할 예정입니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
             },
             {
-              "name": "eciks.org",
-              "url": "https://eciks.org/7782-63672-artemis-3-crew-announcement-2027"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-cusp-record-ipo-could-013526589.html"
             },
             {
-              "name": "Space",
-              "url": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist"
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/tylerroush/2026/06/12/spacex-opens-at-150-surging-20-after-largest-ipo-ever-live-updates/"
             }
           ],
           "verification": "multi",
@@ -381,20 +340,20 @@
         },
         {
           "tag": "tec",
-          "title": "AI, 새로운 물리학 발견 가속화하지만 예상치 못한 단점도 존재",
-          "summary": "새로운 연구에 따르면 AI는 우주에서 새로운 물리학 법칙을 더 빨리 발견하는 데 도움을 줄 수 있지만, 한 가지 예상치 못한 단점이 있습니다. 전이 학습(transfer learning)이라는 기법이 새로운 물리학을 탐색하는 속도를 크게 높여줄 수 있지만, AI가 이미 알고 있는 패턴에 너무 의존하여 진정으로 새로운 증거를 놓칠 수 있다는 점입니다. 이 연구는 저널 오브 코스몰로지 앤 아스트로파티클 피직스(JCAP)에 발표되었습니다.",
+          "title": "Oracle PeopleSoft 제로데이 취약점 악용, 대규모 데이터 유출",
+          "summary": "세계에서 가장 활발한 랜섬웨어 그룹 중 하나인 ShinyHunters가 Oracle의 PeopleSoft 소프트웨어의 치명적인 제로데이 취약점을 악용하여 약 100개 조직을 공격하고 대량의 데이터를 유출했습니다. 이 취약점(CVE-2026-35273)은 심각도가 9.8점으로, 공격자들은 이를 이용해 수 기가바이트의 데이터를 훔쳤으며, 대학 등 고등 교육 기관이 주요 피해 대상이었습니다. Oracle은 아직 완전히 패치하지 못했으며 임시 완화 조치를 발표한 상태입니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
             },
             {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-06-physics-ai-unlearn.html"
+              "name": "SecurityWeek",
+              "url": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/"
             },
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/"
             }
           ],
           "verification": "multi",
@@ -402,20 +361,20 @@
         },
         {
           "tag": "tec",
-          "title": "스마트 홈 기기, 새로운 업데이트와 신제품으로 사용자 경험 향상",
-          "summary": "아마존은 에코 허브 기기용 소프트웨어 업데이트를 통해 홈 화면 인터페이스를 대폭 개선했습니다. 이 업데이트는 사용자가 스마트 홈 정보를 더욱 맞춤 설정하고 제어할 수 있는 기능을 제공하며, Ring AI의 비디오 검색 기능도 추가되었습니다. 또한 로지텍은 인기 있는 MX Master 3S 무선 마우스를 할인 판매하고 있으며, Blink는 6종 아웃도어 카메라 키트 번들을 저렴하게 제공하는 등 다양한 스마트 기기 제품이 출시되거나 업데이트되고 있습니다.",
+          "title": "제프 베조스 AI 스타트업 Prometheus, '인공 일반 엔지니어' 개발 목표",
+          "summary": "제프 베조스가 공동 CEO로 있는 AI 스타트업 Prometheus가 '인공 일반 엔지니어' 개발을 목표로 하고 있습니다. Prometheus는 최근 120억 달러의 대규모 투자 유치에 성공하며 기업 가치 410억 달러를 기록했습니다. 이 스타트업은 로봇 공학, 신약 설계, 제조 등 다양한 산업 분야에서 물리적 제품 설계를 돕는 AI 기반 엔지니어링 도구를 개발하여 '발명 주기'를 가속화하는 데 중점을 둘 예정입니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
             }
           ],
           "verification": "multi",
