@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-14",
-  "date_str": "2026년 6월 14일 (일)",
+  "date": "2026-06-15",
+  "date_str": "2026년 6월 15일 (월)",
   "key5": [
-    "북한, 한미 핵협의그룹 비핵화 언급에 '공허한 망상'이라며 핵무장 입장 재확인",
-    "이재명 대통령, 교황청 방문해 '평화·연대' 메시지 전달 및 우피치 미술관과 문화 교류 협력 추진",
-    "트럼프 대통령, 이란과의 평화 협정 14일 서명 가능성 언급했으나 이란은 신중한 입장",
-    "스위스, 인구 1천만 명 제한 국민투표 실시…경제 및 EU 관계에 영향 우려",
-    "미국, 폭염 경고 발령…일론 머스크, 스페이스X 상장으로 세계 첫 조만장자 등극"
+    "이란, 미국과의 종전 합의 및 호르무즈 해협 개방 발표로 국제유가 안정 기대",
+    "트럼프 대통령, 80세 생일 맞아 백악관에서 UFC 행사 개최하며 논란 가중",
+    "스위스 국민, 인구 1천만 명 상한선 제안 국민투표 부결, EU 관계 유지 선택",
+    "영국 해병대, 영불해협에서 러시아 '그림자 선단' 유조선 제지하며 첫 작전 성공",
+    "미국, 중국 우려로 Anthropic AI 모델 Mythos 및 Fable에 대한 수출 통제 발표"
   ],
   "regions": [
     {
@@ -16,20 +16,37 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "6.3 지방선거 후 정치권, 행정통합 및 의회 구성 논의 활발",
-          "summary": "6.3 지방선거 이후 정치권에서 창원·함안 행정통합, 전남광주통합특별시의회 의장단 선출, 대전·충남 행정통합 등 지역별 현안과 선거 제도 개편 논의가 활발하게 진행되고 있습니다. 특히 대전과 충남은 민주당 소속 단체장 당선으로 행정통합 추진에 속도가 붙을 것으로 예상됩니다.",
+          "title": "이재명 대통령, 교황청 방문해 한반도 평화 메시지 전달",
+          "summary": "이재명 대통령은 교황청 방문 중 레오 14세 교황과 면담하고 피에트로 파롤린 국무원장과도 만났다. 이 대통령은 면담에서 세계 평화와 연대를 위해 협력하고 한반도 평화에 대한 교황청의 관심과 성원을 당부할 것으로 예상된다. 앞서 특별미사에서는 6·15 남북공동선언을 언급하며 한반도 평화 노력 의지를 밝혔다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260612124600052"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260614044800001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260612102500054"
+              "url": "https://www.yna.co.kr/view/AKR20260614002251001"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606150747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "이재명 대통령, 투표용지 부족 사태 관련 선관위 국정조사 촉구",
+          "summary": "이재명 대통령은 지방선거 투표용지 부족 사태에 대해 \"황당하고 당황스럽다\"고 질타하며, 국회 국정조사 특위와 검경 합수본의 철저하고 투명한 진상 규명을 주문했다. 또한, 참정권 침해 문제 제기는 수용하되 이를 악용한 부정선거 음모론 선동과 불법적 시위 행태에는 법과 원칙에 따라 엄정 대처할 것을 강조했다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260615001600001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260612165800063"
+              "url": "https://www.yna.co.kr/view/AKR20260614053200001"
             }
           ],
           "verification": "multi",
@@ -37,62 +54,37 @@
         },
         {
           "tag": "eco",
-          "title": "코스닥 '천스닥' 회복했으나 국내 증시 양극화 심화",
-          "summary": "코스닥 지수가 최근 반도체 소부장 종목 강세에 힘입어 '천스닥'(1,000포인트)을 회복했습니다. 그러나 낮은 기관투자자 비중과 시장 신뢰 회복이 숙원 과제로 꼽히며, 장기적으로 코스피 대비 뚜렷한 상승 흐름을 보이지 못해 국내 증시의 양극화가 심화하고 있습니다.",
+          "title": "고금리 속 자영업자 부채 증가 및 고령층 채무불이행 심화",
+          "summary": "금리 급등과 내수 부진이 이어지는 가운데, 자영업자의 연체 대출 규모가 올해 들어 7.7% 증가하며 37조8천억 원에 육박했다. 특히 60대 이상 고령층 자영업자의 대출 잔액은 전 연령대 중 유일하게 증가해 400조 원을 넘어섰고, 채무불이행자 수와 이들의 대출액 증가율도 가장 높아 재무 위험이 커지고 있다. 한편, 정규직 등 고용 안정성이 높은 상용일자리가 26년 5개월 만에 처음으로 감소했으며, 특히 2030세대의 정보통신 및 전문·과학·기술 서비스업 일자리 감소가 두드러져 AI 대체 우려가 제기된다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260613041000008"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260613047900002"
             },
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/11/south-korea-kospi-selloff-foreign-investors-krx.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606150722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/kospi-stock-index-price-south-korea-markets-samsung-sk-hynix-2026-6"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/opinion/column/1263521.html"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "북한, 비핵화는 종결된 사안이라며 핵무장 입장 재확인",
-          "summary": "북한은 한미 핵협의그룹(NCG) 회의에서 북한 비핵화 목표를 재확인한 것에 대해 '비핵화는 최종적으로 되돌릴 수 없이 종결된 사안'이라며 핵무장국 지위를 다시 한번 강조했습니다. 또한, '교전상대방의 핵무장해제를 운운하는 것은 공허한 망상'이라고 비난하며 한미일의 핵대결 소동을 규탄했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260614005600504"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1263399.html"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/north-korea-says-denuclearisation-is-matter-terminated-irreversibly-2026-06-13/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "이재명 대통령, 교황청 방문 및 우피치 미술관과 문화 협력",
-          "summary": "유럽을 순방 중인 이재명 대통령이 교황청을 방문하여 '평화와 연대를 위한 특별미사'에 참석하고, 유흥식 추기경 및 레오 14세 교황과 면담할 예정입니다. 또한, 피렌체 우피치 미술관과 국립중앙박물관 간 문화유산 교류 및 박물관 협력 강화를 위한 양해각서(MOU)를 체결하며 한국 내 메디치 가문 컬렉션 전시를 추진할 계획입니다.",
+          "title": "미등록 이주민 처우 개선 논의, 사회안전망 및 체류권 보장 촉구",
+          "summary": "현재 40만 명에 이르는 미등록 이주노동자들이 한국 사회의 필수 노동력으로 자리 잡은 가운데, 이들에 대한 인권 침해 문제가 빈번하게 발생하고 있다. 정부는 외국인력 통합지원 태스크포스(TF)를 통해 미등록 이주노동자 일부를 양성화하는 방안을 검토 중이며, 노동계와 시민사회는 이들의 최소한의 체류권과 제도적 보장 장치 마련을 요구하고 있다. 장기 체류 미등록 이주민들은 단속의 공포 속에 생애의 중요한 순간들을 놓치고 있으며, 추방 중심 정책의 실효성에 대한 지적도 제기된다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260614002200001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1263522.html"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1263401.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606140600001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.hani.co.kr/arti/society/labor/1263520.html"
             }
           ],
           "verification": "multi",
@@ -107,20 +99,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 이란 평화 협정 서명 예고…이란은 신중한 반응",
-          "summary": "도널드 트럼프 미국 대통령이 14일(현지시각) 이란과의 평화 협정이 서명될 예정이며, 이후 호르무즈 해협이 개방될 것이라고 발표했습니다. 이번 합의가 이란의 핵무기 보유를 막는 '핵무기 차단 장벽'이 될 것이라고 주장했으나, 이란 외무부는 서명 날짜에 대해 신중한 입장을 보였습니다.",
+          "title": "이란, 미국과의 종전 합의 발표…호르무즈 해협 개방 전망",
+          "summary": "이란 외무차관은 15일(현지시간) 미국과 이란의 종전 양해각서(MOU) 체결 및 전쟁 중단을 공식 발표했다. 이는 레바논을 포함한 모든 전선에서의 군사 작전 종료를 의미하며, 합의 이행은 19일부터 효력이 발생한다. 트럼프 미국 대통령도 협상 타결 사실을 확인하며 19일 합의 서명 직후 호르무즈 해협이 개방될 것이라고 밝혔다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1263400.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260615017600009"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1263396.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260615018100071"
             },
             {
               "name": "Forbes",
-              "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/13/us-iran-peace-deal-expected-to-be-signed-sunday-trump-says/"
+              "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/trump-says-iran-peace-deal-complete-ends-strait-of-hormuz-blockade/"
             }
           ],
           "verification": "multi",
@@ -128,62 +120,62 @@
         },
         {
           "tag": "pol",
-          "title": "케네디 센터에서 트럼프 대통령 명칭 삭제",
-          "summary": "미국 워싱턴 D.C.의 케네디 센터에서 도널드 트럼프 대통령의 이름이 법원 명령에 따라 삭제되었습니다. 법원은 지난해 트럼프 대통령이 자신의 이름을 예술기관에 추가하고 이사회 이사를 교체한 것이 불법이라고 판결했으며, 케네디 센터 이사회는 판결을 이행하여 건물 외벽, 웹사이트 등에서 명칭을 제거했습니다.",
+          "title": "트럼프 대통령, 80세 생일 맞아 백악관에서 UFC 행사 개최 논란",
+          "summary": "도널드 트럼프 미국 대통령이 80세 생일을 기념하여 백악관 사우스 론에서 UFC(Ultimate Fighting Championship) 행사를 개최했다. 이 행사는 7개 경기로 구성되며, 총 6천만 달러 이상이 소요될 것으로 추정된다. 일각에서는 대통령의 생일과 국가의 250주년을 기념하는 동시에 트럼프 대통령이 UFC 모회사 지분을 소유하고 있어 이해충돌 논란이 제기되고 있다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/13/trump-name-removed-kennedy-center-facade"
-            },
-            {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/live/2026/06/12/us/trump-news"
+              "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
+            },
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/news/politics/2026/06/12/trump-ufc-white-house-cage-match/90479895007/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-ufc-fight-white-house-protest"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "일론 머스크, 스페이스X 상장으로 세계 첫 조만장자 등극",
-          "summary": "일론 머스크가 자신의 우주 탐사 기업 스페이스X의 나스닥 상장으로 세계 최초의 조만장자(trillionaire)가 되었습니다. 스페이스X는 750억 달러 규모의 IPO를 통해 기업 가치 2조 달러를 넘어서며 아마존에 근접한 미국 6위 기업으로 도약했습니다. 이는 머스크의 로켓, 위성, AI 등 광범위한 사업 포트폴리오에 대한 투자자들의 기대가 반영된 결과입니다.",
+          "tag": "pol",
+          "title": "미치 매코널 전 상원 원내대표 입원, 건강 문제 지속",
+          "summary": "미치 매코널 전 미국 공화당 상원 원내대표(84세)가 14일(현지시간) 병원에 입원했다. 대변인은 그가 \"훌륭한 치료를 받고 있다\"고 밝혔으나, 구체적인 입원 사유나 상태는 공개되지 않았다. 매코널 전 원내대표는 최근 몇 년간 여러 차례 건강 문제로 언론의 주목을 받았으며, 2024년 상원 지도부 사임 및 2025년 재선 불출마를 선언한 바 있다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/14/us/politics/mitch-mcconnell-hospitalized.html"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/media-telecom/spacex-ipo-makes-elon-musk-worlds-first-trillionaire-2026-06-11/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital"
             },
             {
-              "name": "Oxfam",
-              "url": "https://www.oxfam.org/en/press-releases/soon-be-trillionaire-elon-musks-wealth-grew-over-1-million-minute-last-year"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jun/14/mitch-mcconnell-hospital"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "미국, 극심한 폭염으로 광범위한 지역에 경고 발령",
-          "summary": "미국 태평양 북서부와 남동부 등 광범위한 지역에 극심한 폭염 경고가 발령되었습니다. 국립기상청은 일부 지역에서 기온이 섭씨 38도 이상으로 치솟을 것으로 예보하며, 야외 활동 제한, 수분 섭취, 에어컨 사용 등 안전 수칙 준수를 당부했습니다. 폭염은 가장 치명적인 극심한 기상 조건 중 하나로 꼽힙니다.",
+          "title": "미주리주 스카이다이빙 비행기 추락, 탑승자 12명 전원 사망",
+          "summary": "미주리주 버틀러 인근에서 스카이다이빙을 위한 비행기가 이륙 직후 추락하여 조종사와 승객 11명을 포함한 탑승자 12명 전원이 사망했다. 비행기는 버틀러 기념 공항 근처 들판에 추락했으며 화염에 휩싸였다. 미주리주 고속도로 순찰대, 버틀러 경찰서, 베이츠 카운티 보안관실 등 여러 기관이 현장에 출동했으며, 연방항공청(FAA)과 국가교통안전위원회(NTSB)가 사고 원인을 조사 중이다.",
           "sources": [
             {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+            },
+            {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke"
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri"
             },
             {
-              "name": "Newsweek",
-              "url": "https://www.newsweek.com/millions-told-stay-inside-extreme-heat-trump-birthday-weekend-12069003"
-            },
-            {
-              "name": "USA Today",
-              "url": "https://www.usatoday.com/story/news/weather/2026/06/13/dangerous-heat-in-weekend-forecast/90527033007/"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash"
             }
           ],
           "verification": "multi",
@@ -198,20 +190,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "중국, 미 기업 블랙리스트 확장에 '권력 남용' 비난",
-          "summary": "미국이 중국 기업을 대상으로 한 블랙리스트를 확대하자 중국 상무부는 '국가 안보 개념을 과도하게 확대하고 국가 권력을 남용했다'며 강력히 비난했습니다. 이번 블랙리스트에는 알리바바, 바이두, BYD 등 중국의 주요 기술 및 산업 기업들이 포함되었으며, 이는 미중 간의 지정학적 경쟁 심화를 반영합니다.",
+          "title": "호주 싱크탱크, 중국의 직접 미사일 공격 위협 증가 경고",
+          "summary": "호주 싱크탱크인 로위 연구소(Lowy Institute)는 중국의 호주에 대한 직접적인 미사일 공격 위협이 증대되고 있다고 보고했다. 중국이 장거리 및 극초음속 무기를 축적하고 남중국해에 섬을 건설하면서 이러한 위협이 커지고 있으며, 중국의 DF-27 중거리 탄도 미사일과 잠재적인 재래식 대륙간 탄도 미사일의 증가는 향후 10년간 호주에 대한 타격 능력을 강화할 것이라고 분석했다.",
           "sources": [
             {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/14/asia-pacific/china-australia-missile-threat-grows/"
+            },
+            {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3357010/china-accuses-us-power-abuse-expanded-blacklist-chinese-firms?utm_source=rss_feed"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/13/china-dissatisfied-with-us-move-against-chinese-tech-firms.html"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/autos-transportation/china-strongly-dissatisfied-with-pentagon-move-against-top-chinese-tech-firms-2026-06-13/"
+              "url": "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
@@ -219,66 +207,50 @@
         },
         {
           "tag": "pol",
-          "title": "일본, 호르무즈 해협 안보 및 G7 정상회담 역할 강조",
-          "summary": "다카이치 사나에 일본 총리는 금융지에 기고문을 통해 호르무즈 해협의 자유롭고 안전한 항해를 보장하고 필수 물품 공급망을 강화하기 위한 국제 협력 증진을 약속했습니다. 그녀는 오는 G7 정상회담에서 이란 전쟁 종식과 해협의 지뢰 제거 노력을 논의할 트럼프 대통령과의 만남을 앞두고 일본의 외교적 노력을 강조했습니다.",
+          "title": "일본 황실, 남성 친척 입양 통한 후계자 부족 문제 해결 모색",
+          "summary": "일본 황실은 남성만을 황제로 인정하는 전통으로 인해 후계자 부족 문제에 직면했으며, 이를 해결하기 위해 의회가 남성 친척 입양을 허용하는 방안을 추진하고 있다. 이 제안은 황실에 미래 황제 후보를 더 확보하고 세계에서 가장 오래된 군주제의 유지를 돕기 위함이다. 그러나 일부 일본 관계자들은 여성도 황제가 될 수 있도록 하는 더 간단한 해결책이 있다고 주장하며 이 계획에 반대하고 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/13/japan/takaichi-diplomatic-efforts-hormuz/"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/middle-east/article/3357023/trump-discuss-strait-hormuz-demining-efforts-g7?utm_source=rss_feed"
-            },
-            {
-              "name": "HuffPost",
-              "url": "https://www.huffpost.com/entry/funeral-iran-supreme-leader-set-july-deal-nears-war_n_6a2d6020e4b0942fb778fec6"
+              "url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/japan-running-out-of-royals/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "중국 우주 기술, 미국 아르테미스 프로그램과 설계 차이 노출",
-          "summary": "중국 연구팀이 NASA의 아르테미스 프로그램에 '생명을 위협하는 약점'이 있다고 지적하며, 미국 달 착륙선이 단일 엔진에 의존하는 반면 중국은 3개의 백업 엔진을 사용한다고 밝혔습니다. 이는 우주 탐사 경쟁 속에서 각국이 인명 안전에 대한 가치와 기술적 접근 방식에서 차이를 보인다는 분석입니다.",
+          "tag": "eco",
+          "title": "앤트 그룹, AI 에이전트 인터페이스 도입 통한 슈퍼 앱 개편 추진",
+          "summary": "마윈이 지원하는 앤트 그룹이 억대 사용자를 보유한 자사의 알리페이 슈퍼 앱에 인공지능(AI) 에이전트 인터페이스를 도입하는 대대적인 개편을 시험 중이다. 이 새로운 디자인은 사용자가 AI에게 차량 예약, 커피 주문, 음식 배달 등의 요청을 음성이나 타이핑으로 할 수 있게 하며, 사용자 승인을 통해 뮤추얼 펀드 구매와 같은 자산 관리 업무도 수행할 수 있다. 이는 라이벌 위챗과의 사용자 확보 경쟁 심화 속에서 AI 에이전트의 편리성에 초점을 맞춘 업계 전반의 트렌드를 반영한다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3356839/chinese-team-flags-life-threatening-glaring-weakness-nasas-artemis-programme?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/06/14/tech/jack-ma-ant-group-app/"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "일본, 중국 의존도 줄이기 위해 그린란드 희토류 채굴 탐사 추진",
+          "summary": "일본 정부는 중국에 대한 희토류 의존도를 줄이기 위해 올여름부터 그린란드에서 희토류 및 기타 핵심 광물 채굴 가능성을 탐색할 계획이다. 일본 경제산업성, 무역회사, 일본 금속·에너지안보 기구 관계자들이 그린란드 정부 관계자들과 만나 희토류 프로젝트 투자를 논의할 예정이다. 이는 자국 기업의 희토류 확보를 지원하려는 노력의 일환이다.",
+          "sources": [
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/international-relations/japan-to-explore-rare-earth-mining-in-greenland-to-cut-china-reliance"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/"
+              "name": "Mining.com",
+              "url": "https://www.mining.com/web/japan-to-send-delegation-to-greenland-to-evaluate-rare-earth-extraction-nikkei-says/"
             },
             {
-              "name": "DD News",
-              "url": "https://ddnews.gov.in/en/artemis-crew-reaches-the-moon-approaches-record-breaking-distance-from-earth/"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/"
             }
           ],
           "verification": "multi",
           "tag_label": "기술·과학"
-        },
-        {
-          "tag": "eco",
-          "title": "스페이스X 상장, 중국 IPO 시장과 기술 기업에 영향",
-          "summary": "스페이스X의 기록적인 IPO는 재사용 로켓과 거대 위성군 기술을 개발 중인 중국 우주 스타트업들의 자금 조달에 활력을 불어넣을 것으로 예상됩니다. 그러나 일부 분석가들은 중국 기업들이 의미 있는 수익 없이 상장하는 경향이 있어 스페이스X 모델을 그대로 따르기는 어렵다고 지적하며 기술 격차가 여전하다고 보고 있습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/13/markets/spacex-ipo-nasdaq-debut/"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/13/tech/spacex-ipo-playbook-china/"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3357013/why-spacex-may-not-be-model-chinese-companies-copy?utm_source=rss_feed"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
         }
       ]
     },
@@ -289,20 +261,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "스위스, 인구 1천만 명 제한 국민투표 실시 예정",
-          "summary": "스위스에서 극우 정당이 제안한 인구 1천만 명 제한 국민투표가 이번 주말 진행됩니다. 이 제안이 통과될 경우 2050년까지 인구수를 1천만 명으로 제한하기 위해 가족 재결합, 거주 허가, 망명 정책에 강력한 제한이 가해지며, 이는 경제와 EU와의 자유로운 이동 협정에 심각한 영향을 미칠 수 있다는 우려가 제기됩니다.",
+          "title": "스위스 국민, 인구 1천만 명 상한선 국민투표 부결",
+          "summary": "스위스 유권자들이 인구를 1천만 명으로 제한하자는 국민투표 제안을 부결시켰다. 투표자의 약 55%가 반대하고 45%가 찬성했으며, 투표율은 60%를 기록했다. 이 제안은 우익 스위스국민당(SVP)이 주도했으며, 승인될 경우 유럽연합(EU)과의 자유로운 이동 협정을 위태롭게 할 수 있어 정부와 기업들의 반대에 부딪혔다. 스위스 법무부 장관은 이번 투표 결과가 \"안정성, 개방성, 신뢰성의 신호\"라고 평가했다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/13/swiss-voters-set-to-vote-on-capping-population-at-10-million"
+              "url": "http://www.euronews.com/my-europe/2026/06/14/swiss-voters-reject-bid-to-cap-population-at-10-million-a-move-that-would-have-limited-imm"
             },
             {
-              "name": "CNN",
-              "url": "https://www.cnn.com/2026/06/13/europe/switzerland-population-cap-referendum-intl-cmd"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/14/swiss-voters-set-to-reject-population-cap-in-referendum.html"
             }
           ],
           "verification": "multi",
@@ -310,20 +282,20 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프, 이란 평화 협정 서명 가능성 언급",
-          "summary": "도널드 트럼프 미국 대통령이 토요일 소셜미디어에 이란과의 평화 협정이 일요일에 서명될 예정이며, 이로 인해 호르무즈 해협이 국제 운송에 개방될 것이라고 밝혔습니다. 그러나 이란 외무부는 서명 시점에 대해 신중한 입장을 보이며, 협상의 복잡성과 군사적 옵션 유지 가능성을 시사했습니다.",
+          "title": "영국 해병대, 영불해협서 러시아 '그림자 선단' 유조선 제지",
+          "summary": "영국군은 14일(현지시간) 영불해협에서 러시아의 '그림자 선단'으로 의심되는 제재 대상 유조선 Smyrtos호를 제지하고 조사에 착수했다. 왕립 해병대 코만도스와 국립범죄청(NCA) 소속 법 집행관들이 영국군 항공기 및 군함의 지원을 받아 6시간에 걸쳐 선박에 진입했다. 이는 러시아의 우크라이나 전쟁 자금 조달을 막기 위한 영국 주도의 첫 작전으로, 시어 스타머 영국 총리는 이번 작전이 러시아에 또 다른 타격을 가했다고 밝혔다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/13/trump-announces-iran-peace-deal-could-be-signed-on-sunday"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/13/us-iran-peace-deal-expected-to-be-signed-sunday-trump-says/"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
             }
           ],
           "verification": "multi",
@@ -331,45 +303,45 @@
         },
         {
           "tag": "pol",
-          "title": "우크라이나-러시아 교전 지속 속 EU 가입 절차 진행",
-          "summary": "우크라이나와 러시아가 공습을 주고받는 교전이 지속되는 가운데, 유럽연합(EU) 회원국들이 다음 주 우크라이나 및 몰도바와의 가입 협상 개시를 합의했습니다. 이는 러시아의 침공 속에서도 EU 가입을 안보 강화의 중요한 전략적 목표로 삼는 우크라이나의 노력을 인정한 것으로 평가됩니다.",
+          "title": "G7 정상회의 앞두고 제네바에서 대규모 반대 시위 발생",
+          "summary": "G7 정상회의를 하루 앞둔 14일(현지시간) 스위스 제네바에서 수천 명의 시위대가 G7에 대한 불만을 표출하며 경찰과 충돌했다. 시위대는 자동차에 불을 지르고 은행 창문을 부수는 등의 행위를 벌였으며, 경찰은 최루탄을 사용해 대응했다. 이 시위에는 환경운동가, 페미니스트, 반제국주의자 등이 참여했으며, 도널드 트럼프 미국 대통령 등 G7 정상들은 인근 프랑스에서 정상회의를 가질 예정이다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/13/ukraine-and-russia-trade-strikes-as-kyiv-inches-closer-to-eu-membership"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3357079/thousands-hold-g7-protest-geneva-world-leaders-prepare-summit-nearby-france?utm_source=rss_feed"
+            },
+            {
+              "name": "The Sun Chronicle",
+              "url": "https://www.thesunchronicle.com/news/nation_world/protesters-in-geneva-clash-with-police-ahead-of-the-g7-summit-in-nearby-france/article_0f7a28c0-32f0-59b8-b6c6-3324ff734de8.html"
             },
             {
               "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/world-nation/story/2026-06-12/eu-agrees-to-talk-ukraine-membership-despite-ongoing-war-with-russia"
-            },
-            {
-              "name": "politico.eu",
-              "url": "https://www.politico.eu/article/eu-countries-membership-talks-with-ukraine-and-moldova/"
+              "url": "https://www.latimes.com/world-nation/story/2026-06-14/protesters-in-geneva-clash-with-police-ahead-of-g-7-summit"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "Anthropic, 미 정부 지시에 따라 AI 모델 접근 중단",
-          "summary": "미국 AI 기업 Anthropic이 트럼프 행정부의 지시에 따라 최신 AI 모델인 Fable 5와 Mythos 5에 대한 외국인 접근을 중단했습니다. 이는 국가 안보 우려와 잠재적인 '탈옥(jailbreak)' 가능성 때문으로 알려졌으며, 유럽 정치권에서는 자국 기술 투자 확대를 촉구하며 '기술 주권'에 대한 경각심을 높이고 있습니다.",
+          "tag": "soc",
+          "title": "브라질 리우데자네이루 헬리콥터 충돌 사고로 6명 사망",
+          "summary": "14일(현지시간) 브라질 리우데자네이루 서부에서 헬리콥터 2대가 공중 충돌해 주차장으로 추락, 6명이 사망했다. 충돌 후 발생한 화재로 최소 20대의 차량이 전소되었으며, 사망자는 모두 헬리콥터 승무원으로 확인되었다. 이 사고로 미국의 유명 가수 올리버 트리와 아르헨티나 유튜버 가스피가 사망자 명단에 포함된 것으로 알려졌다. 브라질 공군이 사고 원인을 조사 중이다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/2026/06/13/wake-up-call-europe-reacts-to-anthropic-halting-access-to-its-fable-5-and-mythos-5-ai-mode"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/americas/article/3357082/6-killed-after-helicopters-collide-rio-de-janeiro-crashing-car-park?utm_source=rss_feed"
             },
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+              "name": "AP News",
+              "url": "https://apnews.com/article/brazil-rio-helicopter-collision-dc3e059c8dcc4fbd84f714dd3c5ab2c8"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "사회"
         }
       ]
     },
@@ -380,20 +352,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "Anthropic, 미 정부 지시에 따라 AI 모델 접근 중단",
-          "summary": "미국 AI 기업 Anthropic이 트럼프 행정부의 지시에 따라 최신 AI 모델인 Fable 5와 Mythos 5에 대한 외국인 접근을 중단했습니다. 이는 국가 안보 우려와 Fable 5의 잠재적 '탈옥(jailbreak)' 가능성 때문으로 알려졌으며, 이로 인해 유럽 정치권에서는 자국 기술 주권 강화를 촉구하는 목소리가 높아지고 있습니다.",
+          "title": "미국, 중국 우려로 Anthropic AI 모델 Mythos 및 Fable 수출 통제",
+          "summary": "미국 정부는 국가 안보 우려를 이유로 Anthropic의 최첨단 AI 모델인 Fable 5와 Mythos 5에 대한 수출 통제 지침을 발표했다. 이에 따라 Anthropic은 자사 AI 모델에 대한 모든 외국인 사용자의 접근을 차단했으며, 여기에는 외국인 Anthropic 직원도 포함된다. 백악관은 중국 관련 단체가 Mythos에 접근했을 수 있다는 의혹과 아마존의 사이버 보안 연구 결과가 이번 결정에 영향을 미쳤다고 보도되었다. 유럽연합(EU) 집행위원회는 이러한 조치가 차별적이지 않아야 한다고 경고하며 EU 사용자에게 미칠 영향에 대해 검토 중이다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/2026/06/13/wake-up-call-europe-reacts-to-anthropic-halting-access-to-its-fable-5-and-mythos-5-ai-mode"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+              "url": "http://www.euronews.com/my-europe/2026/06/14/us-export-controls-on-anthropic-should-not-be-discriminatory-eu-commission-warns"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
+            },
+            {
+              "name": "HuffPost",
+              "url": "https://www.huffpost.com/entry/us-government-anthropic-advanced-ai-models_n_6a2cc19be4b08741f51b0c56?origin=home-latest-news-unit"
             }
           ],
           "verification": "multi",
@@ -401,44 +373,36 @@
         },
         {
           "tag": "tec",
-          "title": "스페이스X 상장, AI 잠재력에 대한 기대 증폭",
-          "summary": "일론 머스크의 스페이스X가 나스닥에 성공적으로 상장하며 기업 가치 2조 달러를 돌파하고 머스크를 세계 최초의 조만장자로 만들었습니다. 이는 투자자들이 로켓, 위성뿐만 아니라 스페이스X의 AI 기술 잠재력에 큰 기대를 걸고 있음을 보여주며, 향후 OpenAI, Anthropic 등 주요 AI 기업들의 IPO에도 긍정적인 영향을 미칠 것으로 전망됩니다.",
+          "title": "FBI, 사이버 공격 시뮬레이션 위한 가상 도시 '사이버 레인지' 구축",
+          "summary": "미국 연방수사국(FBI)이 사이버 공격 시뮬레이션 훈련을 위해 앨라배마주 헌츠빌에 22,000평방피트 규모의 가상 도시 '사이버 레인지'를 구축했다. 이 시설은 편의점, 주유소, 병원, 가구가 비치된 주택 등 실제 도시의 모습을 재현하며, 200대 이상의 서버를 갖춘 데이터 센터도 포함한다. 외부망과 완전히 분리되어 있어 악성 코드가 유출될 위험 없이 실제 상황과 유사한 사이버 공격 시나리오를 훈련하고 연구할 수 있다. 이 시설은 작년에 개장했으며 FBI는 이번 주에 처음으로 내부 모습을 공개했다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/13/markets/spacex-ipo-nasdaq-debut/"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/06/12/spacex-ipo-anthropic-openai"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "인간 두뇌, 90대에도 인지 능력 향상 가능성 연구 발표",
-          "summary": "텍사스 대학교 댈러스 캠퍼스의 연구에 따르면, 인간의 두뇌 건강과 인지 능력은 90대까지도 계속 향상될 수 있다는 연구 결과가 나왔습니다. 약 4,000명의 성인을 대상으로 한 3년간의 연구에서 매일 단 몇 분간의 두뇌 훈련 활동만으로도 사고 명확성, 정서적 안정, 목적 의식 등 여러 방면에서 뇌 건강이 개선될 수 있음을 확인했습니다. 또한, 70대 이후 악기 학습이 기억력 유지에 도움이 될 수 있다는 연구 결과도 발표되었습니다.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range"
             },
             {
               "name": "New York Post",
-              "url": "https://nypost.com/2026/06/10/health/neurosurgeon-5-ways-i-keep-my-brain-healthy/"
+              "url": "https://nypost.com/2026/06/12/us-news/fbi-reveals-22000-square-foot-fake-town-in-alabama-used-to-train-agents-for-cyber-warfare/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
             }
           ],
           "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "과학자들, 앵무새가 실제로 '이름'을 사용한다는 증거 발견",
+          "summary": "새로운 연구에 따르면 앵무새가 단순히 단어를 반복하는 것을 넘어 실제로 '이름'을 사용한다는 증거가 발견되었다. 연구자들은 수백 개의 애완 앵무새 녹음 자료를 분석한 결과, 많은 새들이 특정 사람, 동물, 심지어 동료를 식별하기 위해 고유한 이름을 사용하는 것을 확인했다. 일부 앵무새는 없는 대상을 지칭하거나, 자신의 이름을 사용하여 주의를 끄는 등 창의적인 방식으로 이름을 활용하는 모습도 관찰되었다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm"
+            }
+          ],
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
