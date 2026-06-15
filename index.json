@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-15",
-  "date_str": "2026년 6월 15일 (월)",
+  "date": "2026-06-16",
+  "date_str": "2026년 6월 16일 (화)",
   "key5": [
-    "이란, 미국과의 종전 합의 및 호르무즈 해협 개방 발표로 국제유가 안정 기대",
-    "트럼프 대통령, 80세 생일 맞아 백악관에서 UFC 행사 개최하며 논란 가중",
-    "스위스 국민, 인구 1천만 명 상한선 제안 국민투표 부결, EU 관계 유지 선택",
-    "영국 해병대, 영불해협에서 러시아 '그림자 선단' 유조선 제지하며 첫 작전 성공",
-    "미국, 중국 우려로 Anthropic AI 모델 Mythos 및 Fable에 대한 수출 통제 발표"
+    "미국-이란 종전 합의, 국제 사회 환영 속 유가 하락 및 증시 상승",
+    "폭스, 로쿠 220억 달러에 인수하여 스마트 TV 및 광고 시장 확장",
+    "영국, 16세 미만 아동 소셜 미디어 사용 금지 발표 (2027년 시행 예정)",
+    "노르웨이 왕세자비 아들, 강간 혐의로 유죄 판결 및 4년형 선고",
+    "이재명 대통령, G7 정상회의 참석 및 교황청 방문 등 해외 순방 활동 이어가"
   ],
   "regions": [
     {
@@ -16,79 +16,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령, 교황청 방문해 한반도 평화 메시지 전달",
-          "summary": "이재명 대통령은 교황청 방문 중 레오 14세 교황과 면담하고 피에트로 파롤린 국무원장과도 만났다. 이 대통령은 면담에서 세계 평화와 연대를 위해 협력하고 한반도 평화에 대한 교황청의 관심과 성원을 당부할 것으로 예상된다. 앞서 특별미사에서는 6·15 남북공동선언을 언급하며 한반도 평화 노력 의지를 밝혔다.",
+          "title": "이재명 대통령, G7 정상회의 참석 및 교황청 방문 등 해외 순방 활동",
+          "summary": "이재명 대통령은 16일 프랑스 에비앙에서 열리는 주요 7개국(G7) 정상회의에 참석하여 확대회담을 소화하고 글로벌 현안을 논의할 예정입니다. 앞서 15일에는 바티칸을 방문해 레오 14세 교황을 면담하고 '하느님의 품' 조각상 등을 선물했으며, 이탈리아 교민들과 만나 재외국민 투표권 행사의 중요성을 강조했습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260614044800001"
+              "url": "https://www.yna.co.kr/view/AKR20260615165500001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260614002251001"
+              "url": "https://www.yna.co.kr/view/AKR20260615165451001"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606150747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260615135051001"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "이재명 대통령, 투표용지 부족 사태 관련 선관위 국정조사 촉구",
-          "summary": "이재명 대통령은 지방선거 투표용지 부족 사태에 대해 \"황당하고 당황스럽다\"고 질타하며, 국회 국정조사 특위와 검경 합수본의 철저하고 투명한 진상 규명을 주문했다. 또한, 참정권 침해 문제 제기는 수용하되 이를 악용한 부정선거 음모론 선동과 불법적 시위 행태에는 법과 원칙에 따라 엄정 대처할 것을 강조했다.",
+          "tag": "soc",
+          "title": "밀양 집단 성폭행 사건 가해자 정보 무단 조회 법원 직원 검찰 송치",
+          "summary": "2004년 밀양에서 발생한 집단 성폭행 사건 가해자들의 주민등록정보를 법원 내부 전산망을 통해 사적으로 조회한 서울서부지법 소속 주사 A씨가 개인정보보호법 위반 혐의로 검찰에 송치되었습니다. 이 사건은 최근 온라인에서 가해자들의 신상 정보가 재조명되며 사회적 관심이 다시 높아졌습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260615001600001"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260616020300004"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260614053200001"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606160807001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
           "tag": "eco",
-          "title": "고금리 속 자영업자 부채 증가 및 고령층 채무불이행 심화",
-          "summary": "금리 급등과 내수 부진이 이어지는 가운데, 자영업자의 연체 대출 규모가 올해 들어 7.7% 증가하며 37조8천억 원에 육박했다. 특히 60대 이상 고령층 자영업자의 대출 잔액은 전 연령대 중 유일하게 증가해 400조 원을 넘어섰고, 채무불이행자 수와 이들의 대출액 증가율도 가장 높아 재무 위험이 커지고 있다. 한편, 정규직 등 고용 안정성이 높은 상용일자리가 26년 5개월 만에 처음으로 감소했으며, 특히 2030세대의 정보통신 및 전문·과학·기술 서비스업 일자리 감소가 두드러져 AI 대체 우려가 제기된다.",
+          "title": "최저임금위원회, 업종별 차등 적용 논의 본격화",
+          "summary": "최저임금위원회는 16일 제6차 전원회의를 열고 내년도 최저임금을 업종별로 달리 적용할지 여부를 논의하기 시작했습니다. 경영계는 음식·숙박업 등 취약 업종의 부담 완화를 위해 차등 적용을 주장하는 반면, 노동계는 특정 업종 노동자에 대한 낙인 효과와 차별 적용이라며 반대하고 있어 노사 간의 첨예한 줄다리기가 예상됩니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260613047900002"
+              "url": "https://www.yna.co.kr/view/AKR20260615138200530"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606150722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/opinion/column/1263521.html"
+              "url": "https://www.khan.co.kr/article/202606160744001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "미등록 이주민 처우 개선 논의, 사회안전망 및 체류권 보장 촉구",
-          "summary": "현재 40만 명에 이르는 미등록 이주노동자들이 한국 사회의 필수 노동력으로 자리 잡은 가운데, 이들에 대한 인권 침해 문제가 빈번하게 발생하고 있다. 정부는 외국인력 통합지원 태스크포스(TF)를 통해 미등록 이주노동자 일부를 양성화하는 방안을 검토 중이며, 노동계와 시민사회는 이들의 최소한의 체류권과 제도적 보장 장치 마련을 요구하고 있다. 장기 체류 미등록 이주민들은 단속의 공포 속에 생애의 중요한 순간들을 놓치고 있으며, 추방 중심 정책의 실효성에 대한 지적도 제기된다.",
+          "tag": "pol",
+          "title": "미국-이란 종전 합의, 국제 사회 환영 속 경제 영향 분석",
+          "summary": "이재명 대통령은 15일 미국과 이란의 종전 협상 타결 소식에 국제사회가 기대해 온 중요한 진전이라며 환영의 뜻을 밝혔습니다. 이번 합의로 호르무즈 해협의 안전한 항행이 보장되고 글로벌 에너지 수급이 안정화될 것으로 기대되면서, 국내 물가와 기업 경영 부담 완화 및 경제 회복의 계기가 마련될 것이라는 전망이 나오고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1263522.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260616014500011"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/labor/1263520.html"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260615171251001"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/gold-gains-over-1-after-us-iran-reach-peace-deal-2026-06-15/"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -99,62 +99,62 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이란, 미국과의 종전 합의 발표…호르무즈 해협 개방 전망",
-          "summary": "이란 외무차관은 15일(현지시간) 미국과 이란의 종전 양해각서(MOU) 체결 및 전쟁 중단을 공식 발표했다. 이는 레바논을 포함한 모든 전선에서의 군사 작전 종료를 의미하며, 합의 이행은 19일부터 효력이 발생한다. 트럼프 미국 대통령도 협상 타결 사실을 확인하며 19일 합의 서명 직후 호르무즈 해협이 개방될 것이라고 밝혔다.",
+          "title": "트럼프 행정부, 미국-이란 종전 합의 발표 및 정치적 영향",
+          "summary": "트럼프 행정부는 미국과 이란 간의 전쟁 종전 합의를 발표했으며, 이로 인해 국제 시장이 크게 반등했습니다. 트럼프 대통령은 이번 합의에 대해 중국과 러시아에 감사하며, 호르무즈 해협 재개방을 포함한 조건들을 강조했습니다. 그러나 일부 비판가들은 이번 합의가 오바마 행정부의 이란 핵 협상보다 조건이 좋지 않을 수 있다고 지적하고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260615017600009"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260615018100071"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html"
             },
             {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/14/trump-says-iran-peace-deal-complete-ends-strait-of-hormuz-blockade/"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/trump-veers-toward-exit-iran-war-risks-loom-2026-06-15/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "트럼프 대통령, 80세 생일 맞아 백악관에서 UFC 행사 개최 논란",
-          "summary": "도널드 트럼프 미국 대통령이 80세 생일을 기념하여 백악관 사우스 론에서 UFC(Ultimate Fighting Championship) 행사를 개최했다. 이 행사는 7개 경기로 구성되며, 총 6천만 달러 이상이 소요될 것으로 추정된다. 일각에서는 대통령의 생일과 국가의 250주년을 기념하는 동시에 트럼프 대통령이 UFC 모회사 지분을 소유하고 있어 이해충돌 논란이 제기되고 있다.",
+          "tag": "eco",
+          "title": "스페이스X, 사상 최대 규모 IPO 통해 나스닥 상장 후 주가 급등",
+          "summary": "일론 머스크가 이끄는 스페이스X가 12일(현지시간) 나스닥 시장에 상장되어 공모가 135달러 대비 11% 상승한 150달러에 거래를 시작했습니다. 이는 역사상 최대 규모의 기업공개(IPO)로, 차등의결권 구조를 통해 일론 머스크가 회사 의결권의 약 84%를 독점하게 되었습니다. 상장 첫날 주가는 급등세를 보였습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1263721.html"
             },
             {
-              "name": "USA Today",
-              "url": "https://www.usatoday.com/story/news/politics/2026/06/12/trump-ufc-white-house-cage-match/90479895007/"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html"
             },
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-ufc-fight-white-house-protest"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "pol",
-          "title": "미치 매코널 전 상원 원내대표 입원, 건강 문제 지속",
-          "summary": "미치 매코널 전 미국 공화당 상원 원내대표(84세)가 14일(현지시간) 병원에 입원했다. 대변인은 그가 \"훌륭한 치료를 받고 있다\"고 밝혔으나, 구체적인 입원 사유나 상태는 공개되지 않았다. 매코널 전 원내대표는 최근 몇 년간 여러 차례 건강 문제로 언론의 주목을 받았으며, 2024년 상원 지도부 사임 및 2025년 재선 불출마를 선언한 바 있다.",
+          "title": "미국 독립 250주년 기념 행사, 정치적 분열 심화",
+          "summary": "미국의 독립 250주년 기념 행사가 도널드 트럼프 대통령이 의회 위원회를 우회하고 자체적으로 'Freedom 250'이라는 조직을 설립하면서 깊은 당파적 분열에 직면했습니다. 의회 민주당은 이 조직을 대통령의 개인적인 '허영심 프로젝트'로 비판하며, 국가적 통합의 순간에 정치적 분열을 심화시킨다고 주장하고 있습니다. 일부 주에서는 트럼프 대통령이 주도하는 'Great American State Fair' 참여를 철회하기도 했습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/14/us/politics/mitch-mcconnell-hospitalized.html"
+              "url": "https://www.nytimes.com/2026/06/15/us/politics/freedom-250-america-250.html"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital"
+              "url": "https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/14/mitch-mcconnell-hospital"
+              "name": "Politico",
+              "url": "https://www.politico.com/news/2026/06/12/freedom-250-national-mall-fair-conservative-groups-00960904"
             }
           ],
           "verification": "multi",
@@ -162,20 +162,20 @@
         },
         {
           "tag": "soc",
-          "title": "미주리주 스카이다이빙 비행기 추락, 탑승자 12명 전원 사망",
-          "summary": "미주리주 버틀러 인근에서 스카이다이빙을 위한 비행기가 이륙 직후 추락하여 조종사와 승객 11명을 포함한 탑승자 12명 전원이 사망했다. 비행기는 버틀러 기념 공항 근처 들판에 추락했으며 화염에 휩싸였다. 미주리주 고속도로 순찰대, 버틀러 경찰서, 베이츠 카운티 보안관실 등 여러 기관이 현장에 출동했으며, 연방항공청(FAA)과 국가교통안전위원회(NTSB)가 사고 원인을 조사 중이다.",
+          "title": "미국 B-52 폭격기 캘리포니아 기지에서 추락, 8명 사망 추정",
+          "summary": "미국 공군 B-52 스트라토포트리스 폭격기가 15일(현지시간) 캘리포니아주 에드워즈 공군기지에서 이륙 직후 추락하여 탑승자 8명 전원이 사망한 것으로 추정됩니다. 기지 측은 사고 직후 긴급 구조대가 현장에 출동했으나, 초기 징후로 보아 생존자는 없는 것으로 판단된다고 밝혔습니다. 사고 원인은 아직 조사 중입니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+              "url": "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash"
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/15/8-believed-dead-after-b-52-crashes-after-takeoff-at-edwards-air-force-base/"
             }
           ],
           "verification": "multi",
@@ -189,68 +189,63 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "호주 싱크탱크, 중국의 직접 미사일 공격 위협 증가 경고",
-          "summary": "호주 싱크탱크인 로위 연구소(Lowy Institute)는 중국의 호주에 대한 직접적인 미사일 공격 위협이 증대되고 있다고 보고했다. 중국이 장거리 및 극초음속 무기를 축적하고 남중국해에 섬을 건설하면서 이러한 위협이 커지고 있으며, 중국의 DF-27 중거리 탄도 미사일과 잠재적인 재래식 대륙간 탄도 미사일의 증가는 향후 10년간 호주에 대한 타격 능력을 강화할 것이라고 분석했다.",
+          "tag": "eco",
+          "title": "미국-이란 종전 합의에 일본 증시 사상 최고치 경신",
+          "summary": "미국과 이란의 종전 합의 소식에 15일(현지시간) 일본 증시 닛케이 225 평균주가가 사상 처음으로 69,000선을 돌파하며 69,317.50에 마감했습니다. 중동 불안정 해소와 유가 급락에 대한 기대감으로 에너지 수입 의존도가 높은 일본 경제 회복 및 기업 비용 절감 효과가 예상되며 광범위한 매수세가 유입되었습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/14/asia-pacific/china-australia-missile-threat-grows/"
+              "url": "https://www.japantimes.co.jp/business/2026/06/15/markets/nikkei-surge-69000-iran-deal/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/australasia/article/3357080/chinas-direct-strike-threat-australia-growing-think-tank-report-finds?utm_source=rss_feed"
+              "name": "Bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-14/us-futures-climb-oil-falls-on-iran-peace-deal-markets-wrap"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "일본 황실, 남성 친척 입양 통한 후계자 부족 문제 해결 모색",
-          "summary": "일본 황실은 남성만을 황제로 인정하는 전통으로 인해 후계자 부족 문제에 직면했으며, 이를 해결하기 위해 의회가 남성 친척 입양을 허용하는 방안을 추진하고 있다. 이 제안은 황실에 미래 황제 후보를 더 확보하고 세계에서 가장 오래된 군주제의 유지를 돕기 위함이다. 그러나 일부 일본 관계자들은 여성도 황제가 될 수 있도록 하는 더 간단한 해결책이 있다고 주장하며 이 계획에 반대하고 있다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/japan-running-out-of-royals/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "앤트 그룹, AI 에이전트 인터페이스 도입 통한 슈퍼 앱 개편 추진",
-          "summary": "마윈이 지원하는 앤트 그룹이 억대 사용자를 보유한 자사의 알리페이 슈퍼 앱에 인공지능(AI) 에이전트 인터페이스를 도입하는 대대적인 개편을 시험 중이다. 이 새로운 디자인은 사용자가 AI에게 차량 예약, 커피 주문, 음식 배달 등의 요청을 음성이나 타이핑으로 할 수 있게 하며, 사용자 승인을 통해 뮤추얼 펀드 구매와 같은 자산 관리 업무도 수행할 수 있다. 이는 라이벌 위챗과의 사용자 확보 경쟁 심화 속에서 AI 에이전트의 편리성에 초점을 맞춘 업계 전반의 트렌드를 반영한다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/14/tech/jack-ma-ant-group-app/"
-            }
-          ],
-          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "일본, 중국 의존도 줄이기 위해 그린란드 희토류 채굴 탐사 추진",
-          "summary": "일본 정부는 중국에 대한 희토류 의존도를 줄이기 위해 올여름부터 그린란드에서 희토류 및 기타 핵심 광물 채굴 가능성을 탐색할 계획이다. 일본 경제산업성, 무역회사, 일본 금속·에너지안보 기구 관계자들이 그린란드 정부 관계자들과 만나 희토류 프로젝트 투자를 논의할 예정이다. 이는 자국 기업의 희토류 확보를 지원하려는 노력의 일환이다.",
+          "tag": "eco",
+          "title": "EU 탄소 관세 부과로 중국 철강 기업들 '불합리한 규제' 직면",
+          "summary": "유럽연합(EU)의 탄소국경조정메커니즘(CBAM)이 1월부터 시행되면서 중국 철강 기업들이 새로운 규제 준수 부담에 시달리고 있습니다. 특히 친환경 기술을 사용하는 중소기업들이 더욱 큰 타격을 받고 있으며, EU는 국내 생산품과 동일한 탄소 비용을 부과하여 '탄소 누출'을 방지하고자 하지만, 중국 기업들은 '불합리한 규칙'이라며 어려움을 호소하고 있습니다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/politics/international-relations/japan-to-explore-rare-earth-mining-in-greenland-to-cut-china-reliance"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/economy/china-economy/article/3357167/eu-carbon-tariff-sows-havoc-china-steel-firms-grapple-absurd-rules?utm_source=rss_feed"
             },
             {
-              "name": "Mining.com",
-              "url": "https://www.mining.com/web/japan-to-send-delegation-to-greenland-to-evaluate-rare-earth-extraction-nikkei-says/"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/japan-send-delegation-greenland-evaluate-rare-earth-extraction-nikkei-says-2026-06-14/"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s41578-026-00934-2"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "일본의 강화된 안보 역할, 아시아 국가들 인식 변화",
+          "summary": "일본의 강화된 안보 역할에 대한 아시아 국가들의 인식이 변화하고 있으며, 이는 중국의 '일본 신군국주의' 비판이 힘을 잃고 있음을 시사합니다. 필리핀 국방장관은 중국의 '부적절한 역사 사용'을 비판하며 일본을 '세계의 모범 시민'으로 평가했습니다. 일본은 미국-필리핀 군사훈련에 자위대 인력을 파견하고 인도네시아와 방위 파트너십을 체결하는 등 아시아 지역에서 안보 협력을 확대하고 있습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/commentary/2026/06/15/japan/japanese-neo-militarism/"
+            },
+            {
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/kim-jong-un-is-gaining-major-ground-in-the-great-power-game-12055449"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -261,20 +256,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "스위스 국민, 인구 1천만 명 상한선 국민투표 부결",
-          "summary": "스위스 유권자들이 인구를 1천만 명으로 제한하자는 국민투표 제안을 부결시켰다. 투표자의 약 55%가 반대하고 45%가 찬성했으며, 투표율은 60%를 기록했다. 이 제안은 우익 스위스국민당(SVP)이 주도했으며, 승인될 경우 유럽연합(EU)과의 자유로운 이동 협정을 위태롭게 할 수 있어 정부와 기업들의 반대에 부딪혔다. 스위스 법무부 장관은 이번 투표 결과가 \"안정성, 개방성, 신뢰성의 신호\"라고 평가했다.",
+          "title": "러시아, 영국 총리 겨냥 방화 공격 배후로 지목",
+          "summary": "영국 BBC 조사 결과, 영국 키어 스타머 총리를 겨냥한 방화 공격의 배후에 러시아 정부가 있었던 것으로 밝혀졌습니다. 22세 우크라이나인 로만 라브리노비치 등 2명이 방화 공모 혐의로 유죄 판결을 받았으며, 이들은 익명의 러시아인 조종자로부터 지시를 받고 러시아 시민권을 제안받았던 것으로 드러났습니다. 러시아는 모든 혐의를 부인했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/14/swiss-voters-reject-bid-to-cap-population-at-10-million-a-move-that-would-have-limited-imm"
+              "url": "http://www.euronews.com/my-europe/2026/06/15/two-men-convicted-of-arson-plot-targeting-uk-prime-ministers-properties"
             },
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/14/swiss-voters-set-to-reject-population-cap-in-referendum.html"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-convicts-two-over-pm-targeting-plot-run-by-mysterious-russian"
             }
           ],
           "verification": "multi",
@@ -282,20 +277,20 @@
         },
         {
           "tag": "pol",
-          "title": "영국 해병대, 영불해협서 러시아 '그림자 선단' 유조선 제지",
-          "summary": "영국군은 14일(현지시간) 영불해협에서 러시아의 '그림자 선단'으로 의심되는 제재 대상 유조선 Smyrtos호를 제지하고 조사에 착수했다. 왕립 해병대 코만도스와 국립범죄청(NCA) 소속 법 집행관들이 영국군 항공기 및 군함의 지원을 받아 6시간에 걸쳐 선박에 진입했다. 이는 러시아의 우크라이나 전쟁 자금 조달을 막기 위한 영국 주도의 첫 작전으로, 시어 스타머 영국 총리는 이번 작전이 러시아에 또 다른 타격을 가했다고 밝혔다.",
+          "title": "G7 정상회의, 러시아 추가 제재 및 우크라이나 지원 논의",
+          "summary": "프랑스 에비앙에서 열리는 G7 정상회의에서 키어 스타머 영국 총리는 러시아의 수익원을 차단하기 위한 추가 제재와 우크라이나 핵 발전소에 대한 2억 1천만 파운드 규모의 에너지 지원 계획을 발표했습니다. 이번 제재는 러시아의 불법 유조선단 및 군사 기술 조달 네트워크를 겨냥하며, 우크라이나 대통령 볼로디미르 젤렌스키도 참석하여 G7 정상들과 러시아의 침공에 대한 대응 방안을 논의할 예정입니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/uk-hits-russia-with-fresh-energy-sanctions-at-g7/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending"
             }
           ],
           "verification": "multi",
@@ -303,20 +298,41 @@
         },
         {
           "tag": "pol",
-          "title": "G7 정상회의 앞두고 제네바에서 대규모 반대 시위 발생",
-          "summary": "G7 정상회의를 하루 앞둔 14일(현지시간) 스위스 제네바에서 수천 명의 시위대가 G7에 대한 불만을 표출하며 경찰과 충돌했다. 시위대는 자동차에 불을 지르고 은행 창문을 부수는 등의 행위를 벌였으며, 경찰은 최루탄을 사용해 대응했다. 이 시위에는 환경운동가, 페미니스트, 반제국주의자 등이 참여했으며, 도널드 트럼프 미국 대통령 등 G7 정상들은 인근 프랑스에서 정상회의를 가질 예정이다.",
+          "title": "헝가리 의회, 총리 임기 8년 제한 헌법 개정안 통과",
+          "summary": "헝가리 의회는 총리 임기를 최대 8년으로 제한하는 헌법 개정안을 통과시켰으며, 이는 지난 4월 선거에서 16년간 집권했던 빅토르 오르반 전 총리를 축출한 페테르 마자르 총리의 주요 공약 중 하나였습니다. 이 개정안은 소급 적용되어 오르반 전 총리의 재집권을 사실상 불가능하게 하며, 권력 집중 방지와 민주주의 재건을 목표로 합니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3357079/thousands-hold-g7-protest-geneva-world-leaders-prepare-summit-nearby-france?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/europe/article/3357212/hungarian-parliament-rules-out-orban-return-8-year-limit-prime-ministers?utm_source=rss_feed"
             },
             {
-              "name": "The Sun Chronicle",
-              "url": "https://www.thesunchronicle.com/news/nation_world/protesters-in-geneva-clash-with-police-ahead-of-the-g7-summit-in-nearby-france/article_0f7a28c0-32f0-59b8-b6c6-3324ff734de8.html"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/hungarian-parliament-approves-8-year-term-limit-for-prime-ministers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/world-nation/story/2026-06-14/protesters-in-geneva-clash-with-police-ahead-of-g-7-summit"
+              "name": "TVP World",
+              "url": "https://tvpworld.com/93821327/hungary-bars-orbn-from-returning-to-power-under-8-year-limit-for-pms"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "EU 집행위, 이스라엘 정착촌 제품 무역 제한 방안 논의",
+          "summary": "유럽연합(EU) 회원국들의 강력한 요청에 따라 EU 집행위원회는 이스라엘 정착촌에서 생산된 제품에 대한 EU 무역 제한 방안을 제안할 예정입니다. 일부 회원국들은 불법 정착촌 제품에 대한 무역 제한을 주장하며, 이스라엘 국가안보장관 이타마르 벤 그비르에 대한 제재 논의도 있었으나 합의에는 이르지 못했습니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/business/2026/06/15/eu-commission-expected-to-propose-trade-restriction-options-against-israeli-settlements"
+            },
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/06/15/eu-fails-to-reach-agreement-on-sanctioning-israels-ben-gvir-despite-member-state-pressure"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/jun/15/settler-products-from-occupied-palestine-sold-to-europe-as-israeli-investigation-finds"
             }
           ],
           "verification": "multi",
@@ -324,20 +340,20 @@
         },
         {
           "tag": "soc",
-          "title": "브라질 리우데자네이루 헬리콥터 충돌 사고로 6명 사망",
-          "summary": "14일(현지시간) 브라질 리우데자네이루 서부에서 헬리콥터 2대가 공중 충돌해 주차장으로 추락, 6명이 사망했다. 충돌 후 발생한 화재로 최소 20대의 차량이 전소되었으며, 사망자는 모두 헬리콥터 승무원으로 확인되었다. 이 사고로 미국의 유명 가수 올리버 트리와 아르헨티나 유튜버 가스피가 사망자 명단에 포함된 것으로 알려졌다. 브라질 공군이 사고 원인을 조사 중이다.",
+          "title": "노르웨이 왕세자비 아들, 강간 혐의로 4년형 선고",
+          "summary": "노르웨이 메테-마리트 왕세자비의 아들인 마리우스 보르그 회이비(29)가 두 건의 강간 혐의로 유죄 판결을 받고 4년 징역형을 선고받았습니다. 오슬로 지방법원은 그가 다른 두 건의 강간 혐의에 대해서는 무죄를 선고했지만, 전 여자친구 학대 및 다른 파트너에게 중상을 입힌 혐의에 대해서는 유죄를 인정했습니다. 회이비 측 변호사는 항소할 예정이라고 밝혔습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/americas/article/3357082/6-killed-after-helicopters-collide-rio-de-janeiro-crashing-car-park?utm_source=rss_feed"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
+              "name": "HuffPost",
+              "url": "https://www.huffpost.com/entry/marius-borg-h%C3%B8iby-norway-rape-conviction_n_6a301722e4b04478a061a57d?origin=top-ad-recirc"
             },
             {
-              "name": "AP News",
-              "url": "https://apnews.com/article/brazil-rio-helicopter-collision-dc3e059c8dcc4fbd84f714dd3c5ab2c8"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby"
             }
           ],
           "verification": "multi",
@@ -352,20 +368,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "미국, 중국 우려로 Anthropic AI 모델 Mythos 및 Fable 수출 통제",
-          "summary": "미국 정부는 국가 안보 우려를 이유로 Anthropic의 최첨단 AI 모델인 Fable 5와 Mythos 5에 대한 수출 통제 지침을 발표했다. 이에 따라 Anthropic은 자사 AI 모델에 대한 모든 외국인 사용자의 접근을 차단했으며, 여기에는 외국인 Anthropic 직원도 포함된다. 백악관은 중국 관련 단체가 Mythos에 접근했을 수 있다는 의혹과 아마존의 사이버 보안 연구 결과가 이번 결정에 영향을 미쳤다고 보도되었다. 유럽연합(EU) 집행위원회는 이러한 조치가 차별적이지 않아야 한다고 경고하며 EU 사용자에게 미칠 영향에 대해 검토 중이다.",
+          "title": "영국, 16세 미만 아동 소셜 미디어 사용 금지 발표",
+          "summary": "영국은 2027년부터 16세 미만 아동의 소셜 미디어 접근을 금지할 것이라고 키어 스타머 총리가 발표했습니다. 이는 유해 콘텐츠와 과도한 스크린 시간으로부터 청소년을 보호하기 위한 조치로, 호주, 캐나다 등 여러 국가들이 유사한 규제를 도입하거나 검토하고 있습니다. 이 금지 조치는 틱톡, 유튜브, 인스타그램, 페이스북, X 등 주요 플랫폼에 적용될 예정입니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/14/us-export-controls-on-anthropic-should-not-be-discriminatory-eu-commission-warns"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban"
             },
             {
-              "name": "HuffPost",
-              "url": "https://www.huffpost.com/entry/us-government-anthropic-advanced-ai-models_n_6a2cc19be4b08741f51b0c56?origin=home-latest-news-unit"
+              "name": "CNET",
+              "url": "https://www.cnet.com/tech/services-and-software/uk-social-media-ban-under-16s-keir-starmer-announcement/"
             }
           ],
           "verification": "multi",
@@ -373,20 +389,20 @@
         },
         {
           "tag": "tec",
-          "title": "FBI, 사이버 공격 시뮬레이션 위한 가상 도시 '사이버 레인지' 구축",
-          "summary": "미국 연방수사국(FBI)이 사이버 공격 시뮬레이션 훈련을 위해 앨라배마주 헌츠빌에 22,000평방피트 규모의 가상 도시 '사이버 레인지'를 구축했다. 이 시설은 편의점, 주유소, 병원, 가구가 비치된 주택 등 실제 도시의 모습을 재현하며, 200대 이상의 서버를 갖춘 데이터 센터도 포함한다. 외부망과 완전히 분리되어 있어 악성 코드가 유출될 위험 없이 실제 상황과 유사한 사이버 공격 시나리오를 훈련하고 연구할 수 있다. 이 시설은 작년에 개장했으며 FBI는 이번 주에 처음으로 내부 모습을 공개했다.",
+          "title": "폭스, 로쿠 220억 달러에 인수하여 스마트 TV 및 광고 시장 확장",
+          "summary": "미디어 기업 폭스(Fox)가 스트리밍 플랫폼 로쿠(Roku)를 220억 달러(주당 160달러)에 인수하기로 합의했습니다. 이번 인수는 폭스의 라이브 뉴스 및 스포츠 콘텐츠와 로쿠의 스트리밍 플랫폼을 결합하여 미국 TV 시청 점유율에서 세 번째로 큰 플레이어를 만들고, 광고 수익 증대 및 스마트 TV 시장에서의 영향력을 확대하는 것을 목표로 합니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html"
             },
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/06/12/us-news/fbi-reveals-22000-square-foot-fake-town-in-alabama-used-to-train-agents-for-cyber-warfare/"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
+              "url": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/"
             }
           ],
           "verification": "multi",
@@ -394,15 +410,19 @@
         },
         {
           "tag": "tec",
-          "title": "과학자들, 앵무새가 실제로 '이름'을 사용한다는 증거 발견",
-          "summary": "새로운 연구에 따르면 앵무새가 단순히 단어를 반복하는 것을 넘어 실제로 '이름'을 사용한다는 증거가 발견되었다. 연구자들은 수백 개의 애완 앵무새 녹음 자료를 분석한 결과, 많은 새들이 특정 사람, 동물, 심지어 동료를 식별하기 위해 고유한 이름을 사용하는 것을 확인했다. 일부 앵무새는 없는 대상을 지칭하거나, 자신의 이름을 사용하여 주의를 끄는 등 창의적인 방식으로 이름을 활용하는 모습도 관찰되었다.",
+          "title": "구글 크롬, 오래된 광고 차단기 우회 기능 차단",
+          "summary": "구글 크롬이 버전 150 및 151 업데이트를 통해 구형 광고 차단기(Manifest V2 기반)의 작동을 허용했던 마지막 우회 경로를 차단할 예정입니다. 이에 따라 7월부터는 Manifest V3 플랫폼으로 구축된 광고 차단기만 크롬에서 사용할 수 있게 됩니다. 구글은 이 변경이 복잡성과 기술 부채, 보안 위험을 줄이기 위한 것이라고 설명했습니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"
+            },
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
