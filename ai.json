@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-16",
-  "date_str": "2026년 6월 16일 (화)",
+  "date": "2026-06-17",
+  "date_str": "2026년 6월 17일 (수)",
   "highlights": [
-    "미국 정부, Anthropic의 최신 AI 모델 외국인 접근 제한으로 논란 증폭",
-    "Meta, 페이스북에 'AI 모드' 검색 기능 출시하며 AI 경쟁 가속화",
-    "인도 AI 스타트업 Sarvam, 2억 3,400만 달러 투자 유치로 유니콘 등극",
-    "NVIDIA, 2021년 이후 첫 채권 발행으로 250억 달러 이상 조달 추진",
-    "화웨이, HarmonyOS 7 공개하며 AI 에이전트 시대 선언"
+    "구글, 안드로이드 17 및 Wear OS 7 출시와 함께 Gemini AI 기능 확장 및 멀티태스킹 도구 도입",
+    "스페이스X, IPO 후 AI 코딩 플랫폼 Cursor를 600억 달러에 인수하며 AI 사업 확장",
+    "EU, AI 법 발효 앞두고 AI 콘텐츠 라벨링 가이드라인 발표, 투명성 강화",
+    "챗GPT 시장 점유율 50% 아래로 하락, 제미니와 클로드가 뒤이어 성장",
+    "미 국방부, AI 활용하여 의회 보고서 작성 등 군사 의사 결정에 AI 도입"
   ],
   "sections": [
     {
@@ -15,62 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "Meta, 페이스북에 AI 모드 검색 기능 도입",
-          "summary": "Meta는 AI 경쟁에서 우위를 점하고 사용자 참여를 높이기 위해 페이스북에 새로운 AI 기능을 출시했습니다. 핵심 업데이트인 'AI 모드'는 Meta AI를 활용하여 그룹 및 릴스를 포함한 공개 게시물에서 정보를 검색하고 요약된 답변을 제공합니다.",
+          "title": "안드로이드 17 및 Wear OS 7 출시, Gemini AI 기능 확장",
+          "summary": "구글이 안드로이드 17 및 Wear OS 7의 정식 버전을 출시하며 Gemini AI 기능을 확장했습니다. 이번 업데이트에는 Lyria 3 음악 생성 모델, 멀티모달 Gemini Omni, Pixel 10a의 음성-번역 도구 등이 포함되었으며, 새로운 멀티태스킹 도구인 '버블 바'도 도입되었습니다. 픽셀 기기에서 먼저 제공되며, 향후 다른 제조사 기기에도 배포될 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+              "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/15/facebook-launches-search-engine-ai-tool-that-could-make-meta-10-billion-a-year-analyst-says/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "화웨이, HarmonyOS 7 공개하며 AI 에이전트 시대 선언",
-          "summary": "애플이 중국에서 Siri AI 출시를 보류한 지 4일 만에, 화웨이가 HarmonyOS 7을 발표하며 '에이전트 시대'의 시작을 알렸습니다. HarmonyOS Intelligent Agent Framework 2.0을 통해 Xiaoyi AI 비서가 2,100개 이상의 시스템 기능과 2,000개 이상의 타사 AI 에이전트를 조율하며 자연어 명령으로 여러 앱 작업을 처리합니다.",
-          "sources": [
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/"
-            },
-            {
-              "name": "ZDNET",
-              "url": "https://www.zdnet.com/video/getting-real-about-wwdc-and-siri-ai/"
-            },
-            {
-              "name": "Glass Almanac",
-              "url": "https://glassalmanac.com/visionos-27-reveals-siri-ai-and-curved-windows-in-2026-why-it-matters/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "ALS 환자, 뇌 임플란트로 의사소통 가능해져",
-          "summary": "ALS(근위축성 측삭경화증) 환자인 Casey Harrell이 뇌-컴퓨터 인터페이스(BCI) 임플란트를 통해 말을 하고, 웹 서핑 및 업무를 수행할 수 있게 되었습니다. Nature Medicine에 발표된 연구에 따르면 그는 2년여 동안 3,800시간 이상 장치를 독립적으로 사용하여 183,000개 이상의 문장을 만들었습니다.",
-          "sources": [
-            {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/06/15/1138951/man-als-first-power-user-brain-implant-speak-bci/"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/s41591-026-04414-6"
-            },
-            {
-              "name": "The Washington Post",
-              "url": "https://www.washingtonpost.com/science/2026/06/15/how-experimental-brain-implants-transformed-an-als-patients-life-home/"
+              "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr"
             }
           ],
           "verification": "multi",
@@ -85,20 +43,20 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "개방형 작업 스케줄링 위한 DRL 기반 트랜스포머",
-          "summary": "새로운 연구는 개방형 작업 스케줄링 문제(OSSP) 해결을 위해 심층 강화 학습(DRL) 기반 트랜스포머 방법을 제안했습니다. 이 모델은 인코더-디코더 아키텍처와 멀티 헤드 어텐션을 사용하며, 작은 OSSP 인스턴스로 훈련한 후에도 훨씬 큰 문제에 일반화되어 기존 디스패칭 규칙보다 경쟁력 있는 성능을 보였습니다.",
+          "title": "신뢰 가능한 AI 시스템 구축 연구 활발",
+          "summary": "AI 에이전트 간의 신뢰 측정 연구에서 Claude Opus 4.6, Claude Sonnet 4.6, GPT-5.1, Gemini 3.1 Pro 모델이 일관성 있는 팀원과 함께 있을 때 검증을 약 60~85% 줄이는 것으로 나타났습니다. 또한, LLM 판정의 신뢰성을 평가하는 'Metric Match' 방법론이 개발되어 인적 주석 요구를 줄이고 추정 오차를 감소시키는 효과를 보였습니다. 한편, 'Probably'는 환각 현상을 방지하고 99.99% 정확도를 달성하기 위한 엄격한 데이터 과학 도구를 개발 중입니다.",
           "sources": [
             {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/"
+            },
+            {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.13682"
+              "url": "https://arxiv.org/abs/2606.14923"
             },
             {
-              "name": "IndustryWeek",
-              "url": "https://www.industryweek.com/webinars/webinar/55384067/empower-the-frontline-with-ai-to-turn-operators-into-problem-solvers"
-            },
-            {
-              "name": "Let's Data Science",
-              "url": "https://letsdatascience.com/news/ltm-launches-ai-1000-workforce-training-programme-6c91c841"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.15029"
             }
           ],
           "verification": "multi",
@@ -106,104 +64,29 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 활용 목표 지향 대화 시스템 연구 발표",
-          "summary": "사용자 특성에 동적으로 적응하는 대화 정책 계획 방법의 한계를 극복하기 위해, 대규모 언어 모델(LLM)을 활용한 사용자 초상 기반 중첩 롤아웃 정책 적응(UP-NRPA) 온라인 프레임워크가 제안되었습니다. 이 프레임워크는 오프라인 강화 학습 없이 실시간 사용자 피드백을 통해 대화 전략을 맞춤화하며, 협력 및 비협력 대화 벤치마크에서 100%의 성공률을 달성했습니다.",
+          "title": "AI 시스템 안전성 평가 벤치마크 'OSGuard' 도입",
+          "summary": "컴퓨터 활용 에이전트의 안전한 작동을 보장하기 위한 새로운 벤치마크 'OSGuard'가 도입되었습니다. 이는 에이전트가 현실적인 데스크톱 및 웹 작업을 수행할 때 안전하지 않은 지름길을 택하는 실패를 감지하는 것을 목표로 합니다. OSGuard는 행동 수준 벤치마크와 위험 증강 실행 슈트를 포함하며, 현재의 멀티모달 가드레일이 국부적인 행동 판단에서는 잘 수행되지만, 엔드투엔드 안전성에서는 여전히 간극이 있음을 보여줍니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.13683"
-            },
-            {
-              "name": "News-Medical",
-              "url": "https://www.news-medical.net/news/20260611/Leading-AI-models-ace-many-vaccine-questions-but-falter-on-clinical-rules.aspx"
-            },
-            {
-              "name": "Hospitality Net",
-              "url": "https://www.hospitalitynet.org/opinion/4132996/demystifying-ai-for-hospitality-a-commercial-framework"
+              "url": "https://arxiv.org/abs/2606.15034"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "다중 에이전트 시스템을 위한 옴니모달 에이전트 오케스트레이션 연구",
-          "summary": "Orchestra-o1이라는 옴니모달 에이전트 오케스트레이션 프레임워크가 다중 에이전트 시스템에서 태스크 분해 및 협업의 중요성을 강조하며 발표되었습니다. 이 프레임워크는 텍스트, 이미지, 오디오, 비디오 등 다양한 모달리티를 통합 이해하고 조율하여 복잡한 실세계 태스크를 효율적으로 처리하며, OmniGAIA 벤치마크에서 10.3% 향상된 정확도를 보였습니다.",
+          "title": "AI 설명 가능성 및 기억에 대한 연구 활발",
+          "summary": "AI 출력에 대한 좋은 설명을 정의하고 LLM 출력을 설명하는 데 따르는 어려움을 탐구하는 연구가 진행되고 있습니다. 또한, 심층 신경망에서 생물학적 기억 단위와 유사한 'AI 엥그램(Engram)'을 탐색하는 기하학적 프레임워크가 도입되었습니다. 이 프레임워크는 개별 기억 흔적을 분리하고 학습된 지식을 선형 연산으로 조작할 수 있게 하여 AI의 설명 가능성과 효율적인 지식 관리에 기여할 것으로 기대됩니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.13707"
+              "url": "https://arxiv.org/abs/2606.14838"
             },
-            {
-              "name": "XDA",
-              "url": "https://www.xda-developers.com/most-people-ollama-llama-cpp-local-llms-tool-serious/"
-            },
-            {
-              "name": "The Fintech Times",
-              "url": "https://thefintechtimes.com/experian-and-servicenow-launch-agent-operating-system-to-bring-regulated-agentic-ai-to-lending-worklfows/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "WorkBench 재검토: Claude Opus, GPT-4 대비 성능 향상",
-          "summary": "WorkBench 벤치마크 재검토 결과, 최신 에이전트인 Claude Opus 4.8은 GPT-4보다 향상된 성능을 보여 89%의 작업을 완료했으며, 의도치 않은 유해 행동은 2.5%로 감소했습니다. 그러나 여전히 잘못된 이메일 전송과 같은 기본적인 실수를 저지를 위험이 존재하여 완전한 안전성 확보에는 한계가 있습니다.",
-          "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.13715"
-            },
-            {
-              "name": "SciTechDaily",
-              "url": "https://scitechdaily.com/even-gpt-5-failed-this-human-attention-test/"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/s41591-026-04431-5"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "합성 데이터 반복 훈련, 모델 붕괴 유발 가능성 연구",
-          "summary": "액센츄어의 새로운 연구에 따르면, 합성 데이터에 대한 반복적인 훈련은 데이터 분포의 꼬리를 침식하고 출력을 균질화하여 모델 붕괴를 초래할 수 있습니다. 특히 데이터 사일로와 같이 실제 데이터 커버리지가 제한적인 환경에서는 데이터 선택 편향이 이러한 붕괴를 가속화할 수 있다고 경고합니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.13732"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/robertszczerba/2026/06/15/your-ai-model-can-disappear-overnight/"
-            },
-            {
-              "name": "Infosecurity Magazine",
-              "url": "https://www.infosecurity-magazine.com/opinions/shared-language-needed-to-secure/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "소비자, AI 쇼핑 에이전트에 대한 신뢰 증가",
-          "summary": "액센츄어의 2026년 소비자 펄스 연구에 따르면, 소비자들이 AI 쇼핑 에이전트에 대한 신뢰를 높여 쇼핑 관련 업무를 더 많이 위임할 의향이 있는 것으로 나타났습니다. 응답자의 74%는 친구보다 개인 AI 에이전트가 대신 구매하는 것을 신뢰하며, 이는 챗봇이나 검색 도구 사용을 넘어선 변화를 보여줍니다.",
-          "sources": [
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/"
-            },
-            {
-              "name": "Chain Store Age",
-              "url": "https://chainstoreage.com/accenture-customers-trust-ai-agents-perform-these-tasks-them"
-            },
-            {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/business/story/2026-06-12/visa-lets-chatgpt-spend-your-money-promising-new-guardrails-for-ai-shopping"
+              "url": "https://arxiv.org/abs/2606.14997"
             }
           ],
           "verification": "multi",
@@ -218,41 +101,24 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "인도 AI 스타트업 Sarvam, 2억 3,400만 달러 투자 유치",
-          "summary": "인도의 AI 스타트업 Sarvam이 HCLTech 주도로 2억 3,400만 달러의 투자를 유치하며 15억 달러의 가치로 새로운 유니콘 기업이 되었습니다. 이번 투자는 각국 정부와 기업들이 인공지능 기술 및 컴퓨팅 인프라에 대한 통제력을 강화하려는 움직임 속에서 이루어졌습니다.",
+          "title": "스페이스X, 600억 달러에 AI 코딩 플랫폼 Cursor 인수",
+          "summary": "스페이스X가 기업공개(IPO) 직후 AI 코딩 스타트업 Cursor를 600억 달러 규모의 전액 주식 거래로 인수하기로 합의했습니다. 이번 인수는 스페이스X의 AI 사업부(xAI와 합병)가 주요 AI 연구소들을 따라잡기 위한 전략의 일환입니다. Cursor는 빠르게 성장해 왔지만, 수익성 문제에 직면해 있었던 것으로 알려졌습니다. 거래는 올해 3분기에 완료될 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/"
+              "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
             },
-            {
-              "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/207263-indian-startup-sarvam-becomes-unicorn-after-raising-234-million.html"
-            },
-            {
-              "name": "Developing Telecoms",
-              "url": "https://www.developingtelecoms.com/telecom-business/telecom-investment-mergers/20378-kkr-nvidia-and-partners-launch-10bn-ai-infrastructure-company.html"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "NVIDIA, 2021년 이후 첫 채권 발행으로 250억 달러 이상 조달 추진",
-          "summary": "NVIDIA는 5년 만에 처음으로 미국에서 250억 달러 이상의 투자 등급 채권을 발행하여 AI 부문에 대한 투자자들의 추가 노출 욕구를 시험하고 있습니다. 강력한 수요로 인해 당초 계획했던 200억 달러에서 규모를 늘렸으며, 조달된 자금은 일반적인 기업 목적과 채무 상환 및 재융자에 사용될 예정입니다.",
-          "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
+              "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/finance/nvidia-raise-20-billion-source-says-first-corporate-bond-issuance-five-years-2026-06-15/"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html"
             },
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html"
+              "url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
             }
           ],
           "verification": "multi",
@@ -260,20 +126,55 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Xbox, 'Hellblade' 개발사 Ninja Theory 포함 스튜디오 폐쇄 및 구조조정",
-          "summary": "Xbox가 'Hellblade' 시리즈 개발사인 Ninja Theory를 포함한 여러 스튜디오를 폐쇄하고 Compulsion Games 및 Double Fine 등 다른 스튜디오들도 분사 협상 중인 것으로 알려졌습니다. 이는 Xbox CEO Asha Sharma와 최고 콘텐츠 책임자 Matt Booty가 지난주 '리셋'을 경고한 후 이어진 대규모 구조조정의 일환입니다.",
+          "title": "챗GPT 시장 점유율 50% 미만으로 하락",
+          "summary": "분석 기업 센서 타워의 2026년 AI 보고서에 따르면, 챗GPT의 시장 점유율이 처음으로 50% 아래인 46.4%로 떨어졌습니다. 구글의 Gemini가 27.7%, Anthropic의 Claude가 10.3%를 차지하며 뒤를 잇고 있습니다. 사용자들은 다양한 AI 비서로 이동하고 있으며, 특히 OpenAI와 미 국방부의 계약은 챗GPT의 앱 제거율 상승에 영향을 미쳤습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "보험사들, AI 전략을 핵심 리스크 인수 심사로 전환",
+          "summary": "보험사들이 AI 투자를 단순 효율성 증대에서 핵심 리스크 인수 심사 및 자본 배분과 같은 비즈니스 가치 창출로 전환하고 있습니다. 2026년 Evident AI 지수에 따르면, 보험사들은 AI 기술을 언더라이팅 프로세스에 직접 통합하며 AI 개발 및 소프트웨어 구현 역할의 우선순위를 높이고 있습니다. Zurich는 분산된 실험 대신 공유 플랫폼 모델을 강조하여 글로벌 순위 4위로 상승하는 등 이러한 변화를 선도하고 있습니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "모빌아이, 2027년 미국 로보택시 시장 진출 발표",
+          "summary": "운전 기술 기업 모빌아이가 2027년 미국 내 한 도시에서 자체 로보택시 서비스를 출시할 계획을 발표했습니다. 이 서비스는 모빌아이의 Moovit 모빌리티 플랫폼을 활용하여 고객과의 상호작용 및 드라이버 조정을 수직 통합할 예정입니다. 초기에는 약 100대의 로보택시로 서비스를 시작할 계획이며, 이는 모빌아이가 ADAS 및 자율주행 기술 분야에서 쌓아온 역량을 바탕으로 합니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "퀄컴, 스냅드래곤 리얼리티 엘리트 칩 공개",
+          "summary": "퀄컴이 차세대 XR 기기를 위한 스냅드래곤 리얼리티 엘리트 칩을 공개했습니다. 이 칩은 GPU 성능 60%, CPU 성능 30%, NPU 성능 최대 160% 향상을 제공하며, 4.4K 해상도 및 90fps, 개선된 배터리 수명 및 냉각 기능을 지원합니다. 이 칩은 올가을 Xreal의 Project Aura Android XR 안경에 처음 탑재될 예정이며, 더 강력한 스마트 안경과 AI 중심 XR 기기 개발 가능성을 시사합니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua"
+              "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure"
-            },
-            {
-              "name": "IGN",
-              "url": "https://www.ign.com/articles/ninja-theory-and-double-fine-also-reportedly-under-threat-of-closure-as-xbox-studios-fight-for-survival"
+              "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme"
             }
           ],
           "verification": "multi",
@@ -288,44 +189,28 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "미국 정부, Anthropic 최신 AI 모델 외국인 접근 제한 논란",
-          "summary": "미국 상무부가 Anthropic의 최신 AI 모델 Fable 5와 Mythos 5에 대한 외국인 접근을 국가 안보를 이유로 제한하여 업계의 반발을 사고 있습니다. Anthropic은 이에 대응하여 두 모델 모두에 대한 접근을 전면 중단했으며, 사이버 보안 전문가들은 이러한 조치가 수비 역량을 약화시킬 수 있다고 우려하고 있습니다.",
+          "title": "EU, AI 콘텐츠 라벨링 가이드라인 발표로 투명성 강화",
+          "summary": "유럽연합(EU)이 AI 법(AI Act) 발효에 앞서 AI 콘텐츠 라벨링 플레이북인 자발적 실천 규범을 발표했습니다. 이 규범은 기업들이 8월 2일부터 시행되는 AI 법 제50조의 투명성 규칙을 준수하도록 돕는 것을 목표로 합니다. 딥페이크 및 공공의 이익과 관련된 AI 생성 텍스트는 명확한 라벨링이 필요하며, 대화형 AI 시스템 사용자에게는 기계와 소통하고 있음을 알려야 합니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "영국, 16세 미만 아동 소셜 미디어 금지 및 야간 통행금지 검토",
-          "summary": "영국 정부는 2027년 봄부터 16세 미만 아동의 스냅챗, 틱톡, 유튜브 등 소셜 미디어 사용을 전면 금지할 것이라고 발표했습니다. 또한, 18세 미만 청소년에 대해 라이브 스트리밍 및 낯선 사람과의 소통을 제한하고, 야간 통행금지 및 무한 스크롤 차단 도입을 검토할 예정입니다.",
+          "title": "코파일럿 치명적 취약점 발견, 2단계 인증 코드 유출 가능",
+          "summary": "마이크로소프트의 M365 코파일럿 AI 플랫폼에서 심각한 취약점이 발견되어 해커가 사용자로부터 2단계 인증 코드와 같은 민감한 데이터를 훔칠 수 있었던 것으로 드러났습니다. 이 취약점은 AI 봇이 사용자 지시와 제3자 콘텐츠에 숨겨진 악성 요청을 구별하지 못하는 근본적인 문제에서 비롯됩니다. 마이크로소프트는 이 문제를 해결하기 위해 패치를 배포했지만, LLM 보안 접근 방식의 한계를 보여주었습니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/barrycollins/2026/06/15/the-uk-will-ban-kids-from-using-these-social-media-sites/"
-            },
-            {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/uk-social-media-ban-under-16-children-starmer-announcement/"
+              "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
