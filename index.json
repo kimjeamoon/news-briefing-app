@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-18",
-  "date_str": "2026년 6월 18일 (목)",
+  "date": "2026-06-19",
+  "date_str": "2026년 6월 19일 (금)",
   "key5": [
-    "미 연준, 기준금리 동결에도 연내 인상 가능성 시사하며 경제 영향 우려 증폭",
-    "트럼프, 이란과 종전 MOU 서명 후 호르무즈 해협 재개방 합의, 이란은 통행료 재부과 시사",
-    "국회, 6·3 지방선거 투표용지 부족 사태 관련 선관위 국정조사 계획서 채택",
-    "G7 정상회의, AI 시대의 '공유·안전' 과제 논의 및 대중국 공급망 전략 모색",
-    "애플, RAM 비용 상승으로 아이폰, 아이패드, 맥 등 제품 가격 인상 계획 발표"
+    "한국, 투표용지 부족 사태 국정조사 추진 및 감사원 간부 구속영장 기각",
+    "미국-이란, 종전 MOU 체결 및 해상 봉쇄 해제 시작",
+    "쿠바, 국영기업 개혁 및 민간 부문 개방 포함한 친시장 경제 개혁안 발표",
+    "우크라이나, 모스크바 대규모 드론 공습 감행, 러시아 보복 경고",
+    "오픈AI, 챗GPT 광고 도입 및 한국 서비스 개시"
   ],
   "regions": [
     {
@@ -16,20 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령, G7 정상회의 참석 및 유럽 순방 마무리",
-          "summary": "이재명 대통령은 열흘간의 유럽 순방을 마치고 귀국했다. 이번 순방에는 G7 정상회의 참석과 함께 벨기에, EU, 이탈리아, 교황청 방문이 포함되었으며, 트럼프 미국 대통령과 한반도 평화와 한미관계에 대해 논의했다. G7 업무 오찬에서는 AI 시대의 '공유'와 '안전'을 핵심 과제로 제시했다.",
+          "title": "투표용지 부족 사태 국정조사, 감사원 간부 구속영장 기각",
+          "summary": "6월 3일 지방선거 투표용지 부족 사태와 관련하여 국정조사 특별위원회가 구성되어 선거관리 개혁 방안을 모색할 예정입니다. 한편, 대통령 관저 이전 관련 '부실·늑장 감사' 의혹을 받는 감사원 간부 손모씨에 대한 구속영장이 기각되었습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260618000500001"
+              "url": "https://www.yna.co.kr/view/AKR20260618157000001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617171000001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617176500001"
+              "url": "https://www.yna.co.kr/view/AKR20260619000500004"
             }
           ],
           "verification": "multi",
@@ -37,66 +33,62 @@
         },
         {
           "tag": "eco",
-          "title": "미 연준 금리 동결, 국내 경제에 인상 압박 우려",
-          "summary": "미 연방준비제도(Fed)가 6월 FOMC에서 기준금리를 동결했으나, 연내 1회 이상 금리 인상 가능성을 시사하며 매파적 기조를 보였다. 이는 중동 전쟁 장기화에 따른 국제 유가 급등과 인플레이션 우려가 고조된 가운데, 한국은행도 다음 달 기준금리 인상을 시사하며 국내 금리 인상 압박이 커질 전망이다.",
+          "title": "정부, 지역신보 부실채권 정리 등 소상공인 지원 대책 발표",
+          "summary": "정부가 지역신용보증재단의 부실채권 2조2천억원을 정리하고 채무 미변제자의 재도전 기회를 확대하는 방안을 발표했습니다. 또한, 마리나 산업 활성화를 위해 인프라 개선 및 민간 투자 촉진을 추진하며, 구독 서비스 조회 시스템 구축, 항공사 일방적 운항 취소 불이익 부과 등 생활밀착 서비스 개선 방안도 내놓았습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260618021700008"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260618167700030"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260618134300051"
             },
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260618019000002"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260618007451072"
+              "url": "https://www.yna.co.kr/view/AKR20260619001200002"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "지방 소멸 위기 대응, 청년 창업 지원 활성화",
-          "summary": "인구 절벽과 지방 소멸 위기 속에서 농어촌 주민에게 기본소득을 한시적으로 지급하는 시범사업이 확대되고 있다. 한편, 청주 옛 대현지하상가를 리모델링한 청년창업지원센터가 개관했으며, 부산시는 글로벌 신흥 창업도시 세계 70위권에 진입하는 등 청년 창업 지원을 통한 지역 활성화 노력이 이어지고 있다.",
+          "tag": "eco",
+          "title": "5월 생산자물가 9개월 연속 상승, MSCI 한국 증시 평가 개선",
+          "summary": "5월 생산자물가지수가 0.8% 상승하며 9개월 연속 상승세를 기록했습니다. 한편, 모건스탠리캐피털인터내셔널(MSCI)은 한국 증시의 투자상품 가용성에 대한 평가를 '마이너스'에서 '플러스'로 상향 조정하며 투자 상품 폭이 넓어졌다고 평가했습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260617144100546"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260619017600008"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260617145400064"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260618024700051"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260619008951008"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "6·3 지방선거 투표용지 부족 사태, 국회 국정조사 착수",
-          "summary": "국회가 6·3 지방선거 투표용지 부족 사태와 관련한 국정조사 계획서를 본회의에서 채택했다. 여야는 '국민 참정권 침해 진상규명 및 선거관리 개혁을 위한 국정조사 특별위원회'를 구성하고, 중앙당 명의로 서울 등 7개 지역 광역단체장 선거에 대한 선거소청을 제기했다.",
+          "tag": "tec",
+          "title": "국정원 AI 위성 교란 방어 시스템 구축, 반도체 산업 양극화 우려",
+          "summary": "국가정보원이 AI를 활용한 위성정보 분석 체계를 구축하여 우주안보 역량을 강화할 계획입니다. 동시에, 반도체 슈퍼사이클로 인한 특정 기업 이익 쏠림이 장기화될 경우 국내 산업 양극화 심화와 구조적 불균형을 초래할 수 있다는 우려가 제기되고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617147000001"
+              "url": "https://www.yna.co.kr/view/AKR20260618127800017"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617050251001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/marketing/1264293.html"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617148251001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1264290.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -107,20 +99,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 이란과 종전 MOU 서명 및 호르무즈 해협 재개방 합의",
-          "summary": "도널드 트럼프 미국 대통령이 이란과의 종전 양해각서(MOU)에 서명했으며, MOU 발효로 호르무즈 해협의 재개방이 합의되었다. 다만 이란 측은 60일간의 '무상 통항' 기간이 끝나면 호르무즈 해협 통과 선박에 요금을 다시 부과할 것이라는 입장을 재확인하여 논란이 예상된다.",
+          "title": "미국-이란, 종전 MOU 체결 및 해상 봉쇄 해제 시작",
+          "summary": "미국과 이란이 종전 양해각서(MOU) 이행에 착수했습니다. 미국은 대이란 해상 봉쇄를 해제했으며, 이란도 호르무즈 해협 통항료를 60일간 면제하기로 발표하여 유조선 운항이 정상화 수순에 들어갔습니다. 후속 협상은 아직 유동적입니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260618024600009"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260619014100011"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1264089.html"
+              "url": "https://www.hani.co.kr/arti/international/america/1264298.html"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1264088.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html"
             }
           ],
           "verification": "multi",
@@ -128,58 +120,66 @@
         },
         {
           "tag": "eco",
-          "title": "미 연준, 워시 체제 첫 FOMC서 금리 동결…연내 인상 가능성 시사",
-          "summary": "미 연방준비제도(Fed)가 신임 케빈 워시 의장 체제에서 열린 첫 FOMC 회의에서 기준금리를 3.50~3.75%로 동결했다. 그러나 연준 위원들의 경제 전망 점도표 중간값이 상향 조정되어 연내 1회 이상 금리 인상 가능성을 시사했다. 워시 의장은 연준의 정책 운영 및 소통 방식 전반을 재점검하겠다고 밝혔다.",
+          "title": "스페이스X, 30조원 회사채 발행 추진…연준 매파적 행보",
+          "summary": "스페이스X가 사상 최대 기업공개에 이어 200억달러(약 30조7천억원) 규모의 회사채 발행을 추진합니다. 한편, 미 연방준비제도(Fed)의 매파적 금리 인상 신호로 원/달러 환율이 야간 거래에서 10원 넘게 급등하는 등 금융 시장에 영향을 미치고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1264087.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260619020300009"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606180754001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202606190824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606180735001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202606190738001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "트럼프 국방 정보국장 지명자 인준 절차 지연, 당내 갈등 심화",
-          "summary": "도널드 트럼프 대통령이 국방 정보국장(DNI) 후보자 인준 절차를 갑자기 중단시키며 당내 갈등을 심화시켰다. 트럼프 대통령은 감시법안의 의회 통과 지연을 이유로 들었으며, DNI 대행으로 임명된 빌 풀테에 대한 야당과 일부 공화당 의원들의 반대도 커지고 있다.",
+          "tag": "soc",
+          "title": "오바마 기념 센터 개관, 텍사스 기지 독감 발병",
+          "summary": "전 버락 오바마 대통령 기념 센터가 시카고에서 개관했으며, 세 명의 전직 미국 대통령과 많은 유명인사가 참석했습니다. 한편, 텍사스 주의 한 공군 기지에서는 독감 백신 접종 의무화 해제 이후 많은 장병들이 독감에 걸려 우려를 낳고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-thune-republicans-election-year-rift.html"
+              "url": "https://www.nytimes.com/2026/06/18/us/barack-michelle-obama-speeches.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.com/news/articles/c33yzmjln1mo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/18/us/flu-outbreak-air-force-base.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프 정부, 해양 관측 시스템 해체 계획 철회…국방장관 NATO 비판",
+          "summary": "도널드 트럼프 행정부가 $3억6천8백만 달러 규모의 심해 관측 시스템 해체 결정을 철회했습니다. 한편, 피트 헤그세스 미국 국방장관은 NATO 회의에서 일부 동맹국들의 '무임승차'를 비판하며 유럽 내 미군 주둔에 대한 6개월간의 검토를 발표했습니다.",
+          "sources": [
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/us-news/2026/jun/18/pete-hegseth-accuses-nato-countries-free-riding-europe"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "soc",
-          "title": "플로리다 법원, 젊은 성인 은닉 총기 소지 금지 철폐",
-          "summary": "플로리다 주 항소법원이 18세에서 20세 젊은 성인의 은닉 총기 소지를 금지하는 약 40년 된 법안을 위헌으로 판결하며 철폐했다. 주 법무장관은 이 판결을 환영했다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/17/us/florida-concealed-carry-young-adults.html"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "사회"
         }
       ]
     },
@@ -190,67 +190,67 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "오키나와 헤노코 매립 공사 재개, 후텐마 기지 이전 논란",
-          "summary": "일본 방위성이 오키나와 헤노코 지역에 미군 후텐마 기지 이전을 위한 새로운 매립 공사를 재개했다고 오키나와현에 통보했다. 이는 오키나와현 정부가 기지 이전에 반대하고 있는 상황에서 진행되어 반발이 예상된다. 연약 지반 문제로 지연되었던 오우라만 매립 공사도 진행 중이다.",
+          "title": "대만 총통, 일본과 기술·안보 협력 강화 촉구…일본 내각 지지율 하락",
+          "summary": "라이칭더 대만 총통이 일본과의 기술 및 안보 분야에서 더욱 강력한 협력을 촉구하며 자유롭고 개방된 인도-태평양의 중요한 동반자임을 강조했습니다. 한편, 다카이치 사나에 일본 내각의 지지율이 54.3%로 하락하여 취임 후 최저치를 기록했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/17/japan/landfill-start-henoko-transfer/"
+              "url": "https://www.japantimes.co.jp/news/2026/06/18/japan/taiwan-president-japan-ties/"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/18/japan/japan-pm-takaichi-support-rate-drop/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "호르무즈 해협 재개방 기대감, 일본 해운업계는 불확실성 우려",
-          "summary": "미국과 이란의 종전 양해각서(MOU) 서명으로 호르무즈 해협의 재개방에 대한 기대감이 커지고 있지만, 이란 측이 60일의 무상 통항 기간 후 통행료를 재부과할 가능성을 시사해 불확실성이 남아있다. 일본의 주요 해운사인 닛폰유센은 여전히 페르시아만에 10척의 화물선이 발이 묶여있으며, 안전한 항해 보장 여부를 주시하고 있다.",
+          "title": "쿠바, 국영기업 개혁 및 민간 부문 개방 경제 개혁안 발표",
+          "summary": "쿠바 정부가 국영기업에 지분 거래를 허용하고 배급 보조금을 단계적으로 폐지하는 등 친시장 경제 개혁 대책을 발표했습니다. 민간 기업의 기회 확대, 가격 상한제 폐지, 금융 및 부동산 개발 부문의 민간 개방 등 176개 조치가 포함되었습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260618024600009"
+              "url": "https://www.yna.co.kr/view/AKR20260619018200087"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606180807001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/americas/article/3357626/cuba-unveils-historic-package-free-market-reforms?utm_source=rss_feed"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/17/nippon-yusen-persian-gulf/"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/2026/06/18/cubas-president-miguel-diaz-canel-admits-urgent-changes-needed-to-overcome-crisis"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "트럼프-이재명, 북핵 문제 평화적 해결 논의",
-          "summary": "프랑스 G7 정상회의에서 이재명 한국 대통령이 도널드 트럼프 미국 대통령에게 북핵 문제의 평화적 해결을 위한 주도적인 노력을 요청했다. 트럼프 대통령은 북한 문제 해결을 위해 노력하겠다고 답했다. G7 정상들은 공동 성명에서 북한의 핵·미사일 프로그램에 깊은 우려를 표명하고 완전한 비핵화를 재확인했다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260618000500001"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/17/asia-pacific/politics/south-korea-lee-trump-north-korea/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "tec",
-          "title": "화웨이 CFO 멍완저우의 이란 불법 사업 인정, 미국 재판에 활용",
-          "summary": "화웨이 최고재무책임자(CFO) 멍완저우가 이란에서 불법적으로 사업을 수행했음을 인정한 진술이 미국 형사 재판에서 화웨이에게 불리하게 사용될 것이라고 미국 법원이 판결했다. 멍완저우는 2021년 형사 기소 기각 합의의 일환으로 이 진술을 했으며, 법원은 이를 화웨이의 최고 경영진이 직무와 관련하여 회사 입장을 대변한 것으로 판단했다.",
+          "title": "중국 과학자들, 머리카락보다 얇은 뇌 임플란트 전극 개발",
+          "summary": "중국 과학자들이 뇌 조직만큼 부드럽고 머리카락보다 얇으면서도 뛰어난 내구성을 지닌 뇌 임플란트 전극 어레이를 개발했습니다. 동물 실험에서 이 임플란트는 18개월 동안 높은 선명도의 신경 활동을 기록하며 뇌-컴퓨터 인터페이스 개발의 주요 난관을 해결했습니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3357478/huawei-cfo-mengs-admissions-can-be-used-against-company-criminal-trial-us-judge-rules?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/china/science/article/3357541/chinese-scientists-create-record-smashing-brain-implant-electrode-array-thinner-hair?utm_source=rss_feed"
             }
           ],
           "verification": "single",
           "tag_label": "기술·과학"
+        },
+        {
+          "tag": "pol",
+          "title": "일본·한국 전략 엘리트, 핵무기 개발에 회의적 시각",
+          "summary": "미국 CSIS의 설문조사에 따르면, 한국 전략 엘리트의 75%와 일본 전략 엘리트의 거의 80%가 자국의 핵무기 획득에 반대하거나 불확실한 입장을 표명했습니다. 이는 양국 정치 엘리트들이 핵 억제책으로 활용하기로 결정할 경우 지지율이 급격히 상승할 수 있다는 분석과 함께 역내 핵 안정성에 영향을 미칠 수 있음을 시사합니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3357628/japan-south-korea-not-nuclear-weapons-until-one-them-changes-policy?utm_source=rss_feed"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -261,20 +261,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "G7 정상회의, AI 시대 공유·안전 논의 및 대중국 공급망 전략 모색",
-          "summary": "프랑스에서 열린 G7 정상회의에서 AI 시대의 핵심 과제로 '공유'와 '안전'이 제시되었으며, 사이버 안보, 미성년자 보호, 민주주의 수호 등 광범위한 논의가 이루어졌다. 또한, G7 정상들은 중국에 대한 핵심광물 의존도 완화를 포함한 공급망 안정화에 대한 대중국 전략을 모색했다.",
+          "title": "우크라이나, 모스크바 대규모 드론 공습…러시아 보복 경고",
+          "summary": "우크라이나가 러시아 수도 모스크바와 인근 지역에 대규모 드론 공격을 감행했습니다. 모스크바 외곽의 정유시설에서 화재가 발생하고 주요 공항 운항에 차질이 빚어졌으며, 러시아는 즉각 보복을 경고했습니다. 이번 공세는 G7 정상회의의 대러 압박 기조와 맞물린 것으로 분석됩니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260617176500001"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202606190758001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3357388/climate-change-trade-battlelines-drawn-europes-new-china-strategy?utm_source=rss_feed"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/17/how-can-europe-compete-with-the-us-and-china-economically-meps-debate-on-the-ring"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/06/18/world/ukraine-moscow-drone-strike/"
             }
           ],
           "verification": "multi",
@@ -282,20 +282,16 @@
         },
         {
           "tag": "pol",
-          "title": "마크롱 대통령, G7에서 트럼프의 우크라이나 지지 확보 및 외교적 성과",
-          "summary": "프랑스 마크롱 대통령은 G7 정상회의를 성공적으로 이끌며 트럼프 미국 대통령으로부터 우크라이나에 대한 지지를 확보하는 외교적 성과를 거두었다. 정상들은 우크라이나 지원 강화, 러시아 제재 강화 등에 합의했으며, 트럼프 대통령은 러시아가 먼저 협상해야 한다고 언급하는 등 협력적인 태도를 보였다.",
+          "title": "바르니에 전 협상가, 영국 EU 재가입 시 특별 대우 가능성 언급",
+          "summary": "미셸 바르니에 전 EU 브렉시트 협상가는 영국이 EU에 재가입할 경우 파운드화를 유지하고 솅겐 국경 자유 이동 지역에 남는 등 브렉시트 이전의 특별 대우를 유지할 수 있다고 밝혔습니다. 이는 EU 재가입을 주장하는 이들에게 긍정적인 신호로 해석될 수 있습니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/video/2026/06/17/trump-welcomed-to-versailles-for-dinner-with-macron"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jun/18/michel-barnier-reflects-on-boris-brexit-and-the-eu-future"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/17/europeans-leave-g7-feeling-relieved-balancing-self-interest-and-flattery-to-keep-trump-in-"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/17/six-takeaways-from-the-g7-summit-in-evian"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/politics/2026/jun/18/uk-could-keep-special-pre-brexit-terms-if-it-rejoined-eu-michel-barnier-says"
             }
           ],
           "verification": "multi",
@@ -303,20 +299,16 @@
         },
         {
           "tag": "eco",
-          "title": "미 연준 금리 동결, 유럽 경제에 파급 효과 우려",
-          "summary": "미국 연방준비제도(Fed)의 기준금리 동결 결정과 함께 연내 인상 가능성 시사로 인해 유럽 경제에 미칠 파급 효과에 대한 우려가 제기되고 있다. 유로존은 현재 둔화된 성장세를 보이고 있어 미국의 금리 인상이 국제 금융시장에 추가적인 압력을 가할 경우 유럽 경제에 부담이 될 수 있다.",
+          "title": "유럽, 투자 유치 위한 규제 완화 요구 및 스페인 주택 부족 심화",
+          "summary": "로마에서 열린 FII 인스티튜트 정상회담에서 유럽의 정치·경제 지도자와 투자자들은 글로벌 자본 유치와 경쟁력 강화를 위해 규제 완화와 유연성 증대를 촉구했습니다. 한편, 스페인에서는 주택 공급이 수요 증가에 미치지 못해 75만 채의 주택 부족 현상을 겪고 있으며, 특히 마드리드, 바르셀로나 등 6개 주에 절반 이상이 집중되어 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260618019000002"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/business/2026/06/18/global-capital-sees-potential-in-europe-but-calls-for-lighter-regulation"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1264087.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606180754001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/business/2026/06/18/bank-of-spain-warns-of-750000-home-shortfall-half-concentrated-in-six-provinces"
             }
           ],
           "verification": "multi",
@@ -324,20 +316,16 @@
         },
         {
           "tag": "pol",
-          "title": "이란-미국 종전 MOU, 유럽은 호르무즈 해협 임무 참여 검토",
-          "summary": "미국과 이란이 종전 양해각서(MOU)에 서명한 가운데, 유럽 국가들은 호르무즈 해협의 항해 안전 보장 임무에 참여하는 방안을 검토하고 있다. MOU 내용 중 60일 무상 통항 기간 이후 이란이 통행료를 재부과할 가능성이 제기되면서 유럽 또한 에너지 안보에 촉각을 세우고 있다.",
+          "title": "유엔기후변화협약 회의 개최, 기후 변화로 이민자 증가 경고",
+          "summary": "제64차 유엔기후변화협약 부속기구회의가 독일 본에서 개최되어 국가 온실가스 감축 목표(NDC) 이행 등이 논의되었습니다. 이와 함께, 유엔 국제이주기구(IOM) 수장은 선진국들의 개발 원조 삭감과 기후 변화가 전 세계 이민자 흐름을 증가시키는 주요 원인이라고 경고했습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260618024600009"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260619019000504"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1264089.html"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1264088.html"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/06/18/foreign-aid-cuts-and-climate-change-pushing-up-migrant-flows-iom-chief-warns"
             }
           ],
           "verification": "multi",
@@ -352,12 +340,12 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "AI 모델, 성적·폭력적 이미지 생성 가능성 연구 결과 발표",
-          "summary": "영국의 한 AI 보안 스타트업 연구에 따르면, 최신 공개 버전의 ChatGPT가 간단한 명령어만으로 성적이거나 폭력적인 이미지를 생성할 수 있는 것으로 밝혀졌다. 연구팀은 AI 모델이 의도치 않게 매우 부적절한 콘텐츠를 자율적으로 만들어낼 수 있다는 점에 우려를 표명했다. OpenAI는 해당 문제 해결을 위한 추가 안전 조치를 도입했다고 밝혔다.",
+          "title": "인도 산악 마을, 인공 얼음 피라미드로 물 공급 확보",
+          "summary": "인도 히말라야 산악 지역의 삭티 마을 농부들은 기후 변화로 인한 물 부족에 대응하기 위해 인공 얼음 피라미드를 활용하여 농작물에 필요한 물을 확보하고 있습니다. 이 '얼음 스투파'는 겨울 동안 산 위에서 물을 끌어와 얼려 봄철 해빙수로 사용되는 혁신적인 기술입니다.",
           "sources": [
             {
               "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "single",
@@ -365,16 +353,16 @@
         },
         {
           "tag": "tec",
-          "title": "기술 리더들, AI가 일자리 창출 견해 밝혀",
-          "summary": "제프 베조스 아마존 창업자를 포함한 기술 기업 리더들이 인공지능(AI)이 인간의 일자리를 대체하기보다 새로운 기회를 창출하고 노동력 수요를 증가시킬 것이라고 전망했다. 베조스는 AI가 노동력 부족을 야기할 것이라는 낙관적인 견해를 내놓으며, AI가 물리적 제조 분야를 가속화할 것이라고 언급했다.",
+          "title": "5,500년 전 시베리아 수렵 채집인 공동체에서 페스트 발생 확인",
+          "summary": "시베리아 바이칼 호수 근처 고대 묘지에서 발굴된 유골의 치아 DNA 분석 결과, 5,500년 전 수렵 채집인 공동체에서 페스트가 발생하여 수십 명이 사망한 것으로 밝혀졌습니다. 이는 페스트 발병의 가장 오래된 사례로, 농경 사회 정착 이전에도 치명적인 전염병이 확산될 수 있었음을 보여줍니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm"
             }
           ],
           "verification": "multi",
@@ -382,32 +370,15 @@
         },
         {
           "tag": "tec",
-          "title": "애플, RAM 비용 상승으로 제품 가격 인상 예고",
-          "summary": "애플이 RAM 비용 상승으로 인해 아이폰, 아이패드, 맥 등 주요 제품의 가격을 인상할 계획이라고 밝혔다. 팀 쿡 애플 CEO는 메모리 부족 사태가 지속되면서 비용 증가가 감당할 수 없는 수준이 되었으며, 소비자 가격 인상이 불가피하다고 언급했다.",
+          "title": "오픈AI, 챗GPT 광고 도입 및 한국 서비스 개시",
+          "summary": "오픈AI가 인공지능 챗봇 챗GPT에 광고를 도입하고 한국 서비스를 시작했습니다. 광고는 챗GPT의 답변과 명확히 분리되며 '스폰서 콘텐츠'임을 명확히 표시하고, 이용자 대화 내용 및 개인정보는 광고주에게 제공되지 않습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260619022700017"
             }
           ],
           "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "스냅, 신형 증강현실 스마트 안경 'Specs' 출시",
-          "summary": "스냅챗의 모회사 스냅이 증강현실(AR) 스마트 안경 'Specs'를 출시한다고 발표했다. 이 안경은 디지털 요소를 실제 세상에 겹쳐 보이게 하며, 가격은 영국에서 1,995파운드, 미국에서 2,195달러이다. 스냅은 이 제품이 '새로운 컴퓨팅 시대의 시작'을 알리는 것이라고 밝혔다.",
-          "sources": [
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion"
-            }
-          ],
-          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
