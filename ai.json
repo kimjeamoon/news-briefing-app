@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-19",
-  "date_str": "2026년 6월 19일 (금)",
+  "date": "2026-06-20",
+  "date_str": "2026년 6월 20일 (토)",
   "highlights": [
-    "AI 추론 스타트업 Baseten, 15억 달러 투자 유치 논의 중; General Intuition도 3억 달러 유치 협상.",
-    "아마존 AWS, 자체 AI 칩 '트레이니엄'을 외부 데이터 센터에 판매하여 엔비디아와 경쟁 시도.",
-    "마이크로소프트, OpenAI 모델을 중국 기업에 판매하며 현지 AI 시장의 주요 공급업체로 부상.",
-    "FERC, AI 데이터 센터의 전력망 연결 우선권 부여했으나 전력 부족 문제 해결책은 미흡.",
-    "버니 샌더스 상원의원, AI 산업 통제 및 재분배 위한 7조 달러 계획 발표."
+    "미국 정부, Anthropic의 AI 모델 Fable 5 및 Mythos 5 출시 국가 안보 이유로 중단시켜",
+    "AI 추론 스타트업 Baseten, 단기간 내 15억 달러 추가 자금 조달 추진",
+    "Snap, AI 비디오 팀을 Dotmo로 분사하여 비용 절감 및 게임 경험 개발",
+    "OpenAI, IPO 앞두고 Transformer 공동 발명가와 전 백악관 AI 정책 고문 영입하며 인력 강화",
+    "스타트업 Subquadratic, LLM의 수학적 병목 현상 해결 주장하며 주목"
   ],
   "sections": [
     {
@@ -15,12 +15,12 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "넷플릭스 '카라모'의 AI 복제본, 웰니스 앱 Kē 출시",
-          "summary": "넷플릭스 '퀴어 아이'의 라이프 코치 카라모 브라운이 자신의 AI 디지털 클론을 활용한 웰니스 앱 'Kē'를 출시했습니다. 이 앱은 맞춤형 피트니스 및 영양 계획, 명상 콘텐츠를 제공하며, 사용자는 AI 카라모와 대화하며 조언을 얻을 수 있습니다.",
+          "title": "SAP-Google Cloud, 에이전트 커머스 아키텍처 배포로 기업 마케팅 자동화",
+          "summary": "SAP와 Google Cloud가 파트너십을 확대하여 엔터프라이즈 규모의 다중 에이전트 마케팅 및 소매 운영을 자동화하는 에이전트 커머스 아키텍처를 배포하고 있습니다. 이 아키텍처는 데이터, AI, 참여 및 상거래 운영을 연결하며, SAP Commerce Cloud는 Universal Commerce Protocol을 채택하여 소매업체, 결제 게이트웨이 및 자율 에이전트 간의 데이터 교환을 표준화합니다. 이를 통해 소프트웨어가 초기 검색부터 거래 처리 및 판매 후 해결까지 전체 소매 시퀀스를 독립적으로 실행할 수 있게 됩니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/"
             }
           ],
           "verification": "single",
@@ -28,25 +28,12 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Pixi, 메시징에 AR 경험을 더한 iOS 앱 출시",
-          "summary": "스타트업 Pixi가 텍스트 메시지를 인터랙티브 증강 현실(AR) 경험으로 전환하는 새로운 iOS 앱을 App Store에 출시했습니다. 이 앱은 AI 기반 AR 캐릭터를 통해 메시지를 보내면, 캐릭터가 수신자의 아이폰 카메라를 통해 주변 환경 및 사람과 실시간으로 상호작용합니다.",
+          "title": "e2e-assure, 주권적 AI 기반 제로데이 SOC 플랫폼 'Cumulo' 출시",
+          "summary": "영국의 SOC 서비스 제공업체 e2e-assure가 디지털 트윈 기술과 고객 전용 AI 모델을 기반으로 하는 주권적 AI 기반 제로데이 SOC 플랫폼 'Cumulo'를 출시했습니다. Cumulo는 GCHQ의 'AI 사이버 실드' 발표에 부응하여, 기존 SOC 모델로는 대응하기 어려운 AI 기반 위협에 맞서 IT 및 OT 환경을 보호하도록 설계되었습니다. 이 플랫폼은 위협 및 취약점을 사건 발생 전에 조기에 식별하며, 실시간 탐지 규칙 적용을 통해 제로데이 위협에 대응할 수 있습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/"
-            }
-          ],
-          "verification": "single",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "Snap, AI 비디오 팀 'Dotmo'로 분사",
-          "summary": "Snapchat이 내부 생성형 AI 비디오 팀을 'Dotmo'라는 별도 회사로 분사했습니다. 이번 분사는 AI 비디오 개발의 높은 내부 비용을 절감하기 위한 조치로, Dotmo는 Snap의 기술 라이선스를 받아 게임 및 인터랙티브 엔터테인먼트 플랫폼을 위한 AI 모델 개발에 집중할 예정입니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/"
             }
           ],
           "verification": "single",
@@ -61,12 +48,46 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "NAVI-Orbital: 자율 지구 관측을 위한 VLM 궤도 내 시연",
-          "summary": "NAVI-Orbital 논문은 저궤도(LEO) 위성에 배포된 소프트웨어 시스템으로, 자율 지구 관측을 위한 비전-언어 모델(VLM)의 첫 궤도 내 시연을 보고합니다. 2026년 4월 16일, NAVI-Orbital은 온보드에서 멀티모달 추론을 수행하여 캡처된 장면을 분류하고 텍스트로 설명했습니다.",
+          "title": "스타트업 Subquadratic, LLM의 수학적 병목 현상 해결 주장",
+          "summary": "AI 스타트업 Subquadratic이 대규모 언어 모델(LLM)의 수십 년간 지속된 수학적 병목 현상을 해결했다고 주장하며 주목받고 있습니다. 이들은 트랜스포머가 수행해야 하는 계산 수를 대폭 줄여 더 빠르고 저렴하며 에너지 효율적인 LLM을 개발했다고 밝혔습니다. 초기 회의론에도 불구하고, Subquadratic은 독립적인 평가 결과를 공유하며 그들의 접근 방식이 주목할 가치가 있음을 시사했습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.18271"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "뇌-컴퓨터 인터페이스(BCI) 임상 시험 확대 및 성공 사례 보고",
+          "summary": "뇌-컴퓨터 인터페이스(BCI) 임상 시험이 활발히 확대되고 있으며, 최근 수년간 뇌 임플란트 사용자의 수가 두 배 이상 증가했습니다. 특히 ALS 환자 케이시 해럴드가 뇌 임플란트를 통해 의사소통, 웹 서핑, 직업 활동을 독립적으로 수행하며 '혁명적'이라고 평가했습니다. 중국은 올해 BCI를 의료용으로 승인한 최초의 국가가 되었으며, 기술 발전이 BCI 연구를 가속화하고 있습니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "MIT, 금속 합금 거동 모델링 신기술로 재료 특성 예측 향상",
+          "summary": "MIT 연구팀이 금속 합금의 복잡한 화학적 배열을 정확하게 모델링하는 새로운 방법을 개발했습니다. 이 방식은 기계 학습 모델을 활용하여 재료 시뮬레이션의 속도와 정확성을 높이며, 화학적으로 무질서한 재료의 원자 환경 다양성을 포착하는 훈련 데이터셋을 구축합니다. 이 기술은 항공우주, 에너지, 컴퓨팅 분야의 신소재 개발에 기여할 수 있을 것으로 기대됩니다.",
+          "sources": [
+            {
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619"
             }
           ],
           "verification": "single",
@@ -74,25 +95,33 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "CaVe-VLM-CoT: 해석 가능한 VLM 프레임워크 제안",
-          "summary": "CaVe-VLM-CoT 논문은 시각-언어 모델(VLM)의 환각 문제와 시각적으로 불충분한 출력을 개선하기 위한 해석 가능한 프레임워크를 제안합니다. 이 모듈형 에이전트 기반 RAG(Retrieval-Augmented Generation) 프레임워크는 5단계의 폐쇄 루프 파이프라인을 통해 증거 기반 추론을 강화합니다.",
+          "title": "에이전트 AI 시스템 거버넌스 및 윤리적 탐구",
+          "summary": "최근 연구 논문들은 에이전트 AI 시스템의 윤리 및 제어 메커니즘을 탐구합니다. 특히 '런타임 거버넌스를 위한 의무론적 정책'에 관한 연구는 LLM 기반 자율 에이전트 시스템이 직면한 보안, 프라이버시, 규정 준수 문제를 해결하기 위한 정책 엔진의 필요성을 제기합니다. 또한, '멀티 에이전트 LLM 심의의 숨겨진 앵커' 연구는 에이전트들이 내부적 신념(앵커)을 가지고 의견을 교환하며 결정을 내리는 과정을 모델링합니다. 이외에도 분산 금융(DeFi) 리스크 감독을 위한 에이전트 시스템 'DeXposure-Claw'도 소개되었습니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.18385"
+              "url": "https://arxiv.org/abs/2606.19464"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.19494"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.19501"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "CEO-Bench: 에이전트의 장기적 문제 해결 능력 평가 벤치마크",
-          "summary": "CEO-Bench 논문은 에이전트가 불확실성 속에서 장기적인 복잡한 실세계 문제를 해결하고, 시끄러운 환경에서 정보를 습득하며, 변화하는 세상에 적응하는 능력을 평가하는 새로운 벤치마크를 제시합니다. 이 벤치마크는 스타트업을 500일 동안 운영하는 시뮬레이션을 통해 에이전트의 복합적인 기술을 평가합니다.",
+          "title": "LLM의 윤리적 자기 교정 능력 'Emergent Alignment' 개념 연구",
+          "summary": "새로운 연구 논문 'Emergent Alignment'는 대규모 언어 모델(LLM)이 자체 출력의 윤리적 불일치를 인지하고 스스로 교정할 수 있는지 탐구합니다. 연구팀은 LLM에 '양심 단계'를 부여하여 자체 추론과 출력을 검토하게 하고, DPO(Direct Preference Optimization)를 사용하여 모델이 비윤리적인 출력에서 벗어나도록 훈련 손실에 정렬 구성 요소를 추가했습니다. 이 온라인 기술은 훈련, 미세 조정, 적대적 프롬프트, 제로샷 학습 등 다양한 애플리케이션에서 모델을 윤리적으로 정렬하는 데 활용될 수 있음을 보여줍니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.18543"
+              "url": "https://arxiv.org/abs/2606.19527"
             }
           ],
           "verification": "single",
@@ -107,29 +136,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "AI 추론 스타트업, 대규모 투자 유치 논의",
-          "summary": "AI 추론 스타트업 Baseten이 130억 달러 가치로 15억 달러 규모의 자금 조달을 마무리하고 있는 것으로 알려졌습니다. 또한 AI 에이전트 훈련 모델을 구축하는 General Intuition도 약 20억 달러 가치로 3억 달러 규모의 자금 유치를 논의 중입니다.",
+          "title": "AI 추론 스타트업 Baseten, 15억 달러 자금 조달 추진",
+          "summary": "AI 추론 스타트업 Baseten이 130억 달러의 기업 가치로 15억 달러 규모의 자금 조달을 마무리하고 있는 것으로 알려졌습니다. 이는 불과 5개월 전 50억 달러 가치로 3억 달러를 조달한 데 이은 급격한 성장입니다. 이번 자금 조달은 분할 가격 라운드로 진행되어 일부 투자자는 130억 달러, 다른 투자자는 110억 달러 가치로 참여하는 것으로 보도되었습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "아마존 AWS, 자체 AI 칩 외부 판매로 엔비디아 도전",
-          "summary": "아마존 웹 서비스(AWS)가 자체 개발 AI 칩인 '트레이니엄(Trainium)'을 다른 회사에 판매하는 방안을 모색 중입니다. 이는 엔비디아의 AI 칩 시장 지배력에 대한 직접적인 도전이며, 앤디 재시 아마존 CEO는 자사 칩 사업의 연간 매출이 약 500억 달러에 달할 수 있다고 언급했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
             }
           ],
           "verification": "single",
@@ -137,12 +149,51 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "마이크로소프트, 중국 AI 시장의 주요 OpenAI 모델 공급자",
-          "summary": "마이크로소프트가 OpenAI 및 Anthropic이 직접 진출하지 않는 중국 시장에서 OpenAI 모델의 주요 공급업체로 조용히 부상했습니다. 마이크로소프트는 GPT 시리즈를 중국 주요 인터넷 기업들에 판매하며, ByteDance는 연간 10억 달러 이상을 지출할 것으로 예상되는 최대 AI 고객입니다.",
+          "title": "Snap, AI 비디오 팀 Dotmo로 분사 및 비용 절감",
+          "summary": "Snapchat 개발사 Snap이 비용 절감을 위해 내부 생성 AI 비디오 팀을 Dotmo라는 별도 회사로 분사했습니다. Dotmo는 인터랙티브 게임 경험을 생성하는 AI 모델 개발에 집중할 예정입니다. Snap은 Dotmo에 자사 기술 라이선스를 제공하고, Snap의 CTO가 개인적으로 주요 투자자로 참여하며, Snap은 Dotmo의 상당한 지분을 확보하게 됩니다.",
           "sources": [
             {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "OpenAI, IPO 앞두고 핵심 인력 영입으로 역량 강화",
+          "summary": "OpenAI가 기업공개(IPO)를 앞두고 구글 딥마인드의 AI 전문가이자 Transformer 아키텍처 공동 저자인 Noam Shazeer와 전 트럼프 행정부 AI 정책 고문인 Dean Ball을 영입했습니다. Shazeer는 새로운 생성 AI의 핵심 기반을 마련한 인물로 평가받으며, Ball은 OpenAI의 '전략적 미래' 팀을 이끌며 첨단 AI 정책 형성에 기여할 예정입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Elastic, AI 기반 소프트웨어 버그 탐지 스타트업 Deductive AI 인수 합의",
+          "summary": "엔터프라이즈 소프트웨어 기업 Elastic이 AI를 활용하여 소프트웨어 버그를 탐지하고 해결하는 스타트업 Deductive AI를 최대 8,500만 달러에 인수하기로 합의했습니다. 이번 인수는 AI 기반 SRE(Site Reliability Engineering) 도구의 중요성이 커지는 가운데, 기존 기술 기업들이 AI 네이티브 스타트업을 인수하여 에이전트 기술을 제품군에 통합하려는 광범위한 추세를 반영합니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "인도 억만장자 Ambani, Reliance 통해 AI를 모든 통신 서비스에 통합 추진",
+          "summary": "인도 억만장자 무케시 암바니가 자사 Reliance Industries를 통해 AI를 인도의 주요 통신 서비스, 모바일 앱, 스마트 홈에 통합하며 인도 AI 역량 강화에 나섰습니다. Reliance는 통화 녹취, 요약, 차량 호출 등 기능을 제공하는 AI 비서 'Jio Call Agent'를 발표했으며, 5억 명 이상의 Jio 사용자에게 올해 말 출시될 예정입니다. 또한 AI 기반 MyJio 앱과 스마트 홈 디스플레이 TeleFrame도 선보였습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/"
             }
           ],
           "verification": "single",
@@ -157,38 +208,33 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "FERC, AI 데이터 센터 전력망 연결 우선권 부여",
-          "summary": "미국 연방에너지규제위원회(FERC)는 데이터 센터와 같은 대규모 전력 사용자의 전력망 연결 요청에 우선권을 부여하도록 전력망 운영자들에게 지시했습니다. 그러나 이러한 지시는 증가하는 AI 데이터 센터의 전력 수요로 인한 전력 공급 부족 문제에 대한 근본적인 해결책은 제시하지 못했습니다.",
+          "title": "미국 정부, Anthropic AI 모델 출시 국가 안보 이유로 중단",
+          "summary": "미국 정부가 국가 안보 우려를 이유로 Anthropic의 강력한 AI 모델인 Fable 5와 Mythos 5의 해외 수출을 제한하고, 국내 외국인 접근을 차단하도록 명령했습니다. 이로 인해 Anthropic은 해당 모델들의 출시를 전면 중단했습니다. 이번 조치는 아마존 연구원들이 Fable 5의 안전장치를 우회하는 방법을 발견했다는 주장과 Anthropic이 중국과 연계된 것으로 의심되는 한국 통신사에 Mythos를 제공했다는 보도에 따른 것으로 알려졌습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"
+              "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "샌더스 의원, AI 산업 통제 위한 7조 달러 계획 발표",
-          "summary": "버니 샌더스 상원의원이 선도적인 AI 기업으로부터 7조 달러를 대중에게 이전하는 공격적인 계획을 공개했습니다. 이 계획은 최대 AI 기업 주식에 일회성 50% 세금을 부과하여 주권 부를 형성하고, 여기서 발생하는 수익으로 미국인들에게 직접 지급금과 의료, 교육, 주택 프로그램 자금을 지원할 것을 제안합니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "AI 근로자 보호 PAC, 500만 달러 규모 캠페인 시작",
-          "summary": "AI 기업 근로자 보호를 위한 새로운 정치 활동 위원회(PAC)인 Guardrails Alliance가 빅 테크 기업에 대항하여 500만 달러 규모의 캠페인을 시작했습니다. 이 PAC는 기술 기업 직원, 노동조합 및 기타 단체의 지원을 받으며, 책임 있는 AI 개발 및 배포를 위한 입법을 지지하는 후보를 후원할 예정입니다.",
+          "title": "미국 정부, ASML 최첨단 칩 도구 中 유출 의혹 제기",
+          "summary": "미국 상무부는 ASML의 최첨단 EUV 리소그래피 장비 중 하나가 중국에 유출되었을 가능성에 대해 우려를 표명했습니다. 이는 미국이 수립한 대중국 수출 통제 규정의 중대한 위반이 될 수 있습니다. 그러나 ASML은 중국에 EUV 장비가 존재하지 않으며, 자사가 모든 장비를 추적하고 내부 방화벽을 통해 기술 접근을 통제하고 있다고 부인했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/"
+              "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
             }
           ],
           "verification": "single",
