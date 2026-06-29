@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-29",
-  "date_str": "2026년 6월 29일 (월)",
+  "date": "2026-06-30",
+  "date_str": "2026년 6월 30일 (화)",
   "key5": [
-    "이재명 대통령, 호남 반도체 투자 등 3대 메가 프로젝트 발표",
-    "축구대표팀 홍명보 감독, 월드컵 32강 탈락 책임지고 사퇴",
-    "미국과 이란, 호르무즈 해협 통제권 갈등 이후 공격 중단 및 추가 회담 합의",
-    "콜로라도-유타 접경 지역 산불로 소방관 3명 사망, 2명 부상",
-    "유럽 전역 폭염 강타, 프랑스에서 약 1,000명 사망 및 기록적인 기온 발생"
+    "22대 국회 하반기 원 구성 협상이 법사위원장 자리를 두고 결렬되어 민주당이 상임위원장 단독 선출을 추진 중입니다.",
+    "이재명 대통령이 반도체, AI, 데이터센터 등 첨단산업 '3대 메가프로젝트'에 대한 대규모 투자와 기업 전폭 지원을 약속했습니다.",
+    "미국 대법원이 대통령의 연방거래위원 해임권 확대를 판결했으나, 연준 이사 해임 시도에는 제동을 걸었습니다.",
+    "EU와 중국이 3,600억 유로 무역 불균형 해소를 위해 3개월간 대화를 시작하며 무역 전쟁을 피하기 위한 노력을 합니다.",
+    "애플의 출시 예정인 아이폰18 관련 정보가 인도 협력업체 해킹으로 다크웹에 유출되는 사고가 발생했습니다."
   ],
   "regions": [
     {
@@ -16,67 +16,33 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령, 호남 반도체 등 3대 메가 프로젝트 발표",
-          "summary": "이재명 대통령은 29일 청와대에서 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 주재하고 호남 반도체 클러스터 조성 등 대규모 지역 투자를 발표할 예정이다. 삼성전자와 SK그룹은 총 1천조 원을 상회하는 투자 계획을 공개하며, 정부는 첨단기술 지역 투자와 지역균형발전을 목표로 지원 정책을 내놓을 방침이다.",
+          "title": "국회 원 구성 협상 결렬, 민주당 상임위원장 단독 선출 추진",
+          "summary": "22대 국회 하반기 원 구성을 위한 여야 협상이 법제사법위원장 자리를 놓고 또다시 불발되었습니다. 더불어민주당은 국민의힘과의 합의가 이루어지지 않자 상임위원장 단독 선출을 위한 본회의를 개최할 예정입니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628039900001"
+              "url": "https://www.yna.co.kr/view/AKR20260629163300001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260626170651003"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628046600001"
+              "url": "https://www.yna.co.kr/view/AKR20260629155000001"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "한일 국방장관, 교류협력 강화 논의",
-          "summary": "한일 국방장관은 28일 서울에서 만나 공군 특수비행팀 교류협력, 해군 수색구조훈련, 첨단 과학기술 협력 등 국방 교류협력을 강화하기로 합의했다. 양측은 엄중한 안보 환경 속에서 역내 평화와 안정 유지를 위해 협력을 지속하고, 한반도 비핵화와 평화 구축 의지를 재확인하며 한일·한미일 공조를 이어가기로 했다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628028752504"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628048900504"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "22대 국회 하반기 원구성 논의 난항, 여야 대치 지속",
-          "summary": "더불어민주당과 국민의힘은 29일 각각 의원총회를 열어 22대 국회 하반기 원구성 대응 전략을 논의할 예정이다. 법제사법위원장직을 둘러싼 이견이 좁혀지지 않으면서 여야 간 강 대 강 대치가 지속되고 있으며, 민주당은 이달 안 원구성 마무리를 위해 비상 대기 지침을 내렸다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628051000001"
-            }
-          ],
-          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "금융권 해외 부동산 투자 부실 우려 2조원 초과, 리스크 관리 증대",
-          "summary": "국내 금융회사의 해외 부동산 투자 중 부실 우려가 있는 사업장 규모가 약 2조 800억원으로 집계되어 전분기 대비 소폭 증가했다. 금융감독원은 글로벌 금리 인상 가능성 등 불확실성 상존에 따라 리스크 관리에 집중하고, 해외 부동산 투자 현황 모니터링 및 손실 인식 적정성 점검을 지속할 것이라고 밝혔다.",
+          "title": "이재명 대통령, '3대 메가프로젝트' 대규모 투자 및 기업 전폭 지원 약속",
+          "summary": "이재명 대통령은 반도체, AI, 데이터센터 등 첨단산업 분야의 '3대 메가프로젝트'에 대한 대규모 투자 계획을 공개하며 기업 전폭 지원을 약속했습니다. 이재용 삼성전자 회장과 최태원 SK그룹 회장의 투자 계획 발표를 청취한 뒤, 신속한 행정절차와 전력·용수 등 인프라 지원을 직접 책임지겠다고 밝혔습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260628033700002"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260629125451001"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606290719001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260629160400001"
             }
           ],
           "verification": "multi",
@@ -84,16 +50,33 @@
         },
         {
           "tag": "soc",
-          "title": "홍명보 축구대표팀 감독, 월드컵 32강 탈락에 책임지고 사퇴",
-          "summary": "홍명보 한국 축구대표팀 감독이 2026 북중미 월드컵 32강 진출 실패의 책임을 지고 29일(한국시간) 멕시코 베이스캠프에서 사퇴 의사를 밝혔다. 홍 감독은 국민께 죄송하다며 감독직을 내려놓지만 대한민국 축구를 향한 마음은 변치 않을 것이라고 전했다. 한국 대표팀은 조별리그에서 1승 2패를 기록하며 탈락했다.",
+          "title": "월드컵 32강 좌절 축구대표팀 귀국, 홍명보 감독 및 축구협회에 야유",
+          "summary": "2026 북중미 월드컵 32강 본선 진출에 실패한 축구 국가대표팀 홍명보 감독과 일부 선수단이 귀국했습니다. 인천국제공항에서는 성난 팬들의 야유가 쏟아졌으며, 홍 감독과 축구협회에 대한 비난 여론이 확산되고 있습니다.",
           "sources": [
             {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/sports/sports_general/1265938.html"
+            },
+            {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260629008200011"
+              "url": "https://www.yna.co.kr/view/AKR20260630012400011"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "울산 반구대병원 환자 추락사 발생, 복지부 차관 지적장애인 분리 언급",
+          "summary": "울산 반구대병원에서 입원 환자가 추락사하는 사고가 발생하여 병원의 관리 부실 문제가 다시 제기되었습니다. 보건복지부 이형훈 제2차관은 해당 병원에서 지적장애인과 다른 환자를 분리해 생활하도록 울산시 등과 협의하겠다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/yeongnam/1265932.html"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1265743.html"
+              "url": "https://www.hani.co.kr/arti/society/society_general/1265942.html"
             }
           ],
           "verification": "multi",
@@ -108,16 +91,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국-이란, 호르무즈 해협 갈등 후 공격 중단 및 회담 합의",
-          "summary": "미국과 이란이 호르무즈 해협 통제권을 둘러싼 군사적 충돌 이후 상호 공격을 중단하고 30일(현지시각) 카타르 도하에서 추가 회담을 개최하기로 합의했다. 양측은 지난 17일 발효된 전쟁 종식 양해각서(MOU)가 흔들리자 확전 차단을 위해 협의에 나서는 모양새이나, 이란 핵 프로그램 논의는 뒷전으로 밀려나고 있다는 우려가 나온다.",
+          "title": "미 대법, 대통령 연방거래위원 해임권 확대…연준 독립성은 보호",
+          "summary": "미국 대법원은 연방거래위원회(FTC) 등 독립 규제기관 인사에 대한 대통령의 해임 권한을 확대하는 판결을 내렸습니다. 그러나 동시에 연방준비제도(연준) 이사 해임 시도에는 제동을 걸며 연준의 독립성을 별도로 보호해야 한다고 판단했습니다.",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1265752.html"
+              "url": "https://www.hani.co.kr/arti/international/america/1265943.html"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202606290708001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -125,33 +108,16 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 연방 공무원 해고 보호 이사회에 은밀히 영향력 행사 의혹",
-          "summary": "트럼프 백악관이 연방 공무원들의 부당 해고를 막기 위한 이사회에 은밀히 영향력을 행사하려 했다는 의혹이 제기되었다. 이는 행정부가 충성파를 정부 각 계층에 배치하려는 광범위한 행정 권력 이론을 추진하기 위한 것이라는 분석이다.",
+          "title": "미 대법원, 선거일 이후 도착 우편 투표 유효 판결…트럼프 측에 불리",
+          "summary": "미국 대법원이 선거일 이후 도착한 우편 투표 용지도 선거일 소인이 찍혀있다면 유효하다는 판결을 내렸습니다. 이는 우편 투표의 사기 가능성을 주장하며 선거 규제 강화를 추진해 온 도널드 트럼프 전 대통령의 노력에 차질을 주게 되었습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/28/us/politics/trump-firings-workers-merit-systems-protection-board.html"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 대통령, 랜스 슈로이어 이민세관집행국(ICE) 국장 지명",
-          "summary": "도널드 트럼프 대통령이 마크웨인 멀린 국토안보부 장관의 고문인 랜스 슈로이어를 이민세관집행국(ICE)의 새 국장으로 지명했다고 밝혔다. 트럼프 대통령과 멀린 장관은 슈로이어가 오랫동안 법 집행 경험을 가지고 있으며 불법 체류자 단속에 적임자라고 강조하며, 상원에 신속한 인준을 촉구했다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.com/news/2026/06/27/trump-oklahoma-ice-00979135?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
             }
           ],
           "verification": "multi",
@@ -159,20 +125,33 @@
         },
         {
           "tag": "soc",
-          "title": "콜로라도-유타 접경 산불로 소방관 3명 사망, 2명 부상",
-          "summary": "미국 콜로라도-유타 접경 지역에서 발생한 산불 진화 작업 중 소방관 3명이 사망하고 2명이 부상당했다. 미 산림청은 이들이 '번오버(burnover)' 사고를 당했다고 밝혔다. 현재 이 지역은 낮은 습도, 높은 기온, 강한 바람으로 인해 산불이 확산되고 있으며, 유타와 콜로라도 주지사는 비상사태를 선포했다.",
+          "title": "콜로라도 대형 산불로 소방관 3명 사망, 서부 주들 피해 확산",
+          "summary": "콜로라도 지역에서 발생한 대형 산불 진화 작업 중 소방관 3명이 사망했습니다. 건조하고 더운 날씨와 강한 바람으로 인해 서부 여러 주에서 산불 피해가 확산하고 있으며, 유타와 콜로라도 주지사는 비상사태를 선포했습니다.",
+          "sources": [
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jun/29/firefighters-killed-colorado-wildfires"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "샌프란시스코 대교구, 아동 성 학대 피해자에 3.95억 달러 합의",
+          "summary": "샌프란시스코 대교구가 500건 이상의 아동 성 학대 피해자들에게 총 3억 9,500만 달러(약 5천억 원)를 지급하기로 합의했습니다. 이번 합의에는 대교구장의 사과 서한과 아동 보호 및 투명성 강화를 위한 개혁 조치 이행도 포함되어 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/28/us/wildfires-utah-colorado-firefighters-deaths.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder"
+              "url": "https://www.nytimes.com/2026/06/29/us/san-francisco-archdiocese-clergy-sex-abuse-settlement.html"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires"
+              "url": "https://www.theguardian.com/us-news/2026/jun/29/san-francisco-archdiocese-settlement-child-sexual-abuse"
             }
           ],
           "verification": "multi",
@@ -186,59 +165,59 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
+          "tag": "eco",
+          "title": "엔화, 39년 만에 최저치 기록…달러 강세 지속",
+          "summary": "엔화 가치가 달러 대비 39년 만에 최저치를 기록하며 달러 강세가 이어지고 있습니다. 미국 금리 인상 기대감이 달러 매수를 부추기면서 엔화 가치 하락에 압력을 가하고 있습니다.",
+          "sources": [
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/currencies/yen-slips-to-39-year-low-as-dollar-rally-gathers-steam"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
           "tag": "pol",
-          "title": "일본 방위상, 한국 외교부 장관 면담 및 국방 협력 논의",
-          "summary": "고이즈미 신지로 일본 방위상이 28일 서울에서 조현 한국 외교부 장관을 면담하고 국방 교류협력 강화 방안을 논의했다. 양 장관은 한일 '셔틀외교'를 긍정적으로 평가하고, 공군 특수비행팀 교류 및 해군 수색구조훈련, 첨단 과학기술 분야에서의 협력을 증진하기로 했다.",
+          "title": "중국, 日 '재무장' 움직임에 일본 기업 블랙리스트 추가",
+          "summary": "중국 상무부가 일본의 '재무장' 움직임에 대응하여 국립방위연구소를 포함한 20개 일본 기업 및 단체를 수출 통제 목록에 추가했습니다. 이는 베이징이 도쿄의 재무장 및 핵무기 추구에 대한 제한을 강화하려는 움직임으로, 양국 간의 갈등이 심화되고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/28/japan/politics/shiinjiro-koizumi-japan-south-korea/"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260628048900504"
+              "url": "https://www.japantimes.co.jp/business/2026/06/29/economy/china-japan-defense-export-controls/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "일본·인도, LNG 비축 TF 구성하여 에너지 안보 강화",
-          "summary": "일본과 인도가 중동 정세 불안에 대응하여 액화천연가스(LNG) 비축 협력을 위한 공동 태스크포스(TF) 구성을 검토 중이다. 양국은 오는 목요일 다카이치 사나에 일본 총리와 나렌드라 모디 인도 총리의 회담에서 이 합의를 도출할 것으로 예상되며, 에너지 안보 협력을 강화하여 공급 중단 위험에 대비할 계획이다.",
+          "tag": "tec",
+          "title": "일본, 데이터센터 건축 기준 완화 추진…리튬이온 배터리 안전 기준 도입",
+          "summary": "일본 정부의 규제개혁위원회는 인공지능(AI)의 급속한 발전에 발맞춰 데이터센터 건축 기준 완화를 촉구했습니다. 특히 데이터센터 운영에 필수적인 리튬이온 배터리를 소방법상 위험물에서 제외하고 안전 기준을 도입하여 설치 제한을 완화하자는 제안을 내놓았습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/28/japan/japan-india-lng-task-force/"
+              "url": "https://www.japantimes.co.jp/news/2026/06/29/japan/panel-data-center-standards/"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "캐나다, 무역 다각화 위해 일본에 무역 사절단 파견",
-          "summary": "캐나다가 불안정한 글로벌 환경 속에서 무역 파트너십을 다각화하기 위한 노력의 일환으로 일본에 대규모 무역 사절단을 파견했다. 캐나다는 2035년까지 미국 외 국가에 대한 수출을 두 배로 늘려 약 3000억 캐나다달러의 추가 무역액을 창출하는 것을 목표로 하고 있으며, 일본을 신뢰할 수 있는 파트너로 보고 협력 확대를 모색 중이다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/28/canada-trade-mission-japan/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
+          "tag_label": "기술·과학"
         },
         {
           "tag": "soc",
-          "title": "홍콩 청소년 온라인 게임 중독 심각성 경고, 7세부터 문제 발생",
-          "summary": "홍콩에서 7세 어린이들도 온라인 게임 중독으로 상담을 받는 사례가 증가하는 등 청소년들의 온라인 게임 중독이 심각한 수준에 이르렀다는 경고가 나왔다. 상담 심리학자는 7세 초등학생이 어머니의 신용카드로 게임에 8천 홍콩달러를 사용한 사례를 언급하며, 무작위 보상 아이템(loot box)이 성인 도박 중독으로 이어질 수 있다고 지적했다.",
+          "title": "일본, 월드컵 32강전 브라질에 역전패…종료 직전 결승골 허용",
+          "summary": "모리야스 하지메 감독이 이끄는 일본 축구대표팀이 2026 북중미 월드컵 32강전에서 브라질에 1-2로 역전패하며 16강 진출이 좌절되었습니다. 일본은 사노 가이슈의 선제골로 앞서갔으나, 후반 카제미루의 동점골에 이어 추가시간 가브리에우 마르치넬리에게 결승골을 허용하며 아쉽게 패했습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/education/article/3358672/pupils-young-7-hooked-online-games-expert-warns-alarming-trend?utm_source=rss_feed"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/sports/sportstemp/1265939.html"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/sports/2026/06/30/soccer/japan-fall-knockout-stage/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         }
       ]
@@ -250,16 +229,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "세르비아 부치치 대통령, 학생 시위 속 사임 발표",
-          "summary": "세르비아의 알렉산다르 부치치 대통령이 2024년 철도역 지붕 붕괴 사고로 촉발된 학생 주도 반부패 시위가 계속되는 가운데 수주 내 사임할 것이라고 발표했다. 부치치 대통령은 조기 대선 및 총선을 위한 길을 열기 위해 사임할 것이라고 밝혔으며, 그의 임기는 2027년에 만료될 예정이었다.",
+          "title": "EU-중국, 3,600억 유로 무역 불균형 해소 위한 3개월 대화 시작",
+          "summary": "유럽연합(EU)과 중국이 연간 3,600억 유로(약 535조 원)에 달하는 무역 불균형 해소를 위해 3개월간의 공식적인 대화에 돌입하기로 합의했습니다. 양측은 브뤼셀에서 열린 회담에서 무역 전쟁을 피하고 양자 관계를 보다 균형 있게 만들겠다는 목표를 밝혔습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3358677/serbians-keep-protests-after-president-vucic-says-he-will-step-down?utm_source=rss_feed"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/serbian-president-vucic-says-he-will-resign-within-weeks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/06/29/eu-sets-october-deadline-to-get-tangible-results-with-china"
             }
           ],
           "verification": "multi",
@@ -267,61 +246,41 @@
         },
         {
           "tag": "pol",
-          "title": "이스라엘, 터키 관계 악화 속 아르메니아 집단 학살 공식 인정",
-          "summary": "이스라엘 정부가 제1차 세계대전 중 발생한 아르메니아인 대량 학살을 공식적으로 집단 학살(genocide)로 인정했다. 이 결정은 지난 2023년 10월 가자 전쟁 발발 이후 터키와의 관계가 악화된 가운데 이루어졌으며, 이스라엘 외무장관은 역사적 진실을 인정하고 부인 시도를 거부하는 도덕적 의무를 다했다고 밝혔다.",
+          "title": "독일 산모·아동 센터 총기 난사로 6명 사망, 용의자 체포",
+          "summary": "독일 북부 스타데의 산모 및 아동 센터에서 총기 난사 사건이 발생하여 4명의 여성과 2명의 남성 등 6명이 사망했습니다. 용의자는 아기 양육권 분쟁 중이던 45세 남성으로, 사건 발생 직후 체포되었으며 추가적인 공공 위협은 없는 것으로 확인되었습니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/2026/06/28/israels-government-formally-recognises-the-armenian-genocide-committed-during-world-war-i"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/israel-recognizes-armenian-genocide-amid-tensions-with-turkey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "영국, 우크라이나 전쟁 교훈 바탕으로 군대 재정비 계획 발표",
+          "summary": "영국이 우크라이나 전쟁에서 얻은 교훈을 바탕으로 자국 군대의 대대적인 재정비 계획인 '국방 투자 계획'을 발표합니다. 이 계획은 '고가 목표물 파괴를 위한 저렴한 시스템과 수주 만에 이루어지는 혁신 주기'에 초점을 맞춰 향후 유사한 갈등에 대비하는 것을 목표로 합니다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/britain-keir-starmer-defense-ukraine-modeled-armed-forces/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "유럽 전역 폭염 강타, 프랑스에서 약 1천명 사망",
-          "summary": "유럽 전역에 폭염이 강타하면서 프랑스에서 약 1,000명의 초과 사망자가 발생했으며, 이는 6월 24일부터 27일까지의 수치로 추후 더 늘어날 것으로 예상된다. 독일, 덴마크, 체코 등에서도 기록적인 기온이 관측되었으며, 특히 65세 이상 고령층의 사망률이 높게 나타나 공공 보건 서비스에 큰 부담을 주고 있다.",
+          "title": "유럽 전역 기록적 폭염으로 1,300명 이상 사망, 동유럽으로 확산",
+          "summary": "유럽 전역에서 기록적인 폭염이 이어지며 6월 21일 이후 1,300명 이상의 초과 사망자가 발생했습니다. 현재 열파는 발칸반도와 우크라이나 등 동유럽으로 이동하고 있으며, 전쟁으로 손상된 우크라이나의 전력망도 열파에 대비하고 있습니다.",
           "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/06/28/world/france-1000-heat-deaths/"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "soc",
-          "title": "프랑스 동부서 스카이다이버 항공기 추락, 11명 전원 사망",
-          "summary": "프랑스 동부 톰블렌에서 스카이다이버를 태운 민간 항공기가 추락하여 조종사 1명과 승객 10명 등 탑승자 11명 전원이 사망했다. 사망자 중에는 스카이다이빙 강사 5명과 첫 점프를 준비하던 5명이 포함되어 있으며, 사고는 낸시-에세이 비행장에서 이륙 직후 발생했다.",
-          "sources": [
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect"
-            },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/28/france-11-killed-in-civilian-plane-crash-near-nancy"
+              "url": "http://www.euronews.com/health/2026/06/29/europes-record-breaking-heatwave-what-you-need-to-know"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "사회"
         }
       ]
@@ -333,45 +292,49 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "하와이, 해양 플라스틱 및 폐어망 재활용하여 도로 건설",
-          "summary": "하와이 연구팀이 해양 플라스틱과 폐어망을 재활용하여 아스팔트 도로를 만드는 혁신적인 해결책을 모색 중이다. 초기 테스트 결과, 이러한 도로가 일반 포장도로보다 플라스틱 미세 입자를 더 많이 배출하지 않는 것으로 나타났으며, 향후 연구를 통해 내구성이 확인되면 해양 오염 및 매립지 문제 해결에 기여할 것으로 기대된다.",
+          "title": "애플 아이폰18 정보, 인도 협력업체 해킹으로 다크웹 유출",
+          "summary": "애플의 올 하반기 출시 예정인 아이폰18 관련 정보가 인도 타타 일렉트로닉스 해킹으로 다크웹에 유출되었습니다. 유출된 데이터에는 아이폰18 프로 모델의 핵심 부품, 공급망, 내부 시험 사진 등이 포함되어 애플의 영업 비밀이 노출되었습니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "제임스 웹 우주망원경, '핑크 행성'의 이국적인 소금 구름 발견",
-          "summary": "제임스 웹 우주망원경(JWST)이 '핑크 행성'으로 알려진 GJ 504 b의 대기에서 수증기, 메탄, 이산화탄소, 암모니아와 함께 이전에는 직접 확인되지 않았던 소금 구름을 발견했다. 이는 가장 차가운 행성 질량 천체 중 하나인 이 행성의 대기 구성에 대한 10년 이상 된 미스터리를 풀었으며, 소금 구름이 존재할 수 있다는 예측을 확인시켜 주었다.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260623014009.htm"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "중국, 세계에서 가장 빠른 슈퍼컴퓨터 보유 주장 및 사이버 보안 능력 향상",
-          "summary": "중국이 세계에서 가장 빠른 슈퍼컴퓨터 '라인샤인(LineShine)'을 보유하게 되었다고 주장하며, 미국의 무역 규제에도 불구하고 2018년 이후 처음으로 TOP500 순위에서 1위를 차지했다. 또한 중국의 Z.ai가 개발한 개방형 GLM-5.2 모델은 특정 버그 탐지 및 사이버 보안 시나리오에서 미국 모델과 유사한 성능을 보이며 중국의 인공지능 기술 격차를 크게 줄였다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260630016600091"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
+              "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web"
             }
           ],
           "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "왓츠앱, 전화번호 없이 채팅하는 '사용자 이름' 기능 출시 예정",
+          "summary": "왓츠앱이 전화번호 교환 없이도 채팅할 수 있는 새로운 '사용자 이름' 기능을 전 세계적으로 출시할 예정입니다. 앞으로 몇 달에 걸쳐 전 세계 30억 계정 보유자들에게 순차적으로 적용될 예정이며, 사용자들은 이번 주부터 사용자 이름을 예약할 수 있습니다.",
+          "sources": [
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "포드, AI 품질 검증 한계로 인간 엔지니어 재고용",
+          "summary": "포드 자동차가 AI 기반 품질 검증 시스템이 숙련된 기술자의 수준에 미치지 못하자 인간 엔지니어들을 재고용하고 있습니다. 회사는 AI가 학습에 필요한 전문 지식과 경험을 갖춘 베테랑 기술자들이 부족했다고 인정했습니다.",
+          "sources": [
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]

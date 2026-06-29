@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-29",
-  "date_str": "2026년 6월 29일 (월)",
+  "date": "2026-06-30",
+  "date_str": "2026년 6월 30일 (화)",
   "highlights": [
-    "포드, AI 시스템 한계 인정하고 베테랑 엔지니어 재고용",
-    "마이크론, AI 반도체 수요 급증으로 차세대 엔비디아로 주목받아",
-    "중국 Zhipu AI, GLM-5.2 모델로 사이버 보안 분야에서 Mythos와 필적 주장",
-    "Suno, 독립 아티스트 지원 인큐베이터 프로그램 'Spark' 출시",
-    "중국, LineShine 슈퍼컴퓨터로 세계에서 가장 빠른 슈퍼컴퓨터 타이틀 재탈환"
+    "구글, 제미니 AI 이미지 생성 기능 미국 내 무료 제공 확대",
+    "대한민국, AI 기술 허브 도약을 위해 메모리 칩 생산에 5,500억 달러 이상 투자",
+    "음악 플랫폼 Tidal, AI 생성 음악 로열티 지급 중단 및 아티스트 사칭 시 삭제",
+    "OpenAI, 코딩 도구 Codex 관련 새로운 하드웨어 장치 발표 예정",
+    "미국 의원, AI 기업의 개인 건강 및 위치 데이터 판매 금지 법안 제안"
   ],
   "sections": [
     {
@@ -15,12 +15,12 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "중국 Zhipu AI, GLM-5.2 모델로 사이버 보안 역량 강화 주장",
-          "summary": "중국 Zhipu AI(Z.ai)가 공개한 오픈 가중치 모델 GLM-5.2가 특정 버그 탐지 및 사이버 보안 시나리오에서 Mythos 모델과 필적한다고 주장했습니다. GLM-5.2는 일반적인 작업에서는 앤트로픽이나 OpenAI 모델에 미치지 못하지만, 사이버 보안 분야에서는 격차를 크게 줄인 것으로 보입니다.",
+          "title": "구글, 제미니 AI 이미지 생성 기능 미국 내 무료 제공 확대",
+          "summary": "구글은 제미니 앱의 개인 맞춤형 AI 이미지 생성 기능을 미국 내 모든 적격 사용자에게 무료로 제공한다고 발표했습니다. 이 기능은 사용자의 구글 계정 데이터(Gmail, 구글 포토, 유튜브 등)를 활용하여 개인의 관심사를 반영한 이미지를 생성하며, 이전에는 유료 구독자만 이용할 수 있었습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
             }
           ],
           "verification": "single",
@@ -28,12 +28,51 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Suno, 독립 아티스트 위한 'Spark' 인큐베이터 프로그램 출시",
-          "summary": "AI 음악 플랫폼 Suno가 독립 아티스트를 지원하기 위한 인큐베이터 프로그램 'Spark'를 시작했습니다. 이 프로그램은 보조금, 멘토링, 마케팅 지원을 제공하며, 아티스트는 자신의 곡을 Suno에서 리믹스할 수 있도록 허용하고 회사에 대한 비방을 금지하는 등의 조건을 수락해야 합니다.",
+          "title": "OpenAI, 코딩 도구 Codex 관련 새로운 하드웨어 장치 발표 예정",
+          "summary": "OpenAI가 7월 15일 AI 기반 코딩 도구인 Codex와 관련된 새로운 하드웨어 장치를 출시할 예정입니다. 이 장치는 매크로 패드 전문 회사 Work Louder와의 협력을 통해 개발되었으며, Codex의 바로가기 기능을 강화하는 데 초점을 맞출 것으로 보입니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-lunches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "HP, OpenAI Frontier 통합으로 기업 워크플로우 가속화",
+          "summary": "HP는 기업 워크플로우를 최적화하고 생산성을 높이기 위해 OpenAI Frontier 통합을 전 세계적으로 확대했습니다. 2026년 2월부터 플랫폼 테스트를 시작하여 소프트웨어 엔지니어링 및 사이버 보안 분야에서 상당한 운영 효율성 개선을 확인했습니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "윔블던, IBM AI 도구 추가해 라이브 경기 중계에 새 기능 도입",
+          "summary": "윔블던은 IBM과의 협력을 통해 디지털 플랫폼에 새로운 AI 기반 기능을 추가했습니다. 업데이트된 '매치 챗' 비서와 새로운 '키 모먼츠' 기능은 라이브 경기 데이터, 분석, 과거 성능 정보를 활용하여 팬들에게 더 풍부한 경기 정보를 제공할 예정입니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Scam.ai, 퀄컴과 협력하여 온디바이스 딥페이크 감지 모델 'Halo' 출시",
+          "summary": "Scam.ai는 퀄컴과의 파트너십을 발표하고 Computex 2026에서 실시간 화상 통화용 온디바이스 딥페이크 감지 모델 'Halo'를 출시했습니다. Halo는 클라우드 인프라 없이 로컬에서 작동하며, 비디오 회의 중 합성 또는 AI 생성 비디오를 실시간으로 식별합니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/"
             }
           ],
           "verification": "single",
@@ -46,7 +85,73 @@
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": []
+      "stories": [
+        {
+          "title": "AI 모델 네트워크: 개념, 현재 상태 및 미래에 대한 연구 논문 발표",
+          "summary": "AI 모델 간의 효과적인 상호작용과 협업을 가능하게 하는 '세계적 AI 모델 네트워크(AI-ModelNet)' 개념, 비전, 시스템 아키텍처에 대한 연구 논문이 발표되었습니다. 이 논문은 단일 및 다중 모델 연구의 현재 상태를 검토하고, 프로토타입 시스템 및 다양한 응용 사례를 통해 프레임워크의 타당성을 검증합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.27382"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "다중 에이전트 LLM 팀에서 성격 구성의 중요성 연구",
+          "summary": "대규모 언어 모델(LLM) 에이전트 팀에서 성격 구성이 언제 중요한지에 대한 연구가 진행되었습니다. 연구 결과에 따르면 성격 효과는 작업 구조에 따라 결정되며, 코딩 작업에서는 의사소통에 큰 변화가 있어도 마일스톤 달성에는 거의 영향을 미치지 않지만, 개방형 협업 및 협상에서는 성능이 크게 저하됩니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.27443"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "세계 모델 계획을 위한 통합된 에이전트 훈련 패러다임 '미래 내면화' 발표",
+          "summary": "세계 모델 계획을 위한 통합된 에이전트 훈련 패러다임인 '미래 내면화'(Internalizing the Future)에 대한 연구 논문이 발표되었습니다. 이 접근 방식은 단일 자동회귀 모델을 훈련하여 미래 상태 전개와 계획에 따른 성공 추정치를 언어화함으로써 장기적인 작업에서 LLM 에이전트의 반응성을 극복합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.27483"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "검증 가능한 지역 진실 보존 기반 모델 구축을 위한 'Odyssey' 프레임워크 소개",
+          "summary": "'Odyssey'는 검증 가능하고 지역적으로 진실을 보존하는 기반 모델을 구성하기 위한 범주형 프레임워크로 소개되었습니다. 이 프레임워크는 파운드리라는 빌딩 블록 아키텍처 구성 요소를 통해 지식의 조직화된 다발을 형성하고, 다양한 응용 분야에서 구현 및 테스트되었습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.27593"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "LLM 에이전트 환각 전파 감소를 위한 파라미터화된 세계 모델 연구",
+          "summary": "LLM 에이전트에서 환각 전파를 줄이는 파라미터화된 세계 모델에 대한 연구가 진행되었습니다. '기반 반복 언어 계획(GILP)'이라는 새로운 접근 방식은 소규모 파라미터화된 백본과 API 기반 에이전트 추론을 결합하여 환각 상태 비율을 크게 줄이고 성공률을 높입니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2606.27806"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        }
+      ]
     },
     {
       "name": "산업·투자·기업",
@@ -54,41 +159,36 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "포드, AI 한계 인정 후 베테랑 엔지니어 재고용으로 품질 개선",
-          "summary": "포드가 인공지능 및 자동화 시스템이 원하는 품질 수준을 달성하지 못하자 350명의 베테랑 엔지니어를 재고용했습니다. 회사 경영진은 AI에 대한 과도한 의존이 실망스러운 결과를 초래했다고 밝히며, 재고용된 엔지니어들이 젊은 직원 교육 및 AI 도구 재프로그래밍에 기여하고 있다고 전했습니다. 포드는 이러한 전략으로 올해 10억 달러의 비용 절감을 예상하며, JD 파워 초기 품질 조사에서 주류 브랜드 중 1위를 차지했습니다.",
+          "title": "대한민국, AI 기술 허브 도약을 위해 메모리 칩 생산에 5,500억 달러 이상 투자",
+          "summary": "대한민국은 AI 기술 허브로 자리매김하기 위해 메모리 칩 생산 및 AI 데이터 센터 구축에 5,500억 달러 이상을 투자할 계획입니다. 삼성과 SK하이닉스는 한국 남서부에 4개의 새로운 메모리 팹을 건설하는 데 5,180억 달러를, 고대역폭 메모리(HBM) 패키징 허브에 520억 달러를 투자할 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+              "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "마이크론, AI 반도체 수요 급증으로 월스트리트의 주목받아",
-          "summary": "메모리 칩 제조업체 마이크론이 AI 데이터 센터 구축 붐으로 인한 DRAM 및 NAND, 특히 HBM(고대역폭 메모리) 부족 현상으로 월스트리트의 큰 주목을 받고 있습니다. 회사의 주가는 지난 한 달간 236% 이상 급등했으며, 최근 분기 매출과 이익이 크게 증가했습니다. 월스트리트는 마이크론을 차세대 엔비디아로 보고 있으며, 메모리 부족 현상은 2027년까지 지속될 것으로 예상됩니다.",
+          "title": "음악 플랫폼 Tidal, AI 생성 음악 로열티 지급 중단 및 아티스트 사칭 시 삭제",
+          "summary": "음악 스트리밍 서비스 Tidal이 AI 생성 음악에 대한 새로운 정책을 도입했습니다. Tidal은 AI로만 생성된 음악에는 로열티를 지급하지 않으며, 아티스트를 사칭하려는 AI 생성 음악은 자동화 도구를 사용하여 삭제할 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "중국, LineShine 슈퍼컴퓨터로 세계 최고 속도 재탈환",
-          "summary": "중국이 미국의 무역 제한에도 불구하고 LineShine 슈퍼컴퓨터로 2018년 이후 처음으로 세계에서 가장 빠른 슈퍼컴퓨터 타이틀을 되찾았습니다. LineShine은 TOP500 순위에서 El Capitan을 제치고 1위에 올랐으며, GPU 대신 45,000개의 LX2 프로세서를 사용하여 2,000 엑사플롭 장벽을 넘어섰습니다. 이는 미국의 고성능 컴퓨팅 부품 판매 제한에 대한 중국 정부의 메시지로 해석됩니다.",
-          "sources": [
+              "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
+              "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         }
@@ -100,12 +200,25 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "검찰, 로스앤젤레스 산불 재판에서 ChatGPT 로그 증거 활용",
-          "summary": "로스앤젤레스 산불 방화 혐의 재판에서 검찰이 피고인의 아이폰 위치 데이터, 보안 카메라 영상 및 증인 증언과 함께 ChatGPT 대화 기록을 증거로 제출했습니다. 검찰은 피고인이 ChatGPT에게 불 관련 이미지 생성, 분노 표출, 담배로 인한 화재 책임 여부 등을 질문한 기록을 제시했습니다. 그러나 배심원단은 이 증거에 설득되지 않아 재판은 교착 상태에 빠졌고 결국 미결심으로 종료되었습니다.",
+          "title": "미국 의원, AI 기업의 개인 건강 및 위치 데이터 판매 금지 법안 제안",
+          "summary": "미국 상원의원 엘리자베스 워렌과 하원의원 메리 게이 스캔런은 AI 기업이 개인 건강 및 위치 데이터를 데이터 브로커에게 판매하는 것을 금지하는 법안을 제안할 계획입니다. 이 개정된 법안은 챗봇 서비스에 입력된 정보까지 포함하여 개인 데이터 보호를 강화하는 것을 목표로 합니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "EU, 구글 독점 규제 계획으로 사용자 데이터 노출 우려 제기",
+          "summary": "유럽연합 집행위원회가 구글에 대한 새로운 규제안을 발표할 예정이며, 이는 구글에게 안드로이드 AI 서비스 개방과 검색 데이터 공유를 요구할 수 있습니다. 구글은 이러한 제안이 사용자 데이터 보안 및 개인 정보 보호에 심각한 문제를 초래할 수 있다고 경고했습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/"
             }
           ],
           "verification": "single",
