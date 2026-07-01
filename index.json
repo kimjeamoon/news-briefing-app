@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-01",
-  "date_str": "2026년 7월 1일 (수)",
+  "date": "2026-07-02",
+  "date_str": "2026년 7월 2일 (목)",
   "key5": [
-    "한성숙 총리 임명동의안 국회 통과, 대통령 재가로 공식 임명",
-    "미국 대법원, 출생 시민권 유지 및 트랜스젠더 선수 여성 스포츠 참여 제한 가능 판결",
-    "텍사스주, 11월 중간선거 접전지로 부상하며 공화당 지지세와 동률 기록",
-    "일본 엔화, 달러 대비 40년 만에 최저치 경신하며 162엔 돌파",
-    "육아기 10시 출근제 신청 증가에 따라 근속 요건 폐지 추진"
+    "인천시, 생활형 숙박시설 불법 활용 실태조사 시작",
+    "트럼프 행정부, 출생시민권 제한 패소 후 임신부 입국 금지 검토",
+    "플레이스테이션, 2028년부터 디스크 기반 게임 출시 중단 예정",
+    "독일, 노르드 스트림 폭발 사건 우크라이나인 기소, 양국 관계 영향 우려",
+    "미국, USMCA 장기 갱신 거부 및 캐나다의 중국 관계 비난"
   ],
   "regions": [
     {
@@ -15,115 +15,64 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "한성숙 국무총리 임명안 국회 통과, 이재명 대통령 재가",
-          "summary": "이재명 대통령은 30일 한성숙 국무총리 임명안을 재가하며 한성숙 총리가 오는 7월 1일 이재명 정부의 두 번째 총리이자 제50대 총리로 취임한다. 앞서 국회는 국민의힘이 불참한 가운데 재석 의원 167명 중 찬성 166명으로 임명동의안을 가결했다. 한 총리는 2006년 한명숙 전 총리 이후 20년 만에 탄생한 두 번째 여성 총리이다.",
+          "tag": "soc",
+          "title": "인천시, 불법 생활형 숙박시설 1천807곳 실태조사",
+          "summary": "인천시가 생활형 숙박시설의 불법 주거용 활용을 막기 위해 1천807개 객실을 대상으로 실태조사를 연말까지 진행합니다. 용도 변경 절차를 밟거나 숙박업 신고가 된 시설은 조사 대상에서 제외되며, 위법 사례 확인 시 이행강제금을 부과할 예정입니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260630196500001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260630192751001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "이재명 대통령, 문재인 전 대통령과 청와대 오찬",
-          "summary": "이재명 대통령이 1일 문재인 전 대통령을 청와대 영빈관으로 초청해 오찬을 함께한다. 배우자들은 동반하지 않으며, 문 전 대통령 배우자 김정숙 여사는 해외 일정으로 불참한다. 이번 만남은 이 대통령 취임 직후부터 추진되었으나 일정 조율로 이날 성사되었다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260630176100001"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607010732001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "6.3 지방선거 투표지 부족 사태 국정조사특위 기관보고 진행",
-          "summary": "국회 6.3 지방선거 투표용지 부족사태 국정조사특별위원회는 1일 전체회의를 열고 윤호중 행정안전부 장관을 비롯한 약 60명의 증인을 불러 2차 기관 보고를 받는다. 이날 보고에는 노태악 전 중앙선관위원장, 위철환 중앙선관위원장 직무대행 등 중앙선관위원 8명과 유재성 경찰청장 직무대행, 박정보 서울경찰청장 등이 출석할 예정이다. 회의에서는 행안부 책임론 공방과 투표소 봉쇄 시위 관련 경찰 과잉 진압 논란 등이 다뤄질 전망이다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260630161600001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260630191200004"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "네이버 AI 쇼핑 에이전트 정식 출시, 대화형 커머스 본격화",
-          "summary": "네이버가 약 4개월간의 베타 운영을 거쳐 'AI 쇼핑 에이전트'를 정식 출시했다. 이는 쇼핑 앱 내에서 대화형 AI 커머스 서비스를 본격화하는 것으로, 사용자의 질문 의도와 쇼핑 맥락을 이해하고 다음 행동까지 제안하는 실행형 에이전트로 고도화되고 있다. 지난 6월 한 달간 AI 쇼핑 에이전트의 일간 사용자 수는 50% 이상 증가했으며, 거래액은 2.7배 이상 늘었다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260630141500017"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260701116400065"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         },
         {
-          "tag": "eco",
-          "title": "저축은행 예금금리 4%대 상품 급증, 금리 경쟁 심화",
-          "summary": "저축은행들이 증시로의 수신 이탈을 막기 위해 예금 금리 경쟁을 다시 시작하며 연 4%대 상품이 한 달 새 100개를 넘어섰다. 1일 기준 전국 79개 저축은행의 1년 만기 정기예금 평균 금리는 연 3.79%로 2주 만에 0.24%포인트 상승했다. 이는 과거 '레고랜드 사태' 당시 고금리 경쟁으로 인한 조달 비용 압박의 악몽이 되풀이될 수 있다는 우려를 낳고 있다.",
+          "tag": "pol",
+          "title": "국회, 6·3 지방선거 투표용지 부족 국정조사 진행",
+          "summary": "국회 6·3 지방선거 투표용지 부족 사태 국정조사 특위는 송파구 선관위와 올림픽공원에서 현장 조사를 진행하며, 투표용지 관리 및 투·개표 과정을 점검할 예정입니다. 한편 국민의힘은 더불어민주당의 상임위원장 단독 선출에 대한 대응 방안을 논의하기 위해 의원총회를 소집했습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260630184400002"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260701178800001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260701172900001"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "이재명 대통령, '태움 간호사 사망' 엄정 조치 지시",
+          "summary": "이재명 대통령은 최근 '태움'으로 알려진 직장 내 괴롭힘으로 인한 20대 간호사 사망 사건에 대해 \"끔찍한 폭력\"이라며 엄정 조치를 지시했습니다. 해당 병원에 대한 근로감독 착수 및 경찰의 철저한 진상 규명을 주문하고, 유사 위험 의료기관 대상 불시 기획 감독을 실시하겠다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260701195200001"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         },
         {
-          "tag": "soc",
-          "title": "육아기 10시 출근제 신청 증가, 근속 요건 폐지 추진",
-          "summary": "지난 1월 신설된 '육아기 10시 출근제' 장려금 신청이 올해 상반기 동안 758개 기업에서 1,078명분에 대해 접수되었다. 고용노동부는 제도 활성화를 위해 기존 6개월 이상 근속 요건을 폐지하고 주 35시간 근무 요건만 충족하면 장려금을 지원하기로 했다. 지원 근로자 중 남성 비율은 10명 중 3명으로 나타났다.",
+          "tag": "eco",
+          "title": "내년도 최저임금 협상 지속…외국인 과학 인재 유치 문턱 낮춰",
+          "summary": "내년도 최저임금을 결정하기 위한 노동계와 경영계의 11차 전원회의가 진행될 예정으로, 양측의 격차가 여전히 큰 상황입니다. 한편 정부는 해외 우수 과학 인재 유치를 위해 '톱티어 비자' 인정 기준을 확대하고 한국어 능력 시험 요건을 면제하는 등 문턱을 낮출 방침입니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260630162100530"
+              "url": "https://www.yna.co.kr/view/AKR20260701156600530"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607010736001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260701178600003"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "soc",
-          "title": "전남·광주 반도체 메가 프로젝트로 300조 경제권 목표",
-          "summary": "전남과 광주가 오는 1일 '전남광주통합특별시'로 출범하며 수도권에 버금가는 '300조 경제권' 달성을 목표로 한다. 정부는 통합특별시에 연간 5조원씩 4년간 최대 20조원을 지원할 계획이다. 특히 삼성전자와 SK하이닉스가 서남권에 800조원 규모의 반도체 생산 거점 투자를 발표하면서 경제 발전에 대한 기대감이 커지고 있다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/area/area_general/1266131.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607010700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -134,96 +83,95 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국 대법원, 출생시민권 유지 판결로 트럼프 행정명령에 제동",
-          "summary": "미국 연방대법원은 30일(현지시각) 미국에서 태어난 아이에게 시민권을 부여하는 '출생 시민권'을 금지한 도널드 트럼프 대통령의 행정명령에 제동을 걸었다. 대법원은 6대 3 의견으로 출생 시민권에 대한 폭넓은 해석을 유지하며, 수정헌법 14조의 문언과 판례가 미국 출생자에게 시민권을 인정하는 법적 전통을 뒷받침한다고 판단했다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1266133.html"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1266132.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미 대법원, 트랜스젠더 선수의 여성 스포츠 참여 제한 가능 판결",
-          "summary": "미국 연방대법원은 30일(현지시각) 주정부가 트랜스젠더 여성의 여성 스포츠팀 참여를 제한할 수 있다고 판단했다. 대법원은 웨스트버지니아주와 아이다호주의 관련 법률이 여성 스포츠의 공정성과 안전을 위해 생물학적 성별을 기준으로 참가 자격을 정할 수 있다는 주법이 연방 교육법과 헌법상 평등보호 조항에 어긋나지 않는다고 봤다. 이 판결은 유사한 주법이 시행 중인 다른 27개 주에도 영향을 미칠 것으로 전망된다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1266140.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607010759001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/30/us/politics/trans-athletes-supreme-court-democratic-states.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 사상 첫 중간선거 전당대회 발표 및 텍사스주 접전지 부상",
-          "summary": "도널드 트럼프 미국 대통령은 30일(현지시간) 9월 9~10일 텍사스주 댈러스에서 사상 첫 공화당 중간선거 전당대회를 개최한다고 밝혔다. 이는 트럼프 집권 2기 국정운영 동력 유지를 위한 행사로 평가된다. 한편, 뉴욕타임스(NYT) 여론조사 결과 텍사스주 상원의원 선거에서 민주당 제임스 탈라리코 후보와 공화당 켄 팩스턴 후보의 지지율이 47%로 동률을 기록하며 텍사스가 11월 중간선거의 접전지로 부상했다.",
+          "title": "트럼프 정부, 출생시민권 패소 후 임신부 입국 금지 고려",
+          "summary": "미 연방대법원이 출생시민권 제한 행정명령을 위헌으로 결정한 뒤, 트럼프 대통령 측근에서 임신한 외국 여성의 입국 자체를 차단하는 방안을 검토 중입니다. 이는 이민정책을 둘러싼 새로운 논쟁을 불러일으킬 것으로 예상됩니다. 우편 투표 제한 시도는 법원에 의해 제지되었습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260701015400071"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260701016900075"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "미국 증시 S&P 500 지수, AI 성장 기대감으로 2020년 이후 최고 분기 상승률",
-          "summary": "미국 증시 S&P 500 지수가 2분기(4~6월)에 약 15% 상승하며 2020년 이후 최고 분기 상승률을 기록했다. 많은 증시 분석가들은 인공지능(AI) 관련 기업 실적 성장에 대한 낙관론이 지속될 것으로 전망하고 있다. 다우존스30 산업평균지수와 나스닥 종합지수 역시 2분기 마지막 거래일에 상승 마감했다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260701015200011"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "미국 동부 및 중서부 지역 폭염 특보 발효, 1억 2천만 명 영향",
-          "summary": "미국 동부와 중서부 지역에 위험한 폭염 특보가 발효되었으며, 약 1억 2천만 명이 극심한 폭염 경보 영향권에 놓였다. 국립기상청(NWS)은 미 독립기념일 연휴를 앞두고 미 전역에 걸쳐 폭염이 강화될 것으로 예상했다. 이번 폭염은 열돔 현상으로 발생했으며, 낮 최고 기온이 35~40.6℃에 달하고 높은 습도로 체감 온도는 38~46℃까지 오를 수 있다고 예보했다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.yna.co.kr/view/AKR20260702016000071"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast"
+              "url": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/01/politics/postal-service-trump-order-mail-ballots-judge-rules"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프 대통령, 암호화폐 투자로 막대한 수익…부패 논란",
+          "summary": "트럼프 대통령이 재임 중 밈코인 등 암호화폐 투자를 통해 약 14억 달러에 달하는 막대한 수익을 올린 것으로 금융 공개 보고서를 통해 드러났습니다. 이는 전례 없는 수준의 재산 증식으로, 정치적 부패에 대한 논란을 불러일으키고 있습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/372484/trump-disclosure-filing-crypto-earnings-bitcoin-holdings"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미국, USMCA 장기 갱신 거부…캐나다의 중국 관계 비난",
+          "summary": "트럼프 행정부가 북미자유무역협정(USMCA)의 자동 16년 연장을 거부하며, 장기 갱신을 요청하지 않겠다고 발표했습니다. 미국은 기존 문제를 해결하지 않은 채 재협상 없이 갱신할 수 없다는 입장을 표명했으며, 캐나다의 중국과의 관계에 대한 우려도 제기했습니다. 이는 북미 지역의 경제적 불확실성을 가중시킬 수 있습니다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
+            },
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/politics/us-decides-not-to-renew-usmca-trade-pact-will-seek-separate-deals-canada-mexico"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "미국, 건국 250주년 앞두고 깊은 정치적 양극화 직면",
+          "summary": "미국은 건국 250주년 기념행사를 앞두고 깊은 정치적 양극화와 분열된 사회적 분위기 속에서 화합의 과제를 안고 있습니다. 한편, 월드컵에서 기록적인 관중 동원과 높은 시청률을 기록하며 축구에 대한 국민적 관심을 보여주었습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/01/us/politics/usa-america-250-trump.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/01/us/world-cup-american-pride.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/06/28/media/world-cup-tv-ratings-fox-sports-telemundo"
             }
           ],
           "verification": "multi",
@@ -238,16 +186,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국 의원, 미중 긴장 완화 및 G20 의제 조정 촉구",
-          "summary": "스티브 데인스 미국 상원의원이 미국과 중국 양측에 보복적 행동 자제를 촉구하며 긴장 완화를 요청했다. 중국의 미국 기업 수출 통제와 펜타곤의 중국 기술 기업 블랙리스트 지정 등을 '불행한 전개'로 지적했다. 한편, 미국은 G20 정상회담 의제에서 빈곤 감소, 에너지 전환, 젠더 관련 언어를 삭제하고 이민, 국제 범죄, 테러, 외국인 투자, 공정 무역 등 자국 이익에 부합하는 의제로 축소하려 하고 있다.",
+          "title": "중국, 일본 기업인 구속 및 수출 통제 강화…관계 악화",
+          "summary": "중국이 5월에 구금했던 일본 기업인 2명을 6월 중순과 하순에 각각 체포했습니다. 이는 중국의 희토류 수출법 위반 혐의로, 일본 정부는 자국민 보호를 위해 대응하겠다고 밝혔습니다. 또한 중국은 드론 제조업체 등 40개 일본 기관을 수출 통제 대상에 추가하며 일본에 대한 압박을 강화하고 있습니다. 한편, 북한-러시아 간 교량 개통이 러시아 측 시설 미완료로 지연되고 있습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3358959/us-china-should-de-escalate-tit-tat-actions-says-us-lawmaker?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/crime-legal/japan-nationals-china-arrest/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3358958/us-hollows-out-g20-agenda-casts-miami-summit-backdrop-trump-xi-meeting-sources?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/07/01/asia-pacific/north-korea-russia-bridge/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
             }
           ],
           "verification": "multi",
@@ -255,55 +207,54 @@
         },
         {
           "tag": "pol",
-          "title": "영국, 중국 대표단 초청하여 서비스 수출 증대 모색",
-          "summary": "피터 카일 영국 무역부 장관은 1일 중국 대표단을 초청하여 영국 서비스 수출을 중국으로 확대하는 방안을 모색했다. 양측은 '무역 촉진' 이니셔티브를 출범시켜 영국 기업의 중국 시장 진출을 지원할 예정이다. 카일 장관은 영국이 서비스 강국으로서 더 많은 영국 엔지니어, 건축가, 회계사들이 중국으로 수출할 수 있도록 목표를 세우고 있다고 밝혔다.",
+          "title": "중국, ASEAN에 지역 패권 의도 없음 강조 및 에너지 협력 약속",
+          "summary": "중국 고위 관료는 동남아시아국가연합(ASEAN)에 중국이 지역 패권국이 되려는 의도가 없음을 강조하며 '조화로운 공존'이 중국의 문화적 유전자라고 언급했습니다. 또한 중국은 ASEAN 국가들과 에너지 인프라 개발을 위한 협력을 강화할 것을 약속했습니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3358956/uk-trade-secretary-hosts-chinese-delegation-bid-boost-services?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3359066/beijings-message-asean-china-doesnt-want-become-regional-hegemon?utm_source=rss_feed"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "일본 엔화, 달러 대비 40년 만에 최저치 경신하며 162엔 돌파",
-          "summary": "일본 엔화 가치가 30일(현지시각) 뉴욕 외환시장에서 달러 대비 161.97엔을 기록하며 1986년 12월 이후 40년 만에 최저치를 경신했다. 1일 도쿄 시장 개장 직후에는 162엔을 넘어섰다. 시장에서는 일본 엔화 약세가 지속될 것으로 보고 있으며, 일본 정부의 외환 개입 가능성에도 불구하고 엔화 가치는 하락세를 이어가고 있다.",
+          "title": "일본, 과도한 관광 막기 위해 출국세 인상 및 새 이동전화 국번 추가",
+          "summary": "일본은 과도한 관광(오버투어리즘) 문제를 해결하고 관광 인프라를 확충하기 위해 국제 관광세를 기존 1천 엔에서 3천 엔으로 3배 인상했습니다. 또한 이동전화번호 부족에 대비하여 '060'을 새로운 국번으로 추가하여 총 이동전화 번호를 2억 7천만 개에서 3억 6천만 개로 늘릴 예정입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/30/markets/yen-breakout-162/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/tourist-tax-increase/"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/new-mobile-phone-number-prefix/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "eco",
-          "title": "일본 7월에 2,566개 식품 품목 가격 인상 예정",
-          "summary": "일본의 주요 식품 및 음료 제조업체들이 7월에 2,566개 품목의 가격을 인상할 계획이다. 이는 중동 지역 긴장으로 인한 유가 및 나프타 가격 상승이 포장재와 원자재 비용을 인상시켰기 때문이며, 주로 인스턴트 면과 빵 제품 가격이 오를 예정이다. 가격 인상 품목 수는 전년 대비 21.9% 증가했으며, 7개월 만에 처음으로 상승세를 보였다.",
+          "tag": "pol",
+          "title": "중국 외교부장, 마르코 루비오 미 국무장관에 대만 문제 신중 경고",
+          "summary": "왕이 중국 외교부장은 마르코 루비오 미국 국무장관과의 통화에서 대만 문제에 대해 '최대한의 신중'을 기할 것을 경고하며, 양국 간 협력 확대와 위험 관리를 강조했습니다. 이번 통화는 트럼프 대통령의 5월 방중 이후 첫 고위급 소통으로, 건설적이고 전략적으로 안정적인 미중 관계 구축을 위한 양측의 노력을 촉구했습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/30/economy/food-price-hike-july/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3359077/chinas-wang-yi-warns-marco-rubio-approach-taiwan-affairs-utmost-caution?utm_source=rss_feed"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "tec",
-          "title": "일본 정부, 라쿠텐 국내 위성 프로젝트에 1,500억 엔 투자 계획",
-          "summary": "일본 정부가 라쿠텐 모바일의 국내 위성 통신 시스템 개발 프로젝트인 'J-LEO(Japan Low Earth Orbit Satellite Communications Project)'에 1,500억 엔을 투자할 계획이다. 이 자금은 3년에 걸쳐 위성 조달 및 네트워크 구축 비용으로 사용될 예정이다. 이는 스타링크와 같은 해외 기업에 대한 의존도를 줄이고 자국 위성 통신 시스템을 개발하기 위한 노력의 일환이다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/06/30/companies/rakuten-satellite-network-japan-invest/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -314,42 +265,41 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "프랑스 국민의회, 안락사 법안 통과 후 상원 재논의 예정",
-          "summary": "프랑스 국민의회가 논란이 많았던 안락사 법안을 찬성 295표, 반대 232표로 통과시켰다. 이 법안은 불치병 말기 성인 환자의 조력 사망권을 인정하며, 심리적 고통만으로는 조력 사망을 허용하지 않는다는 내용이 최종 법안에 포함되었다. 지난 1월 상원에서 부결된 바 있으며, 이번 국민의회 통과로 다시 상원에서 재논의될 예정이다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/health/2026/06/30/frances-national-assembly-approves-assisted-dying-bill-after-senate-rejection"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "유럽 극우 EU 그룹, 기금 오용 의혹으로 유럽 전역에서 압수수색",
-          "summary": "유럽검찰청(EPPO)은 해체된 극우 유럽연합(EU) 그룹 '정체성과 민주주의(ID)'가 유럽의회 자금을 오용했다는 의혹과 관련하여 프랑스, 스페인, 이탈리아, 벨기에 등 4개국에서 압수수색을 진행했다. EPPO는 2019년부터 2024년까지 ID 그룹의 EU 자금 사용에 대한 조사의 일환으로 이번 수사가 이루어졌다고 밝혔다. ID 그룹은 2024년 선거 후 해체되었으며, 프랑스 국민연합(RN) 등 극우 정당 소속 MEP들이 포함되어 있었다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/06/30/prosecutors-conduct-europe-wide-raids-over-alleged-misuse-of-funds-by-defunct-far-right-eu"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "독일 우파 극단주의자 증가 및 나치 벙커 철거 논란",
-          "summary": "독일 국내 정보기관에 따르면 지난해 우파 극단주의자 수가 58,700명으로 크게 증가하며 독일 민주주의에 가장 큰 위협이 되고 있다. 이러한 증가는 '독일을 위한 대안(AfD)' 당의 성장과 관련이 깊다고 분석됐다. 한편 베를린에서는 히틀러의 신제국총리실 지하 벙커를 철거하고 주택과 사무실을 건설하려는 계획이 추진되고 있어 역사적 유물 보존을 주장하는 측과 철거를 주장하는 측 사이에 논란이 일고 있다.",
+          "title": "독일, 노르드 스트림 폭발 우크라이나인 기소…관계 영향 우려",
+          "summary": "독일 검찰이 2022년 발트해 노르드 스트림 가스관 폭발 사건과 관련하여 우크라이나 국적의 세르히 K를 기소했습니다. 그는 폭발을 주도하고 조율한 혐의를 받고 있으며, 이 사건은 우크라이나와 독일의 관계에 심각한 영향을 미칠 수 있습니다. 우크라이나 정부는 사건과의 연루를 부인하고 있습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "DW.com",
+              "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/germany-indicts-ukrainian-over-nord-stream-pipeline-blasts-german-media-report-2026-07-01/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "몰타 거물 사업가, 언론인 살해 혐의로 재판 시작",
+          "summary": "몰타의 거물 사업가 요르겐 페넥이 2017년 탐사 보도 언론인 다프네 카루아나 갈리치아 살해를 지시한 혐의로 재판을 받기 시작했습니다. 이 사건은 몰타 사회를 뒤흔들고 정부를 전복시키며 국제적인 비난을 불러일으켰습니다. 한편, 유럽연합 집행위원회의 조사 결과 헝가리 스파이 조직이 브뤼셀 주재 자국 대사관에서 EU 관료들을 표적으로 활동한 것으로 밝혀졌습니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3359078/maltese-tycoon-trial-over-murder-one-woman-wikileaks-daphne-caruana-galizia?utm_source=rss_feed"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/hungary-spy-ring-target-eu-officials-commission-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -357,24 +307,45 @@
         },
         {
           "tag": "soc",
-          "title": "베네수엘라 연쇄 강진으로 1,900명 이상 사망, 건물 피해 심각",
-          "summary": "지난 24일(현지시간) 베네수엘라를 강타한 연쇄 강진으로 인한 사망자가 30일 기준 1,943명으로 집계됐다. 이는 시신이 수습된 인원을 기준으로 하며, 수색 작업이 진행되면서 사망자 수는 더욱 늘어날 것으로 보인다. 부상자는 1만 571명이며, 위성 데이터 분석 결과 5만 8천 개 이상의 건물이 파손되거나 파괴되었을 가능성이 제기되어 공식 추정치보다 피해 규모가 훨씬 클 수 있음을 시사한다.",
+          "title": "그리스 산불로 5명 사망, 벨기에 안트베르펜 아파트 화재 5명 사망",
+          "summary": "그리스 북부에서 통제 불능 산불로 5명이 사망하고, 100명 이상의 소방관이 진화에 어려움을 겪고 있습니다. 건조한 기후와 강한 바람으로 불길이 빠르게 확산되고 있습니다. 벨기에 안트베르펜의 10층 아파트 화재로 5명이 사망하고 여러 명이 부상했으며, 기술적 문제로 인해 발생한 것으로 추정됩니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260701015200011"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607010713001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes"
+              "name": "The Jerusalem Post",
+              "url": "https://www.jpost.com/international/article-901085"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "캐나다, 2027년 유로비전 송 콘테스트 첫 참가 확정",
+          "summary": "캐나다가 2027년부터 유로비전 송 콘테스트에 처음으로 참가한다고 주최 측이 발표했습니다. 캐나다 국영 방송 CBC/Radio-Canada가 유럽방송연맹(EBU)의 정회원이 되면서 참가 자격을 얻었습니다. 마크 카니 캐나다 총리는 유로비전 참가를 목표로 CBC에 1억 5천만 캐나다 달러를 할당한 바 있습니다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest"
+            },
+            {
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/canada-joins-eurovision-song-contest/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -385,33 +356,24 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "WhatsApp, 전화번호 대신 사용자 이름으로 채팅 기능 도입 예정",
-          "summary": "메타 소유의 메시징 서비스 WhatsApp이 전화번호 대신 사용자 이름으로 채팅할 수 있는 기능을 도입할 예정이다. WhatsApp은 이 기능이 '프라이버시 강화'의 일환이라고 설명했으며, 앞으로 몇 달 안에 전 세계 사용자에게 순차적으로 배포될 것이라고 밝혔다. 사용자들은 이번 주부터 앱을 통해 사용자 이름을 예약할 수 있다.",
+          "title": "플레이스테이션, 2028년부터 디스크 기반 게임 출시 중단",
+          "summary": "소니 플레이스테이션이 2028년 1월부터 신규 게임을 디스크 기반으로 출시하지 않고 디지털 전용으로 전환한다고 발표했습니다. 이는 소비자의 선호도 변화에 따른 조치라고 설명했으나, 게임 보존 및 소비자 권리에 대한 우려가 제기되고 있습니다.",
           "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/next/2026/06/30/whatsapp-to-replace-phone-numbers-with-usernames-what-does-this-change-mean-for-users"
-            },
             {
               "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "구글, Tenor GIF API 지원 중단으로 다양한 플랫폼에 영향",
-          "summary": "구글이 6월 30일부로 Tenor GIF API 지원을 중단하면서 X(구 트위터), Discord, Bluesky, WhatsApp 등 Tenor API를 사용하던 여러 플랫폼들이 대체 GIF 서비스를 찾아야 하게 되었다. 구글은 2018년 Tenor를 인수했으며, 자사 서비스인 Google Messages와 Gboard에서는 계속 사용할 예정이다. 이번 조치는 '핵심 제품 강화'를 위한 자원 집중의 일환이라고 밝혔다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker"
+              "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/"
+              "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/paultassi/2026/07/01/playstation-announces-it-will-kill-new-physical-discs-in-2028/"
             }
           ],
           "verification": "multi",
@@ -419,25 +381,29 @@
         },
         {
           "tag": "tec",
-          "title": "네이버, AI 쇼핑 에이전트 정식 출시",
-          "summary": "네이버가 약 4개월간의 베타 운영을 거쳐 'AI 쇼핑 에이전트'를 정식 출시했다. 이는 쇼핑 앱 내에서 대화형 AI 커머스 서비스를 본격화하는 것으로, 사용자의 질문 의도와 쇼핑 맥락을 이해하고 다음 행동까지 제안하는 실행형 에이전트로 고도화되고 있다. 지난 6월 한 달간 AI 쇼핑 에이전트의 일간 사용자 수는 50% 이상 증가했으며, 거래액은 2.7배 이상 늘었다.",
+          "title": "애플, 엔트리 레벨 맥북 프로 재설계 및 새 아이패드 프로 4종 출시",
+          "summary": "애플이 2027년 상반기 출시를 목표로 엔트리 레벨 맥북 프로의 재설계를 진행 중이며, 14인치 화면 크기는 유지될 예정입니다. 또한 내년 봄에 내부 개선에 중점을 둔 새로운 아이패드 프로 4종을 출시할 계획입니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260630141500017"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update"
+            },
+            {
+              "name": "Bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "알츠하이머병 확산 방식과 치료 가능성 연구",
-          "summary": "유타대학교 건강 과학 연구진이 알츠하이머병이 뇌에서 확산하는 새로운 방식을 발견했다. 연구에 따르면 뇌 단백질 Arc가 독성 타우(Tau) 단백질을 손상된 뉴런에서 건강한 뉴런으로 이동시키는 데 도움을 주는 것으로 나타났다. 이 발견은 타우 단백질이 새로운 세포에 도달하는 것을 막아 질병 진행을 늦출 수 있는 새로운 알츠하이머 치료 전략 개발 가능성을 제시한다.",
+          "title": "금융당국, AI 보안 테스트 중 전산 장애 발생 시 제재 면책",
+          "summary": "금융당국이 금융회사가 인공지능(AI) 보안 테스트나 보안 패치 과정에서 발생한 경미한 전산 장애에 대해 제재를 일부 면책해 줄 방침입니다. 이는 첨단 AI 모델 등장으로 증가하는 사이버 위협에 금융권의 적극적인 대응을 유도하기 위한 목적입니다. 면책 조건은 고의성 없이 1억 원 미만 금전 피해, 4시간 이하 시스템 장애, 1만 건 미만 고객 정보 유출 등으로 제한됩니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260701185100002"
             }
           ],
           "verification": "single",

@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-01",
-  "date_str": "2026년 7월 1일 (수)",
+  "date": "2026-07-02",
+  "date_str": "2026년 7월 2일 (목)",
   "highlights": [
-    "구글, 빠르고 저렴한 이미지 생성 모델 'Nano Banana 2 Lite' 및 NotebookLM AI 요약 영상 출시",
-    "Anthropic, 강력한 에이전트 기능의 'Claude Sonnet 5' 출시 및 과학 연구용 'Claude Science' 공개",
-    "Acti, AI 에이전트 스마트폰 키보드에 통합 앱 출시; OpenClaw 안드로이드/iOS 지원",
-    "Proton, 개인 정보 보호 AI 챗봇 Lumo 2.0으로 업데이트: 이미지 인식 및 생성 기능 추가",
-    "DeepMind 출신 연구원 설립 EquiLibre, 퀀트 헤지펀드 AI 솔루션으로 5억 달러 이상 가치 인정"
+    "Anthropic, 미국 수출 통제 해제 후 Claude Sonnet 5를 출시하고 Fable 및 Mythos 모델 접근을 복원했습니다.",
+    "구글의 에이전트형 어시스턴트 Gemini Spark가 Mac에 출시되어 실시간 추적 및 더 많은 앱을 지원합니다.",
+    "오픈소스 AI 에이전트 OpenClaw가 Android 및 iOS 앱으로 출시되어 모바일 환경에서 사용할 수 있게 되었습니다.",
+    "SpaceX가 AI 기기 프로토타입을 공개했으며, Meta는 초과 AI 컴퓨팅 능력을 클라우드 인프라 사업으로 판매할 계획입니다.",
+    "영국 중앙은행은 금융 부문에서 에이전트형 AI 사용에 대한 기존 규제의 적절성을 검토 중입니다."
   ],
   "sections": [
     {
@@ -15,41 +15,24 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "구글, 이미지 생성 'Nano Banana 2 Lite' 출시 및 NotebookLM 요약 영상 추가",
-          "summary": "구글이 더 빠르고 저렴한 이미지 생성 모델인 'Nano Banana 2 Lite'를 출시했으며, 이 모델은 기존 버전보다 훨씬 빠르게 이미지를 생성하고 비용 효율적입니다. 또한, NotebookLM에는 AI가 생성하는 60초 길이의 요약 영상 기능이 추가되어 사용자 연구 자료를 정리하는 데 활용될 수 있습니다.",
+          "title": "Anthropic, Claude Fable 5 출시 및 Mythos 접근 복원",
+          "summary": "미국 정부가 Anthropic의 Mythos 및 Fable 모델에 대한 수출 통제를 해제했습니다. 이에 따라 Anthropic은 이전에 차단되었던 Fable 5 모델의 글로벌 접근을 복원하고, Mythos 5 모델도 미국 내 기관에 대한 접근을 재개했습니다. 또한 Anthropic은 제약 및 생명 공학 분야를 지원하는 새로운 플래그십 제품인 Claude Science를 출시했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+              "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
             },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
-            }
-          ],
-          "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "Anthropic, 'Claude Sonnet 5' 출시 및 과학 연구용 'Claude Science' 공개",
-          "summary": "Anthropic이 더 강력하고 비용 효율적인 에이전트 기능을 갖춘 'Claude Sonnet 5'를 출시했습니다. 이 모델은 기존의 고성능 모델과 유사한 에이전트 작업을 더 저렴하게 수행할 수 있습니다. 동시에, 과학 연구를 위한 AI 워크벤치인 'Claude Science'도 발표되어 과학자들이 여러 도구와 데이터베이스를 오가는 번거로움 없이 연구를 수행할 수 있도록 지원합니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+              "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
             },
             {
               "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+              "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+            },
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html"
             }
           ],
           "verification": "multi",
@@ -57,32 +40,52 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Acti, AI 에이전트 스마트폰 키보드 통합 앱 출시; OpenClaw 모바일 지원",
-          "summary": "싱가포르 스타트업 Acti가 스마트폰 키보드에 AI 에이전트를 직접 통합하는 앱을 출시했습니다. 이 앱은 사용자가 앱을 전환하지 않고도 AI 도구를 활용해 작업을 수행할 수 있게 합니다. 또한, 인기 AI 에이전트 OpenClaw도 iOS와 Android 앱으로 정식 출시되어 모바일 환경에서 에이전트를 실행할 수 있게 되었습니다.",
+          "title": "구글 Gemini Spark, Mac 출시 및 기능 강화",
+          "summary": "구글의 에이전트형 AI 어시스턴트인 Gemini Spark가 이제 Mac용 Gemini 데스크톱 앱에서 사용할 수 있게 되었습니다. Spark는 실시간으로 주제를 추적하고 Google Tasks, Google Keep 등 더 많은 앱과 연동하여 파일을 정렬하거나 컴퓨터의 파일을 활용해 새로운 문서를 작성하는 등의 작업을 수행할 수 있습니다. 현재 macOS용 Gemini Spark 베타는 미국 내 Google AI Ultra 구독자에게 제공됩니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/"
+            },
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2205605/google-gemini-spark-macos-app/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "오픈소스 AI 에이전트 OpenClaw, 모바일 앱 출시",
+          "summary": "무료 오픈소스 AI 에이전트인 OpenClaw가 iOS 및 Android 앱으로 공식 출시되었습니다. 사용자들은 OpenClaw Gateway와 휴대폰을 페어링하여 모바일 기기에서 AI 에이전트를 실행하고 다양한 작업을 수행할 수 있습니다. OpenClaw는 코딩부터 식사 계획까지 다양한 분야에서 활용될 수 있으며, 올해 초 'MoltBook'이라는 소셜 미디어 사이트 출시와 함께 큰 주목을 받았습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
             },
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210011-openclaw-ai-agent-launched-on-android-and-ios-platforms.html"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/"
+            },
+            {
+              "name": "Mashable",
+              "url": "https://mashable.com/tech/openclaw-ios-android"
             }
           ],
           "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "Proton, 개인 정보 보호 AI 챗봇 'Lumo 2.0' 업데이트",
-          "summary": "개인 정보 보호 중심의 생산성 앱 기업 Proton이 AI 챗봇 Lumo를 2.0 버전으로 업데이트했습니다. Lumo 2.0은 이미지 인식 및 생성 기능을 추가하고, 사용자의 선호도를 기억하는 영구 메모리 기능을 프로젝트에 도입했습니다. 또한, 이전 버전보다 최대 76% 빠르게 응답하며, 복잡한 문제 해결을 위한 '사고 모드'를 제공합니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
-            }
-          ],
-          "verification": "single",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -94,70 +97,86 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "LLM 에이전트의 재귀적 자가 진화 및 모델 역량 향상 연구",
-          "summary": "LLM 에이전트가 자체 궤적을 기반으로 전략, 기술, 플레이북 등 자연어 아티팩트를 재작성하여 진화하는 재귀적 자가 진화 에이전트(RSEA)에 대한 연구가 발표되었습니다. 또한, 모델 역량 향상을 위해 평가 실패를 데이터 개입으로 전환하는 '역량 슬라이스' 개념을 포함한 데이터 및 평가 폐쇄 루프에 대한 연구도 진행되었습니다.",
+          "title": "LLM의 피드백 활용 연구: 반복 시도 이상의 개선 요인",
+          "summary": "새로운 연구는 자연어 피드백이 LLM의 성능을 단순한 반복 시도 이상으로 개선시키는 요인을 분석했습니다. 연구 결과, 외부 교사가 제공하는 강력한 피드백은 의미 있는 학습 효과를 가져오지만, 모델이 스스로 생성하는 피드백은 큰 개선 효과를 보이지 않았습니다. 이는 피드백의 유용성이 일반적인 재시도 이상의 구체적인 지침을 제공해야 하며, 모델의 피드백 활용 능력이 핵심 병목임을 시사합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28374"
+              "url": "https://arxiv.org/abs/2606.30774"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28471"
+              "name": "Time Magazine",
+              "url": "https://time.com/article/2026/06/29/recursive-self-improvement-is-the-human-skill-we-need-in-the-ai-age/"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s41562-026-02505-5"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "다중 모드 에이전트 실시간 협업 및 의료 대화 LLM 벤치마킹 연구",
-          "summary": "다중 모드 에이전트 간의 실시간 협업 능력을 평가하는 GPTNT 벤치마크에 대한 연구가 진행되었습니다. 또한, 이미지 기반의 다중 턴 의료 대화에서 다중 모드 LLM의 성능을 평가하는 IMCBench 벤치마크가 소개되었으며, 안전성, 정확성, 불확실성 활용 등 세 가지 임상적 측면에서 모델을 평가했습니다.",
+          "title": "LLM 에이전트 프롬프트 최적화를 위한 '대조적 반영' 기법",
+          "summary": "새로운 논문에서 LLM 에이전트의 프롬프트 최적화를 위한 '대조적 반영(Contrastive Reflection)' 프레임워크가 소개되었습니다. 이 방법은 검색 실패 사례를 분석하고 성공적인 사례와 비교하여, 교사 LLM이 표적화된 프롬프트 수정을 제안하도록 합니다. 공공 HotpotQA 데이터셋을 이용한 실험에서 이 기법은 정확도를 51.4%에서 60.4%로 향상시켰으며, 이는 IR 에이전트의 프롬프트 개선을 위한 해석 가능하고 검증 중심적인 접근 방식을 제공합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28514"
+              "url": "https://arxiv.org/abs/2606.30840"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28556"
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/janakirammsv/2026/06/29/prompts-are-the-new-malware-as-enterprise-ai-defenses-fall-behind/"
+            },
+            {
+              "name": "Tech Times",
+              "url": "https://www.techtimes.com/articles/319214/20260628/karpathy-claudemd-grows-ten-rules-new-self-check-protocol-ai-coding-loops.htm"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 추론의 진실 탐색 및 아리스토텔레스적 미덕 프로파일링 연구",
-          "summary": "LLM 추론 과정에서 진실을 탐색하기 위한 동적 표현 편집 프레임워크인 DynaSteer에 대한 연구가 발표되었습니다. 이 프레임워크는 추론 체인 내에서 진실의 기하학적 구조를 분석하고 필요할 때만 선택적으로 개입합니다. 더불어, 윤리적 딜레마를 통해 LLM의 실용적 지혜, 정의, 진실성, 용기, 절제 등의 아리스토텔레스적 미덕을 프로파일링하는 VirtueMap 프레임워크도 소개되었습니다.",
+          "title": "AI의 시뮬레이션 모델 발견 연구: 데이터 형식, 임베딩, 검색 전략 분석",
+          "summary": "AI를 활용한 시뮬레이션 모델 발견에 대한 실험 연구가 진행되었습니다. 이 연구는 데이터 표현, 트랜스포머 기반 임베딩 모델, 검색 전략이 시뮬레이션 모델 발견에 미치는 영향을 탐구했습니다. 결과는 데이터 표현의 중요성과 오픈소스 임베딩 모델의 높은 성능, 그리고 쿼리 복잡성 증가 시 재랭킹 방법의 중요성을 보여주며, AI 기반 모델 발견 및 재사용에 대한 기준을 제시합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28589"
+              "url": "https://arxiv.org/abs/2606.30846"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28683"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s43588-026-00999-7"
+            },
+            {
+              "name": "BioSpace",
+              "url": "https://www.biospace.com/press-releases/american-chemical-society-crt-model-medicines-publishes-class-leading-regulatory-grade-toxicology-model-amesnet-validation-of-galileo-platform-chemprint-model-underpinning-drug-pipeline"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "생체의학 치료 추론 AI 에이전트 및 보행자 궤적 예측 모델 연구",
-          "summary": "212가지 생체의학 도구를 활용하여 FDA 승인 약물 전반에 걸쳐 치료 추론을 수행하는 AI 에이전트 ATHENA-R1에 대한 연구가 발표되었습니다. 이 에이전트는 누락된 정보를 식별하고 관련 도구를 실행하며 증거를 통합합니다. 또한, 자율주행 시스템의 안전을 위해 보행자 궤적 예측 모델의 인증된 견고성을 확보하는 TrajRS 프레임워크에 대한 연구도 소개되었습니다.",
+          "title": "LLM의 신념 궤적 평가: 다중 턴 증거 축적 하의 BayesBench 연구",
+          "summary": "BayesBench라는 새로운 시뮬레이션 환경을 통해 LLM이 다중 턴 대화에서 증거를 축적함에 따라 신념을 얼마나 합리적으로 업데이트하는지 평가하는 연구가 발표되었습니다. 3B-70B 범위의 7가지 LLM을 테스트한 결과, 모델의 규모가 커질수록 잠재 추론 및 증거 축적이 개선되었고 때로는 베이즈 사후 분포와 일치하는 업데이트를 보였습니다. 그러나 이러한 개선이 예측으로 이어지지 않아, 잠재 구조 추론과 이를 활용한 합리적 신념 업데이트 간의 격차가 확인되었습니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28692"
+              "url": "https://arxiv.org/abs/2606.30850"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28716"
+              "name": "GIGAZINE",
+              "url": "https://gigazine.net/gsc_news/en/20260630-arena-revenue/"
+            },
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/ancestry-ai-llm-record-transcription-digitization-facial-recognition-2026-6"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         }
@@ -169,59 +188,99 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "DeepMind 출신 설립 EquiLibre, 퀀트 헤지펀드 AI 솔루션으로 5억 달러 가치 인정",
-          "summary": "DeepMind 출신 연구원 3명이 설립한 EquiLibre Technologies가 포커 AI 기술을 주식 거래에 적용하여 퀀트 헤지펀드 솔루션을 제공하고 있습니다. 이 회사는 최근 시리즈 A 투자 유치 후 5억 달러의 가치를 인정받았으며, S&P 500 및 나스닥에서 수십억 달러 규모의 일일 거래량을 처리하며 성공적인 실적을 기록하고 있습니다.",
+          "title": "SpaceX AI 기기 프로토타입 공개, Meta는 AI 컴퓨팅 사업 모색",
+          "summary": "일론 머스크의 SpaceX가 투자자들에게 '핸드셋 형태'의 AI 기기 프로토타입을 공개했습니다. 이 기기는 독자적인 AI 운영체제를 탑재하고 xAI 기술을 통합할 것으로 알려졌습니다. 한편, Meta도 수십억 달러를 투자한 AI 데이터 센터의 초과 컴퓨팅 파워와 모델 접근권을 판매하는 클라우드 인프라 사업을 구상 중이며, 이는 Amazon Web Services, Google Cloud, Microsoft Azure와 경쟁하게 될 것입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk"
+            },
+            {
+              "name": "Ynetnews",
+              "url": "https://www.ynetnews.com/business/article/bjpdy5mqzx"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AI 스타트업 Venice AI, 유니콘 등극 및 Wayve 직원 공개매수",
+          "summary": "개인 정보 보호 중심의 AI 플랫폼 Venice AI가 Series A 투자 라운드에서 6,500만 달러를 유치하며 기업 가치 10억 달러로 유니콘 기업이 되었습니다. 또한, 자율주행 기술 스타트업 Wayve는 85억 달러의 기업 가치로 8,500만 달러 규모의 직원 공개매수 제안을 시작하여 직원들에게 보유 지분 일부를 매각할 기회를 제공했습니다. 이는 AI 스타트업들이 인재 유지를 위해 IPO를 기다리지 않고 유동성 이벤트를 제공하는 추세의 일환입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210107-venice-ai-startup-becomes-a-1-billion-unicorn.html"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210029-autonomous-driving-leader-wayve-to-pay-employees-85-million.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "애쉬튼 커쳐, Sound Ventures 떠나 AI 인프라 새 VC 설립",
+          "summary": "배우이자 투자자인 애쉬튼 커쳐가 11년간 공동 설립한 Sound Ventures를 떠나 모건 벨러와 새로운 벤처 캐피탈 펀드를 설립합니다. 새로운 회사는 AI 인프라, 에너지, 딥 테크 스타트업의 초기 단계 투자에 집중할 계획입니다. 이는 AI 투자 흐름이 선도적인 AI 연구실에서 이들을 구동하는 인프라와 에너지 분야로 이동하고 있음을 시사합니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210151-ashton-kutcher-leaves-sound-ventures-to-found-new-venture-fund.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/video/2026/06/29/kindred-ventures-kanyi-maqubela-we-havent-built-enough-compute.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "딥마인드 출신 3인, 퀀트 헤지펀드 수익 창출 AI 스타트업 설립",
+          "summary": "딥마인드 출신 연구원 3명이 설립한 EquiLibre Technologies는 포커 AI 기술을 주식 거래에 적용하여 현재 5억 달러 이상의 가치를 인정받고 있습니다. 이들은 퀀트 펌 Tower Research Capital과 협력하여 S&P 500 및 나스닥에서 수십억 달러 규모의 일일 거래량을 처리하고 있으며, 2025년 암호화폐 시장 출시 이후 단 한 번도 손실을 기록하지 않았다고 주장합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "엔비디아 경쟁사 Etched, AI 칩으로 50억 달러 가치 달성 및 10억 달러 계약",
-          "summary": "엔비디아의 경쟁사인 AI 칩 스타트업 Etched가 최근 비공개 펀딩 라운드를 통해 50억 달러의 기업 가치를 달성했다고 발표했습니다. 이 회사는 또한 자사 AI 칩 기반 시스템에 대한 10억 달러 규모의 계약 주문을 확보했으며, TSMC를 통해 칩을 성공적으로 생산했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "아마존, OpenAI 및 Anthropic 따라 10억 달러 규모 FDE 조직 신설",
-          "summary": "아마존 웹 서비스(AWS)가 AI 중심의 상주 엔지니어(FDE, Field Deployment Engineering)를 위한 10억 달러 규모의 새로운 내부 조직을 출범했습니다. 이 조직의 엔지니어들은 고객사에 직접 파견되어 맞춤형 AI 에이전트 시스템을 구축하고, 고객사가 AI 역량을 자체적으로 강화할 수 있도록 지원합니다. 이는 OpenAI 및 Anthropic이 최근 유사한 FDE 합작 투자를 시작한 흐름과 일치합니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/amazon-lunches-new-1-billion-fde-org-following-openai-and-anthropic/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "X, AI 도구 위한 MCP 서버 제공; 구글, Tenor GIF API 지원 중단",
-          "summary": "X(트위터)는 AI 어시스턴트가 플랫폼에 더 쉽게 연결할 수 있도록 호스팅되는 Model Context Protocol(MCP) 서버를 제공합니다. 한편, 구글은 Tenor GIF API 지원을 중단하여 X, Discord 등 여러 플랫폼이 대체 GIF 서비스로 전환해야 하는 상황을 만들었습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/"
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210005-deepmind-team-that-beat-humans-at-poker-now-manages-billions-on-the-stock-market.html"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker"
+              "name": "markets.businessinsider.com",
+              "url": "https://markets.businessinsider.com/news/stocks/ai-trading-bot-adoption-rises-across-global-markets-as-retail-investors-embrace-automation-1036281021"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/06/29/blackrock-nvidia-temasek-betting-billions-quantum-computing/"
             }
           ],
           "verification": "multi",
@@ -236,28 +295,77 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "AI 브라우저 보안 취약점 공개, '꿈의 세계' 공격 방식 우려",
-          "summary": "새로운 연구에 따르면 AI 브라우저가 특정 웹사이트에 의해 '환상의 현실'로 유인될 수 있는 보안 취약점이 발견되었습니다. 이 공격 방식은 AI 모델의 안전 장치를 무력화시켜 비공개 저장소에서 코드 추출이나 비밀번호 관리자에서 자격 증명 추출 등 파괴적인 행동을 유발할 수 있어 AI 안전 문제에 대한 우려가 제기되고 있습니다.",
+          "title": "Cloudflare, AI 기업에 웹 크롤러 분리 요구 및 차단 정책 발표",
+          "summary": "Cloudflare는 2026년 9월 15일부터 광고를 호스팅하는 페이지에서 전통적인 검색용 웹 크롤러와 AI 훈련용 크롤러를 분리하지 않는 '혼합 사용' 크롤러를 기본적으로 차단할 것이라고 발표했습니다. 이는 AI 모델 제공업체가 훈련 목적으로 웹 콘텐츠에 접근하는 방식에 영향을 미칠 수 있으며, 게시자들이 콘텐츠에 대한 통제권을 강화하고 AI 기업들이 콘텐츠 사용에 대한 대가를 지불하도록 유도하기 위한 조치입니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+            },
+            {
+              "name": "The Fintech Times",
+              "url": "https://thefintechtimes.com/the-missing-link-in-agentic-commerce-and-the-threat-of-ai-merchant-impersonation/"
+            },
+            {
+              "name": "Infosecurity Magazine",
+              "url": "https://www.infosecurity-magazine.com/webinars/prm/securing-humans-ai-agents-browser/"
+            },
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/the-ai-cold-war-just-got-chillier-2000780213"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "감사 기반 AI 거버넌스 및 복지 조건 연구: '두 지니 게임'",
-          "summary": "AI 거버넌스에서 해를 최소화하는 정책을 가진 에이전트가 승인 추구 에이전트를 대체할 수 있는 조건과 이러한 정책이 커뮤니티의 해를 방지하기에 충분한지 여부를 분석하는 '두 지니 게임' 연구가 발표되었습니다. 이 연구는 진화 게임 이론을 활용하여 채택, 복지 조건 및 자가 감사 에이전트의 한계를 탐구합니다.",
+          "title": "일본, 2040년까지 AI 로봇 1천만 대 배치 국가 전략 발표",
+          "summary": "일본 정부는 2040년까지 18개 산업에 걸쳐 AI 로봇 1천만 대를 배치하는 것을 목표로 하는 국가 전략을 공식 발표했습니다. 이 계획은 향후 5년간 최대 1조 엔(약 61억 달러)의 공적 자금 지원을 받으며, 노령화와 엄격한 이민 정책으로 인한 인력 부족 문제에 대응하기 위한 것입니다. 일본 경제산업성(METI)과 신에너지산업기술종합개발기구(NEDO)는 노에트라(Noetra)와 산업기술종합연구소(AIST)에 '물리 AI' 모델 개발을 위임했습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2606.28710"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/"
+            },
+            {
+              "name": "Consultancy.uk",
+              "url": "https://www.consultancy.uk/news/amp/44730/roland-berger-says-humanoid-robot-manufacturing-could-be-750-billion-market-by-2035"
+            },
+            {
+              "name": "GIGAZINE",
+              "url": "https://gigazine.net/gsc_news/en/20260629-china-humanoid-ai-robots/"
+            },
+            {
+              "name": "govtech.com",
+              "url": "https://www.govtech.com/sponsored/ai-is-coming-for-government-backlogs"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "영국 중앙은행, 금융 부문 에이전트형 AI 규제 적절성 검토",
+          "summary": "영국 중앙은행은 금융 부문에서 에이전트형 AI 사용에 대한 기존 규제 프레임워크의 적절성을 검토하고 있습니다. 사라 브리든 부총재는 기존 규제가 직접적인 인간의 지시 없이 행동할 수 있는 AI 에이전트를 위해 설계되지 않았다고 언급하며, 지불, 거래, 사이버 보안 및 운영 기능에 걸쳐 이러한 자율 시스템의 위험성을 평가해야 한다고 강조했습니다. 특히 사이버 회복탄력성이 주요 관심사로 지목되었습니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/"
+            },
+            {
+              "name": "KITCO",
+              "url": "https://www.kitco.com/news/off-the-wire/2026-07-01/ai-hopes-and-fears-dominate-global-central-bank-meet"
+            },
+            {
+              "name": "Thomson Reuters Legal Solutions",
+              "url": "https://legal.thomsonreuters.com/blog/from-automation-to-autonomy-why-government-agencies-need-agentic-ai-now/"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/bernardmarr/2026/07/01/how-jpmorgan-chase-is-building-the-ai-powered-bank-of-the-future/"
+            }
+          ],
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
