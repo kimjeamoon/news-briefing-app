@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-04",
-  "date_str": "2026년 7월 4일 (토)",
+  "date": "2026-07-05",
+  "date_str": "2026년 7월 5일 (일)",
   "key5": [
-    "계엄 가담 의혹 전 해경 간부 구속영장 기각, 특검 수사 차질 우려",
-    "미국 폭염으로 독립 250주년 행사 차질, 동부 및 중서부 심각한 영향",
-    "독일 검찰, 노르트스트림 가스관 폭파 사건 우크라이나 정부 공작 결론",
-    "일본, 3년 연속 5% 이상 임금 인상률 기록, 견고한 경제 회복세",
-    "한국 과학기술원, 1초 만에 출혈 멈추는 스프레이형 지혈제 개발"
+    "김정은, 신형 구축함 무기시험 참관 및 지방공장 시찰 등 군사·경제 현장 행보 지속",
+    "미국 독립 250주년 기념행사, 트럼프 전 대통령의 '공산주의 위협' 발언으로 정치적 분열 심화",
+    "중국, 대만 동부 해역에 해경 순찰대 파견하며 영유권 주장 강화",
+    "나사, 태양풍으로 인해 지구 충돌 위기에 처한 스위프트 관측소 구출 비상 임무 시작",
+    "프랑스 11세 소녀 성폭행·살해 사건 계기로 성폭력 방지법 제정 요구 시위 확산"
   ],
   "regions": [
     {
@@ -16,16 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "계엄 가담 의혹 전 해경 간부 구속영장 기각, 특검 수사 차질 우려",
-          "summary": "비상계엄 당시 내란 가담 의혹을 받는 김종욱 전 해경청장과 안성식 전 기획조정관의 구속영장이 법원에서 기각되었습니다. 재판부는 범죄 혐의 다툼의 여지가 있고 증거인멸이나 도주 우려가 없다고 판단했으며, 이로 인해 종합특검팀의 수사에 차질이 예상됩니다.",
+          "title": "김정은, 신형 구축함 무기시험 참관 및 지방공장 시찰 등 현장 행보 지속",
+          "summary": "김정은 북한 국무위원장이 신형 5천t급 구축함 '강건호'의 미사일과 함포 등 주요 무기체계 시험을 참관했으며, 2개월 이내 취역을 지시했다. 또한 '지방발전 20×10' 정책에 따라 함경남도 낙원군에 건설 중인 공장, 병원, 종합봉사소 등 현장을 시찰하며 지역 특성을 살린 발전을 강조했다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260703161800004"
+              "url": "https://www.yna.co.kr/view/AKR20260705003700504"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607032255001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260705004800504"
             }
           ],
           "verification": "multi",
@@ -33,20 +33,37 @@
         },
         {
           "tag": "pol",
-          "title": "국회, 쿠팡 청문회 관련 美 하원 보고서에 유감 표명",
-          "summary": "국회가 쿠팡 대규모 개인정보 유출 사태 관련 연석청문회를 '차별적'이라고 비판한 미국 하원 법사위원회 보고서에 대해 유감을 표명했습니다. 국회는 청문회가 헌법적 책무에 따라 적법하게 진행되었으며, 보고서가 일부 의원 발언과 장면만을 근거로 평가했다고 반박했습니다.",
+          "title": "정부, '3대 메가 프로젝트' 박정희 시대 산업화 규모로 추진",
+          "summary": "하준경 청와대 경제성장수석은 정부의 '3대 메가 프로젝트'가 박정희 시대 산업화에 비견될 만한 규모로, 과거 불균형 산업화와 달리 균형적이고 선도적인 2차 산업화를 이끌 것이라고 밝혔다. 이 프로젝트는 초고속 건설을 통해 많은 일자리 창출과 경제 발전에 기여할 것으로 전망된다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260703143800001"
+              "url": "https://www.yna.co.kr/view/AKR20260704038500001"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607042134001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "민주당 전당대회 당권 주자들, 호남 당심 공략 경쟁 심화",
+          "summary": "더불어민주당 당권 주자 김민석 전 총리, 정청래 전 대표, 송영길 의원이 8·17 전당대회를 앞두고 호남 지역에서 당심 공략 경쟁을 벌이고 있다. 김 전 총리는 광주 군 공항을 출마 선언지로 고려하며 '이재명 정부 3대 메가 프로젝트' 지원을 강조하고, 정 전 대표는 김대중 전 대통령 생가를 방문해 '당원 주권주의'를 내세웠다. 송영길 의원도 '호남의 적자'임을 부각하며 반도체 클러스터 프로젝트 지원을 강조할 것으로 보인다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260704034500001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260704034400001"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/politics_general/1266674.html"
-            },
-            {
-              "name": "cnbc.com",
-              "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html"
+              "url": "https://www.hani.co.kr/arti/politics/assembly/1266711.html"
             }
           ],
           "verification": "multi",
@@ -54,58 +71,20 @@
         },
         {
           "tag": "eco",
-          "title": "한국형 저궤도 위성통신망 구축 및 달 착륙 시점 가속화 추진",
-          "summary": "정부가 2035년까지 독자적인 수백 기 규모의 저궤도 위성통신망을 구축하고, 달 착륙 시점을 2030년으로 앞당기기로 했습니다. 이는 우주 통신 주권을 확보하고 6G 시대에 대비하며, 국내 우주 산업 생태계를 육성하기 위한 전략의 일환입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260703112952017"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260703143900017"
-            },
-            {
-              "name": "lightreading.com",
-              "url": "https://www.lightreading.com/data-centers/south-korea-plans-massive-18-4gw-ai-data-center-buildout-by-2035"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "원/달러 환율 34거래일 연속 1500원대 유지, 외환시장 불안 지속",
-          "summary": "원/달러 환율이 34거래일 연속 1500원대를 유지하며 외환 시장의 불안정한 상황이 지속되고 있습니다. 올해 2분기 평균 환율은 1998년 외환위기 이후 처음으로 1500원을 넘어섰으며, 전문가들은 외국인 투자자의 대규모 국내 증시 매도세 등을 주요 원인으로 꼽고 있습니다.",
+          "title": "지난해 한국 연평균 노동시간 OECD 6위, 실업급여 수급자 재취업 임금 상승 연구 결과",
+          "summary": "지난해 한국의 연평균 노동시간은 1,833시간으로 OECD 36개 회원국 중 6번째로 길며, OECD 평균보다 97시간 더 일했다. 한편, 한국고용정보원의 연구 결과에 따르면 퇴직 후 실업급여를 받은 사람은 재취업 후 임금이 더 높아지는 경향이 있으며, 이는 더 나은 일자리 탐색을 지원하고 임금 불평등을 완화하는 효과를 나타냈다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260704003600002"
+              "url": "https://www.yna.co.kr/view/AKR20260703127300530"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607040600061/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260703142100530"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "장마철에도 낙동강 녹조 확산 심각, 물금·매리 7월 역대 최고치",
-          "summary": "장마철에도 낙동강 하류의 녹조 확산이 심각하여, 물금·매리 지점의 유해남조류 세포 수가 7월 관측치 중 역대 최고 수준을 기록했습니다. 이는 비가 녹조를 희석하기에 충분하지 않았고 수온도 크게 낮아지지 않아 조류 번식이 계속된 것으로 분석됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260703121000052"
-            },
-            {
-              "name": "dispatch.com",
-              "url": "https://www.dispatch.com/story/news/2026/07/02/toxic-algae-bacteria-warnings-ohio-beaches-list/90706796007/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
         }
       ]
     },
@@ -116,20 +95,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국 독립 250주년 기념 행사 개최, 선거 불신 조장 논란도",
-          "summary": "미국이 독립 250주년을 맞아 전국적으로 다양한 기념 행사를 개최하며 통합의 메시지를 전하고 있습니다. 하지만 동시에 트럼프 전 대통령이 조지아주 투표의 공정성에 대한 근거 없는 주장을 반복하며 선거 불신을 조장하는 논란도 제기되었습니다.",
+          "title": "미 독립 250주년 기념행사, 트럼프 전 대통령 발언으로 정치적 분열 노출",
+          "summary": "도널드 트럼프 전 미국 대통령은 독립 250주년 기념행사 연설에서 반대 세력을 '공산주의 위협'으로 규정하며 극심한 정치적 분열을 드러냈다. 그는 마운트 러시모어 연설에서 미국의 예외주의를 강조하며 진보 민주당을 공산주의자로 지목, 미국에 실존적 위협이 된다고 주장했다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/03/us/america-250-fourth-july.html"
+              "url": "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250"
             },
             {
-              "name": "cnn.com",
-              "url": "https://www.cnn.com/2026/07/02/politics/america-250-donors-democrats-report"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack"
             }
           ],
           "verification": "multi",
@@ -137,20 +116,20 @@
         },
         {
           "tag": "soc",
-          "title": "미국 전역 폭염으로 독립기념일 행사 차질 속출",
-          "summary": "미국 전역에 기록적인 폭염이 기승을 부리면서 독립 250주년 기념 행사에 차질이 발생했습니다. 워싱턴 D.C.의 대규모 행사장이 일시 폐쇄되고 필라델피아에서는 퍼레이드 경로가 단축되는 등 여러 행사가 조정되거나 취소되었습니다.",
+          "title": "미국 독립기념일 250주년, 백인 민족주의 단체 워싱턴 D.C.에서 시위",
+          "summary": "미국 독립기념일 250주년을 맞아 백인 민족주의 단체 '패트리엇 프론트' 소속 수백 명의 복면을 쓴 시위대가 워싱턴 D.C.에서 행진했다. 이들은 연합기를 들고 '생명, 자유, 승리!', '미국을 되찾자!' 등의 구호를 외치며 시위를 벌였으며, 일부 반대 시위대와 충돌하기도 했다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/03/us/politics/oppressive-heat-alters-plans-for-250th-celebrations-in-washington.html"
+              "url": "https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc"
             },
             {
-              "name": "nbcnews.com",
-              "url": "https://www.nbcnews.com/weather/heat/heat-wave-july-4-celebrations-rcna352896"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/white-nationalist-group-patriot-front-marches-in-washington-on-july-4-12157867"
             }
           ],
           "verification": "multi",
@@ -158,45 +137,45 @@
         },
         {
           "tag": "soc",
-          "title": "미시간 쇼핑몰 총격 사건 발생, 2명 사망 1명 부상",
-          "summary": "미시간주 디어본의 한 쇼핑몰에서 총격 사건이 발생해 2명이 사망하고 1명이 부상당했습니다. 경찰에 따르면 이 사건은 두 청소년 집단 간의 다툼에서 비롯된 것으로, 무작위적인 범죄는 아니라고 밝혔습니다.",
+          "title": "기록적 폭염에 미국 독립기념일 행사 일부 취소 및 정전 우려",
+          "summary": "미국 전역을 강타한 기록적인 폭염으로 인해 독립기념일 250주년 기념행사 중 일부가 취소되거나 변경되었다. 필라델피아와 워싱턴 D.C.에서는 극심한 더위로 인해 퍼레이드가 취소되었으며, 서부 일부 지역에서는 산불 위험으로 불꽃놀이가 취소되었다. 미 국립기상청은 동부 해안과 중서부 지역에 '주요' 또는 '극심한' 열 관련 건강 위험을 경고했다.",
           "sources": [
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/04/us/politics/fireworks-canceled-wildfire-danger.html"
             },
             {
-              "name": "greenwichtime.com",
-              "url": "https://www.greenwichtime.com/news/world/article/police-investigate-a-shopping-mall-shooting-that-left-2-dead-in-suburban-detroit-22331863.php"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "cbsnews.com",
-              "url": "https://www.cbsnews.com/detroit/news/police-respond-to-shooting-at-fairlane-town-center-in-dearborn-michigan/"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "eco",
-          "title": "미국 산란계 기업, 가격 담합 소송 해결 위해 330만 달러 합의",
-          "summary": "미국의 주요 산란계 기업들이 가격 담합 소송을 해결하기 위해 330만 달러를 지불하고 5천3백만 개 이상의 달걀을 푸드뱅크 및 비영리 단체에 기부하기로 합의했습니다. 이번 합의는 법무부와 17개 주 정부가 제기한 독점금지법 위반 주장을 해결하기 위한 것입니다.",
+          "tag": "tec",
+          "title": "트럼프 밈코인 투자자 약 100만 명, 총 38억 달러 손실 기록",
+          "summary": "암호화폐 분석 기업 보고서에 따르면, 트럼프 전 대통령 관련 밈코인에 투자한 약 100만 명의 투자자들이 총 38억 달러의 손실을 입은 것으로 나타났다. 대부분의 개인 투자자들이 손해를 본 반면, 일부 숙련된 트레이더들은 이익을 얻은 것으로 분석되었다. 트럼프 전 대통령은 암호화폐 사업으로 10억 달러 이상을 벌어들인 것으로 알려졌다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html"
+              "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
             },
             {
-              "name": "apnews.com",
-              "url": "https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c"
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/tech/crypto/trump-crypto-bitcoin-memecoin-losses-disclosure-rcna352707"
             },
             {
-              "name": "cbsnews.com",
-              "url": "https://www.cbsnews.com/news/doj-states-secure-proposed-settlement-with-egg-producers-over-price-fixing-investigation/"
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/02/business/trump-memecoin-crypto-gains"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -206,59 +185,63 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "eco",
-          "title": "일본, 2026년 임금 협상 3년 연속 5% 이상 인상률 기록",
-          "summary": "일본의 연례 임금 협상 결과, 2026년에도 평균 임금 인상률이 5%를 넘어 3년 연속 높은 상승세를 기록했습니다. 이는 일본 경제의 견고한 회복세를 보여주며, 일본은행의 추가 금리 인상 기조를 강화할 것으로 예상됩니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/03/economy/rengo-wage-talks-gains/"
-            },
-            {
-              "name": "apnews.com",
-              "url": "https://apnews.com/article/stocks-markets-ai-oil-iran-war-691751fb947dabadd212d270278e8dfd"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "pol",
-          "title": "이란 전쟁, 일본의 호르무즈 의존도 드러냈으나 정책 변화 미미",
-          "summary": "이란 전쟁으로 호르무즈 해협이 폐쇄되면서 일본의 원유 수입이 해협에 크게 의존하고 있음이 드러났습니다. 하지만 다카이치 사나에 총리 행정부는 화석 연료에서 재생 에너지로의 근본적인 정책 변화보다는 기존 화석 연료 인프라 강화와 원자력 발전 확대를 추진하고 있습니다.",
+          "title": "중국, 대만 동부 해역에 해경 순찰대 파견하며 영유권 주장 강화",
+          "summary": "중국 해경이 대만 동부 해역에 새로운 순찰대를 파견하며 영유권 주장을 강화했다. 이는 중국이 대만을 자국 영토로 간주하고 해경을 활용해 영유권 주장을 강제하는 '법률전'의 일환으로, 대만 측은 중국 선박을 추적하며 필요한 모든 조치를 취해 자국 해상 주권을 방어하겠다고 밝혔다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/03/japan/society/solar-wind-iran/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/04/asia-pacific/china-coast-guard-patrol-taiwan-east/"
             },
             {
-              "name": "marinelink.com",
-              "url": "https://www.marinelink.com/blogs/blog/eneos-has-enough-crude-to-last-through-september-and-is-looking-105003"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3359426/beijing-sends-new-coastguard-force-waters-east-taiwan?utm_source=rss_feed"
             },
             {
-              "name": "greenwichtime.com",
-              "url": "https://www.greenwichtime.com/news/world/article/iran-war-turns-asia-toward-diversifying-energy-22326370.php"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/china-launches-coast-guard-patrol-east-taiwan-despite-international-pushback-2026-07-04/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "중국 바이트댄스, AI 에이전트 성능 향상 위한 새로운 스케일링 법칙 발견",
-          "summary": "중국 바이트댄스 연구진이 AI 에이전트의 성능 향상에 관한 새로운 스케일링 법칙을 발견했습니다. 이 연구는 AI 에이전트가 실제 환경에서 상호작용하며 학습 속도를 3개월마다 두 배로 늘릴 수 있음을 보여주며, AI 모델 개선의 새로운 방향을 제시하고 있습니다.",
+          "tag": "eco",
+          "title": "샤프, 2030년까지 신사업 매출 3,000억 엔 목표 및 위성 통신 장비 사업 확대",
+          "summary": "일본 샤프는 2030 회계연도까지 신사업에서 2,000억~3,000억 엔의 매출을 목표로 하며, 특히 인공지능(AI) 인프라를 성장 동력으로 삼고 AI 서버가 신사업 매출의 80% 이상을 차지할 것으로 전망했다. 또한 소형 안테나를 포함한 위성 통신 장비 사업을 확장할 계획이며, 혼하이 그룹 내에서 글로벌 브랜드 인지도를 활용해 신사업 확장을 가속화할 예정이다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/07/04/companies/sharp-business-sales-growth-2030/"
             },
             {
-              "name": "newsweek.com",
-              "url": "https://www.newsweek.com/ai-industrial-power-struggles-world-of-tomorrow-12146543"
+              "name": "IndexBox",
+              "url": "https://www.indexbox.io/blog/communication-equipment-manufacturing-market-forecast-points-higher-toward-2035-driven-by-5g-advanced-and-private-network-investments/"
             },
             {
-              "name": "zamin.uz",
-              "url": "https://zamin.uz/en/technology/210354-mark-zuckerberg-admits-ai-agents-are-developing-slower-than-expected.html"
+              "name": "Developing Telecoms",
+              "url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/20464-thales-alenia-to-supply-software-defined-satellite-to-eshailsat.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "마이크론, 일본 히로시마에 90억 달러 규모 HBM 반도체 공장 증설 착공",
+          "summary": "마이크론 테크놀로지는 일본 서부 히로시마 공장 증설에 90억 달러(약 1조 5천억 엔)를 투자하여 첨단 고대역폭 메모리(HBM) 반도체 생산 시설을 건설하기 시작했다. 이 공장은 엔비디아와 같은 AI 프로세서에 필수적인 HBM 칩을 생산하며, 2028년 여름경 출하를 시작할 예정이다. 일본 경제산업성은 이 비용의 최대 5천억 엔을 지원할 계획이다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/07/04/tech/micron-hiroshima-chip-plant/"
+            },
+            {
+              "name": "Bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/"
             }
           ],
           "verification": "multi",
@@ -266,20 +249,20 @@
         },
         {
           "tag": "tec",
-          "title": "키오시아, AI 데이터센터용 차세대 플래시 메모리 샘플 출하",
-          "summary": "일본 키오시아 홀딩스가 AI 데이터센터 운영사를 위한 차세대 플래시 메모리 칩 샘플 출하를 시작하며 경쟁 우위 확보에 나섰습니다. 새로운 332단 10세대 3D 플래시 메모리 칩은 기존 제품 대비 59% 더 많은 데이터를 저장하며, 효율성과 전송 속도 면에서 AI 데이터센터의 요구를 충족하도록 설계되었습니다.",
+          "title": "노벨상 수상자 오마르 야기 교수, 미국 떠나 중국 칭화대 AI 연구센터 합류",
+          "summary": "지난해 노벨 화학상 수상자인 오마르 야기 교수가 미국을 떠나 중국 칭화대학교에 합류하여 새로운 AI 기반 연구 센터를 이끌게 되었다. 야기 교수는 AI를 활용해 신소재 설계 및 합성을 혁신하고 개발 주기를 단축하며, 탄소 중립 및 물 부족과 같은 글로벌 환경 문제 해결에 기여할 수 있는 재료 개발에 주력할 계획이다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/03/companies/kioxia-flash-memory-data-centers/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/science/article/3359430/nobel-prize-winning-materials-scientist-omar-yaghi-joins-tsinghua-university-us?utm_source=rss_feed"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-starts-shipping-next-gen-memory-as-technological-lead-shrinks"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-01989-5"
             },
             {
-              "name": "english.kyodonews.net",
-              "url": "https://english.kyodonews.net/articles/-/79170"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html"
             }
           ],
           "verification": "multi",
@@ -294,20 +277,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "폴란드 총리, 러시아의 무력 도발 가능성에 중대한 시기 경고",
-          "summary": "도날트 투스크 폴란드 총리는 러시아가 북대서양조약기구(NATO)의 결의를 시험하기 위해 폴란드에서 무력 도발을 감행할 수 있다는 우려 속에 향후 몇 달이 매우 중대한 시기가 될 것이라고 경고했습니다. 그는 동맹국들로부터 얻은 정보를 통해 위협을 인지하고 있으며 다양한 상황에 대비하고 있다고 밝혔습니다.",
+          "title": "우크라이나, 러시아 상트페테르부르크 석유 터미널 공격으로 전쟁 수익원 타격",
+          "summary": "우크라이나가 러시아 상트페테르부르크의 주요 석유 터미널과 인근 항만 인프라에 대규모 드론 공격을 감행했다. 볼로디미르 젤렌스키 우크라이나 대통령은 이를 '러시아의 전쟁 수익을 창출하는 핵심 인프라'를 겨냥한 장거리 제재의 일환이라고 밝혔다. 상트페테르부르크 주지사는 대규모 드론 공격으로 석유 터미널이 피격되었음을 인정했으나, 사상자는 없다고 보고했다.",
           "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260704008500009"
-            },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "bbc.com",
-              "url": "https://www.bbc.com/news/articles/cj0gp88q4l4o"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/china-launches-coast-guard-patrol-east-taiwan-despite-international-pushback-2026-07-04/"
             }
           ],
           "verification": "multi",
@@ -315,62 +298,66 @@
         },
         {
           "tag": "pol",
-          "title": "독일 검찰, 노르트스트림 폭파 사건 우크라이나 정부 공작으로 결론",
-          "summary": "독일 검찰은 2022년 발트해 노르트스트림 가스관 폭파 사건이 우크라이나 정부의 지시에 따라 계획되고 실행된 공작이었다고 결론 내리고 우크라이나 국적자 세르히 쿠즈네초우를 기소했습니다. 검찰은 작전의 목적이 러시아산 천연가스의 유럽 공급을 영구적으로 차단하여 러시아의 전쟁 자금 조달 능력을 약화하기 위함이었다고 판단했습니다.",
+          "title": "러시아, 우크라이나 전쟁 병력 손실 보충 위해 학생 대상 군 복무 계약 유도",
+          "summary": "러시아가 우크라이나 전쟁에서 증가하는 병력 손실을 보충하기 위해 학생들을 대상으로 군 복무 계약을 유도하고 있다. 대학, 기술 학교, 직업 학교 학생들에게 드론 부대 입대를 장려하며, 특히 학업 부진 학생이나 휴학을 고려하는 학생들을 집중적으로 모집하고 있다. 이 캠페인은 러시아가 5년째 전쟁 노력을 지속하기 위해 올해 초 시작되었다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607032219001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "dw.com",
-              "url": "https://www.dw.com/en/nord-stream-blast-ordered-by-ukraine-say-german-prosecutors/a-77798230"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cp8lnnr080go"
             },
             {
-              "name": "reuters.com",
-              "url": "https://www.reuters.com/world/europe/germany-charges-nord-stream-suspect-with-war-crime-complicity-sabotage-2026-07-02/"
+              "name": "Kyiv Post",
+              "url": "https://www.kyivpost.com/post/79446"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "유럽연합 집행위, 국방 협력 강화를 위한 5대 신규 프로젝트 발표",
-          "summary": "유럽연합 집행위원회가 유럽 국가들의 국방력 강화를 위한 5개의 대규모 신규 국방 프로젝트를 발표하며 국방 협력을 장려하고 있습니다. 이 프로젝트들은 드론 및 대드론 시스템, 해양 및 해저 방위, 우주, 공중력 및 미사일 방위에 중점을 두며, 18개 회원국과 우크라이나가 참여합니다.",
+          "tag": "soc",
+          "title": "교황, 람페두사 섬 방문하여 이주민 문제에 대한 유럽의 노력 촉구",
+          "summary": "레오 14세 교황이 이탈리아 람페두사 섬을 방문하여 유럽 지도자들에게 이주민 문제 해결을 위한 더 많은 노력을 촉구했다. 교황은 이주민의 더 나은 통합을 돕고 본국의 여건을 개선할 것을 강조하며, 지중해를 건너다 목숨을 잃은 이들은 '결정된 것과 결정되지 않은 것' 모두의 희생자라고 말했다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/07/04/pope-makes-historic-visit-to-lampedusa-warns-europe-deaths-at-sea-are-failures-to-act"
+            },
+            {
+              "name": "yahoo.com",
+              "url": "https://www.yahoo.com/news/world/articles/pope-calls-europe-greater-responsibility-101937519.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "프랑스 11세 소녀 성폭행·살해 사건 계기로 성폭력 방지법 제정 요구 시위 확산",
+          "summary": "프랑스에서 11세 소녀 '리아나'의 성폭행 및 살해 사건을 계기로 전국적으로 수천 명이 참여하는 시위가 확산되며 성폭력 방지법 제정을 요구하고 있다. 가해자가 과거 두 차례 아동 성폭행 혐의를 받았음에도 수사가 중단되거나 지연된 사실이 드러나면서, 성폭력의 '체계적 본질'을 인정하고 예방, 사법 처리, 피해자 지원을 아우르는 '종합적 법률' 제정을 요구하는 목소리가 커지고 있다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/07/03/european-commission-attempts-to-spur-eu-defence-teamwork-with-five-new-major-projects"
+              "url": "http://www.euronews.com/my-europe/2026/07/04/thousands-of-protesters-march-throughout-france-to-demand-law-against-sexual-violence"
             },
             {
-              "name": "cnbc.com",
-              "url": "https://www.cnbc.com/2026/07/01/europe-defense-stocks-rearmament.html"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cy4e109nx04o"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/03/europe/online-drug-rape-investigations-intl-hnk"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "나토 정상회담 앞두고 독일-발트해 연안국, 러시아 억지력 강화 다짐",
-          "summary": "앙카라에서 열릴 나토 정상회담을 앞두고 독일 총리와 발트해 연안국 지도자들이 베를린에서 만나 러시아에 대한 억지력을 강화하고 우크라이나 지원을 확대할 것을 다짐했습니다. 독일은 발트해 국가들의 안보가 독일의 안보와 직결된다고 강조하며 나토의 결속을 촉구했습니다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/07/03/security-of-the-baltics-is-our-security-merz-meets-baltic-leaders-before-nato-summit"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/lithuania-president-gitanas-nauseda-nato-fracture-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "politico.eu",
-              "url": "https://www.politico.eu/article/failing-to-deter-russia-vladimir-putin-would-cost-more-than-paying-for-defense-estonian-pm-kristen-michal-warns-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -381,58 +368,58 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "KAIST 연구팀, 1초 만에 출혈 멈추는 스프레이형 지혈제 개발",
-          "summary": "KAIST 연구팀이 생명을 위협하는 출혈을 1초 만에 멈출 수 있는 스프레이형 지혈제를 개발했습니다. 이 파우더형 지혈제는 상처에 뿌리면 즉시 강력한 젤 장벽을 형성하여 깊고 불규칙한 상처에도 효과적이며, 전투 현장 및 재난 응급 처치에 활용될 잠재력이 큽니다.",
+          "title": "나사, 태양풍으로 지구 충돌 위기에 처한 스위프트 관측소 구출 비상 임무 시작",
+          "summary": "나사(NASA)가 태양풍으로 궤도가 낮아져 지구 충돌 위기에 처한 스위프트 관측소(Swift Observatory)를 구출하기 위한 비상 임무를 시작했다. 카탈리스트 스페이스 테크놀로지스(Katalyst Space Technologies)의 '링크(Link)' 우주선이 발사되어, 자체 추진 시스템이 없는 스위프트 관측소의 궤도를 150마일 가량 다시 높이는 것을 목표로 한다. 3천만 달러 규모의 이 임무는 9개월 만에 준비되었다.",
           "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm"
-            },
-            {
-              "name": "sciencedaily.com",
-              "url": "http://www.sciencedaily.com/releases/2026/06/260625014835.htm"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "과학자들, 양자 시스템에서 시간을 거꾸로 흐르게 하는 기술 개발",
-          "summary": "과학자들이 양자 시스템에서 시간이 거꾸로 흐르는 것처럼 보이게 하는 양자 제어 기술을 개발하여 양자 물리학 분야의 획기적인 발전을 이루었습니다. 이 기술은 양자 측정 과정을 정밀하게 제어함으로써 시간의 흐름을 재구성하고, 측정 과정 자체에서 에너지를 수확할 수도 있어 더욱 강력한 양자 컴퓨터와 양자 배터리 개발에 기여할 수 있습니다.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm"
-            },
-            {
-              "name": "sciencedaily.com",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "AI 연구자들, 유연한 AI 시스템 개발에 집중",
-          "summary": "AI 연구자들이 현재 AI 시스템의 한계를 넘어 더욱 유연하고 실제 세계 문제에 대처할 수 있는 AI 시스템 개발에 집중하고 있습니다. 바이트댄스 연구팀은 AI 에이전트의 학습 속도 향상 법칙을 발견했고, Anthropic은 과학 분야의 AI 활용 및 자체 약물 개발을 추진하는 등 다양한 접근 방식을 시도하고 있습니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
+              "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies"
             },
             {
-              "name": "techcrunch.com",
-              "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+              "name": "PBS",
+              "url": "https://www.pbs.org/newshour/science/rescue-mission-launches-to-save-nasa-telescope-thats-falling-back-to-earth-thanks-to-solar-storms"
+            },
+            {
+              "name": "People.com",
+              "url": "https://people.com/nasa-launches-mission-to-stop-22-year-old-telescope-from-plummeting-back-to-earth-12011877"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "화성 암석에서 다량의 탄소 발견, 생물학적 기원 논의",
+          "summary": "나사 퍼서비어런스 로버가 화성 예제로 분화구의 고대 강 채널 가장자리에서 암석 표면에 복합 거대 분자 탄소가 다량으로 발견되었다. 이는 현재까지 화성 표면에서 발견된 유기물 중 가장 얕은 곳에서 검출된 것으로, 지구에서는 이러한 거대 분자 탄소가 주로 생물학적 기원을 시사한다. 그러나 이번 발견된 탄소의 기원이 생물학적인지 비생물학적인지는 명확하지 않아 추가적인 연구를 위해 샘플을 지구로 가져와 분석할 필요성이 제기되었다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "팬픽션 커뮤니티, AI 생성 콘텐츠 반감으로 AI 사용 작가 색출 논쟁 심화",
+          "summary": "팬픽션 커뮤니티에서 AI 생성 콘텐츠에 대한 반감이 고조되면서 AI 사용 작가를 색출하려는 움직임이 확산되고 있다. 아카이브 오브 아워 오운(AO3)용 '클로드 감지기'와 같은 도구까지 등장하여, AI 사용 여부를 놓고 작가들이 공개적으로 비난받는 상황이 발생하고 있다. 하지만 이러한 감지 방법의 신뢰성에 대한 의문이 제기되고 있어, 많은 팬픽션 작가들이 AI 사용 여부와 관계없이 논란에 휘말릴 수 있다는 우려가 커지고 있다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+            },
+            {
+              "name": "Let's Data Science",
+              "url": "https://letsdatascience.com/news/fanfiction-communities-target-ai-generated-fanworks-and-dete-540ac2d2"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt"
             }
           ],
           "verification": "multi",
