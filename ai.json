@@ -1,19 +1,41 @@
 {
-  "date": "2026-07-06",
-  "date_str": "2026년 7월 6일 (월)",
+  "date": "2026-07-07",
+  "date_str": "2026년 7월 7일 (화)",
   "highlights": [
-    "아마존, 크라우드소싱 플랫폼 '메커니컬 터크' 신규 고객 접수 중단",
-    "구글, AI 활용해 미국 독립선언문 작성하는 상업광고 공개",
-    "소행성 충돌로 초기 지구 지각 녹아 '잃어버린 5억 년' 설명 가능성 제기",
-    "일부 부유층 가정, 자녀 교육에 AI 활용 시작",
-    "초기 지구 대륙 형성, 소행성 충돌로 인한 열이 주요 원인일 수 있다는 연구 발표"
+    "마이크로소프트, AI 요인으로 Xbox 등 4,800명 대규모 감축 발표",
+    "영국 금융규제기관, 금융 AI '군비 경쟁' 경고하며 규제 강화 촉구",
+    "애플, iOS 27 베타에서 Siri 음성 속도 및 표현력 사용자화 기능 추가",
+    "구글, AI 모델 개선 위해 사용자 데이터 저장 확대, 옵트아웃 가능",
+    "레딧, LLM 활용하여 급증한 스팸 문제 해결 시도"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": []
+      "stories": [
+        {
+          "title": "iOS 27 베타, Siri 음성 속도·표현력 사용자화 지원",
+          "summary": "애플이 iOS 27 개발자 베타 버전에서 생성형 AI 기반의 Siri 재구축 노력의 일환으로 음성 속도와 표현력을 사용자화하는 기능을 추가했습니다. 사용자는 슬라이더를 통해 Siri의 말하기 속도와 감성 표현 정도를 조절할 수 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
+            },
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/07/06/heres-whats-new-with-ios-27-beta-3/"
+            },
+            {
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/211023-apple-introduces-full-voice-personalization-for-siri.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
     },
     {
       "name": "연구·논문",
@@ -21,20 +43,20 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "소행성 충돌, 초기 지구 지각 녹여 '잃어버린 5억 년' 설명 가능성",
-          "summary": "최근 연구에 따르면 하데스대(Hadean eon)의 지구 초기 지각은 소행성 충돌로 인한 극심한 열 때문에 녹아 사라졌을 수 있습니다. 커틴 대학의 지질학자 팀 존슨(Tim Johnson)과 동료들은 강렬하고 지속적인 소행성 충돌이 초기 지각을 뜨겁고 얇게 유지하여 대륙 형성을 가능하게 했다고 주장합니다. 이러한 폭격은 초기 지구의 '잃어버린 5억 년' 동안 지질학적 증거가 거의 없는 이유를 설명할 수 있습니다.",
+          "title": "MIT 박사 과정생, 신경 기술의 이점과 위험 탐구",
+          "summary": "MIT 박사 과정생 레이첼 사바는 '컴퓨팅의 미래 상상하기' 공모전에서 신경 기술의 긍정적 활용과 감시 도구로의 변질 위험성을 탐구했습니다. 그녀는 신경 임플란트가 의사소통을 돕는 의료 기기에서 사상 감시 도구로 악용될 수 있음을 경고하며, 모두를 위한 신경 기술의 미래를 보존할 방안을 모색해야 한다고 강조했습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s41378-026-01357-3"
             },
             {
               "name": "New Scientist",
-              "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "http://www.sciencedaily.com/releases/2026/06/260625014827.htm"
+              "url": "https://www.newscientist.com/article/2531178-how-healthy-is-your-brain-we-now-know-how-to-find-out/"
             }
           ],
           "verification": "multi",
@@ -49,16 +71,24 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "아마존, 크라우드소싱 플랫폼 '메커니컬 터크' 신규 고객 접수 중단",
-          "summary": "아마존은 크라우드소싱 플랫폼 '메커니컬 터크(Mechanical Turk)'의 신규 고객 접수를 2026년 7월 30일부터 중단한다고 발표했습니다. 이는 서비스의 점진적인 종료 신호로 해석되며, 기존 고객은 계속 이용할 수 있으나 새로운 기능은 추가되지 않을 예정입니다. 이 플랫폼은 2005년 출시 이후 간단한 작업을 자동화하는 데 사용되었으며, AI 데이터 주석 작업에도 활용되었습니다.",
+          "title": "MS, AI 영향으로 Xbox 등 4,800명 인력 감축",
+          "summary": "마이크로소프트가 Xbox 부문 등에서 약 4,800명(전 세계 인력의 2.1%)을 감축했습니다. 회사는 AI가 업무 방식을 변화시키고 일상적인 작업을 자동화하고 있다고 언급했으나, 해고된 역할이 AI로 대체되는 것은 아니라고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+              "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
             },
             {
-              "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/210817-amazon-prepares-to-shut-down-its-legendary-mechanical-turk-service.html"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs"
+            },
+            {
+              "name": "The Seattle Times",
+              "url": "https://www.seattletimes.com/business/microsoft/microsoft-cuts-4800-across-xbox-sales-divisions-redeploys-hundreds-more/"
             }
           ],
           "verification": "multi",
@@ -66,20 +96,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "구글, AI 활용해 독립선언문 작성하는 상업광고 공개",
-          "summary": "구글은 새로운 상업 광고를 통해 건국의 아버지들이 AI를 활용하여 미국 독립선언문을 작성하는 모습을 상상하며 Google Workspace의 AI 통합을 홍보했습니다. 이 광고는 토마스 제퍼슨과 벤 프랭클린이 구글 닥스, 캘린더, 밋, 그리고 제미나이 AI 도구를 사용하는 모습을 코믹하게 그립니다. 광고는 AI가 정치적 조직화나 인간 협력에 유용한 도구라는 주장을 직접적으로 내세우기보다는 AI의 도움을 유머러스하게 표현했습니다.",
+          "title": "레딧, LLM으로 생성된 스팸 해결에 LLM 활용",
+          "summary": "레딧은 강력한 대규모 언어 모델(LLM)로 인해 급증한 스팸 및 봇 콘텐츠 문제에 대응하기 위해 LLM 기반의 새로운 도구를 개발했습니다. 레딧에 따르면 이 새로운 도구는 하루 2,300만 건의 스팸 조회수를 차단하고, 매일 약 25,000개의 새로운 스팸 게시물과 댓글을 탐지합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
+              "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
             },
             {
               "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/210689-google-writes-the-us-declaration-of-independence-using-ai-in-new-ad.html"
+              "url": "https://zamin.uz/en/technology/210978-reddit-uses-llm-technology-to-fight-against-ai.html"
+            },
+            {
+              "name": "MediaPost",
+              "url": "https://www.mediapost.com/publications/article/416312/ai-stealth-marketing-infiltrates-reddit-in-brand-c.html"
             }
           ],
           "verification": "multi",
@@ -87,20 +117,58 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "일부 부유층 가정, 자녀 교육에 AI 활용 시작",
-          "summary": "미국 일부 부유층 가정에서 자녀 교육에 AI를 활용하는 새로운 교육 모델에 수만 달러를 지불하고 있습니다. 포지 프렙(Forge Prep)과 알파 스쿨(Alpha School)과 같은 회사들은 AI 튜터와 프로젝트 기반 워크숍을 제공하며 실리콘밸리 부모들의 관심을 끌고 있습니다. 이 모델은 전통적인 교육 방식에 대한 대안으로 제시되고 있지만, AI 교육의 효과와 안전성에 대한 검증은 부족한 상황입니다.",
+          "title": "파리 Station F, 유럽 AI 스타트업 육성 가속화",
+          "summary": "파리 스타트업 허브 Station F가 유럽 AI 스타트업의 발판 역할을 강화하기 위해 F/ai 액셀러레이터 프로그램의 두 번째 기수를 시작합니다. 이 프로그램은 AMD, Anthropic, AWS, Google, Microsoft 등 주요 기술 기업들의 지원을 받아 AI 스타트업들이 단기간 내에 수익을 창출하도록 돕는 데 중점을 둡니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
             },
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7"
+              "name": "Zamin.uz",
+              "url": "https://zamin.uz/en/technology/210951-station-f-is-becoming-europe-s-ai-hub-the-new-phase-of-the-f-ai-program.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "SK하이닉스 등 한국 반도체 직원, AI 칩 호황으로 인기 '신랑감' 부상",
+          "summary": "AI 칩 산업의 호황으로 SK하이닉스 등 한국 반도체 기업 직원들이 높은 보너스를 받으며 이성에게 매력적인 직업군으로 떠오르고 있습니다. 이들의 급증한 부는 한국의 새로운 '실리콘 칼라' 엘리트를 형성하며 데이트 시장에 영향을 미치고 있습니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
             },
             {
-              "name": "AOL.com",
-              "url": "https://www.aol.com/articles/san-diego-school-buys-disturbing-184158319.html"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/south-korea-create-future-fund-chip-windfall-spur-growth-tackle-inequality-2026-07-05/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "샘 알트먼, AI 부의 공유 약속 재조명",
+          "summary": "OpenAI CEO 샘 알트먼이 AI가 창출하는 부를 미국 시민과 공유하겠다는 이전 제안이 재조명되고 있습니다. 최근에는 트럼프 대통령과의 논의에서 미국 정부에 OpenAI 지분 5%를 제공하는 방안이 거론되었으며, 이는 AI 수익의 공정한 분배와 대중의 우려 완화를 목표로 합니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/anishasircar/2026/07/06/sam-altman-wants-a-global-referee-for-ai-he-also-wants-the-us-government-to-own-a-piece-of-openai/"
+            },
+            {
+              "name": "Time Magazine",
+              "url": "https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/"
             }
           ],
           "verification": "multi",
@@ -113,7 +181,84 @@
       "name": "정책·규제·안전",
       "flag": "⚖️",
       "en": "POLICY & SAFETY",
-      "stories": []
+      "stories": [
+        {
+          "title": "영국 금융규제기관, 금융 AI '군비 경쟁' 경고 및 규제 강화 촉구",
+          "summary": "영국 금융감독청(FCA)의 고위 관계자는 금융 서비스 분야에서 AI 사용이 급증함에 따라 규제 당국이 '군비 경쟁'에 직면했다고 경고했습니다. FCA는 AI의 빠른 변화 속도에 보조를 맞추기 위해 규제 권한 강화와 AI 모델의 위험 검토가 필요하다고 강조했습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
+            },
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/7f501320-9037-410f-b8e7-3111b9041311?syn-25a6b1a6=1"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/03/ai-outpacing-rules-europe-top-bankers-regulators-warn.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "구글, AI 모델 개선 위해 사용자 데이터 저장 확대",
+          "summary": "구글이 AI 모델 개선을 위해 이미지, 파일, 오디오 및 비디오 녹화를 포함한 사용자 미디어 데이터를 더 많이 저장하도록 개인정보 설정을 변경했습니다. 이는 6월에 고객 이메일을 통해 공지되었으며, 사용자는 이 설정에서 옵트아웃하여 데이터 수집을 거부할 수 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+            },
+            {
+              "name": "MediaPost",
+              "url": "https://www.mediapost.com/publications/article/416314/ai-fast-tracks-open-webs-collapse.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "중국, AI 동반자 서비스에 대한 새 규칙 발표",
+          "summary": "중국 정부가 AI 동반자 서비스에 대한 새로운 규정을 발표하며 생성형 AI의 잠재적 위험에 대한 규제적 접근을 보여주고 있습니다. 이는 인간의 성격, 사고방식, 소통 방식을 모방하여 지속적인 감정적 상호작용을 제공하는 AI 서비스에 적용됩니다.",
+          "sources": [
+            {
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "Anthropic, '실험' 명목 사용자 추적 논란 후 중단",
+          "summary": "Anthropic이 Claude Code 사용자를 비밀리에 모니터링하는 '프롬프트 스테가노그래피'를 사용하다 보안 연구원에 의해 노출되었습니다. 논란이 일자 Anthropic 엔지니어는 이것이 '실험'이었으며 무단 재판매 및 증류 공격 방지를 위한 조치였다고 밝히고 해당 추적 기능을 종료했습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+            },
+            {
+              "name": "GIGAZINE",
+              "url": "https://gigazine.net/gsc_news/en/20260704-alibaba-bans-claude-code/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        }
+      ]
     }
   ]
 }
