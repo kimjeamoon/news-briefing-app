@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-07",
-  "date_str": "2026년 7월 7일 (화)",
+  "date": "2026-07-08",
+  "date_str": "2026년 7월 8일 (수)",
   "key5": [
-    "삼성전자, 2분기 영업이익 89조 4천억 기록, 역대 최대 실적 경신",
-    "캐나다 잠수함 사업, 독일 TKMS 최종 선정…한화오션 고배",
-    "5·18 민주화운동 왜곡·조롱글 확산, 20대 역사 인식 하락 우려",
-    "미국 독립기념일 주말, 총기 폭력으로 수십 명 사망",
-    "트럼프, 발로건 월드컵 출전 정지 철회 개입 인정…FIFA 결정 논란"
+    "미국, 호르무즈 해협 상선 공격한 이란에 공습 및 제재 가해 긴장 고조",
+    "이재명 대통령, 나토 정상회의서 'K-방산' 외교 및 우크라이나 지원 논의",
+    "프랑스 마린 르펜, 횡령 유죄에도 2027년 대선 출마 선언",
+    "IOC, 러시아 올림픽 복귀 허용 방침에 우크라이나 반발",
+    "AI와 양자 물리학 결합, 상온 초전도체 탐색 가속화"
   ],
   "regions": [
     {
@@ -15,46 +15,34 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "eco",
-          "title": "삼성전자 2분기 영업익 89.4조, 역대 최대…3분기 연속 기록 경신",
-          "summary": "삼성전자가 올해 2분기 영업이익 89조 4천억 원을 기록하며 3분기 연속 역대 최대 실적을 달성했습니다. 매출은 171조 원으로 작년 동기 대비 129.3% 증가했으며, 이는 반도체 슈퍼사이클과 기술 경쟁력 회복에 힘입은 결과로 분석됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260707020151527"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/samsung-likely-post-18-fold-jump-profit-surging-ai-demand-memory-2026-07-05/"
-            },
-            {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-on-samsung-to-soothe-ai-trade-jitters-235318720.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "pol",
-          "title": "한화오션, 캐나다 잠수함 사업 수주전서 독일 TKMS에 고배",
-          "summary": "한화오션이 캐나다 차세대잠수함도입사업(CPSP) 우선협상 대상자 선정에서 독일 티센크루프마린시스템스(TKMS)에 밀려 고배를 마셨습니다. 마크 카니 캐나다 총리는 TKMS를 최종 선정했으나, 협상 결렬 시 한화오션을 예비 공급업체로 지정할 권리를 보유한다고 밝혔습니다. 방위사업청은 아쉽지만 선정 결과를 존중하며, 이번 수주전이 한국 방산 역량을 국제적으로 보여주는 계기가 되었다고 평가했습니다.",
+          "title": "미국, 호르무즈 해협 상선 공격한 이란에 공습 및 제재 가해 긴장 고조",
+          "summary": "미국이 호르무즈 해협에서 상선을 공격한 이란에 대해 강력한 공습을 개시하고, 이란산 원유에 대한 제재 면제를 철회했습니다. 이란은 이에 대해 미국의 약속 위반이라며 단호한 대응을 경고하여 양국 간의 긴장이 고조되고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260707016200011"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260707014100504"
-            },
-            {
-              "name": "TWZ",
-              "url": "https://www.twz.com/sea/canada-picks-german-type-212-submarine-for-badly-needed-fleet-renewal"
+              "url": "https://www.yna.co.kr/view/AKR20260708011252071"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cn4ddppz3jqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.com/news/articles/cwykq59jwpvo"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "이재명 대통령, 나토 정상회의서 'K-방산' 외교 및 우크라이나 지원 논의",
+          "summary": "이재명 대통령은 튀르키예에서 열린 나토(NATO) 정상회의에 참석하여 마르크 뤼터 나토 사무총장과 조달 기본협정 체결 협상 개시를 공식화했습니다. 이를 통해 연 15조원 규모의 나토 공동조달 시장에 한국 기업이 진출할 발판을 마련하고, 우크라이나 지원 방안을 논의하며 'K-방산' 외교를 이어갔습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260708006900001"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/world/zelenskyy-pressures-us-europe-air-defense-assistance-ongoing-war-russia"
             }
           ],
           "verification": "multi",
@@ -62,45 +50,37 @@
         },
         {
           "tag": "soc",
-          "title": "5·18 민주화운동 허위조작 및 조롱글 확산, 20대 역사 인식 후퇴 우려",
-          "summary": "5·18 민주화운동 46주년인 지난 5월 온라인에서 5·18을 왜곡하고 조롱하는 게시글이 약 1만 건 가까이 확인되었습니다. 특히 20대 청년층의 5·18 인식은 크게 낮아져, ‘5·18을 알고 있다’는 응답이 46%에 그쳤고, 5·18이 민주주의에 기여했다고 답한 비율도 2년 사이 10% 가까이 하락했습니다. 이는 기업의 무감각한 역사 소비, 정치권의 왜곡·혐오 조장, 온라인 조롱 문화가 누적된 결과로 분석됩니다.",
+          "title": "전국적 장맛비 예보 및 수도권 호우주의보 해제",
+          "summary": "8일 강원 내륙과 산지에 최대 150mm 이상의 많은 비가 예상되는 가운데, 인천 옹진에 내려졌던 호우주의보는 오전 7시를 기해 해제되었습니다. 이천 등 경기 4곳의 폭염주의보도 같은 시각 해제되어 전국적으로 날씨 변화가 클 것으로 보입니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607070600051/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260708016600527"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260706154800001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260706144100001"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260708015500062"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "eco",
-          "title": "외환시장 24시간 거래 시작, 해외IB 한국 성장률 전망 상향",
-          "summary": "국내 외환시장이 24시간 가동 체제에 돌입한 첫날, 원/달러 환율은 큰 변동 없이 1,530원대에서 거래를 시작했습니다. 한편, 해외 주요 투자은행들은 역대급 반도체 수출 호황에 힘입어 올해 한국 경제 성장률 전망치를 처음으로 평균 3%대로 상향 조정했으며, 일부 기관은 4%대 성장을 전망하기도 했습니다.",
+          "tag": "soc",
+          "title": "팝업스토어 개인정보·환불 안내 미흡, 소비자 권리 침해 논란",
+          "summary": "서울시 조사 결과, 팝업스토어 대부분이 개인정보 수집 동의, 초상권 안내, 교환·환불 규정 고지 등 법적 의무를 제대로 이행하지 않는 것으로 나타났습니다. 방문객의 동의 없이 사진·영상을 촬영하거나, 환불 규정을 영수증에만 표시하는 등 소비자 권익 보호에 소홀하다는 지적이 제기되었습니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260707014000072"
+              "url": "https://www.yna.co.kr/view/AKR20260707141200004"
             },
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260706131900002"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/stock-markets-hormuz-iran-trump-oil-9563a33b0789edf00cf92e76c6516fe5"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607080600131/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         }
       ]
     },
@@ -111,49 +91,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "메인주 상원의원 민주당 후보 플래트너, 성폭행 혐의로 사퇴 압력 직면",
-          "summary": "메인주 상원의원 민주당 후보 그레이엄 플래트너가 전 여자친구의 성폭행 주장 보도 이후 민주당 내부로부터 사퇴 압력을 받고 있습니다. 플래트너는 혐의를 부인하면서도 '최선의 길'을 모색하겠다고 밝혔습니다. 메인주 선거법에 따르면 그는 다음 주 월요일 오후 5시까지 후보직에서 물러날 경우 교체될 수 있습니다.",
+          "title": "메인주 상원의원 후보 그레이엄 플래트너, 성폭행 의혹으로 사퇴 압박",
+          "summary": "메인주 상원의원 민주당 후보 그레이엄 플래트너가 전 여자친구의 성폭행 의혹 제기로 인해 사퇴 압박에 직면했습니다. 버니 샌더스 상원의원을 포함한 주요 민주당 인사들이 그의 후보직 사퇴를 촉구하고 있습니다. 플래트너는 의혹을 부인하고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/06/us/politics/platner-democrats-drop-out.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/07/06/nx-s1-5875431/platner-sexual-assault-allegation-maine-senate"
-            },
-            {
-              "name": "The Washington Post",
-              "url": "https://www.washingtonpost.com/investigations/2026/07/06/woman-alleges-graham-platner-democratic-candidate-us-senate-sexually-assaulted-her/"
-            },
-            {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/graham-platner-maine-senate-race-sexual-assault-allegation/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 터키 F-35 접근 복원 시사…캐나다 총리 NATO 정상회담 참석",
-          "summary": "도널드 트럼프 전 미국 대통령이 이번 주 앙카라에서 열리는 NATO 정상회담에서 터키의 F-35 전투기 프로그램 접근을 복원할 준비가 되어 있다고 밝힐 것으로 예상됩니다. 한편, 쥐스탱 트뤼도 캐나다 총리도 이번 NATO 정상회담에 참석하며 국방비 증액 압박에 직면할 예정입니다. 캐나다는 최근 역사상 최대 규모의 국방 조달 계약으로 독일 TKMS와 잠수함 건조 계약을 체결했습니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/06/us/politics/trump-turkey-f35.html"
+              "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cn4ddppz3jqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/07/06/us-news/netanyahu-pleads-with-trump-not-to-give-turkey-f-35s-ahead-of-ankara-nato-summit/"
-            },
-            {
-              "name": "The Times of Israel",
-              "url": "https://www.timesofisrael.com/ahead-of-trumps-trip-to-turkey-netanyahu-says-ankara-shouldnt-get-f-35s-jets/"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/who-could-replace-graham-platner-in-maine-race-nine-possible-contenders-12163774"
             }
           ],
           "verification": "multi",
@@ -161,53 +112,66 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프, 발로건 월드컵 출전 정지 철회 개입 인정…FIFA 결정에 논란",
-          "summary": "도널드 트럼프 미국 전 대통령이 미국 축구대표팀 공격수 폴라린 발로건의 월드컵 출전 정지 처분 철회와 관련하여 잔니 인판티노 국제축구연맹(FIFA) 회장에게 직접 재검토를 요청했다고 인정했습니다. FIFA 징계위원회가 발로건의 1경기 출전 정지 집행을 유예하기로 결정하면서 벨기에 축구협회와 유럽축구연맹(UEFA) 등에서 공정성 훼손에 대한 비판과 논란이 일고 있습니다.",
+          "title": "트럼프 전 대통령, 그린란드 미국 통제 주장 및 나토 불만 표출",
+          "summary": "도널드 트럼프 전 미국 대통령이 나토 정상회의에서 그린란드가 덴마크가 아닌 미국에 의해 통제되어야 한다고 주장하며 덴마크와 갈등을 빚었습니다. 그는 또한 나토가 이란 전쟁에 협조하지 않았다며 나토 동맹국들에 대한 불만을 다시 표출했습니다.",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1267019.html"
+              "url": "https://www.hani.co.kr/arti/international/america/1267209.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial"
-            },
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/07/06/us-news/trump-says-he-asked-fifa-for-review-of-folarin-balogun-red-card/"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "미국 독립기념일 주말, 총기 폭력으로 수십 명 사망",
-          "summary": "미국 독립기념일 주말 동안 전국 각지에서 발생한 총기 폭력으로 수십 명이 사망하고 여러 명이 부상당했습니다. 총기 폭력 기록 보관소(Gun Violence Archive)에 따르면 토요일부터 최소 43명이 사망했으며, 로스앤젤레스에서는 월드컵 응원 중이던 군중에게 총격이 발생해 4명이 부상당했습니다. 테네시주 멤피스에서는 주방위군 병사들이 총격 신고에 대응하던 중 한 남성을 사살하는 사건도 발생했습니다.",
+          "tag": "pol",
+          "title": "미국 정부, 이란 망명 신청자 정보 유출 의혹으로 피소",
+          "summary": "미국 트럼프 행정부가 이란 망명 신청자들의 기밀 정보를 이란 정부와 공유했다는 의혹으로 소송이 제기되었습니다. 소송은 국토안보부와 국무부를 포함한 여러 기관을 대상으로 하며, 망명 신청자들의 안전을 위협하고 이란으로 추방될 경우 박해, 고문, 심지어 사망에 이를 수 있다고 주장합니다.",
           "sources": [
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jul/06/shootings-fourth-of-july-weekend"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/06/us/shooting-rittman-ohio-officer-dead.html"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3359774/us-gave-tehran-secret-data-iranian-asylum-seekers-lawsuit-alleges?utm_source=rss_feed"
             },
             {
-              "name": "NBC News",
-              "url": "https://www.nbcnews.com/news/us-news/fourth-of-july-violence-injuries-rcna353061"
-            },
-            {
-              "name": "amNewYork",
-              "url": "https://www.amny.com/new-york/12-shot-gun-violence-shootings-nyc-07052026/"
+              "name": "AP News",
+              "url": "https://apnews.com/article/iran-lawsuit-asylum-seekers-information-leaked-b7481c1b5ba349f1bfe3529a44822f2d"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "미국 무역 적자 확대 및 이란 원유 판매 제재 철회로 인한 유가 상승 우려",
+          "summary": "5월 미국의 무역 적자가 상품 수입 기록 경신으로 1년여 만에 최고치를 기록했습니다. 한편, 미국 정부는 호르무즈 해협 상선 공격 이후 이란산 원유 판매 허용 제재 면제를 철회하여 에너지 가격 상승과 인플레이션 압력 가중이 우려됩니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/07/us/politics/iran-oil-sanctions-tankers-attack.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/07/us-revokes-iran-oil-sanctions-waiver-tanker-attacks.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -218,24 +182,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "캐나다, 잠수함 사업자로 독일 TKMS 선정…한화오션 탈락",
-          "summary": "캐나다가 차세대 잠수함 사업자로 독일 방위산업체 TKMS(티센크루프마린시스템스)를 선정했으며, 한국의 한화오션은 최종 후보에서 탈락했습니다. 캐나다 총리는 TKMS가 제시한 패키지를 선택했으며, 이는 NATO와의 관계를 강화할 것으로 예상됩니다. 이번 결정은 캐나다 역사상 최대 규모의 국방 조달 계약 중 하나로, 서방의 안보 협력 강화 흐름을 반영합니다.",
+          "title": "일본, 시즈오카현 자기부상열차 노선 건설 마침내 승인",
+          "summary": "오랜 기간 환경 문제로 지연되었던 일본 주오 신칸센 자기부상열차 노선 건설이 시즈오카현의 최종 승인을 받았습니다. 시즈오카현은 환경영향평가 과정의 진전과 지역 주민 이해 증진을 이유로 7월 18일 JR 도카이와 자연보호 협정을 체결할 예정입니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/07/07/japan/shizuoka-maglev-line-greenlight/"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war"
-            },
-            {
-              "name": "TWZ",
-              "url": "https://www.twz.com/sea/canada-picks-german-type-212-submarine-for-badly-needed-fleet-renewal"
-            },
-            {
-              "name": "BBC",
-              "url": "https://www.bbc.com/news/articles/cn4ddppz3jqo"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/transportation/japan-maglev-plan-paves-way-to-ultra-fast-link-for-2tn-megaregion"
             }
           ],
           "verification": "multi",
@@ -243,20 +199,33 @@
         },
         {
           "tag": "pol",
-          "title": "일본, NATO 특사 통해 유럽 안보 중요성 강조…NATO, 중국 군사력 증강에 경고",
-          "summary": "이자와 오사무 일본 NATO 대사는 유럽의 안정 유지가 일본의 이익에 부합한다고 강조하며, NATO가 집단방위를 기반으로 흔들림 없는 단결력을 보인다고 밝혔습니다. 한편, 마크 루테 NATO 사무총장은 중국의 군사력 증강에 대해 NATO가 '순진해서는 안 된다'고 경고했으며, 인도-태평양과 유럽 안보가 더욱 밀접하게 연결되고 있다고 지적했습니다.",
+          "title": "중국, 핵무장 잠수함 미사일 시험 발사로 전력 확장",
+          "summary": "중국이 핵 탑재 장거리 미사일을 첨단 잠수함에서 태평양으로 시험 발사했습니다. 이는 일본, 미국 등 주변국에 메시지를 던지는 동시에 중국의 핵무장 잠수함 전력 확장의 새로운 단계를 보여주는 것으로 평가됩니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/06/japan/politics/japan-nato-envoy/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/07/asia-pacific/china-missile-nuclear-force-submarines-analysis/"
             },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/06/china/china-tests-submarine-launched-ballistic-missile-intl-hnk-ml"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미국 FCC, 중국 연계된 통신 회사에 서비스 승인 거부",
+          "summary": "미국 연방통신위원회(FCC)가 중국 통신 회사들과 연계되고 중국 국적자가 소유한 캘리포니아 기반의 '디지털시스템 테크놀로지(Digitalsystem Technology)'에 국제 통신 서비스 제공 승인을 거부했습니다. FCC는 이 회사가 미국 국가 안보에 위험을 초래할 수 있다고 지적하며, 미국 통신에 대한 중국의 악용 가능성을 우려했습니다.",
+          "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3359642/nato-cant-be-naive-about-china-it-ramps-military-might-rutte-claims?utm_source=rss_feed"
+              "url": "https://www.scmp.com/tech/policy/article/3359782/fcc-denies-us-firm-chinese-links-approval-provide-telecoms-services?utm_source=rss_feed"
             },
             {
-              "name": "Time Magazine",
-              "url": "https://time.com/article/2026/07/06/what-to-expect-at-the-nato-summit/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html"
             }
           ],
           "verification": "multi",
@@ -264,49 +233,20 @@
         },
         {
           "tag": "eco",
-          "title": "이란 전쟁 여파로 유가 변동성 지속…공급 손실 흡수에도 재고 부족 위험",
-          "summary": "이란 전쟁으로 인한 10억 배럴 이상의 원유 공급 손실에도 불구하고 세계 경제는 이를 흡수하는 데 성공했지만, 장기적인 평화가 불확실하고 비축유가 고갈되면서 향후 유가 급등 위험이 상존하고 있습니다. 호르무즈 해협을 통한 원유 흐름이 회복되고 OPEC+의 증산 계획 발표로 유가는 하향 안정화되었으나, 시장은 여전히 불확실한 환경에서 안전망 없이 운영되고 있습니다.",
+          "title": "일본 건설사, 캄보디아 정부 직원 뇌물 공여 혐의로 기소",
+          "summary": "도쿄 경찰이 캄보디아 정부 직원에게 뇌물을 건넨 혐의로 일본 건설 회사 후지패스(Fujipassc)와 관련 임원 3명을 검찰에 송치했습니다. 이들은 자회사 등록 절차를 신속하게 처리하기 위해 캄보디아 상무부 공무원에게 약 1,000달러의 뇌물을 제공한 혐의를 받고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/06/iran-war-oil-stocks-risks/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/07/japan/crime-legal/cambodia-government-worker-bribe/"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/"
-            },
-            {
-              "name": "Oil & Gas 360",
-              "url": "https://www.oilandgas360.com/world-absorbs-historic-iran-war-oil-supply-loss-but-depleted-stocks-bring-risks/"
+              "name": "Cambodia Investment Review",
+              "url": "https://cambodiainvestmentreview.com/2026/07/06/opinion-a-country-cannot-build-a-21st-century-economy-with-a-20th-century-bureaucracy/"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "tec",
-          "title": "중국, 핀테크 특허 출원서 미국 추월…일본, AI 재난 구호 및 드론 방지 기술 개발",
-          "summary": "핀테크 특허 출원 분야에서 중국이 미국을 추월하며 선두에 나섰습니다. 한편, 일본은 인공지능(AI) 기반 재난 구호품 분배 시스템 개발을 검토하고 있으며, 이를 통해 재난 발생 시 구호품을 더 빠르고 균등하게 전달할 계획입니다. 또한, 130년 역사의 일본 항법 계기 회사가 안티 드론 기술 혁신에 기여할 것으로 기대됩니다.",
-          "sources": [
-            {
-              "name": "FinTech Futures",
-              "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-3-july-2026"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-weighs-ai-powered-disaster-relief-distribution"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/aerospace-defense-industries/130-year-old-japan-firm-flies-under-the-radar-to-develop-antidrone-tech"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -317,20 +257,37 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "우크라이나, 요격 미사일 부족 경고…러시아, 키이우에 대규모 공격",
-          "summary": "우크라이나 공군은 러시아의 대규모 미사일 및 드론 공격에 맞서 요격 미사일의 심각한 부족을 경고했습니다. 러시아는 키이우에 23발의 탄도 미사일을 발사했으며, 최소 23명이 사망했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 NATO 정상회담에서 동맹국들에게 방공망 지원을 위한 '강력한 결정'을 촉구했습니다. 한편, 우크라이나는 러시아 영토 내 정유 시설을 공격하여 러시아의 경제적, 군사적 잠재력을 약화시키고 있습니다.",
+          "title": "마린 르펜, 횡령 유죄에도 불구하고 2027년 프랑스 대선 출마 선언",
+          "summary": "파리 항소법원이 마린 르펜 프랑스 극우 국민연합 대표의 EU 자금 횡령 유죄를 확정했지만, 공직 출마 금지 기간을 단축하여 2027년 대선 출마의 길을 열어주었습니다. 르펜은 전자발찌 착용 명령에도 불구하고 대선에 출마하겠다는 의사를 밝혔으며, 자신의 무죄를 입증하기 위해 모든 법적 수단을 동원하겠다고 선언했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "우크라이나, 나토에 방공 시스템 지원 촉구 및 러시아 공격 피해 증가",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령은 나토 정상회의에서 러시아의 공격으로부터 우크라이나를 보호하기 위한 방공 시스템의 긴급 지원을 촉구했습니다. 러시아의 집중적인 미사일 공격으로 키이우에서 다수의 사상자가 발생하고 있으며, 우크라이나 공군은 요격 미사일 부족으로 탄도 미사일 방어에 어려움을 겪고 있다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Europe",
               "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Institute for the Study of War",
-              "url": "https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/"
-            },
-            {
-              "name": "CNN",
-              "url": "https://edition.cnn.com/2026/07/06/europe/russia-fuel-crisis-ukraine-drone-attacks-intl-vis"
             },
             {
               "name": "Defense News",
@@ -342,70 +299,45 @@
         },
         {
           "tag": "pol",
-          "title": "프랑스 르펜 항소심 판결 임박, 2027년 대선 출마 여부 주목",
-          "summary": "프랑스 마린 르펜 국민연합 대표의 횡령 혐의 항소심 판결이 7일 발표될 예정이며, 이는 그녀의 2027년 대선 출마 여부를 결정할 중대한 분수령이 될 것입니다. 르펜은 지난 2025년 유럽의회 자금 횡령 혐의로 5년간 공직 출마 금지 및 징역형을 선고받았으며, 만약 이 형량이 확정될 경우 대선 출마가 어려워질 수 있습니다. 현재 여론조사에서는 르펜이 선두를 달리고 있어 판결 결과에 따라 프랑스 정치 지형이 크게 변화할 전망입니다.",
+          "title": "IOC, 러시아 올림픽 복귀 허용 방침에 우크라이나 반발",
+          "summary": "국제올림픽위원회(IOC)가 러시아 올림픽위원회(ROC)의 자격 정지를 임시 해제하고 2028년 로스앤젤레스 올림픽에 러시아 선수들의 복귀를 허용할 방침을 밝혔습니다. 이에 대해 우크라이나 올림픽위원회는 러시아의 침공이 계속되는 상황에서 '시기상조'이자 '정당하지 않다'며 강력히 반발했습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games"
             },
             {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/le-pens-2027-presidential-bid-hinges-on-july-7-court-verdict/"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/2026/07/07/international-olympic-committee-provisionally-lifts-restrictions-on-russian-athletes"
             },
-            {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/world-nation/story/2026-07-05/how-paris-ruling-could-upend-marine-le-pens-2027-presidential-bid"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "독일, NATO 정상회담 앞두고 국방비 증액…캐나다, 독일 TKMS와 잠수함 계약",
-          "summary": "프리드리히 메르츠 독일 총리는 내년 국방 예산에서 전체 연방 지출의 5분의 1을 국방에 할당하는 등 국방비 지출을 대폭 확대했습니다. 이는 NATO 목표인 GDP 대비 5% 국방비 지출을 달성하려는 노력의 일환입니다. 한편, 캐나다는 자국 해군의 차세대 잠수함 함대 건조 계약자로 독일의 티센크루프 마린 시스템즈(TKMS)를 선정했으며, 이는 캐나다 역사상 최대 규모의 국방 조달 계약으로 NATO 동맹국들과의 관계를 더욱 심화할 것으로 예상됩니다.",
-          "sources": [
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/germany-ramps-up-defense-spending-in-new-budget-plan-ahead-of-nato-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war"
-            },
-            {
-              "name": "Greenwich Time",
-              "url": "https://www.greenwichtime.com/news/world/article/canada-selects-germany-s-thyssenkrupp-to-build-12-22334722.php"
-            },
-            {
-              "name": "BBC",
-              "url": "https://www.bbc.com/news/articles/cn4ddppz3jqo"
+              "url": "https://www.politico.eu/article/ioc-paves-way-for-russia-olympic-return-los-angeles-2028/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "쿠바, 6개월 만에 세 번째 전국 정전…에너지 위기 심화",
-          "summary": "쿠바가 올해 들어 6개월 만에 세 번째 전국적인 정전 사태를 겪으며 에너지 위기가 심화되고 있습니다. 국영 전력회사는 국가 전력망의 완전한 단절이 발생했다고 밝혔습니다. 미국 도널드 트럼프 대통령의 석유 금수 조치 이후 쿠바의 전력난은 더욱 악화되었으며, 이는 노후화된 발전 시설과 연료 부족이 복합적으로 작용한 결과입니다.",
+          "tag": "eco",
+          "title": "독일 라인메탈, 록히드 마틴과 유럽 내 ATACMS 미사일 공동 생산 계획 발표",
+          "summary": "독일 방위산업체 라인메탈과 미국 록히드 마틴이 유럽에서 처음으로 ATACMS 미사일을 공동 생산하기로 합의했습니다. 양사는 독일에서 ATACMS 미사일 제조, 통합 및 배포를 위한 유럽 허브를 구축할 합작 투자 설립을 추진할 예정입니다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months"
-            },
-            {
-              "name": "CNN",
-              "url": "https://www.cnn.com/2026/07/06/americas/cuba-blackout-electrical-grid-intl-latam"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/07/07/lockheed-martin-and-rheinmetall-plan-first-atacms-missile-production-in-europe"
             },
             {
               "name": "Reuters",
-              "url": "https://www.reuters.com/business/energy/cubas-national-electric-grid-collapses-reason-unknown-2026-07-06/"
+              "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-rheinmetall-jointly-produce-atacms-missiles-germany-2026-07-07/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/07/07/germany-set-to-be-first-international-site-for-atacms-missile-production/"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -416,24 +348,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "마이크로소프트, Xbox 포함 4,800명 감원…사업부 대규모 재편",
-          "summary": "마이크로소프트가 전 세계 인력의 약 2.1%에 해당하는 4,800명을 감원하고, Xbox 사업부에 대규모 구조조정을 단행한다고 발표했습니다. Xbox에서는 1,600개 이상의 직책이 즉시 해고되고 향후 1년 내에 추가 1,600개 일자리가 사라질 예정이며, 4개의 게임 개발 스튜디오는 독립하거나 새로운 소유권을 찾을 것입니다. 이는 급변하는 업계 환경 속에서 비용 절감과 인공지능(AI) 투자에 집중하기 위한 결정으로 보입니다.",
+          "title": "데이터센터 에너지 수요 증가, 트럼프 'Made in America' 계획 위협",
+          "summary": "데이터센터의 급증하는 에너지 수요로 인해 미국 러스트 벨트 지역 제조업체들의 전기 요금이 크게 상승하고 있습니다. 이는 철강 및 벽돌 공장의 수익 마진을 압박하여 도널드 트럼프 대통령의 'Made in America' 제조업 부흥 계획을 저해할 수 있다는 우려가 제기되고 있습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/business/2026/07/06/microsoft-cuts-4800-jobs-mostly-at-xbox"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/map-shows-where-energy-bills-could-rise-most-after-trump-policy-changes-12167762"
             },
             {
-              "name": "Insider Paper",
-              "url": "https://insiderpaper.com/microsoft-cuts-4800-jobs-roughly-two-percent-of-its-global-workforce/"
-            },
-            {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/07/06/microsoft-xbox-job-cuts-gaming-ai"
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/07/climate/trump-electricity-bills-renewables-energy-costs"
             }
           ],
           "verification": "multi",
@@ -441,20 +369,16 @@
         },
         {
           "tag": "tec",
-          "title": "알츠하이머병 뇌세포 사멸 메커니즘 규명…새 치료법 기대",
-          "summary": "과학자들이 알츠하이머병과 전측두엽 치매에서 뇌세포 사멸을 유발하는 새로운 메커니즘인 '핵세포자멸사(karyoptosis)'를 발견했습니다. 이 발견은 유독성 단백질 축적과 뇌세포 사멸 간의 연결고리를 밝혀내어, 뉴런 손실을 늦추는 새로운 치료법 개발 가능성을 열었습니다. 연구팀은 FTD 또는 말기 알츠하이머병 환자의 뇌세포 분석을 통해 이러한 메커니즘을 확인했습니다.",
+          "title": "AI와 양자 물리학 결합, 상온 초전도체 탐색 가속화",
+          "summary": "과학자들이 머신러닝과 양자 물리학을 결합한 새로운 AI 기반 탐색 방법을 개발하여 상온 초전도체 발견에 속도를 내고 있습니다. 이 기술은 재료 조합을 신속하게 분석하여 유망한 후보를 식별하며, 전 세계 에너지 소비를 크게 줄이고 ICT 부문의 열 발생을 감소시키는 데 기여할 것으로 기대됩니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
             },
             {
-              "name": "inc.com",
-              "url": "https://www.inc.com/esther-lian/scientists-discovered-protein-driving-spread-of-alzheimers/91367621"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "http://www.sciencedaily.com/releases/2026/06/260626125709.htm"
+              "name": "Let's Data Science",
+              "url": "https://letsdatascience.com/news/researchers-use-ai-to-accelerate-superconductor-discovery-2680cad8"
             }
           ],
           "verification": "multi",
@@ -462,20 +386,20 @@
         },
         {
           "tag": "tec",
-          "title": "자기성 중성자별 탄생 최초 관측…초고광도 초신성 폭발 원리 규명",
-          "summary": "천문학자들이 자기성 중성자별(마그네타)의 탄생을 처음으로 직접 관측하여, 이들이 초고광도 초신성 폭발의 동력원임을 확인했습니다. 멀리 떨어진 초신성에서 발견된 독특한 '짹짹거리는' 신호가 마그네타의 탄생을 드러냈으며, 이는 아인슈타인의 일반 상대성 이론을 사용하여 초신성 역학을 설명하는 첫 사례입니다. 이 발견은 우주에서 가장 밝은 별 폭발의 미스터리를 해결하는 데 기여했습니다.",
+          "title": "구글, 8월 12일 픽셀 11 출시 행사 개최 예정",
+          "summary": "구글이 8월 12일 뉴욕에서 'Made By Google' 행사를 개최하고 픽셀 11 시리즈를 공개할 예정입니다. 새로운 픽셀폰은 기존 디자인과 유사하며, 기본 저장 공간이 256GB로 늘어나고, AI 구동 부품 부족으로 인해 가격이 인상될 수 있다는 소문이 있습니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260626030450.htm"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
             },
             {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-07-nearby-black-hole-window-early.html"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event"
             },
             {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-07-radio-outburst-black-hole-properties.html"
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/07/07/made-by-google-2026-invite/"
             }
           ],
           "verification": "multi",
