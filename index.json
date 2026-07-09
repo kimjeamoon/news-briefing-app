@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-09",
-  "date_str": "2026년 7월 9일 (목)",
+  "date": "2026-07-10",
+  "date_str": "2026년 7월 10일 (금)",
   "key5": [
-    "SK하이닉스, 미국주식예탁증서 공모 7배 흥행으로 245억 달러 조달 전망",
-    "트럼프 대통령, 이란 추가 공습 및 우크라이나 패트리엇 미사일 생산 라이선스 제공 발표",
-    "한국 음식료품 물가, OECD 최상위권 기록하며 구매력 기준 3년 연속 2위 차지",
-    "메타, 사용자 공개 인스타그램 프로필 사진 이용한 AI 이미지 생성 허용 계획으로 사생활 침해 논란",
-    "프랑스 극우 정치인 마린 르펜, 횡령 유죄에도 불구하고 2027년 대선 출마 선언"
+    "SK하이닉스, 美 IPO 사상 최대 규모 40조원 조달 확정",
+    "이재명 대통령, 몽골과 핵심광물·경제 협력 확대 합의",
+    "경찰 보완수사권 폐지 논란, 장윤기 사건으로 재점화",
+    "미-이란 긴장 고조, 호르무즈 해협 통행 감소 및 유가 영향",
+    "트럼프 전 대통령, 출생 시민권 재심리 대법원 요청"
   ],
   "regions": [
     {
@@ -16,20 +16,20 @@
       "stories": [
         {
           "tag": "eco",
-          "title": "SK하이닉스, 미국주식예탁증서 공모 7배 흥행",
-          "summary": "SK하이닉스의 미국주식예탁증서(ADR) 공모에 공모 물량의 7배가 넘는 청약이 몰려 245억 달러(약 37조1천400억원)를 조달할 전망이다. 이는 알리바바에 이어 외국기업 미국 상장 역대 2위 규모가 될 것으로 보이며, 10일 나스닥에서 임시 거래를 시작한다.",
+          "title": "SK하이닉스, 미국 IPO 사상 최대 규모 40조원 조달 확정",
+          "summary": "SK하이닉스가 미국주식예탁증서(ADR) 공모가를 주당 149달러로 확정하며 265억700만달러(약 40조원)를 조달하게 됐다. 이는 외국 기업의 미국 기업공개(IPO) 사상 최대 규모로, 과거 알리바바의 250억달러를 넘어선 기록이다. ADR 공모가는 한국 보통주 종가보다 약 2.9% 높은 수준으로 책정되었다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260709024800009"
+              "url": "https://www.yna.co.kr/view/AKR20260710015400072"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/legal/transactional/sk-hynix-close-28-billion-adr-bookbuild-wednesday-after-oversubscription-source-2026-07-08/"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607100752001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
               "name": "Bloomberg.com",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-07/sk-hynix-us-listing-said-to-be-multiple-times-oversubscribed"
+              "url": "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z"
             }
           ],
           "verification": "multi",
@@ -37,58 +37,54 @@
         },
         {
           "tag": "pol",
-          "title": "이재명 대통령, 몽골 국빈방문 및 루마니아와 방산·원전 협력 논의",
-          "summary": "이재명 대통령은 튀르키예 나토 정상회의 일정을 마친 뒤 몽골을 국빈 방문하여 핵심광물 공급망 및 한반도 평화에 대해 논의했다. 또한 루마니아 대통령과 정상회담을 통해 방산 및 원전 분야의 실질적 협력 강화를 모색했다.",
+          "title": "이재명 대통령, 몽골과 핵심광물·경제 협력 확대 합의",
+          "summary": "이재명 대통령이 몽골 국빈 방문 중 오흐나 후렐수흐 몽골 대통령과 정상회담을 통해 한반도 평화 실현 및 희토류 등 핵심광물 공급망 협력을 강화하기로 합의했다. 몽골은 대북 대화 재개를 위한 역할을 하겠다고 밝혔으며, 양국은 향후 관련 조직 및 협의체 구성을 통해 논의를 가속화할 예정이다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260708127500001"
+              "url": "https://www.yna.co.kr/view/AKR20260709200300001"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260708177800001"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/nato-trump-iran-ukraine-turkey-d393e8ef6103e32c984c4337a82930b1"
+              "name": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10804209"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "장마철 집중호우로 전국 곳곳에 호우경보 및 주의보 발효",
-          "summary": "장마철 집중호우로 대전, 충남 아산, 충북 보은 등 전국 곳곳에 호우주의보 및 호우경보가 발효되었다. 특히 천안, 공주, 계룡, 청양, 청주 서부·동부에는 호우경보가 내려진 상태이다.",
+          "tag": "pol",
+          "title": "경찰 보완수사권 폐지 논란, '장윤기 사건'으로 재점화",
+          "summary": "'광주 여고생 살해범' 장윤기 사건 수사 유착 의혹이 불거지면서 검찰의 보완수사권 폐지를 둘러싼 논쟁이 다시 뜨거워지고 있다. 더불어민주당은 검찰 보완수사권 완전 폐지를 위한 형사소송법 개정안을 발의하며 경찰 견제 장치를 강화하는 방안을 제시했으나, 당내에서도 수사 공백과 피해자 보호에 대한 우려가 제기되고 있다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260709025200527"
+              "url": "https://www.yna.co.kr/view/AKR20260709103600546"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260709025300527"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260709025400527"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "eco",
-          "title": "한국 음식료품 물가, OECD 최상위권 기록",
-          "summary": "실질 구매력을 반영한 한국의 음식료품 가격 수준이 3년 연속 경제협력개발기구(OECD) 회원국 중 최상위권을 기록했다. 2024년 기준 식료품 및 비주류 음료 가격 수준은 OECD 평균보다 46% 높은 146으로, 38개 회원국 중 스위스에 이어 2위를 차지했다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260708159900002"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260709185800001"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607090742011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202607100722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "6월 서울 아파트 토지거래허가 신청 줄고 가격 상승률은 '최고'",
+          "summary": "지난달 서울 아파트 토지거래허가 신규 신청 건수는 두 달 연속 감소했으나, 신청 가격 상승률은 지난해 10.15 대책 발표 이후 최고치인 2.67%를 기록했다. 이는 다주택자 양도소득세 중과 유예 종료 후 급매물이 소화되고 실수요 중심의 매수세가 강남 3구와 용산구를 포함한 모든 권역에서 가격 상승세를 확산시킨 것으로 분석된다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260709192400004"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607100731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -103,24 +99,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 대통령, 이란과의 휴전 종료 및 추가 공습, 우크라이나 패트리엇 생산 라이선스 제공 발표",
-          "summary": "도널드 트럼프 미국 대통령이 이란과의 휴전 협정이 종료되었다고 선언하며 이틀 연속 이란에 대한 추가 공습을 단행했다. 또한, 나토 정상회의에서 우크라이나에 패트리엇 미사일 생산 라이선스를 제공할 것이라고 발표했다.",
+          "title": "미-이란 긴장 고조, 호르무즈 해협 통행 감소 및 유가 영향",
+          "summary": "미국과 이란 간의 긴장이 고조되면서 이란 남부 부셰르 군사기지가 미·이스라엘 발사체에 피격되고, 이란이 걸프 지역 미군 기지를 공격하는 등 무력 충돌이 재개됐다. 이로 인해 호르무즈 해협의 원유 수송량이 감소하고 국제유가 하락에도 불구하고 공급 불안이 유가 하단을 지지하는 등 중동 정세 불안이 경제에 영향을 미치고 있다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260709020300011"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260710005100072"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1267405.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607100730001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Fox News",
-              "url": "https://www.foxnews.com/politics/trump-says-us-let-ukraine-make-patriot-missiles-major-policy-shift"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/europe/trump-says-both-sides-ukraine-war-want-settlement-2026-07-08/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html"
             }
           ],
           "verification": "multi",
@@ -128,24 +120,20 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 대통령, E. 진 캐럴 성추행 및 명예훼손 손해배상금 500만 달러 지급 명령",
-          "summary": "법원이 도널드 트럼프 미국 대통령에게 E. 진 캐럴 작가에 대한 성추행 및 명예훼손 소송과 관련하여 500만 달러의 손해배상금을 지급하라고 명령했다. 트럼프 대통령 측은 이 결정에 대해 항소 의사를 밝혔다.",
+          "title": "트럼프, 출생 시민권 재심리 대법원 요청…이민 정책 논란 재점화",
+          "summary": "도널드 트럼프 전 미국 대통령이 대법원에 출생 시민권 재심리를 요청하겠다고 밝혔다. 이는 대법원이 출생 시민권을 헌법적 권리로 인정한 그의 행정명령을 기각한 지 일주일 만에 나온 발언으로, 트럼프 전 대통령은 이를 '정의의 오판'이라며 비난했다. 대법원에서 재심리가 받아들여지는 것은 매우 이례적인 경우다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cx23zk1jp1go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/08/judge-approves-58-million-judgement-against-trump-for-e-jean-carroll/"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trump-says-he-will-ask-supreme-court-rehear-birthright-citizenship-case-2026-07-08/"
             }
           ],
           "verification": "multi",
@@ -153,45 +141,45 @@
         },
         {
           "tag": "pol",
-          "title": "메인주 상원의원 후보 그래함 플래트너, 성폭행 의혹으로 사퇴 압박",
-          "summary": "메인주 민주당 상원의원 후보 그래함 플래트너가 전 여자친구의 성폭행 의혹 제기로 인해 민주당 내에서 사퇴 압박을 받고 있다. 상원 민주당 지도부와 메인주 민주당은 그에게 후보직 사퇴를 촉구하고 있으며, 플래트너는 해당 의혹을 부인하고 있다.",
+          "title": "메인주 민주당 상원 후보, 성추행 의혹으로 캠페인 중단",
+          "summary": "메인주 민주당 상원 후보 그레이엄 플래트너가 성추행 의혹으로 인해 선거 캠페인을 중단했다. 플래트너는 결백을 주장했지만, 민주당은 그에게 캠페인 지원 중단을 위협하며 사퇴를 압박했다. 메인주 민주당은 7월 27일까지 개최될 후보 지명 대회를 통해 대체 후보를 선정할 예정이다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/08/us/politics/platner-democrats-maine-state-of-play.html"
+              "url": "https://www.nytimes.com/2026/07/09/us/politics/platner-maine-democrats-replacement-candidate.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c9v229434p2o"
             },
             {
-              "name": "VPM",
-              "url": "https://www.vpm.org/npr-news/npr-news/2026-07-06/platner-denies-sexual-assault-allegation-but-says-he-will-assess-best-path-forward"
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/video/graham-platner-suspends-maine-senate-campaign-maintains-innocence-1/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "IMF, 2026년 세계 경제 성장률 3% 하향 전망",
-          "summary": "국제통화기금(IMF)이 2026년 세계 경제 성장률 전망치를 3%로 하향 조정했다. 이는 이란 전쟁으로 인한 에너지 및 원자재 가격 상승이 주요 원인으로 분석되며, 2027년에는 3.4%로 회복될 것으로 내다봤다.",
+          "tag": "soc",
+          "title": "전 올림픽 선수, 링컨 기념관 리플렉팅 풀 훼손 혐의 무죄 주장",
+          "summary": "전 미국 올림픽 카누 선수 데이비드 헌이 링컨 기념관 리플렉팅 풀 훼손 혐의에 대해 무죄를 주장했다. 그는 1,000달러 이상의 재산 피해 혐의로 기소되었으며, 변호인 측은 그가 단순히 물을 만졌을 뿐이라며 정부가 수영장 보수 실패의 책임을 전가하려 한다고 비판했다. 재판은 8월 5일로 예정되어 있다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/09/us/david-hearn-olympian-reflecting-pool.html"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/china/imf-edges-2026-global-growth-forecast-lower-3-sees-rebound-2027-2026-07-08/"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "AP News",
-              "url": "https://apnews.com/article/imf-world-economy-war-ai-5df2a8eb775b94bb6de1067fd694f6f0"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/09/nx-s1-5887308/reflecting-pool-vandalism-charges-plea-olympian-canoeist-david-hearn"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         }
       ]
     },
@@ -201,34 +189,17 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "일본 왕실 계승 법안, 하원 통과 임박",
-          "summary": "일본 하원이 왕실 계승 관련 법안을 이르면 금요일에 통과시킬 것으로 예상된다. 여당인 자유민주당이 야당의 요구에 양보하면서 의회 논의가 재개되었고, 왕실 구성원 수 확보를 위한 법안 처리가 우선될 예정이다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/08/japan/imperial-family-bill-lower-house/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "tec",
-          "title": "일본 아이스페이스, 스페이스X 스타십 활용 달 착륙 계획 발표",
-          "summary": "일본의 달 수송 기업 아이스페이스가 일론 머스크의 스페이스X가 개발한 스타십을 활용해 저비용 달 화물 운송 사업을 시작한다고 발표했다. 아이스페이스는 2030년부터 달 착륙을 목표로 스타십에 500kg의 운송 능력을 확보했으며, 이를 통해 전 세계 고객의 탑재체를 달에 보낼 계획이다.",
+          "title": "日 유명인 무단 사용 AI 생성물 급증, 수십억 엔 저작권 침해",
+          "summary": "일본에서 유명인의 초상을 무단으로 사용한 인공지능(AI) 생성 이미지 및 비디오가 급증하면서 저작권 침해로 인한 연간 최대 45억 엔(약 415억 원) 규모의 손실이 발생하고 있다. 일본 홍보권 보호 기구(JAPRO)의 연구에 따르면, 이러한 AI 생성물은 두 달간 약 3억 3천 5백만 조회수를 기록했으며, 엔터테인먼트 기업의 72%가 피해 추적에 어려움을 겪는 것으로 나타났다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/08/ispace-spacex-moon/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/09/japan/copyright-ai-survey/"
             },
             {
-              "name": "Space",
-              "url": "https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon"
-            },
-            {
-              "name": "SpaceNews",
-              "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-09/meta-muse-image-ai-hollywood"
             }
           ],
           "verification": "multi",
@@ -236,16 +207,16 @@
         },
         {
           "tag": "eco",
-          "title": "일본 오사카 신용카드 결제 처리 업체 파산으로 은행 및 식당 혼란",
-          "summary": "일본 오사카에 본사를 둔 신용카드 결제 처리 업체 젠토신이 파산 신청을 하면서 지역 은행과 소규모 식당들에 큰 혼란을 야기하고 있다. 이 회사의 부채는 약 1,152억 엔(약 7억 1천만 달러)에 달하며, 이는 올해 일본 최대 규모의 기업 파산이다.",
+          "title": "일본 결제 서비스 젠토신 파산, 채권자 7억 달러 변제 요구",
+          "summary": "일본 결제 서비스 회사 젠토신의 파산으로 63개 채권자들이 총 1151억 6천만 엔(약 7억 9백만 달러)의 채무 변제를 요구하고 있다. 도쿄 쇼코 연구소에 따르면, 젠토신은 최소 20년간 재무제표를 위조한 것으로 의심되며, 주요 채권자들은 대부분 지역 은행들이다. 이번 사건은 금융 기관의 실사 및 리스크 관리 적절성에 대한 조사를 촉발하고 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restaurants/"
+              "url": "https://www.japantimes.co.jp/business/2026/07/09/lenders-700m-payment-firm-collapse/"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/finance/osaka-payment-processor-bankruptcy-triggers-restaurant-cash-crunch-fears"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/yen-carry-trade-unwind-stock-market-risk-boj-rates-2026-7"
             }
           ],
           "verification": "multi",
@@ -253,24 +224,20 @@
         },
         {
           "tag": "pol",
-          "title": "미국, 중국의 태평양 잠수함 미사일 발사 사전 경고 시간 부족 비판",
-          "summary": "미국은 중국이 태평양에서 잠수함 발사 탄도미사일 시험을 실시하면서 몇 시간 전에만 사전 경고를 제공했다고 비판했다. 이는 주요 핵보유국들이 준수하는 표준에 미치지 못하며, 중국의 불투명한 핵무기 증강에 대한 우려를 증폭시킨다고 밝혔다.",
+          "title": "일본 국기 훼손 금지 법안, 표현의 자유 침해 논란",
+          "summary": "일본에서 국기 훼손을 금지하는 법안에 대해 150명에 가까운 학자들이 표현의 자유를 침해할 수 있다며 반대 입장을 표명했다. 이 법안은 국기 훼손 시 2년 이하의 징역 또는 20만 엔 이하의 벌금을 부과할 수 있도록 하며, 집권 자민당 주도로 하원을 통과했다. 학자들은 이 법안이 정치적 표현의 자유를 억압하고 '감정 상해죄'를 만들 가능성이 있다고 우려하고 있다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/07/09/japan/academics-oppose-flag-bill/"
             },
             {
-              "name": "Global Banking & Finance Review",
-              "url": "https://www.globalbankingandfinance.com/china-gave-little-notice-detail-us-july-6-missile-test-state/"
+              "name": "The Chronicle of Higher Education",
+              "url": "https://www.chronicle.com/article/yale-professors-vow-to-fight-trump-if-the-university-president-wont"
             },
             {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/07/08/china-submarine-missile-test-jl2"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/china-missile-test-pacific-what-to-know-28df0be8121a5af6e7f281c738c06ba3"
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/michaeltnietzel/2026/07/08/if-states-and-colleges-wont-protect-academic-freedom-heres-who-can/"
             }
           ],
           "verification": "multi",
@@ -285,20 +252,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "프랑스 극우 정치인 마린 르펜, 횡령 유죄에도 불구하고 대선 출마 선언",
-          "summary": "프랑스 극우 정치인 마린 르펜이 횡령 혐의로 유죄 판결을 받았음에도 불구하고 2027년 프랑스 대선 출마를 공식 선언했다. 그녀는 항소심에서 유죄가 확정되어 1년간 전자 발찌를 착용해야 하지만, 상고를 통해 무죄를 주장하며 대선 캠페인을 이어갈 계획이다.",
+          "title": "나토 사무총장, 트럼프 발언은 '가족 싸움'…동맹 결속 강조",
+          "summary": "마르크 뤼테 나토 사무총장이 도널드 트럼프 미국 대통령의 나토 관련 발언을 '가족 싸움'에 비유하며 동맹의 결속력을 강조했다. 뤼테 총장은 터키 앙카라에서 열린 나토 정상회담에서 트럼프 대통령이 나토에 전적으로 헌신하고 있으며, 유럽이 미국의 전력 투사 플랫폼으로 중요한 역할을 한다고 주장했다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato"
             },
             {
-              "name": "Fox News",
-              "url": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-but-house-arrest-threatens-campaign"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins"
             }
           ],
           "verification": "multi",
@@ -306,24 +273,41 @@
         },
         {
           "tag": "pol",
-          "title": "나토 정상회의, 트럼프 비판에도 단결 과시 및 국방 지출 확대 논의",
-          "summary": "튀르키예 앙카라에서 열린 나토 정상회의에서 회원국들은 도널드 트럼프 미국 대통령의 비판에도 불구하고 강력한 단결을 과시하며 국방 지출 확대를 논의했다. 나토 사무총장은 이번 회의에서 500억 달러 이상의 신규 조달 계획이 발표되었다고 밝혔다.",
+          "title": "우크라이나, 크림반도 인근 러시아 선박 공격 강화",
+          "summary": "우크라이나 군이 러시아에 병합된 크림반도 인근에서 러시아 선박에 대한 공격을 강화하며 연료 공급망을 겨냥하고 있다. 우크라이나 드론 부대 사령관은 아조프해에서 지난 나흘간 최소 25척의 선박이 피격 및 방화되었다고 밝혔으며, 이는 러시아 해군력과 연료 공급 유지에 큰 타격이 될 것으로 보인다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3359905/nato-summit-delivers-unity-and-billions-defence-deals-rutte-says?utm_source=rss_feed"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3359902/trump-surprises-nato-allies-arms-deals-and-praise-summit-ends-positively?utm_source=rss_feed"
-            },
-            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/nato-summit-begins-in-turkey-as-trump-pushes-for-more-defense-spending/"
+              "name": "Marine Link",
+              "url": "https://www.marinelink.com/news/ukraine-attacks-a-dozen-russian-shadow-540991"
+            },
+            {
+              "name": "The Maritime Executive",
+              "url": "https://maritime-executive.com/article/ukraine-hits-nine-more-tankers-as-attacks-intensify-on-crimea"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "EU 의회, 아동 성적 학대 온라인 콘텐츠 스캔 법안 재논의 결정",
+          "summary": "유럽연합 의회가 아동 성적 학대 온라인 콘텐츠 스캔 법안을 혼란스러운 표결 끝에 재논의하기 위해 EU 회원국으로 돌려보내기로 결정했다. 이 법안은 지난 3월 의회에서 부결되었으나, 중도 우파 유럽인민당의 주도로 재추진되었다. 아동 인권 단체는 법안의 필요성을 강조하는 반면, 비판론자들은 심각한 개인 정보 보호 및 감시 위험을 우려하고 있다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/child-abuse-bill-tweaked-by-parliament-sent-back-to-council/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "Digital Journal",
+              "url": "https://www.digitaljournal.com/article/eu-tells-france-to-amend-social-media-ban-law/"
             }
           ],
           "verification": "multi",
@@ -331,41 +315,24 @@
         },
         {
           "tag": "soc",
-          "title": "스레브레니차 집단 학살 희생자 추모 평화 행진 개최",
-          "summary": "1995년 스레브레니차 집단 학살 희생자들을 추모하기 위한 평화 행진이 보스니아 헤르체고비나에서 개최되었다. 수천 명이 참여하여 100km에 달하는 거리를 3일간 걸으며 희생자들과 생존자들의 고통을 기억하고 평화를 기원했다.",
+          "title": "LGBTQ+ 크루즈선, 튀르키예 이어 이집트도 입국 거부",
+          "summary": "LGBTQ+ 크루즈선 '스칼렛 레이디'가 튀르키예에 이어 이집트 입국마저 거부당하며, 원래 예정된 그리스 아테네에서 이탈리아 베네치아까지의 10일간의 여정에 차질을 겪고 있다. 터키 당국은 크루즈가 '사회 구조와 도덕적 가치에 부합하지 않는 행동으로 알려진 그룹'에 의해 전세됐다고 밝혔으며, 이집트 정부는 공식적인 거부 사유를 밝히지 않았다. 이번 사건은 인권 문제와 관광 산업에 대한 논의를 촉발하고 있다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/07/08/march-for-peace-in-memory-of-the-victims-of-the-srebrenica-genocide"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/video/2026/07/08/thousands-embark-on-bosnia-peace-march-to-remember-srebrenica-victims"
+              "name": "travelweekly.com.au",
+              "url": "https://travelweekly.com.au/exclusive-lgbt-cruise-ship-with-couple-of-hundred-aussies-onboard-now-denied-entry-to-egypt/"
+            },
+            {
+              "name": "The Washington Post",
+              "url": "https://www.washingtonpost.com/travel/2026/07/09/egypt-blocks-gay-cruise-that-was-rejected-turkey-organizer-says/"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
-        },
-        {
-          "tag": "eco",
-          "title": "IMF, 에너지 및 원자재 가격 상승으로 2026년 세계 인플레이션 전망치 상향",
-          "summary": "국제통화기금(IMF)이 2026년 세계 인플레이션 전망치를 4.7%로 상향 조정했다. 이는 주로 중동 긴장으로 인한 에너지 및 원자재 가격 상승에 기인한 것으로, 이탈리아의 성장률은 0.5%로 유지되었으나 프랑스와 독일은 하향 조정되었다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/business/2026/07/08/economy-imf-forecasts-modest-growth-for-italy-cuts-estimates-for-france-and-germany"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/china/imf-edges-2026-global-growth-forecast-lower-3-sees-rebound-2027-2026-07-08/"
-            },
-            {
-              "name": "AP News",
-              "url": "https://apnews.com/article/imf-world-economy-war-ai-5df2a8eb775b94bb6de1067fd694f6f0"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
         }
       ]
     },
@@ -376,24 +343,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "메타, 사용자 공개 인스타그램 프로필 사진으로 AI 이미지 생성 허용 계획 발표로 사생활 침해 논란",
-          "summary": "메타가 새로운 AI 이미지 생성 도구 '뮤즈 이미지'를 통해 사용자의 공개 인스타그램 프로필 사진을 활용할 수 있도록 할 계획을 발표하여 사생활 침해 논란이 불거졌다. 메타는 사용자가 공개 계정이라도 자신의 이미지가 AI 생성에 사용되지 않도록 선택할 수 있다고 밝혔다.",
+          "title": "OpenAI, 정부 승인 후 GPT-5.6 및 'ChatGPT Work' 공개",
+          "summary": "OpenAI가 정부의 사이버 보안 우려로 출시가 지연되었던 최신 ChatGPT 모델 GPT-5.6을 공개하고, GPT-5.6을 기반으로 한 새로운 AI 에이전트 'ChatGPT Work'를 발표했다. ChatGPT Work는 비기술 사용자도 코딩 외 작업에 Codex의 기능을 활용할 수 있도록 지원하며, 문서, 스프레드시트, 프레젠테이션 등 완제품 제작이 가능하다. Mac 및 Windows 사용자는 즉시 이용할 수 있으며, 모바일 및 웹 사용자는 단계적으로 접근 권한이 부여될 예정이다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release"
             },
             {
-              "name": "WIRED",
-              "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
-            },
-            {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/meta-new-muse-image-ai-model-default-instagram-sharing-rules-2026-7"
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/madhulika-pathak/2026/07/09/openai-debuts-chatgpt-work-workplace-ai-agent-with-gpt-56/"
             }
           ],
           "verification": "multi",
@@ -401,16 +364,20 @@
         },
         {
           "tag": "tec",
-          "title": "브라운 대학교, AI를 이용한 부정행위 스캔들로 학사 운영 혼란",
-          "summary": "브라운 대학교에서 인공지능(AI)을 이용한 부정행위 스캔들이 발생하여 학사 운영에 혼란을 겪고 있다. 경제학과 교수는 기말고사에서 학생들의 평균 점수가 비정상적으로 높게 나오자 대다수 학생이 AI를 사용해 부정행위를 한 것으로 의심하고 있다.",
+          "title": "외과 의사, 휴머노이드 로봇 이용해 살아있는 돼지 수술 성공",
+          "summary": "외과 의사들이 휴머노이드 로봇을 원격 제어하여 살아있는 돼지의 담낭을 제거하는 최소 침습 수술을 세계 최초로 성공했다. 이번 연구는 중국 로봇 기업 유니트리의 G1 휴머노이드 로봇을 사용했으며, 기존의 비싸고 큰 전문 수술 로봇보다 저렴하고 공간 효율적이라는 장점을 보여주었다. 이는 향후 외딴 지역 병원이나 전장, 우주 등 다양한 환경에서 로봇 보조 수술의 가능성을 열었다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+              "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/"
             },
             {
-              "name": "Inside Higher Ed",
-              "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s41586-026-10796-x"
+            },
+            {
+              "name": "The Robot Report",
+              "url": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/"
             }
           ],
           "verification": "multi",
@@ -418,16 +385,16 @@
         },
         {
           "tag": "tec",
-          "title": "새로운 AI 모델, 중성자별 병합 통한 무거운 원소 형성 방식 규명",
-          "summary": "연구진이 중성자별 병합이 우주의 무거운 원소들을 어떻게 형성하는지 밝혀내기 위한 새로운 AI 기반 시뮬레이션 모델 'RHINE'을 개발했다. 이 모델은 중성자별 병합 과정에서 발생하는 복잡한 핵반응을 훨씬 효율적으로 시뮬레이션할 수 있도록 돕는다.",
+          "title": "비타민 A 발견, 인간의 선명한 중심 시야 발달 이해 재정립",
+          "summary": "과학자들이 비타민 A 유도 분자와 갑상선 호르몬 간의 상호작용을 통해 인간의 선천적인 선명한 중심 시야가 어떻게 발달하는지 밝혀냈다. 존스 홉킨스 대학 연구팀은 푸른 원추세포가 망막 중심에서 이동하는 대신, 비타민 A 관련 신호와 갑상선 호르몬의 영향으로 붉은색과 녹색 원추세포로 변형된다는 사실을 발견했다. 이 연구는 황반변성, 녹내장 등 시력 손상 질환 치료 및 실험실 배양 망막 조직 개선에 기여할 것으로 기대된다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "http://www.sciencedaily.com/releases/2026/06/260626030426.htm"
+              "name": "markets.businessinsider.com",
+              "url": "https://markets.businessinsider.com/news/stocks/belite-bio-announces-oral-presentations-at-two-upcoming-medical-conferences-1036299237"
             }
           ],
           "verification": "multi",
