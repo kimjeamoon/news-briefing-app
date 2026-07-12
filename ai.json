@@ -1,12 +1,10 @@
 {
-  "date": "2026-07-11",
-  "date_str": "2026년 7월 11일 (토)",
+  "date": "2026-07-13",
+  "date_str": "2026년 7월 13일 (월)",
   "highlights": [
-    "애플, 영업비밀 침해 혐의로 OpenAI 고소, AI 산업 경쟁 격화",
-    "OpenAI, GPT-5.6 모델 제품군 및 'ChatGPT Work' 출시로 기업 AI 시장 공략 강화",
-    "SK하이닉스, 美 역대 최대 외국 기업 IPO 기록하며 265억 달러 조달, 美 공장 건설 압박",
-    "Anthropic, Claude LLM 내 'J-Space' 발견해 AI 모델의 내부 작동 방식 이해 증진",
-    "EU, 메타에 '중독성 디자인' 비활성화 요구, 디지털 서비스법 규제 강화 시사"
+    "애플의 자율주행차 프로젝트 실패가 강력한 온디바이스 AI 칩 개발에 기여했습니다.",
+    "AI 데이터 센터 건설에 대한 지역 사회 반대 움직임이 확산되고 있습니다.",
+    "화제의 Nopia 신디사이저가 개발 완료 단계에 이르러 곧 출시될 예정입니다."
   ],
   "sections": [
     {
@@ -15,48 +13,15 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "OpenAI, GPT-5.6 모델군 출시 및 사이버 보안 성능 강조",
-          "summary": "OpenAI가 GPT-5.6 모델군(Sol, Terra, Luna)을 출시하며 엔터프라이즈 작업, 코딩, 사이버 보안 등 다양한 분야에서 성능 향상을 발표했습니다. 특히 Sol 모델은 \"가장 강력한 사이버 보안 모델\"로 언급되었으며, Microsoft 365 Copilot의 \"선호 모델\"이 될 것이라고 밝혔습니다. 또한, 기업 팀을 위한 새로운 작업 도구인 ChatGPT Work도 공개했습니다.",
+          "title": "Nopia 신디사이저, 수개월 내 550파운드에 출시 예정",
+          "summary": "2023년 첫 공개 이후 화제가 되었던 Nopia 신디사이저가 개발 완료 단계에 접어들어 수개월 내에 약 550파운드(약 97만원)에 출시될 예정입니다. 이 악기는 독특한 방식으로 하모니를 조화시키며 여러 모듈을 하나의 연주로 통합하는 특징을 가지고 있습니다.",
           "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-            },
-            {
-              "name": "Axios",
-              "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "OpenAI, AI 브라우저 '아틀라스' 종료 및 기능 통합 발표",
-          "summary": "OpenAI가 AI 기반 브라우저 '아틀라스' 서비스를 종료하지만, AI가 웹 검색을 돕는다는 아이디어는 포기하지 않고 있습니다. 대신 아틀라스에서 테스트된 에이전트 브라우징 기능의 일부를 ChatGPT 데스크톱 앱과 구글 크롬 확장 프로그램에 통합하여 사용자들이 웹페이지에 대한 질문, 요약, 또는 더 긴 작업을 수행할 수 있도록 할 예정입니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-            },
-            {
-              "name": "The Next Web",
-              "url": "https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp"
-            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
+              "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -66,54 +31,7 @@
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": [
-        {
-          "title": "Anthropic, Claude LLM 내 '숨겨진 공간' J-Space 발견",
-          "summary": "Anthropic 연구진이 자사 LLM인 Claude 내부에서 'J-Space'라는 숨겨진 영역을 발견했습니다. 이 공간은 모델이 답변을 생성하기 전에 개념들을 처리하는 역할을 하며, LLM의 내부 작동 방식을 이해하고 제어하는 새로운 방법을 제시합니다. 연구 결과는 LLM이 실제로 하는 일이 겉으로 드러나는 것과 다를 수 있음을 보여줍니다.",
-          "sources": [
-            {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-            },
-            {
-              "name": "The Rundown AI",
-              "url": "https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built"
-            },
-            {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/anthropic-releases-paper-about-claudes-mental-workspace-dont-read-it-uncritically-2000782063"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/lanceeliot/2026/07/10/thinking-very-carefully-about-whether-anthropic-found-the-seat-of-ai-consciousness/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "새로운 AI 연구, 다양한 분야의 모델 및 애플리케이션 발전 제시",
-          "summary": "최근 발표된 연구 논문들은 기업 에이전트, 농업 회복탄력성, 의료 추론, 개인 정보 보호 로봇 공학 등 다양한 분야에서 AI 모델 및 애플리케이션의 발전을 보여주고 있습니다. 특히 능동적인 기업 에이전트를 위한 '컨텍스트 그래프'와 농업 공급망 분석을 위한 AI 통합 모델 등이 제안되었습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.07721"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.07759"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/s41467-026-74501-2"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "산업·투자·기업",
@@ -121,24 +39,16 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "애플, OpenAI에 영업비밀 침해 소송 제기",
-          "summary": "애플이 OpenAI와 전직 직원 두 명을 영업비밀 침해 및 계약 위반 혐의로 고소했습니다. 애플은 OpenAI가 자체 하드웨어 제품 개발을 위해 애플의 기밀 정보를 체계적으로 빼돌렸다고 주장하며, 이는 AI 산업 내 인재 유출 및 기술 경쟁 문제를 부각시키고 있습니다.",
+          "title": "애플, 자율주행차 실패가 온디바이스 AI 칩 개발로 이어져",
+          "summary": "애플의 자율주행차 프로그램은 성공하지 못했지만, 이 프로젝트가 강력한 온디바이스 AI 칩 개발의 기반이 되었습니다. 자율주행 플랫폼 개발 초기부터 강력한 온디바이스 AI 처리의 필요성을 인식하여, 결과적으로 애플의 온디바이스 AI 처리의 핵심인 Neural Engine 개발로 이어졌습니다.",
           "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+              "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
             },
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit"
-            },
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/07/10/business/apple-sues-openai-for-trade-theft-sending-shock-waves-through-silicon-valley/"
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time-2000784460"
             }
           ],
           "verification": "multi",
@@ -146,62 +56,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "SK하이닉스, 美 증시 역대 최대 외국 기업 IPO 기록",
-          "summary": "SK하이닉스가 미국 증시 상장을 통해 265억 달러를 조달하며, 2014년 알리바바의 기록을 넘어선 역대 최대 규모의 외국 기업 IPO를 달성했습니다. AI용 고대역폭 메모리(HBM) 수요 급증에 힘입어 성공적인 상장을 마쳤으며, 미국 상무부로부터는 미국 내 신규 반도체 공장 건설 압박을 받고 있습니다.",
+          "title": "AI 데이터 센터 건설에 대한 반대 움직임 확산",
+          "summary": "AI 붐에 필수적인 데이터 센터 건설에 대한 지역 사회의 반대 움직임이 미국 전역과 그 외 지역에서 확산되고 있습니다. 주민들은 에너지 비용 상승, 수질 문제, 소음 및 빛 공해, 온실가스 배출 우려 등 다양한 문제를 제기하고 있으며, 일부 기업은 데이터 센터 건설 계획을 재고하고 있습니다.",
           "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
-            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut"
+              "url": "https://www.theverge.com/column/963346/ai-data-centers-fight"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-set-marquee-us-debut-test-ai-appetite-2026-07-10/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Hugging Face CEO, 오픈소스 AI의 중요성 강조",
-          "summary": "Hugging Face의 CEO 클렘 드랑그는 기업들이 초기에는 프론티어 API를 사용하지만, 규모가 커지면서 비용 절감 및 데이터 보안, 맞춤화 요구로 인해 오픈소스 모델로 전환하는 경향이 있다고 밝혔습니다. 그는 소수의 대기업이 AI 시장을 독점할 가능성에 대한 우려를 표명하며 오픈소스 AI의 중요성을 역설했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/map-shows-huge-surge-in-data-center-opposition-groups-across-40-states-12176693"
             },
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
-            },
-            {
-              "name": "Zamin.uz",
-              "url": "https://zamin.uz/en/technology/211734-hugging-face-ceo-companies-are-moving-away-from-renting-ai.html"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "OpenAI 2인자 Fidji Simo, 건강 문제로 사임",
-          "summary": "OpenAI의 No. 2 임원이었던 피지 시모(Fidji Simo)가 장기 의료 휴가 끝에 건강상의 이유로 정규직에서 물러나 파트타임 자문 역할로 전환한다고 발표했습니다. 그녀는 2025년 5월 애플리케이션 CEO로 합류하여 OpenAI의 소비자 비즈니스 성장을 주도했기에, 이번 사임은 OpenAI의 리더십 공백에 대한 우려를 낳고 있습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html"
-            },
-            {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/top-openai-executive-fidji-simo-is-stepping-down-2026-7"
+              "name": "Governing",
+              "url": "https://www.governing.com/infrastructure/the-strategic-stakes-of-local-data-center-opposition"
             }
           ],
           "verification": "multi",
@@ -214,50 +82,7 @@
       "name": "정책·규제·안전",
       "flag": "⚖️",
       "en": "POLICY & SAFETY",
-      "stories": [
-        {
-          "title": "EU, 메타에 '중독성 디자인' 비활성화 경고",
-          "summary": "유럽연합(EU)은 메타가 페이스북과 인스타그램의 자동 재생 및 무한 스크롤과 같은 '중독성 디자인' 기능을 비활성화하지 않으면 막대한 벌금을 부과할 수 있다고 경고했습니다. EU 집행위원회는 이러한 기능이 사용자, 특히 미성년자의 신체적, 정신적 건강에 부정적인 영향을 미친다고 판단하며, 디지털 서비스법(DSA)에 따른 규제 강화를 시사했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
-            },
-            {
-              "name": "CNN",
-              "url": "https://www.cnn.com/2026/07/10/tech/meta-eu-addictive-design"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/siladityaray/2026/07/10/facebook-and-instagram-must-remove-addictive-features-like-infinite-scrolling-eu-says/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "미국 FCC, DJI 기술의 외국 드론 금지 회피 단속 강화",
-          "summary": "미국 연방통신위원회(FCC)가 중국 드론 제조사 DJI가 미국 내 외국 드론 금지 규정을 회피하기 위해 설립한 것으로 의심되는 여러 '위장 회사'들에 대한 단속에 착수했습니다. FCC는 이들 회사에 2만 5천 달러의 벌금을 부과하고, 외국 드론 부품이 포함된 제품의 판매 및 수입을 금지하는 조치를 강화할 예정입니다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab"
-            },
-            {
-              "name": "TipRanks",
-              "url": "https://www.tipranks.com/news/inside-the-defiance-jedi-etf-how-trumps-drone-dominance-agenda-the-dji-ban-and-a-75-billion-pentagon-budget-are-reshaping-the-drone-modern-warfare-investment-theme"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        }
-      ]
+      "stories": []
     }
   ]
 }

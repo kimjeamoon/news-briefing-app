@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-11",
-  "date_str": "2026년 7월 11일 (토)",
+  "date": "2026-07-13",
+  "date_str": "2026년 7월 13일 (월)",
   "key5": [
-    "김태효 전 대통령실 국가안보실 1차장, 12·3 비상계엄 정당화 의혹으로 구속.",
-    "이재명 대통령, 몽골 국빈 방문 및 나담 축제 참석, 양국 관계 발전 강조.",
-    "애플, OpenAI를 상대로 영업비밀 탈취 혐의로 소송 제기.",
-    "SK하이닉스, 미국 나스닥 상장 후 주가 상승, AI 관련 기업 투자 수요 입증.",
-    "스페인 남부 산불로 최소 12명 사망, 23명 실종, 고온과 강풍으로 피해 심화."
+    "해군 실종 병사, 실종 하루 만에 동해상에서 시신으로 발견",
+    "더불어민주당, 당 대표 선출 방식 '선호투표제' 도입 놓고 계파 갈등 지속",
+    "경향신문, 지방의원들의 수의계약을 이용한 이권 장사 의혹 보도",
+    "미국과 이란, 호르무즈 해협에서 상호 공습으로 군사적 긴장 고조",
+    "뇌가 진정한 멀티태스킹을 위해 스스로 재조직하는 방식 발견"
   ],
   "regions": [
     {
@@ -16,50 +16,50 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "김태효 전 안보실 1차장, 계엄 정당화 의혹으로 구속",
-          "summary": "12·3 비상계엄 당시 우방국에 계엄 정당화 메시지를 전달했다는 의혹을 받는 김태효 전 대통령실 국가안보실 1차장이 구속됐다. 법원은 증거인멸의 염려가 있다며 구속영장을 발부했으며, 특검팀은 윤석열 전 대통령의 지시 여부 등 관련 수사에 속도를 낼 것으로 보인다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260710171351004"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1267767.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "이재명 대통령, 몽골 국빈 방문 마무리…나담 축제 주빈 참석",
-          "summary": "이재명 대통령이 몽골 국빈 방문 마지막 날 몽골 최대 명절인 '나담축제'에 공식 주빈으로 참석하며 2박 3일 일정을 마무리했다. 이 대통령은 국빈 만찬에서 한국과 몽골이 '진정한 친구'로서 전략적 동반자 관계를 발전시켜 나갈 것을 강조했다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260710163000001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260710159051001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "북중 정상, 우호협력 조약 65주년 맞아 전략적 관계 발전 강조",
-          "summary": "북한 김정은 국무위원장과 중국 시진핑 국가주석이 북중 우호협력 및 상호원조조약 체결 65주년을 맞아 축전을 교환하며 전략적 협력 관계 강화 의지를 다졌다. 양국 정상은 조약이 친선협조를 항구적으로 발전시키는 튼튼한 법률적 기초이며, 복잡한 국제정세 속에서 주권과 안정을 수호하는 데 기여하고 있다고 평가했다.",
+          "title": "실종 해군 병사, 동해상서 시신으로 발견",
+          "summary": "동해 북방한계선(NLL) 인근 해상에서 지난 12일 실종된 해군 호위함 승조원의 시신이 실종 약 하루 만인 13일 오전 5시 58분께 발견돼 수습되었습니다. 해군과 해경은 함정 10여 척과 항공기 여러 대를 투입해 수색을 벌였으며, 실종 해역이 NLL과 가까워 북한에도 실종 사실이 통지되었습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260711009400504"
+              "url": "https://www.yna.co.kr/view/AKR20260713009400504"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260712041351504"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "민주당, 당 대표 선출 방식 '선호투표제' 논의 교착",
+          "summary": "더불어민주당의 8·17 전당대회를 앞두고 당 대표 선거에 '선호투표제'를 도입하는 문제를 놓고 최고위의 교착 상태가 지속되고 있습니다. 전당대회준비위는 선호투표제 도입을 결정했으나, 친청계 최고위원들은 당헌·당규 위반을 주장하며 반발하고 있어 '룰의 전쟁'이 격화되는 양상입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260712051800001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260712045600001"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "지방의원들, 수의계약 이용한 이권 장사 의혹 제기",
+          "summary": "경향신문이 민선 8기 지방의원들의 수의계약 내역을 전수조사한 결과, 91명의 의원이 자신과 관련 있는 업체로 소속 지방자치단체에서 수의계약을 따낸 것으로 확인되었습니다. 당진시의원의 경우 본인 설립 단체에 재량사업비 보조금을 지원하거나, 전 강원 동해시의원은 배우자 김치공장을 통해 학교에 김치를 납품하는 등 적법·편법·불법을 가리지 않은 이권 장사 의혹이 불거졌습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607130600141/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607110729001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202607130600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -67,20 +67,80 @@
         },
         {
           "tag": "eco",
-          "title": "중앙일보, 유동성 위기로 기업구조개선작업(워크아웃) 개시",
-          "summary": "유동성 위기를 겪던 중앙일보가 10일 기업구조개선작업(워크아웃) 개시 결정을 받았다. 주채권은행인 하나은행을 포함한 금융채권자들이 서면 결의를 통해 워크아웃 개시에 합의했으며, 중앙일보는 고강도 비용 절감, 보유 부동산 매각, 경영권 지분 매각 등을 포함한 자구 계획을 제시했다.",
+          "title": "양천구, 목동 재건축 대비 '100년 하수도 체계' 구축",
+          "summary": "서울 양천구가 목동아파트 재건축 사업에 발맞춰 '목동아파트 주변 하수도 정비 기본 및 실시설계 용역'에 착수했습니다. 재건축 완료 시 약 1.8배 증가하는 4만7천여 가구의 하수 발생량과 극한 강우에 대비해 100년 이상 안정적으로 운영될 고품질 하수도 체계를 구축할 계획입니다. 이번 용역은 내년 11월까지 추진될 예정입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260713010600004"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "eco",
+          "title": "강남구, 재건축 사업 신속 추진 및 2030년까지 2만7천호 공급 목표",
+          "summary": "서울 강남구는 김현기 구청장 주재로 첫 재건축 공정관리 점검회의를 열고 '강남 재건축 신속화합(신화) 프로젝트'를 본격 실행합니다. 2030년까지 총 2만7천330호 주택 공급을 목표로 하며, 은마아파트 인가 사례를 기준으로 삼아 인허가 기간을 대폭 단축할 계획입니다. 김 구청장은 매일 재건축 TF 보고를 직접 챙기며 속도 개선을 약속했습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260713009000004"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "eco",
+          "title": "한국은행, 반도체 고점론 일축…SK하이닉스 외환시장 기여",
+          "summary": "한국은행은 인공지능(AI) 인프라 투자로 반도체 수요가 크게 증가한 데 비해 공급 확대 속도가 더디다며 '반도체 고점론'을 일축했습니다. 한편, 미국 나스닥 상장에 성공한 SK하이닉스는 미국주식예탁증서(ADR) 발행을 통해 조달한 약 265억 달러(약 40조 원)를 국내 투자에 사용할 계획으로, 이는 한국 외환시장에 대규모 달러 공급 효과를 가져올 것으로 분석됩니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260710156652002"
+              "url": "https://www.yna.co.kr/view/AKR20260711038600002"
             },
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260710156651002"
+              "url": "https://www.yna.co.kr/view/AKR20260710148451003"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "eco",
+          "title": "칩플레이션 여파, 삼성전자 서비스 자재비 인상",
+          "summary": "메모리 반도체를 비롯한 각종 부품·자재 가격 폭등, 즉 '칩플레이션'의 여파가 서비스 시장까지 확산되면서 삼성전자가 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 인상했습니다. 이는 지난 1월에 이은 올해 두 번째 인상으로, 스마트폰 등 모바일경험(MX)사업부 제품 자재비는 평균 5%, 생활가전(DA)사업부 제품 자재비는 평균 9% 올랐습니다. AS·수리 비용의 80∼90%를 자재비가 차지하는 만큼 소비자가 체감하는 서비스 가격도 상승할 전망입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260712045900003"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "전국 폭염 및 열대야 지속, 중부지방·전북·경북권 35도 예상",
+          "summary": "월요일인 13일 전국 대부분 지역에서 무더위가 이어지고 밤사이 열대야가 나타나는 곳이 많겠습니다. 낮 기온은 30∼37도로 예보되었으며, 14일까지 중부지방과 전북·경북권은 최고 체감온도가 35도 안팎까지 치솟을 것으로 예상됩니다. 전남권, 경남 서부, 제주도 일부 지역에는 비가 내리겠고, 오후부터 저녁 사이 수도권과 충청권, 전북 등에서는 소나기가 쏟아질 수 있습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607130731001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/environment/2026/07/12/south-korea-heat-wave-warning-system/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -91,16 +151,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "메인주 상원의원 후보 그레이엄 플래트너, 스캔들로 후보직 사퇴",
-          "summary": "메인주 상원의원 민주당 후보였던 그레이엄 플래트너가 성폭행 의혹에 직면하며 후보직에서 공식 사퇴했다. 그의 사퇴로 민주당은 상원 통제에 중요한 이 선거에서 새로운 후보를 지명해야 하는 상황에 놓였다.",
+          "title": "매코널 상원 원내대표, 낙상 후 병원 퇴원 및 재활 치료 중",
+          "summary": "미치 매코널 상원 원내대표가 수주간의 침묵 끝에 낙상으로 병원에 입원했으며 현재 재활 치료 중이라고 발표했습니다. 그는 심장마비설을 부인하고 병원에서 퇴원해 재활 시설로 옮겨졌다고 밝혔으나, 의사들이 낙상 원인을 파악하기 위해 여러 검사를 진행 중인 것으로 알려졌습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html"
+              "url": "https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-hospital-announcement.html"
             },
             {
-              "name": "HuffPost",
-              "url": "https://www.huffpost.com/entry/graham-platner-submits-paperwork-to-formally-withdraw-from-maine-senate-race_n_6a515d1ae4b0aaa374276951"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall"
+            },
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/mitch-mcconnell-hospitalized-fall-health-senate-d708e9a1f18763fbb961fd3879227ce3"
             }
           ],
           "verification": "multi",
@@ -108,62 +172,62 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 환경 정책 후퇴…멸종위기종 서식지 개발 허용 및 기후 회의론자 임명",
-          "summary": "트럼프 행정부가 멸종위기종법(ESA)의 핵심 부분을 폐지하여 멸종 위기에 처한 야생동물의 서식지를 개발, 벌목, 채광 등에 개방하기로 했다. 또한 기후 변화 회의론자인 매튜 위엘리키를 정부의 기후 영향 보고서 총괄 책임자로 임명하며 환경 정책을 후퇴시키고 있다는 비판을 받고 있다.",
+          "title": "린지 그레이엄 상원의원, 71세 나이로 급작스럽게 사망",
+          "summary": "공화당 소속 린지 그레이엄 상원의원이 71세의 나이로 급작스러운 질병으로 사망했습니다. 그의 사무실은 토요일 저녁에 사망했으며, 정확한 사인은 아직 공식적으로 발표되지 않았습니다. 그레이엄 의원은 사망 전날 우크라이나에서 귀국했으며, 4개월 후 재선에 직면할 예정이었습니다.",
           "sources": [
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/07/10/epa-rollback-endangered-habitats-logging-mining"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/07/10/trump-climate-report-matthew-wielicki"
+              "name": "Politico",
+              "url": "https://www.politico.com/news/2026/07/12/grahams-office-releases-preliminary-cause-of-death-00994310"
             },
             {
-              "name": "NBC News",
-              "url": "https://www.nbcnews.com/science/environment/trump-weakens-protections-endangered-animal-species-rcna385912"
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "휴스턴 ICE 총격 사망 사건, 이민자 체포 급증에 논란 증폭",
-          "summary": "휴스턴에서 이민 세관 집행국(ICE) 요원의 총격으로 이민자 로렌조 살가도 아라우호가 사망하면서, 전국적으로 이민자 체포가 급증하는 상황에 대한 논란이 커지고 있다. 국토안보부는 살가도가 의도된 표적이 아니었으며, 차량으로 요원을 공격하려 해 총격을 가했다고 주장했지만, 유가족과 동승자들은 이를 부인하고 있다.",
+          "tag": "pol",
+          "title": "미국, 이란에 추가 공습…호르무즈 해협 군사적 긴장 고조",
+          "summary": "미군 중부사령부(CENTCOM)는 12일(현지시간) 호르무즈 해협에서 상선을 위협하는 이란을 상대로 추가 공습을 개시했다고 밝혔습니다. 이번 공습은 민간 선원과 상선 공격 역량을 약화시키기 위함이며, 도널드 트럼프 대통령의 지시로 이뤄졌습니다. 이란 남부 해안 도시 등지에서는 폭발음이 이어졌다고 로이터 통신이 이란 국영 TV를 인용해 보도했습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260713008900011"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202607130720001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting"
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/us-iran-exchange-fire-over-strait-of-hormuz-amid-escalating-2026-conflict/"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "SK하이닉스, 미국 나스닥 상장 후 주가 13% 급등…AI 투자 수요 입증",
-          "summary": "SK하이닉스가 10일 미국 나스닥 시장에 상장된 미국예탁증서(ADR)가 공모가 대비 13% 급등한 168달러에 마감하며 성공적인 데뷔를 알렸다. 이는 265억 달러(약 40조원) 규모로 외국 기업의 ADR 발행 기준 역대 최대 조달액이며, AI 관련 기업에 대한 투자자들의 강한 수요를 입증했다.",
+          "title": "주 정부, 파라마운트와 워너 브라더스 합병 저지 소송 준비",
+          "summary": "미국 여러 주 정부가 파라마운트의 워너 브라더스 디스커버리 인수합병을 저지하기 위한 소송을 이번 주 내에 제기할 준비를 하고 있습니다. 이 1,110억 달러 규모의 거래가 대형 블록버스터 영화 시장 등에서 경쟁을 저해할 수 있다는 주장이 소송의 주요 내용입니다. 캘리포니아주가 소송을 주도하고 있으며 뉴욕, 워싱턴, 코네티컷 주 등이 동참할 예정입니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607110700021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html"
+              "url": "https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/markets/sk-hynix-rallies-in-biggest-ever-foreign-share-sale-in-us"
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/07/08/media/paramount-warner-bros-discovery-state-antitrust-lawsuit"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/oregon-drops-motion-delay-paramount-warner-bros-deal-2026-07-11/"
             }
           ],
           "verification": "multi",
@@ -178,33 +242,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "중국, 미국 정부의 자국 기업 블랙리스트 등재 비판",
-          "summary": "중국은 미국이 화웨이를 포함한 60여개 중국 기업을 블랙리스트에 올린 것에 대해 미국 정부가 '국가 안보 개념을 지나치게 확장하고 국가 권력을 남용했다'고 비난했다. 이는 트럼프-시진핑 정상회담에서 달성된 합의를 무시한 처사라고 주장하며 미중 관계를 비판했다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3360197/china-accuses-us-ignoring-trump-xi-rapport-and-targeting-chinese-firms?utm_source=rss_feed"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "태풍 바비, 일본 남서부 제도 접근…비상 경계령",
-          "summary": "강력한 태풍 바비가 일본 남서부 외딴 섬들에 접근하면서 당국은 강풍, 폭우, 산사태 및 홍수에 대한 경계를 발령했다. 기상 당국은 태풍 바비가 토요일 새벽 사키시마 제도에 매우 근접할 것으로 예상하며, 최대 지속 풍속은 시속 162km에 달한다고 밝혔다.",
+          "title": "남중국해 분쟁 10주년, 필리핀·미국 등 중국 주권 주장 일축",
+          "summary": "일본, 미국, 필리핀을 비롯한 14개국과 유럽연합(EU)은 국제재판소가 중국의 남중국해 영유권 주장을 기각한 지 10주년을 맞아 공동 성명을 발표했습니다. 이들은 2016년 헤이그 상설중재재판소의 결정이 중국과 필리핀 간 영토 분쟁에 대해 최종적이고 법적 구속력이 있음을 강조했습니다. 또한, 중국의 불안정화 또는 강압적인 행동에 강력히 반대한다고 표명했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/10/japan/typhoon-bavi-approaches-japan-remote-islands/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/12/japan/history/china-sea-arbitration-joint-statement/"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/environment/japans-southwestern-islands-high-alert-powerful-typhoon-bavi-approaches-2026-07-10/"
+              "name": "AP News",
+              "url": "https://apnews.com/article/philippines-south-china-sea-disputes-arbitration-6ca48fecb19b61901b05a3f86f70be54"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3360243/wu-shicun-why-beijing-will-not-rule-out-scarborough-shoal-construction?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
@@ -212,40 +263,28 @@
         },
         {
           "tag": "eco",
-          "title": "일본 농림수산성, '일본차' 상표 보호 시스템 등록",
-          "summary": "일본 농림수산성이 '일본차'를 지리적 표시(GI) 시스템에 등록하여 지적 재산권 보호를 강화했다. 이번 조치는 전 세계적인 말차 인기에 따른 모방 제품으로부터 일본차를 보호하고 수출 성장을 촉진하기 위한 노력의 일환이다.",
+          "title": "일본 중소기업, 경제 및 정치적 위험으로 중국 철수 가속화",
+          "summary": "점점 더 많은 일본 중소기업들이 미·중 긴장 장기화, 중국 경제 성장 둔화, 그리고 중국의 간첩법 등 경제적, 정치적 위험으로 인해 중국에서 철수하고 있습니다. 일본 기업의 전체 수는 2012년 정점 대비 약 10% 감소했습니다. 인력 서비스 제공업체 퀵(Quick)은 중국에서 철수하고 대신 미국 및 유럽 사업 강화에 자원을 투자하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/10/japan/japanese-tea-brand-protection/"
-            },
-            {
-              "name": "Greenwich Time",
-              "url": "https://www.greenwichtime.com/news/world/article/louis-vuitton-court-victory-against-chinese-tea-22335347.php"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-businesses-exit-china-on-economic-political-risks"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "중국, 해상 로켓 부스터 회수 시스템 성공적으로 테스트",
-          "summary": "중국이 해상 플랫폼에 부착된 그물망을 이용한 실험용 로켓 부스터 회수 시스템을 성공적으로 테스트했다고 국영 언론이 보도했다. 이번 시험은 중국의 첫 궤도급 로켓 회수 성공 사례로, 재사용 로켓 기술 개발에 중요한 진전을 이뤘으며 미국과의 재사용 로켓 경쟁에서 우위를 점하려는 노력의 일환이다.",
+          "title": "중국 '디지털 키즈' 세대, 3D 프린터 인기 견인",
+          "summary": "중국에서 소비자용 3D 프린터의 인기가 급증하고 있으며, 이는 주로 디지털에 능숙한 젊은 세대의 영향 때문입니다. 스타트업 밤부 랩(Bambu Lab)은 자체 플랫폼에서 디자인 다운로드와 크리에이터 포인트를 제공하며, 고객들이 3D 프린터로 제작된 아이템을 체험할 수 있는 매장을 운영하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/10/world/china-rocket-booster-recovery/"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/video/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/consumer/china-s-digital-kids-drive-surging-popularity-of-3d-printers"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
@@ -256,84 +295,84 @@
       "en": "EUROPE",
       "stories": [
         {
-          "tag": "soc",
-          "title": "스페인 남부 산불로 최소 12명 사망, 23명 실종",
-          "summary": "스페인 남부 알메리아 지방에서 발생한 산불로 최소 12명이 사망하고 23명이 실종됐다. 안달루시아 주정부는 사망자 중 4명이 영국인일 가능성이 있으며, 희생자들은 대피 권고에도 불구하고 다른 경로를 통해 탈출하려다 변을 당했다고 밝혔다. 고온과 강풍으로 불길이 빠르게 번지면서 진화 작업에 어려움을 겪고 있다.",
+          "tag": "pol",
+          "title": "우크라이나 총리 사임, 젤렌스키 대통령 정부 개편 발표",
+          "summary": "율리아 스비리덴코 우크라이나 총리가 사임했으며, 볼로디미르 젤렌스키 대통령은 정부 개편을 발표했습니다. 젤렌스키 대통령은 우크라이나의 정치 전략을 변경하고 있으며, 스비리덴코 전 총리에게 새롭고 중요한 직책을 제안했다고 밝혔습니다. 이번 개편은 행정부에 새로운 동력을 불어넣기 위한 노력의 일환입니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/10/world/spain-wildfire-dead-missing/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3360297/ukraines-prime-minister-steps-down-zelensky-announces-government-reshuffle?utm_source=rss_feed"
             },
             {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-replace-prime-minister-government-reshuffle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/ukraine-prime-minister-resigns-yulia-svyrydenko-volodymyr-zelenskyy-politics/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "폴란드 총리, 우크라이나 민족주의자 학살 희생자 추모 기념비 추진",
+          "summary": "도날트 투스크 폴란드 총리가 2차 세계대전 당시 '우크라이나 민족주의자들이 저지른 대량 학살' 희생자들을 위한 국가 기념비 건립을 발표했습니다. 이는 폴란드가 볼히니아 대학살이라고 부르는 사건의 기념일에 맞춰 발표되었으며, 폴란드와 우크라이나는 이 사건을 두고 수십 년간 갈등을 겪어왔습니다.",
+          "sources": [
+            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Times of Israel",
+              "url": "https://www.timesofisrael.com/as-ties-sour-poland-to-build-new-memorial-for-victims-of-wwii-massacres-by-ukrainians/amp/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "스페인 산불로 영국인 부부 중상, 12명 사망",
+          "summary": "스페인 알메리아주를 휩쓴 산불로 인해 영국인 부부가 협곡에서 심하게 화상을 입은 채 의식을 잃은 상태로 발견되어 병원으로 이송되었습니다. 이 산불로 12명이 사망했으며, 사망자 중 4명은 영국인으로 추정됩니다. 약 7,000헥타르의 토지가 불탔으며, 현재 불길은 진압되었고 일부 대피 주민들의 귀가가 허용되었습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
+              "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/spanish-firefighters-turn-offensive-against-deadly-almeria-blaze-2026-07-11/"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "pol",
-          "title": "EU, 메타에 '중독성 디자인' 변경 요구…미이행 시 벌금 위협",
-          "summary": "유럽연합(EU)이 메타에게 페이스북과 인스타그램의 '중독성 디자인'을 변경하지 않으면 막대한 벌금을 부과할 것이라고 경고했다. EU 집행위원회는 무한 스크롤, 자동 재생 비디오, 개인 맞춤형 추천 피드 등의 기능이 특히 어린이와 청소년의 강박적 사용을 유도할 수 있다고 지적했다.",
+          "tag": "soc",
+          "title": "독일, 6월 폭염으로 익사자 급증…20년 만에 최다",
+          "summary": "독일에서 지난 6월 폭염으로 인해 거의 100명에 달하는 익사자가 발생했으며, 이 중 상당수는 젊은 남성으로 나타났습니다. 이는 20년 만에 가장 많은 익사자 수치로, 2003년 6월 폭염 당시 107명이 사망한 이후 최대입니다. 전 세계적으로 인간이 초래한 기후 변화가 폭염 및 산불과 같은 극단적인 기상 이변을 증가시키고 있습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/jul/12/germany-drowning-deaths-heatwave-paris-france-spain"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss"
+              "name": "Ynetnews",
+              "url": "https://www.ynetnews.com/article/hjqfwgt7gg"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/eu-orders-instagram-facebook-meta-change-addictive-design/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/western-europe-hottest-june-record-2026-report/"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "전 영국 의원 앤 위데컴 사망, 살인 혐의로 남성 체포",
-          "summary": "전 영국 의원이자 리폼 UK(Reform UK) 대변인이었던 앤 위데컴(78세)이 자택에서 심각한 부상을 입고 사망한 채 발견돼 살인 혐의로 26세 남성이 체포됐다. 경찰은 이번 사건이 테러와 관련이 있거나 정치적 동기에서 비롯된 것으로 보이지 않는다고 밝혔다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3360194/man-arrested-suspicion-murdering-ex-uk-minister-ann-widdecombe?utm_source=rss_feed"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/07/10/murder-probe-launched-into-suspicious-death-of-former-british-mp-ann-widdecombe"
-            },
-            {
-              "name": "BBC",
-              "url": "https://www.bbc.com/news/articles/cvg50lk22jpo"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "조지아, NATO 정상회담 파트너 명단에서 제외…국제적 고립 비판",
-          "summary": "조지아가 튀르키예에서 열린 NATO 정상회담 파트너 명단에서 제외되면서 국제적 고립에 대한 비판에 직면했다. 이는 주요 파트너국이 NATO 의제에서 배제된 첫 사례이며, 조지아의 정치 및 시민 사회에서는 정부의 외교적 영향력 상실에 대한 논쟁이 재점화되고 있다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation"
-            },
-            {
-              "name": "Forbes",
-              "url": "https://www.forbes.com/sites/katyasoldak/2026/07/07/tuesday-july-7-russias-war-on-ukraine-news-and-information-from-ukraine/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -344,33 +383,12 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "애플, OpenAI에 영업비밀 탈취 혐의로 소송 제기",
-          "summary": "애플이 챗GPT 개발사 OpenAI를 상대로 영업비밀 탈취 혐의로 소송을 제기했다. 애플은 OpenAI로 이직한 전직 애플 임직원 2명이 아이폰, 애플워치 등 하드웨어 엔지니어링 사양, 제조 공정, 공급망 전략 등 내부 기밀 정보를 빼돌렸다고 주장하며 손해배상을 청구했다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260711010900091"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets?utm_source=rss_feed"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "가장 차가운 '별'들이 외계 문명의 다이슨 구일 수 있다는 단서 발견",
-          "summary": "과학자들이 우리 은하에서 가장 차가운 '별'들이 실제로는 외계 문명이 건설한 거대한 인공 구조물인 다이슨 구일 수 있다는 새로운 단서를 발견했다. 연구에 따르면 적색 왜성과 백색 왜성 주변에 다이슨 스웜이 존재할 가능성이 높으며, 이들이 가시광선 대신 적외선으로 빛나고 먼지가 없는 특징을 보일 수 있다고 한다.",
+          "title": "뇌, 멀티태스킹 위해 재조직…새로운 학습 방식 제시",
+          "summary": "조지타운 대학교 연구진은 뇌가 진정한 멀티태스킹을 위해 물리적으로 재조직된다는 새로운 증거를 발견했습니다. 반복적인 훈련을 통해 학습된 작업이 전전두피질을 우회하고 전문화된 회로를 통해 실행될 수 있으며, 이는 뇌의 '사고' 중심을 자유롭게 하여 동시에 다른 작업을 더 잘 수행할 수 있게 합니다. 이 발견은 습관 형성, 행동 변화, 미래 인공지능 시스템의 학습 방식 이해에 중요한 영향을 미칠 수 있습니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm"
             }
           ],
           "verification": "single",
@@ -378,16 +396,29 @@
         },
         {
           "tag": "tec",
-          "title": "궤도 디스코 볼, 시공간 뒤틀림 정밀 테스트로 아인슈타인 이론 입증",
-          "summary": "과학자들이 이탈리아 우주국이 개발한 위성 'LARES-2'를 이용해 지구의 시공간 뒤틀림 현상인 렌즈-티링 효과를 가장 정확하게 측정했다. 이 위성은 회전하는 지구가 주변 시공간을 끌어당기는 현상을 측정하는 데 사용되어, 아인슈타인의 일반 상대성 이론 예측과 0.2% 오차 범위 내에서 일치하는 결과를 얻었다.",
+          "title": "심해 생물의 비밀 식량원 발견, 해양 생태계 이해 재구성",
+          "summary": "과학자들이 심해 미생물의 예상치 못한 식량원을 발견했습니다. 깊은 바다의 압력이 침강하는 유기 입자에서 귀중한 영양분을 짜내어 주변 해수 미생물에게 즉각적인 식량원을 제공한다는 사실이 밝혀졌습니다. 이 연구 결과는 심해 생태계와 지구의 탄소 저장 방식에 대한 이해를 재구성할 수 있습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "블랙홀 에너지 추출 현상, 실험실에서 재현 성공",
+          "summary": "물리학자들이 빠르게 회전하는 블랙홀에서 에너지를 추출하는 이론을 실험실에서 재현하는 데 성공했습니다. 연구팀은 물리적으로 회전하지 않으면서도 초고속 회전을 시뮬레이션하는 무선 주파수 장치를 사용하여 이 현상을 구현했습니다. 이 성과는 기초 물리학뿐만 아니라 광학, 무선 통신, 양자 과학 분야의 발전에 새로운 가능성을 열 것으로 기대됩니다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm"
             },
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/s41586-026-10715-0"
+              "name": "Bioengineer.org",
+              "url": "https://bioengineer.org/scientists-simulate-black-hole-phenomena-in-laboratory-experiment/"
             }
           ],
           "verification": "multi",
