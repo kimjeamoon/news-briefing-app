@@ -1,33 +1,19 @@
 {
-  "date": "2026-07-19",
-  "date_str": "2026년 7월 19일 (일)",
+  "date": "2026-07-20",
+  "date_str": "2026년 7월 20일 (월)",
   "highlights": [
-    "Moonshot AI, Kimi 모델 신규 버전 출시로 AI 모델 발전 논의 촉발",
-    "Databricks, 1,880억 달러 가치 달성하며 AI 기업으로 성공적 전환",
-    "미국 정부, 보험 보장 결정에 AI 활용 시범 운영 시작",
-    "Agility Robotics, Tesla 근처에 Digit 로봇 훈련 센터 개설하며 로봇 산업 확장 시사",
-    "벤처 투자가 Neil Rimer, AI 창출 부의 재분배 필요성 예측"
+    "엔비디아 CEO의 일본 방문으로 AI 공장 건설 및 로봇 분야 협력 등 대규모 투자가 발표되었습니다.",
+    "애플의 소송이 오픈AI의 하드웨어 출시 및 상장 계획에 차질을 줄 수 있다는 논쟁이 제기되었습니다.",
+    "크리스토퍼 놀란 감독은 AI를 '트로이 목마'에 비유하며 기술에 대한 대중의 회의론을 강조했습니다.",
+    "비영리 단체 Current AI는 비영어권 지역을 위한 AI 인프라 구축에 박차를 가하고 있습니다.",
+    "Suno로 제작된 AI 음악 'Semiramis’ Dream'이 긍정적인 평가를 받으며 생성형 AI 음악의 가능성을 보여주었습니다."
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": [
-        {
-          "title": "중국 Moonshot AI, 새로운 Kimi 모델 출시",
-          "summary": "중국 기업 Moonshot AI가 Kimi 모델의 새로운 버전을 출시하며 오픈소스 AI 및 중국의 AI 발전에 대한 논의를 촉발했습니다. Moonshot AI는 새로운 Kimi K3 모델이 강력한 독점 모델에는 미치지 못하지만, 자체 평가 스위트에서 선도적인 성능을 보였다고 밝혔습니다. 독립 분석 기관들 또한 Kimi가 최첨단 모델과 경쟁할 만하다고 평가했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
-            }
-          ],
-          "verification": "single",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "연구·논문",
@@ -35,12 +21,12 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "자율 UAV swarm 위한 3단계 학습 아키텍처 연구",
-          "summary": "수색 및 구조 작업을 수행하는 자율 UAV swarm을 위한 새로운 3단계 계층적 학습 아키텍처에 대한 연구가 발표되었습니다. 이 아키텍처는 개별 에이전트 적응, 전술적 조정을 위한 다중 에이전트 강화 학습, 전략적 의사결정을 위한 모델 불가지론적 메타 학습 등 질적으로 다른 세 가지 학습 메커니즘을 통합합니다.",
+          "title": "AI 기반 스마트 조류 피더, 할인 판매로 보급 확대",
+          "summary": "AI 기반 스마트 조류 피더인 Birdfy가 할인 판매를 통해 보급을 확대하며 AIoT(인공지능 사물인터넷) 분야의 소비자 기술 발전 동향을 보여줍니다. 이 피더는 1080p 카메라와 AI 조류 식별 기능을 통해 6,000종 이상의 새를 인식하며, 태양광 패널로 자동 충전됩니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.14093"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale"
             }
           ],
           "verification": "single",
@@ -48,38 +34,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "구조화된 지식 그래프 위한 HG-RAG 모델 발표",
-          "summary": "대규모 언어 모델(LLM) 출력 품질 향상을 위한 계층 기반 검색 증강 생성(HG-RAG) 프레임워크 연구가 발표되었습니다. HG-RAG는 계층적 지식 그래프를 그래프 탐색하여 LLM에 구조화된 컨텍스트를 제공하며, 기존 평면 문서 저장소 기반 RAG 시스템의 한계를 극복합니다.",
+          "title": "Suno AI 음악 'Semiramis’ Dream' 긍정적 평가",
+          "summary": "Suno로 제작된 AI 음악 'Semiramis’ Dream'이 긍정적인 평가를 받으며 생성형 AI 음악의 발전과 수용 가능성에 대한 논의를 촉발했습니다. 아티스트 1010Benja는 자신의 EP에 Suno를 사용했음을 밝혔으며, AI의 결과물을 반복적으로 편집하고 재입력하는 방식으로 곡을 완성했습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.14095"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "ToolAnchor, 반사실적 컨텍스트 활용 에이전트 도구 사용 능력 향상",
-          "summary": "ToolAnchor 연구는 반사실적 앵커 컨텍스트를 주입하여 에이전트의 도구 사용 능력을 향상시키는 새로운 프레임워크를 제안했습니다. 이 방법은 에이전트가 새로운 도구를 효과적으로 통합하지 못하고 익숙한 도구에 의존하려는 행동 관성을 극복하도록 돕습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.14145"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "지식 그래프 그라운딩으로 소형 언어 모델 추론 능력 강화",
-          "summary": "소형 언어 모델(SLM)의 추론 능력을 향상시키기 위한 지식 그래프 그라운딩 기반 신경-기호 에이전트 프레임워크 연구가 발표되었습니다. 이 접근 방식은 Gemma 3 및 Llama 3.2와 같은 SLM이 복잡한 다중 홉 논리적 그라운딩을 요구하는 작업에서 오류가 발생하기 쉬운 문제를 해결하고자 합니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.14149"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
             }
           ],
           "verification": "single",
@@ -94,12 +54,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "Databricks, 1,880억 달러 기업 가치 달성",
-          "summary": "Databricks가 1,880억 달러의 새로운 기업 가치를 인정받으며 자금 조달 라운드를 발표했습니다. 회사는 지난 1년 반 동안 AI 제공업체로서의 이미지를 성공적으로 전환하며 급격한 성장을 이루었습니다.",
+          "title": "엔비디아, 일본 AI 생태계에 대규모 투자 발표",
+          "summary": "엔비디아 젠슨 황 CEO의 일본 방문을 통해 일본 정부와 산업계 전반에 걸친 대규모 AI 산업 투자 및 협력 계약이 발표되었습니다. 일본은 1조 엔(약 62억 달러)을 투자하여 자체 '국가 AI 공장'을 건설하고, 엔비디아와 협력하여 로봇 및 제조 분야의 AI 모델을 개발할 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+              "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
             }
           ],
           "verification": "single",
@@ -107,38 +67,12 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Vertu, 6,880달러짜리 경영진용 AI 에이전트 출시",
-          "summary": "고가 명품 스마트폰 제조사 Vertu가 경영진을 위한 6,880달러짜리 폴더블폰 'Alphafold'와 함께 AI 에이전트 'Hermes Agent'를 출시했습니다. 이 AI 에이전트는 파일 분석, 앱 간 작업 자동화, 대화 기억, 인간 컨시어지 연결 등 경영진의 업무를 자동화하도록 설계되었습니다.",
+          "title": "비영리 Current AI, 'AI의 월드 와이드 웹' 구축 추진",
+          "summary": "비영리 단체 Current AI가 특정 문화에 편향되지 않는 AI를 구축하여 'AI의 월드 와이드 웹'을 만드는 데 상당한 진전을 이루고 있습니다. 이 단체는 인도 정부의 AI 언어 부서와 협력하여 22개 인도 언어를 지원하는 오프라인 AI 기기를 출시했으며, 프랑스 정부 및 여러 재단으로부터 4억 달러의 자금을 확보했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "AI 반도체 수요로 인도 스마트폰 시장 둔화",
-          "summary": "AI 구동 메모리 칩 수요 증가로 인한 메모리 반도체 가격 상승이 인도 스마트폰 시장에 큰 영향을 미치고 있습니다. 4월-6월 분기 인도 스마트폰 출하량이 전년 대비 10% 감소하며 6년 만에 가장 큰 하락을 기록했습니다. 이는 주로 저가 스마트폰 부문에 영향을 미쳐 소비자들의 교체 주기가 길어질 것으로 예상됩니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Agility Robotics, Tesla 근처 로봇 훈련 센터 개설",
-          "summary": "Agility Robotics가 캘리포니아 프리몬트에 6만 평방피트 규모의 휴머노이드 로봇 훈련 시설을 개설했습니다. 이는 테슬라가 옵티머스 로봇을 제조할 것으로 예상되는 공장 근처에 위치하며, Agility는 이미 아마존 등 고객사에 Digit 로봇을 공급하며 상업화를 이루고 있습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+              "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
             }
           ],
           "verification": "single",
@@ -153,38 +87,25 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "미국 정부, 보험 보장 결정에 AI 활용 시범 운영",
-          "summary": "미국 트럼프 행정부가 불필요한 의료비 지출을 줄이기 위해 6개 주에서 보험 보장 결정에 AI를 활용하는 프로그램을 시범 운영하고 있습니다. AI는 방대한 정보를 효율적으로 처리하여 명확한 청구 승인을 가속화할 수 있지만, 의료진들은 AI로 인한 부당한 거부가 증가할 수 있다는 우려를 표명하고 있습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "작가 Dave Eggers, ChatGPT가 '한 세대의 목소리를 침묵시킨다' 비판",
-          "summary": "작가 Dave Eggers가 OpenAI 직원들과의 대화에서 ChatGPT가 '한 세대 전체의 목소리를 침묵시키고 있다'고 강하게 비판했습니다. 그는 ChatGPT가 교육자들의 삶을 훨씬 더 어렵게 만들었으며, 학생들이 AI를 작문에 사용하면 글쓰기를 배우지 못하고 자신의 목소리를 잃게 될 것이라고 지적했습니다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "벤처 투자가 Neil Rimer, AI 창출 부의 재분배 예측",
-          "summary": "Index Ventures 공동 창업자 Neil Rimer는 AI로 인해 축적될 막대한 부가 재분배될 것이라고 예측했습니다. 그는 이러한 재분배가 자발적이든 비자발적이든 일어날 것이며, 기술 리더들이 이 과정에서 주도적인 역할을 할 수 있기를 희망한다고 언급했습니다.",
+          "title": "애플 소송, 오픈AI 하드웨어 출시 및 상장에 영향 미칠까",
+          "summary": "애플이 오픈AI를 영업 비밀 침해로 고소한 사건이 오픈AI의 하드웨어 출시 및 상장 계획에 미칠 영향에 대한 논쟁이 진행 중입니다. 법적 공방이 오픈AI의 제품 개발 및 사업 확장에 지연을 초래할 수 있다는 우려가 제기되고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+              "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "크리스토퍼 놀란, AI를 '명백한 트로이 목마'로 비유",
+          "summary": "영화감독 크리스토퍼 놀란이 AI 기술의 잠재적 위험성에 대한 우려를 표명하며 AI를 '모두가 그리스인이 안에 있다는 것을 아는 트로이 목마'에 비유했습니다. 그는 특히 젊은 세대의 AI에 대한 깊은 회의론을 '매우 건강한 회의론'으로 평가했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
             }
           ],
           "verification": "single",
