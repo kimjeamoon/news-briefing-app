@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-20",
-  "date_str": "2026년 7월 20일 (월)",
+  "date": "2026-07-21",
+  "date_str": "2026년 7월 21일 (화)",
   "key5": [
-    "더불어민주당, 종합특검 연장법 상정 시도 및 전당대회 갈등 심화",
-    "미국과 이란 간 군사적 긴장 고조, 미군 사망으로 전면전 우려 증폭",
-    "페루 안데스 산악 지대에서 규모 5.5 지진 발생, 최소 5명 사망",
-    "일본, 캄보디아에 방위 장비 제공 및 중국 인지전 대응 강화",
-    "장기 코로나 피로 증상 완화에 저렴한 항우울제 플루복사민 효과 확인"
+    "미국과 이란 간 군사적 긴장 고조로 중동 지역 군사 충돌 우려 증폭 및 국제 유가 상승",
+    "트럼프 대통령, 캐나다산 일부 제품에 50% 추가 관세 부과하며 무역 전쟁 재점화",
+    "여당 주도 '종합특검 연장법' 본회의 의결 전망, 검찰 보완수사권 폐지 등 형사소송법 개정안 논의",
+    "EU, 중국 온라인 소매업체 AliExpress에 불법 상품 판매 허용 혐의로 기록적 벌금 부과",
+    "과학자들, '영원한 화학 물질' PFAS 파괴할 두 가지 새로운 방법 발견"
   ],
   "regions": [
     {
@@ -16,20 +16,58 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "민주당, 특검법 상정 시도하며 전당대회 앞두고 당내 갈등 고조",
-          "summary": "더불어민주당은 2차 종합특검의 수사 기간 연장을 위한 개정안을 국회 본회의에 상정하려 시도했으며, 국민의힘은 이에 강력 반발하며 필리버스터를 예고했습니다. 한편, 민주당은 전당대회를 앞두고 당 대표 및 최고위원 후보들의 합동 연설회를 개최하며 당내 노선 갈등이 심화되는 양상입니다.",
+          "title": "미·이란 군사 긴장 격화, 중동 충돌 우려 증폭",
+          "summary": "미국과 이란 간 군사적 긴장이 고조되면서 중동 지역의 군사적 충돌 우려가 커지고 있습니다. 이란의 지원을 받는 예멘 후티 반군이 사우디아라비아 해상 봉쇄를 선언하면서 유가 상승 압력이 증가하고 있습니다. 뉴욕 증시는 하락 마감했으나, 외교적 해결 기대감에 낙폭은 제한적이었습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260721015300011"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260721006200072"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260720171800072"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프, 캐나다산 제품 50% 관세 부과…무역 분쟁 재점화",
+          "summary": "도널드 트럼프 미국 대통령이 캐나다산 일부 제품에 대해 50%의 추가 관세를 부과하는 포고령에 서명했습니다. 백악관은 캐나다가 미국산 제품에 차별적 대우를 했다고 주장했으며, 관세는 30일 후 발효될 예정입니다. 이번 조치로 양국 간 무역 긴장이 한층 커질 것으로 예상됩니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260721013600071"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/america/1269135.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "종합특검 연장법 본회의 의결 전망, 검찰 보완수사권 논의 지속",
+          "summary": "내란·김건희·채해병 등 3대 특검의 미진한 부분을 수사하는 2차 종합특검의 수사 기간을 30일 연장하는 법안이 21일 국회 본회의에서 더불어민주당 주도로 의결될 전망입니다. 한편, 민주당은 검사의 보완수사권 폐지 문제를 핵심으로 하는 형사소송법 개정안에 대해 당내 총의를 모으기 위한 정책 의총을 개최할 예정입니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260717032200546"
+              "url": "https://www.yna.co.kr/view/AKR20260720114000001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260719045600001"
+              "url": "https://www.yna.co.kr/view/AKR20260720108900001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260719042400001"
+              "url": "https://www.yna.co.kr/view/AKR20260720100952001"
             }
           ],
           "verification": "multi",
@@ -37,45 +75,16 @@
         },
         {
           "tag": "eco",
-          "title": "영종도에 바이오 특화단지 조성, 신축매입임대사업 지원안 시행",
-          "summary": "인천 영종도에 여의도 면적의 1.2배에 달하는 부지에 바이오 특화단지가 조성될 예정이며, 187개 기업이 입주 의사를 밝혔습니다. 또한, 국토교통부는 신속한 비아파트 공급을 위해 신축매입임대주택 민간 사업자 자금조달 부담 완화 등 지원 방안을 20일부터 시행한다고 발표했습니다.",
+          "title": "외국인 카지노 관광기금 부담률 상향 추진, 업계 반발",
+          "summary": "정부가 외국인 전용 카지노 사업자의 관광진흥개발기금 부담률 상한을 현행 매출액의 10%에서 15%로 높이는 법 개정을 추진 중입니다. 문화체육관광부는 지난 30년간 성장한 카지노 산업 규모를 반영한 조치라고 설명했으나, 업계는 영업이익 감소와 투자 위축을 우려하며 '징벌적 과세'라고 반발하고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260716117200065"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260719037300003"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607200737001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260720149900030"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "청년 주거·취업난 심화 및 낮은 출산율 문제 지속",
-          "summary": "서울 청년들은 높은 월세 부담으로 자산 형성이 어렵고, 양질의 일자리가 서울에 집중되어 있어 지방으로 이동하기 어렵다고 호소합니다. 또한, AI 기술 발전으로 신입사원 업무가 대체되고 기업들이 직무 경험을 중시하면서 중소기업은 첫 직장으로 외면받는 경향이 심화되어 청년들의 취업난과 경력 사다리 단절 우려가 커지고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260713138300017"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260713105800003"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260715121700030"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
         }
       ]
     },
@@ -86,20 +95,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국-이란 긴장 고조, 미군 사망자 발생으로 전면전 우려 증폭",
-          "summary": "미국과 이란 간의 교전이 '응징과 보복'의 악순환을 보이며 격화되고 있습니다. 요르단 기지에서 미군 3명이 사망하고 이라크에서 추가 사망자가 발생하면서 전면전 재개 가능성이 높아지고 있으며, 양국은 상대방의 '레드라인'을 침범하는 공격을 주고받고 있습니다.",
+          "title": "미·이란 군사 충돌 격화, 미군 사망자 발생 및 추가 공습 단행",
+          "summary": "미국과 이란 간 군사적 충돌이 격화되면서 요르단 내 미군 기지 공격으로 미군 병사 2명이 사망했습니다. 트럼프 행정부는 이에 대한 보복으로 이란에 추가 공습을 단행하며 호르무즈 해협 내 선박 공격 능력을 약화시키겠다고 밝혔습니다. 이란은 미국과의 외교적 접촉은 진행 중이라고 밝히면서도 전면전 상황을 언급했습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260720000351071"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html"
+              "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -107,61 +112,57 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 이민 정책 강화 속 국경 문제 논란 지속",
-          "summary": "트럼프 행정부의 이민 정책 강화로 국경 및 이민 단속 관련 논란이 지속되고 있습니다. 플로리다에서는 ICE 단속 후 멕시코 방문객이 트럭에 치여 사망하는 사건이 발생했으며, FBI가 ICE 요원 연루 사건 조사를 중단한다는 지침이 공유되어 비판이 일고 있습니다. 또한, 국토안보부(DHS)는 사망 사건에 연루된 요원들의 이름을 공개하지 않아 투명성 부족에 대한 우려가 제기됩니다.",
+          "title": "트럼프 행정부, 캐나다산 제품에 50% 관세 부과하며 무역 분쟁 재점화",
+          "summary": "도널드 트럼프 미국 대통령이 캐나다산 광범위한 제품에 50%의 고율 관세를 부과하는 포고령에 서명했습니다. 백악관은 캐나다가 미국산 자동차, 유제품, 주류에 대해 차별적 대우를 했다고 주장하며 이번 조치가 방어적이라고 밝혔습니다. 새로운 관세는 미국-멕시코-캐나다 무역협정(USMCA)의 관세 면제 혜택을 인정하지 않아 북미 무역 관계에 큰 영향을 미칠 것으로 예상됩니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/19/us/florida-ice-death-mexico-visit.html"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/19/us/dhs-officer-names-shootings.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "월드컵 결승전 개최, 트럼프 대통령 등 주요 인사 참석",
-          "summary": "월드컵 결승전이 메트라이프 스타디움에서 개최되었으며, 도널드 트럼프 대통령이 참석하여 주요 스포츠 행사에서 다시 한번 주목을 받았습니다. 아디다스는 이번 월드컵을 통해 미국 시장 매출 증대를 기대하고 있습니다.",
+          "tag": "eco",
+          "title": "중동 정세 불안으로 국제 유가 및 美 휘발유 가격 상승 지속",
+          "summary": "미국과 이란 간의 군사적 긴장 고조와 호르무즈 해협 원유 수송 차질 우려로 국제 유가가 상승세를 지속하고 있습니다. 이에 따라 미국 내 휘발유 평균 가격도 갤런당 4달러를 다시 넘어섰습니다. 예멘 후티 반군의 사우디 해상 봉쇄 선언 또한 유가 상승 압력을 가중시키고 있습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-world-cup-final.html"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260721006200072"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260720171800072"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html"
+              "url": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "앤드류·트리스탄 테이트 형제, 성범죄 혐의로 미국에서 체포",
-          "summary": "논란의 인플루언서 앤드류 테이트와 그의 형제 트리스탄이 영국 당국의 새로운 성범죄 혐의 38건으로 미국에서 체포되었습니다. 이들 형제는 강간, 성매매, 아동 외설 이미지 등 총 59건의 혐의를 받고 있으며, 영국 검찰은 이들에 대한 인도를 추진하고 있습니다.",
+          "title": "미 법무부, 하버드대 재정 지원 프로그램 차별 여부 조사 착수",
+          "summary": "미국 법무부가 하버드 대학의 일부 재정 지원 프로그램이 미국 시민권 학생들을 배제하는지 여부를 판단하기 위한 조사에 착수했습니다. 이는 도널드 트럼프 행정부의 하버드 대학에 대한 최신 조사이며, 하버드 대학은 이전에 트럼프 행정부의 조사를 '보복적 조치'로 간주한 바 있습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/us-arrests-tate-brothers-as-uk-piles-on-new-rape-and-trafficking-charges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3361270/us-justice-department-investigating-whether-harvard-aid-programmes-are-discriminatory?utm_source=rss_feed"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "사회"
         }
       ]
@@ -173,59 +174,46 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "일본, 캄보디아에 방위 장비 제공 및 중국 인지전 대응 강화",
-          "summary": "일본 정부는 공식 안보 지원 프로그램을 통해 캄보디아군에 순찰선과 통신 장비를 제공할 예정입니다. 한편, 일본 방위성 및 자위대 고위 관계자들은 X(구 트위터) 계정을 개설하여 중국의 인지전에 대응하고 정확한 정보를 신속히 전파하려는 노력을 강화하고 있습니다.",
+          "title": "필리핀, 중국 해경의 해군 부상 보고…남중국해 긴장 격화 속 외교장관 회담 예정",
+          "summary": "필리핀은 중국 해안경비대원이 남중국해에서 필리핀 해군 대원을 몽둥이로 공격해 심각한 머리 부상을 입혔다고 주장하며 긴장이 고조되고 있습니다. 중국은 필리핀이 사실을 왜곡하고 도발을 중단하라고 촉구했습니다. 이러한 충돌 속에서도 양국 외교장관은 이번 주 아세안(ASEAN) 외교장관 회의에서 만날 예정입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/19/japan/japan-patrol-boats-cambodia/"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/politics/international-relations/japan-to-grant-army-communications-gear-and-patrol-boats-to-cambodia"
+              "url": "https://www.japantimes.co.jp/news/2026/07/21/asia-pacific/philippines-sailor-china-coast-guard/"
             },
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/19/japan/sdf-x-accounts/"
+              "url": "https://www.japantimes.co.jp/news/2026/07/20/asia-pacific/china-philippines-envoys-meet/"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "대만 총통, '대만은 이미 독립국가' 선언하며 중국에 경고",
-          "summary": "라이칭더 대만 총통은 대만이 이미 독립 국가이며 중국의 일부가 되어서는 안 된다고 선언했습니다. 그는 민진당 동지들에게 베이징발 '붉은 테러'에 반대하고 민주적 생활 방식을 지켜야 한다고 촉구하며, 중국의 '법률 전쟁'과 허위 정보 공격에 대한 경계를 강조했습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/19/asia-pacific/politics/democratic-taiwan-lai-ching-te/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "중국 AI 기업 문샷 AI, IPO 계획 및 홍콩 증시 상장 추진",
-          "summary": "중국의 AI 기업 문샷 AI가 최신 AI 모델의 성공적인 출시 이후 6개월 이내 홍콩 증시 상장을 추진할 계획입니다. 문샷 AI는 현재 300억 달러 이상의 기업 가치로 투자 유치 단계를 마무리 중인 것으로 알려졌습니다.",
+          "title": "트럼프 관세, 일본 자동차 업계 타격 및 중국 대두 시장 변화",
+          "summary": "트럼프 행정부의 고관세 정책으로 일본 자동차 제조업체들이 막대한 비용 부담을 안고 있으며, 특히 2025 회계연도에 6개 주요 일본 자동차 기업의 관세 합산 비용이 2조 4천억 엔을 초과했습니다. 한편, 중국의 대두 수입 시장에서는 브라질산이 미국의 점유율을 크게 앞서며 무역 환경의 변화를 보여주고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/07/19/tech/china-moonshot-ai-ipo/"
+              "url": "https://www.japantimes.co.jp/business/2026/07/20/trump-tariffs-japan-automakers/"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3361269/brazil-widens-lead-chinas-soybean-market-us-shipments-fall-despite-trump-xi-deal?utm_source=rss_feed"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "홍콩 과학기술연구원, AI와 신소재 기술 융합 연구 성과 발표",
-          "summary": "홍콩 과학기술연구원(ASTRI)은 나노 및 첨단 재료 연구소(NAMI)와의 합병 이후 인공지능(AI)과 첨단 재료 기술의 융합 연구에서 구체적인 성과를 내기 시작했습니다. 이 통합을 통해 연구원들은 ICT 역량과 재료 전문 지식이 서로를 강화할 수 있는 분야를 식별하고 로봇 및 센싱 기술 분야에서 더욱 강력한 솔루션을 도출했습니다.",
+          "title": "미국, 중국의 쿠바 내 정보 수집 시설 운영 주장",
+          "summary": "미국은 중국이 쿠바에 3개의 정보 수집 시설을 운영하며 미국 군사 활동을 감시하고 있다고 주장했습니다. 미 국무부 보고서에 따르면 중국은 쿠바에 '지속적인 정보 수집 활동'을 유지하고 있으며, 이는 미국의 전자 통신, 군사 시설 및 해상 활동에 접근할 수 있는 잠재력을 제공한다고 합니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/presented/news/hong-kong/topics/astri-merger-drives-hybrid-tech/article/3360639/astri-and-nami-merger-begins-yielding-hybrid-ai-and-materials-technologies?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3361264/us-claims-3-china-linked-spy-sites-cuba-monitoring-american-military-activity?utm_source=rss_feed"
             }
           ],
           "verification": "single",
@@ -240,20 +228,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아, 우크라이나 도시에 대규모 미사일 공격 감행",
-          "summary": "러시아가 우크라이나 수도 키이우를 포함한 여러 도시에 대규모 미사일 및 드론 공격을 감행하여 최소 8명이 사망하고 수십 명이 부상당했습니다. 우크라이나 공군에 따르면 러시아는 41발의 미사일과 125대의 공격 드론을 발사했으며, 대부분이 키이우를 겨냥한 것으로 알려졌습니다. 이번 공격은 특히 탄도 미사일 공격이 집중되었습니다.",
+          "title": "러시아 흑해 상선 공격 강화, 우크라이나 징집관 폭력 사태 증가",
+          "summary": "러시아가 흑해에서 상선에 대한 공격을 강화하여 우크라이나 오데사 해안의 화물선 피격으로 10명이 사망했습니다. 이와 동시에 우크라이나에서는 병력 충원 어려움으로 징집관에 대한 폭력 사태가 증가하고 있으며, 국영 경찰 보고서에 따르면 600건 이상의 폭행 사건이 기록되었습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/07/19/world/russia-kyiv-ballistic-missiles-air-war/"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -261,20 +249,20 @@
         },
         {
           "tag": "pol",
-          "title": "헝가리 대통령 사임, 독일 정부 개각 가능성 언급",
-          "summary": "헝가리 타마스 술요크 대통령이 헌법 개정안 서명 후 사임에 동의했습니다. 이 개정안은 페테르 마자르 총리의 티서당이 주도하여 통과되었으며, 사회의 '심각한 신뢰 상실'을 이유로 술요크 대통령의 임기를 즉시 종료시켰습니다. 한편, 독일에서는 옌스 슈판 의회 원내대표의 사임 후 프리드리히 메르츠 총리가 내각 개편 가능성을 시사했습니다.",
+          "title": "헝가리 총리, 체스 챔피언에 대통령직 제안했으나 거절",
+          "summary": "헝가리 페테르 마자르 총리가 체스 챔피언 주디트 폴가르에게 헝가리 대통령직을 제안했으나, 그녀는 분열된 국가를 통합할 역사적 책임을 맡을 힘이 없다고 밝히며 제안을 거절했습니다. 이는 오르반 총리의 강경 노선 시대와의 단절을 약속한 마자르 총리의 '정권 교체' 추진에 영향을 미 미칠 것으로 보입니다.",
           "sources": [
             {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3361262/chess-champion-judit-polgar-rejects-offer-become-hungarys-president?utm_source=rss_feed"
+            },
+            {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+              "url": "https://www.theguardian.com/world/2026/jul/20/peter-magyar-judit-polgar-president-hungary-chess-prodigy-strategic-move"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/07/19/german-chancellor-merz-hints-at-possible-cabinet-reshuffle-after-top-cdu-figure-resigns"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/friedtich-merz-floats-government-reshuffle-after-top-conservatives-resignation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "http://www.euronews.com/my-europe/2026/07/20/chess-legend-judit-polgar-rejects-offer-to-become-hungarys-president"
             }
           ],
           "verification": "multi",
@@ -282,33 +270,37 @@
         },
         {
           "tag": "eco",
-          "title": "EU 신규 국경 시스템 도입으로 여권 심사 시간 증가 우려",
-          "summary": "유럽연합(EU)의 새로운 디지털 출입국 시스템(EES) 도입으로 비EU 시민의 여권 심사 시간이 거의 세 배 가까이 늘어났다는 보고가 나왔습니다. 로마 주요 공항 관계자는 개선에도 불구하고 대기 시간이 길어졌다고 밝혔으며, 라이언에어는 유럽 여행객들에게 추가 시간을 할애하고 긴 대기 시간을 준비하라고 경고했습니다.",
+          "title": "EU, 기업 로비에도 메탄 배출 규제 완화 제안",
+          "summary": "유럽연합 집행위원회가 에너지 기업들의 강력한 로비에도 불구하고 메탄 배출 규제 완화를 제안했습니다. EU는 내년부터 발효될 새로운 메탄 배출 추적 의무를 기업들이 제때 준수하기 어려울 것이라는 주장에 대해 회의적인 입장을 보이며, 공급 충격 경고를 '늑대소년식' 경고로 보고 있습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/07/20/brussels-proposes-easing-methane-penalties-after-heavy-lobbying-from-industry"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-bets-fossil-fuel-lobby-is-crying-wolf-over-supply-shock-warnings/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "페루 안데스 산악 지대 규모 5.5 지진 발생, 최소 5명 사망",
-          "summary": "페루 중부 안데스 산악 지대에서 현지시간 19일 오후 9시 24분경 규모 5.5의 지진이 발생하여 현재까지 최소 5명이 사망하고 20명 이상이 부상당했습니다. 진앙은 후닌주 우앙카요 지역 시카야시 서남쪽 2km 지점이며, 진원의 깊이는 10km로 파악되었습니다. 약 300명의 이재민이 발생했으며, 지역 교회와 여러 건물이 무너지는 등 큰 피해가 발생했습니다.",
+          "title": "스페인, 월드컵 우승으로 국가적 축제 분위기",
+          "summary": "스페인이 2026 월드컵 결승전에서 아르헨티나를 1대0으로 꺾고 우승을 차지했습니다. 이로써 스페인은 남자와 여자 월드컵에서 동시에 우승한 최초의 국가가 되었으며, 지난 5년간 총 16개의 세계 및 유럽 타이틀을 획득하며 축구 강국의 면모를 과시했습니다. 마드리드를 비롯한 전국에서 수백만 명의 팬이 거리로 나와 우승을 축하했습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202607200722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/americas/article/3361124/least-6-dead-21-injured-after-2-earthquakes-hit-peru?utm_source=rss_feed"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -323,12 +315,33 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "모기 확산으로 인한 질병 예방에 모니터링 중요성 부각",
-          "summary": "기후 변화로 인해 모기 서식지가 확장되면서 뎅기열, 지카 바이러스와 같은 질병 전파 위험이 증가하고 있습니다. 특히 미국 뉴잉글랜드와 같은 과거 온대 지역에서도 아시아 호랑이 모기와 같은 침입종이 발견되어, 질병 예방을 위한 모니터링 프로그램의 중요성이 강조되고 있습니다.",
+          "title": "EU, AliExpress에 불법 상품 판매로 기록적 벌금 부과",
+          "summary": "유럽연합 집행위원회가 중국 온라인 소매업체 AliExpress에 플랫폼에서 불법 및 유해 상품 판매를 막지 못한 혐의로 기록적인 5억 5천만 유로의 벌금을 부과했습니다. 이번 벌금은 디지털 서비스법(DSA)에 따른 EU 집행위의 최대 부과액으로, AliExpress는 결정이 불균형하다고 보고 항소할 것이라고 밝혔습니다.",
           "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
+              "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "AI 음악 생성기, 소니뮤직 저작권 침해로 피소",
+          "summary": "소니뮤직엔터테인먼트가 AI 음악 생성기 우디오(Udio)를 상대로 자사 음악 3만 곡 이상의 저작권을 침해했다며 새로운 소송을 제기했습니다. 이는 엘비스 프레슬리부터 비욘세, 해리 스타일스에 이르는 다양한 아티스트의 곡을 포함하며, 소니는 우디오가 유튜브 등에서 방대한 양의 사운드 레코딩을 학습 데이터로 사용했다고 주장합니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
             }
           ],
           "verification": "single",
@@ -336,25 +349,12 @@
         },
         {
           "tag": "tec",
-          "title": "흔한 항우울제 플루복사민, 장기 코로나 피로 증상 완화에 효과",
-          "summary": "맥마스터 대학이 공동 주도한 국제 임상 시험 결과, 흔히 사용되는 저렴한 항우울제인 플루복사민이 장기 코로나로 인한 피로 증상 완화에 유의미한 효과를 보였습니다. 399명의 성인을 대상으로 한 연구에서 플루복사민은 위약 대비 피로를 현저히 줄이고 삶의 질을 개선하여, 이 증상에 대한 몇 안 되는 효과적인 치료법 중 하나로 주목받고 있습니다.",
+          "title": "'영원한 화학 물질' PFAS 파괴할 두 가지 새 방법 발견",
+          "summary": "과학자들이 '영원한 화학 물질'로 불리는 PFAS(과불화화합물)를 물에서 파괴할 수 있는 두 가지 강력한 새로운 방법을 발견했습니다. 독일 헬름홀츠-젠트룸 드레스덴-로센도르프(HZDR) 연구팀은 수력학적 공동현상(cavitation)과 냉 플라즈마-가스 분산 기술을 통해 PFAS 분자를 분해하고 불소 이온을 방출하는 데 성공했습니다. 이 기술들은 향후 산업 폐수 처리 등 환경 오염 해결에 기여할 것으로 기대됩니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "공룡 멸종 유발 운석, 희귀한 CO 콘드라이트였음 규명",
-          "summary": "6천6백만 년 전 공룡 멸종을 일으킨 운석이 태양계 먼 지역에서 온 매우 희귀한 CO 콘드라이트 유형이었을 가능성이 높다는 연구 결과가 나왔습니다. 이 운석의 특이한 화학적 구성은 운석 자체의 유황보다 대기로 방출된 미세 잔해가 행성을 냉각시켜 치명적인 영향을 미 미쳤을 것이라는 점을 시사합니다.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm"
             }
           ],
           "verification": "single",

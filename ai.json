@@ -1,19 +1,46 @@
 {
-  "date": "2026-07-20",
-  "date_str": "2026년 7월 20일 (월)",
+  "date": "2026-07-21",
+  "date_str": "2026년 7월 21일 (화)",
   "highlights": [
-    "엔비디아 CEO의 일본 방문으로 AI 공장 건설 및 로봇 분야 협력 등 대규모 투자가 발표되었습니다.",
-    "애플의 소송이 오픈AI의 하드웨어 출시 및 상장 계획에 차질을 줄 수 있다는 논쟁이 제기되었습니다.",
-    "크리스토퍼 놀란 감독은 AI를 '트로이 목마'에 비유하며 기술에 대한 대중의 회의론을 강조했습니다.",
-    "비영리 단체 Current AI는 비영어권 지역을 위한 AI 인프라 구축에 박차를 가하고 있습니다.",
-    "Suno로 제작된 AI 음악 'Semiramis’ Dream'이 긍정적인 평가를 받으며 생성형 AI 음악의 가능성을 보여주었습니다."
+    "구글, 제미니 효율 높이는 새 AI 칩 '프로즌 v2' 개발 중",
+    "트럼프 행정부, AI 정책 인사 잦은 교체…CAISI 책임자 사임",
+    "어도비, AI 활용 사진 분석 및 배경 제거 기능 카메라 앱에 추가",
+    "유튜브, AI 생성 및 저품질 영상 수익 창출 기준 정책 명확화",
+    "소니 뮤직, AI 음악 생성기 Udio 상대로 3만 곡 이상 저작권 침해 소송 제기"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": []
+      "stories": [
+        {
+          "title": "어도비, AI 기반 카메라 앱 새 기능 공개",
+          "summary": "어도비가 실험적인 iOS 카메라 앱 '프로젝트 인디고'에 새로운 AI 기반 기능을 추가했다. 이 기능들은 LLM을 활용해 사진을 비평하고 편집을 제안하며, 고급 개체 제거 및 피사계 심도 생성 기능을 제공한다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "X(트위터), 안드로이드 앱 전면 재구축 후 재출시",
+          "summary": "X(트위터)가 1년간의 재구축 작업을 거쳐 안드로이드 앱을 전 세계에 다시 출시했다. 새로 개발된 앱은 로딩, 스크롤링, 알림 등에서 개선된 성능을 제공하며, 향후 새로운 기능을 빠르게 추가할 수 있는 기반을 마련했다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
     },
     {
       "name": "연구·논문",
@@ -21,12 +48,29 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "AI 기반 스마트 조류 피더, 할인 판매로 보급 확대",
-          "summary": "AI 기반 스마트 조류 피더인 Birdfy가 할인 판매를 통해 보급을 확대하며 AIoT(인공지능 사물인터넷) 분야의 소비자 기술 발전 동향을 보여줍니다. 이 피더는 1080p 카메라와 AI 조류 식별 기능을 통해 6,000종 이상의 새를 인식하며, 태양광 패널로 자동 충전됩니다.",
+          "title": "AI, 채용 과정에서 인간보다 쉽게 편견 형성 가능성",
+          "summary": "새로운 연구에 따르면 AI는 훈련 데이터에서 인간의 편견을 학습하는 것을 넘어, 경험을 통해 자체적인 편견을 개발하여 채용 지원자를 인간보다 더 많이 고정관념화할 수 있다. 이는 특히 사용자에 대한 미세한 정보까지 기억하는 에이전트 모델 개발 경쟁 속에서 우려를 키우고 있다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "의료 분야 특화 LLM 'Cura 1T' 제안",
+          "summary": "의료 분야의 높은 전문성을 요구하는 소통, 추론, 워크플로우를 아우르는 특수 LLM 'Cura 1T'가 제안되었다. 이 모델은 인간 주도 자가 진화 루프를 통해 훈련되었으며, 환자 상담, 임상 추론, 진단, EHR 도구 사용 등 다양한 의료 활용 사례를 처리하도록 설계되었다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2607.15314"
             }
           ],
           "verification": "single",
@@ -34,12 +78,25 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "Suno AI 음악 'Semiramis’ Dream' 긍정적 평가",
-          "summary": "Suno로 제작된 AI 음악 'Semiramis’ Dream'이 긍정적인 평가를 받으며 생성형 AI 음악의 발전과 수용 가능성에 대한 논의를 촉발했습니다. 아티스트 1010Benja는 자신의 EP에 Suno를 사용했음을 밝혔으며, AI의 결과물을 반복적으로 편집하고 재입력하는 방식으로 곡을 완성했습니다.",
+          "title": "데스크톱용 로컬 멀티 에이전트 음성 비서 AnovaX 개발",
+          "summary": "데스크톱에서 로컬로 작동하는 새로운 멀티 에이전트 음성 비서 'AnovaX'가 개발되었다. 이 비서는 LLM 기반 계획, 유형화된 실행기, 적응형 복구 기능을 사용하여 앱 실행, 타이핑, 검색, 동시 작업 조정 등을 사용자 컴퓨터 내에서 수행한다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2607.15367"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "모바일 GUI 에이전트 안전 프레임워크 SeerGuard 제안",
+          "summary": "모바일 GUI 에이전트의 안전 문제를 해결하기 위해 세계 모델 예측 기반의 안전 프레임워크 'SeerGuard'가 제안되었다. 이 프레임워크는 실행 전 지시 및 행동 수준에서 위험을 평가하여 잠재적 위험을 완화하도록 설계되었다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2607.15550"
             }
           ],
           "verification": "single",
@@ -54,12 +111,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "엔비디아, 일본 AI 생태계에 대규모 투자 발표",
-          "summary": "엔비디아 젠슨 황 CEO의 일본 방문을 통해 일본 정부와 산업계 전반에 걸친 대규모 AI 산업 투자 및 협력 계약이 발표되었습니다. 일본은 1조 엔(약 62억 달러)을 투자하여 자체 '국가 AI 공장'을 건설하고, 엔비디아와 협력하여 로봇 및 제조 분야의 AI 모델을 개발할 예정입니다.",
+          "title": "구글, 제미니 효율 높일 새 AI 칩 개발 중",
+          "summary": "구글의 모회사 알파벳이 자사 제미니 모델의 효율성을 높이기 위해 새로운 서버 칩을 개발 중인 것으로 알려졌다. '프로즌 v2'라는 코드명의 이 칩은 2028년경 출시될 예정이며, 기존 구글 AI 칩보다 6~10배 더 효율적일 것으로 예상된다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+              "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
             }
           ],
           "verification": "single",
@@ -67,12 +124,12 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "비영리 Current AI, 'AI의 월드 와이드 웹' 구축 추진",
-          "summary": "비영리 단체 Current AI가 특정 문화에 편향되지 않는 AI를 구축하여 'AI의 월드 와이드 웹'을 만드는 데 상당한 진전을 이루고 있습니다. 이 단체는 인도 정부의 AI 언어 부서와 협력하여 22개 인도 언어를 지원하는 오프라인 AI 기기를 출시했으며, 프랑스 정부 및 여러 재단으로부터 4억 달러의 자금을 확보했습니다.",
+          "title": "엔비디아, 황 젠슨 CEO 일본 방문 후 협력 확대",
+          "summary": "젠슨 황 엔비디아 CEO의 일본 방문 이후, 엔비디아가 일본 전반의 기술 생태계와 여러 협력 계약을 체결했다. 일본의 자체 AI 개발 프로젝트 '노에트라'를 위한 AI 팩토리 구축, 주요 로봇 기업들과의 파트너십, 칩 소재 공급업체와의 계약 등이 포함된다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
+              "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
             }
           ],
           "verification": "single",
@@ -87,12 +144,29 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "애플 소송, 오픈AI 하드웨어 출시 및 상장에 영향 미칠까",
-          "summary": "애플이 오픈AI를 영업 비밀 침해로 고소한 사건이 오픈AI의 하드웨어 출시 및 상장 계획에 미칠 영향에 대한 논쟁이 진행 중입니다. 법적 공방이 오픈AI의 제품 개발 및 사업 확장에 지연을 초래할 수 있다는 우려가 제기되고 있습니다.",
+          "title": "트럼프 행정부 AI 정책 인사 잦은 교체",
+          "summary": "도널드 트럼프 행정부의 AI 표준혁신센터(CAISI) 크리스 팔(Chris Fall) 소장이 사임하는 등 AI 정책 인사의 잦은 교체가 이어지고 있다. 팔 소장은 3개월 전 임명되었으며, 이전에도 콜린 번스, 데이비드 색스 등 여러 인사가 단기간 내에 직책을 떠났다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+              "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "유튜브, AI 생성·저품질 영상 수익 창출 기준 명확화",
+          "summary": "유튜브가 AI 생성 및 저품질 비디오의 수익 창출 기준에 대한 정책을 명확히 했다. 새로운 지침은 일반적이고 반복적이거나 템플릿 기반 콘텐츠, 불쾌하거나 고통을 주는 콘텐츠, AI 페르소나를 사용하여 민감한 주제를 다루는 콘텐츠를 수익 창출 불가 범주로 분류한다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
             }
           ],
           "verification": "single",
@@ -100,12 +174,25 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "크리스토퍼 놀란, AI를 '명백한 트로이 목마'로 비유",
-          "summary": "영화감독 크리스토퍼 놀란이 AI 기술의 잠재적 위험성에 대한 우려를 표명하며 AI를 '모두가 그리스인이 안에 있다는 것을 아는 트로이 목마'에 비유했습니다. 그는 특히 젊은 세대의 AI에 대한 깊은 회의론을 '매우 건강한 회의론'으로 평가했습니다.",
+          "title": "오픈웨이트 모델 위험 우려, AI 기업 비즈니스 모델 논의 활발",
+          "summary": "오픈웨이트 모델의 잠재적 위험에 대한 우려가 제기되며, AI 기업의 비즈니스 모델과 규제에 대한 논의가 활발하다. 특히 중국의 문샷(Moonshot)이 개발한 오픈웨이트 대규모 언어 모델 '키미 K3'의 인상적인 기능이 미국 AI 기업의 자본 지출에 미칠 영향과 정부의 규제 필요성에 대한 논쟁을 촉발했다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+              "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "소니 뮤직, AI 음악 생성기 Udio에 저작권 침해 소송 제기",
+          "summary": "소니 뮤직 엔터테인먼트가 AI 음악 생성기 Udio를 상대로 3만 곡 이상의 저작권 침해 소송을 제기했다. 소니는 Udio가 자사 소유의 광범위한 곡들을 무단으로 복제하여 생성 AI 모델 학습에 사용했다고 주장하며, 저작권 침해 중단 및 곡당 최대 15만 달러의 손해배상을 요구하고 있다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
             }
           ],
           "verification": "single",
