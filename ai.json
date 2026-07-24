@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-24",
-  "date_str": "2026년 7월 24일 (금)",
+  "date": "2026-07-25",
+  "date_str": "2026년 7월 25일 (토)",
   "highlights": [
-    "Anthropic, Claude 음성 모드를 Opus, Sonnet 모델로 확장하며 앱 연동 및 다국어 지원 강화",
-    "AMD, 엔비디아에 도전하는 Helios AI 시스템 출시 및 Anthropic에 최대 50억 달러 투자 계약 체결",
-    "OpenAI, ChatGPT Health를 미국 전역에 공개하며 개인 건강 데이터 통합 기능 제공",
-    "Runway, 생성형 미디어 시장의 모델 선택 자동화를 위한 AI 미디어 라우터 출시",
-    "Google Gemini 사용자 9.5억 명 돌파, AI 투자 확대로 첫 분기 마이너스 현금 흐름 기록"
+    "Anthropic, 더 저렴하고 덜 제한적인 차세대 모델 Opus 5 출시",
+    "리드 호프만과 마크 핀커스가 공동 설립한 AI 연구소 프렌티스, 1억 달러 투자 유치",
+    "미드저니, 점성술 앱 코스타 인수하며 사업 확장",
+    "OpenAI, ChatGPT 데스크톱 앱에 음성 모드 통합",
+    "AMD, 엔비디아에 도전하는 랙 스케일 AI 시스템 '헬리오스' 연내 출하 예정"
   ],
   "sections": [
     {
@@ -15,16 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "Anthropic, Claude 음성 모드 확장 및 앱 연동 강화",
-          "summary": "Anthropic이 Claude의 음성 모드를 Opus 및 Sonnet 모델로 확장했습니다. 이 업데이트를 통해 사용자들은 Gmail, Slack, Canva 등 다른 앱과 연동하여 이메일 초안 작성이나 회의 시간 조정 같은 작업을 음성으로 지시할 수 있게 되었습니다. 또한 한국어를 포함한 다국어 지원이 정식 출시되었습니다.",
+          "title": "Anthropic, 저렴하고 덜 제한적인 Opus 5 출시",
+          "summary": "Anthropic이 새로운 차세대 모델 Opus 5를 출시했습니다. Opus 5는 기존 Fable 모델보다 저렴하고 규제가 적으면서도 여러 벤치마크에서 Fable 5와 유사하거나 더 나은 성능을 보여, 대부분의 활용 사례에서 선호될 것으로 예상됩니다. 특히, Fable 및 Mythos에 적용되는 30일 데이터 보존 정책에서 자유롭습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+              "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
             }
           ],
           "verification": "multi",
@@ -32,12 +36,12 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Runway, 생성형 미디어 위한 AI 모델 라우터 출시",
-          "summary": "Runway는 개발자 플랫폼 Runway Dev를 통해 'Runway 미디어 라우터'를 출시했습니다. 이 도구는 개발자가 품질, 속도, 비용 등 우선순위에 따라 요청에 가장 적합한 이미지, 비디오, 오디오 생성 모델을 자동으로 선택해줍니다. 이는 생성형 미디어 분야 최초의 모델 라우터입니다.",
+          "title": "OpenAI, ChatGPT 데스크톱 앱에 음성 모드 통합",
+          "summary": "OpenAI가 ChatGPT 데스크톱 앱에 ChatGPT Voice를 통합하여 사용자가 음성으로 AI 에이전트를 제어하고 작업을 수행할 수 있도록 업데이트했습니다. 이 기능은 OpenAI의 새로운 음성 모델인 ChatGPT-Live를 활용하며, ChatGPT Work 및 Codex와 연동되어 웹사이트 및 앱 검색도 가능합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+              "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
             }
           ],
           "verification": "single",
@@ -45,12 +49,12 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Amazon Alexa Plus, AI 업데이트로 스마트 홈 연동 강화",
-          "summary": "아마존이 Alexa Plus에 AI 업데이트를 적용하여 스마트 홈 기기 연결 및 복잡한 명령 처리 능력을 향상했습니다. 이제 Alexa Plus는 Bosch, Delta, Ecovacs 등 다양한 브랜드의 스마트 홈 기기와 연동되며, 사용자가 세탁기 냉수 세탁과 같은 특정 조건을 음성으로 지시할 수 있습니다. 또한 Model Context Protocol (MCP) 표준을 채택하여 더 많은 브랜드의 통합을 지원할 예정입니다.",
+          "title": "Bluesky AI 비서 Attie, 오픈 소셜 연구 도구로 확장",
+          "summary": "Bluesky의 AI 비서 Attie가 '퀘스트(Quests)' 기능을 추가하여 오픈 소셜 연구 도구로 확장됩니다. 사용자들은 이 기능을 통해 Bluesky와 AT Protocol 기반 앱에서 확산되는 뉴스, 트렌드, 대화에 대한 정보를 Attie에게 질문할 수 있게 됩니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
             }
           ],
           "verification": "single",
@@ -65,12 +69,29 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "LLM 서빙 워크로드 분석 FineServe 데이터셋 공개",
-          "summary": "LLM의 효율적인 서빙을 위한 FineServe 데이터셋 및 특성 분석 논문이 arXiv에 발표되었습니다. 이 데이터셋은 글로벌 상업 시장에서 수집된 실제 멀티모델 LLM 서빙 워크로드를 상세하게 분석하며, 모델 아키텍처, 규모, 작업 의도에 따른 도착 역학 및 토큰 행동의 근본적인 차이를 밝혀냅니다. FineServe는 라우팅, 스케줄링 및 용량 계획 전략 평가를 위한 현실적인 기반을 제공합니다.",
+          "title": "MIT 연구진, 체외 장기 보존 혁신 연구",
+          "summary": "MIT 연구진이 인체 외부에서 장기를 보존하는 새로운 방법을 연구하고 있습니다. 돼지 신장을 영하 4도에서 며칠간 보존 후 성공적으로 이식하는 데 성공했으며, 이는 장기 이식 부족 문제를 해결하고 장기 은행을 구축하는 데 기여할 잠재력을 보여줍니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19349"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "AlphaFold AI 활용 유전자 편집 단백질 재설계 연구",
+          "summary": "연구팀이 Google의 AlphaFold AI를 활용하여 유전자 편집 단백질을 재설계하여 안전성을 높이는 연구를 진행했습니다. 이 연구는 유전자 편집 시스템의 '오프 타겟 효과'를 최소화하기 위해 AlphaFold를 이용해 핵심 영역을 식별하고 수정하여, 유전자 편집 치료의 안전성 개선에 기여할 것으로 기대됩니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
             }
           ],
           "verification": "single",
@@ -78,59 +99,20 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "하이브리드 LSTM-그래프 신경망 금융 사기 탐지 프레임워크",
-          "summary": "금융 사기 탐지 및 적대적 탄력성을 위한 하이브리드 LSTM-그래프 신경망 프레임워크 'FraudShield AI'에 대한 연구가 arXiv에 발표되었습니다. 이 프레임워크는 LSTM 네트워크와 그래프 토폴로지 특성을 통합하여 시계열 및 관계형 맥락을 모두 파악하며, 데이터 불균형 및 진화하는 회피 전술에 대응하여 기존 모델보다 뛰어난 성능을 보입니다.",
+          "title": "AI 에이전트 및 LLM 연구의 다양한 진보",
+          "summary": "최근 발표된 여러 논문들은 AI 에이전트 및 LLM 연구의 다양한 진보를 다룹니다. 자율 테스트 관리, LLM 워터마킹의 의료 텍스트 영향 평가, 클릭베이트 뉴스 탐지 및 방지, TPU 커널 최적화 등에 대한 연구가 진행되어 AI의 실용적 적용과 안전성 증진에 기여하고 있습니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19350"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "오픈월드 다중 에이전트 시스템 공격 방어 연구",
-          "summary": "오픈월드 다중 에이전트 시스템 공격에 대한 지속적인 방어 프레임워크 'OpenEvoShield'에 대한 연구가 arXiv에 발표되었습니다. 이 프레임워크는 동적으로 변화하는 공격 전략과 에이전트 행동에 대응하기 위해 비대칭 학습률 제어기, 동적 행동 경계 업데이트, 그리고 EWC-정규화 정책 앙상블을 결합하여 기존 방어 모델보다 우수한 성능을 보입니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19351"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "NVIDIA, 의료 로봇용 '물리적 AI' 시뮬레이션 프레임워크 발표",
-          "summary": "엔비디아가 의료 로봇의 데이터 문제를 해결하기 위해 '의료 물리 시뮬레이션' 프레임워크를 오픈소스로 공개했습니다. 이 프레임워크는 의료 로봇을 실제 경험을 통해 학습하는 '물리적 AI' 시스템으로 간주하며, 수술 또는 진단 로봇이 실제 임상 환경에서 수년간 겪을 수 있는 다양한 물리적 상호작용을 시뮬레이션하여 개발 시간을 단축합니다.",
-          "sources": [
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "기밀 GPU 추론 벤치마킹 등 다양한 AI 연구 논문 발표",
-          "summary": "arXiv에 다양한 AI 연구 논문이 발표되었습니다. 주요 내용은 다음과 같습니다: NVIDIA H100 GPU에서 Intel TDX를 활용한 기밀 GPU 추론 벤치마킹 연구, 도구 활용 LLM 에이전트의 구조화된 런타임 안전을 위한 NEXUS 연구, 그리고 효율적인 장문 컨텍스트 추론을 위한 선형 색인 희소 어텐션(LISA) 연구가 포함됩니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19353"
+              "url": "https://arxiv.org/abs/2607.20452"
             },
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19356"
+              "url": "https://arxiv.org/abs/2607.20462"
             },
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2607.19358"
+              "url": "https://arxiv.org/abs/2607.20463"
             }
           ],
           "verification": "single",
@@ -145,63 +127,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "AMD, 엔비디아 겨냥 Helios AI 시스템 출시 및 Anthropic 투자",
-          "summary": "AMD가 엔비디아에 도전하기 위해 'Helios AI 랙 스케일 시스템'을 출시하고 Anthropic과 최대 50억 달러 규모의 AI 인프라 계약을 체결했습니다. Helios는 세계 최대 AI 연구소의 컴퓨팅 요구 사항을 충족하도록 설계되었으며, Anthropic은 이 시스템을 통해 최대 2기가와트의 GPU 용량을 배포할 예정입니다. AMD는 Microsoft, OpenAI, Meta 등 주요 AI 기업들을 고객으로 확보했습니다.",
+          "title": "새로운 AI 연구소 Prentis, 1억 달러 투자 유치",
+          "summary": "리드 호프만과 마크 핀커스가 공동 설립한 새로운 AI 연구소 Prentis가 1억 달러 투자를 유치했습니다. Prentis는 사무직의 일상적인 컴퓨터 작업 자동화에 주력하는 AI 에이전트 개발을 목표로 하며, 이미 여러 고객과 5천만 달러 규모의 계약을 체결했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-            },
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "OpenAI, ChatGPT Health 미국 전역 서비스 시작",
-          "summary": "OpenAI가 ChatGPT Health를 미국 내 모든 18세 이상 사용자에게 공개했습니다. 이 기능은 사용자가 Apple Health, Epic, Oracle Health 등에서 개인 건강 데이터를 통합하여 건강 관련 질의에 대한 맞춤형 답변을 얻을 수 있도록 합니다. OpenAI는 모델이 건강 관련 질문에 대한 답변 능력이 향상되었다고 밝혔으나, 의료 조언은 전문가의 확인을 거쳐야 한다고 강조했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Google Gemini 사용자 9.5억 명 육박, AI 투자로 마이너스 현금 흐름",
-          "summary": "Google의 AI 어시스턴트 Gemini의 월간 활성 사용자 수가 9억 5천만 명을 넘어섰습니다. 이는 전년 대비 3배 증가한 수치로, OpenAI의 ChatGPT와 경쟁 구도를 형성하고 있습니다. 한편, Google은 AI 인프라 구축에 대한 대규모 투자로 2026년 2분기에 사상 첫 분기 마이너스 현금 흐름인 58억 달러를 기록했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "AI 칩 스타트업 Etched, 103억 달러 기업 가치 달성",
-          "summary": "AI 칩 스타트업 Etched가 Sequoia가 주도한 시리즈 C 펀딩 라운드에서 3억 달러를 유치하며 기업 가치 103억 달러를 달성했습니다. Etched는 엔비디아 GPU 없이 AI 추론 속도를 높이는 새로운 칩 시스템을 개발했으며, 이미 10억 달러 상당의 주문을 확보했다고 밝혔습니다. 이 회사는 특정 LLM에만 작동한다는 인식을 깨고 다양한 AI 모델을 지원한다고 설명했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+              "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
             }
           ],
           "verification": "single",
@@ -209,12 +140,42 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "IBM, AI 영향으로 메인프레임 판매 부진 해명",
-          "summary": "IBM이 예상치를 밑도는 2026년 2분기 실적을 발표하며, 주력 사업인 메인프레임 판매가 42% 감소했다고 밝혔습니다. IBM 경영진은 이를 일시적인 현상으로 설명하며, AI 인프라 구축 붐으로 인한 데이터 센터 장비 및 PC 부품 가격 상승 때문에 고객사들이 메인프레임 구매 예산을 다른 하드웨어로 전환했다고 해명했습니다. 그러나 고객들이 메인프레임을 떠나고 있다는 증거는 없다고 강조했습니다.",
+          "title": "Midjourney, 점성술 앱 Co-Star 인수하며 사업 확장",
+          "summary": "LLM 기반 이미지 및 비디오 생성으로 알려진 AI 연구소 Midjourney가 점성술 앱 Co-Star를 인수했습니다. 이번 인수를 통해 Midjourney는 이미지 및 비디오 생성 외 다른 분야로 사업 영역을 확장하며, Co-Star 팀은 Midjourney의 첫 독립 앱 개발에도 기여할 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+              "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AMD, 엔비디아에 도전하는 '헬리오스' AI 시스템 연내 출하",
+          "summary": "AMD가 엔비디아에 도전하기 위해 랙 스케일 AI 시스템 '헬리오스(Helios)'를 올해 말 고객들에게 출하할 예정입니다. 헬리오스는 세계 최대 AI 연구소의 컴퓨팅 요구사항을 충족하도록 설계되었으며, 이미 OpenAI, Meta, Microsoft 등 주요 AI 기업들이 도입을 계획하고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Cognition, AI 비서 Poke 인수: 사용자 경험 중요성 부각",
+          "summary": "AI 코딩 스타트업 Cognition이 대화형 AI 비서 앱 Poke를 인수했습니다. 이번 인수는 AI 비서의 사용자 상호작용 방식과 '개성'이 모델 성능만큼 중요해지고 있음을 시사하며, Cognition은 Poke의 상호작용 모델을 자사의 코딩 비서 Devin에 통합할 계획입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
             }
           ],
           "verification": "single",
@@ -229,12 +190,12 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "미국, 'AI Kill Switch Act' 발의… 정부 AI 중단 권한 추진",
-          "summary": "미국에서 'AI Kill Switch Act' 법안이 발의되어 행정부가 '치명적인 피해를 야기할 수 있는 AI 시스템'의 가동 중단을 명령할 수 있는 권한을 부여하려 합니다. 이 법안은 AI 개발사가 정부 명령 시 시스템을 제한하거나 완전히 종료할 수 있는 기술적 역량을 갖추도록 의무화하며, 위반 시 하루 최대 2천만 달러의 벌금을 부과할 수 있습니다. 이는 OpenAI와 Anthropic의 AI 모델 관련 최근 사고들에 대한 대응으로 제시되었습니다.",
+          "title": "AI 산업계, 오픈 웨이트 모델 광범위 규제 반대 촉구",
+          "summary": "미국이 중국 AI에 대한 대응을 고려하는 가운데, Nvidia와 Mistral 등을 포함한 여러 AI 기업들이 오픈 웨이트 AI 모델에 대한 광범위하고 성급한 규제를 피할 것을 촉구하는 공개 서한에 서명했습니다. 이들은 증류(distillation)와 같은 모델 개발 기술과 지적 재산권 침해를 혼동해서는 안 된다고 주장합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
             }
           ],
           "verification": "single",
@@ -242,12 +203,12 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "전 구글 보안 임원 설립 AegisAI, AI 스피어 피싱 방지 솔루션에 3600만 달러 투자 유치",
-          "summary": "전 Google 보안 임원들이 설립한 AegisAI가 AI 기반 스피어 피싱 방지 솔루션으로 3,600만 달러의 시리즈 A 투자를 유치했습니다. 이 스타트업은 AI 에이전트를 활용하여 인간처럼 이메일을 분석하고 기존 시스템이 놓칠 수 있는 미묘한 이상 징후를 감지합니다. 이 솔루션은 이미 Mesh, LangChain 등 여러 고객사에서 채택되었으며, 해커들이 AI를 이용해 대규모 공격을 감행하는 추세에 대응합니다.",
+          "title": "AI 안전장치가 사이버 보안 연구 방해 우려 제기",
+          "summary": "OpenAI와 Anthropic의 AI 모델 안전장치(가드레일)가 합법적인 공격형 사이버 보안 연구자들의 취약점 발견 및 도구 개발 작업을 방해하고 있다는 우려가 제기되었습니다. 연구자들은 AI 모델이 보안 취약점 익스플로잇 시도에 대한 질문에 답변을 거부하면 시스템 방어에 해를 끼칠 수 있다고 지적합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+              "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
             }
           ],
           "verification": "single",
