@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-02",
-  "date_str": "2026년 8월 2일 (일)",
+  "date": "2026-08-03",
+  "date_str": "2026년 8월 3일 (월)",
   "key5": [
-    "더불어민주당 충청권 경선서 김민석 박빙 승리",
-    "이재명 대통령, AI 동맹 및 남미 순방 마치고 독일 경유 귀국",
-    "경남 폭염 지속, 온열질환자 급증 및 전국 열대야 주의보",
-    "트럼프, 백악관 연못 보수 책임 및 검찰총장 지명 문제로 갈등 심화",
-    "구글 어스, AI 가짜 위성 사진 생성 기능 악용 우려로 철회"
+    "한국 고령화 심화, 65세 이상 1인 가구 245만 6천 가구 돌파",
+    "이재명 대통령, 순방 마치고 귀국해 경제 현안 점검",
+    "미국 워싱턴주 스포캔 지역 대규모 산불 발생, 수백 채 건물 전소 및 수천 명 대피",
+    "트럼프, 이란과 호르무즈 해협 합의 시사하며 군사 공격 보류 발표",
+    "수학자들이 완벽하게 공정한 선거 시스템은 불가능하다고 증명"
   ],
   "regions": [
     {
@@ -15,84 +15,84 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "민주당 전당대회 충청권 경선, 김민석 후보 박빙 승리",
-          "summary": "더불어민주당 전당대회 충청권 경선에서 김민석 후보가 권리당원 투표에서 45.05%의 득표율로 정청래 후보(44.61%)를 0.44%포인트 차이로 누르고 승리했습니다. 이는 정청래 후보의 고향인 충청권에서 거둔 승리라 더욱 주목받고 있으며, 김 후보 측은 초반 대세론 형성을 기대하고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260801053400001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260801052800001"
-            },
-            {
-              "name": "MK",
-              "url": "https://www.mk.co.kr/en/politics/12114284"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "이재명 대통령, AI 동맹 및 남미 순방 마치고 독일 거쳐 귀국",
-          "summary": "이재명 대통령이 미국 샌프란시스코 AI 동맹 구축과 남미 3개국(브라질, 칠레, 아르헨티나) 순방 일정을 마무리하고 독일 프랑크푸르트를 경유해 귀국했습니다. 이번 순방은 AI 산업 협력 강화와 핵심 광물 및 에너지 공급망 다변화에 초점을 맞추었으며, 국내외 경제 질서의 격랑 속에서 한국의 해법을 모색하려는 의도로 풀이됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260801030100001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260801051800001"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/finance/german-minister-urges-faster-ai-self-sufficiency-after-openai-test-breach-2026-07-30/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "경남 폭염 지속, 온열질환자 급증 및 전국 열대야 주의보 발효",
-          "summary": "영남권을 중심으로 기록적인 폭염이 연일 이어지면서 경남 지역의 온열질환자 수가 인구 대비 월등히 많아졌습니다. 제주 지역은 26일 연속 열대야 현상이 나타나는 등 전국적으로 무더위와 열대야 주의보가 발효 중이며, 질병관리청은 온열질환자 발생 4단계를 유지하고 있습니다.",
+          "title": "홀몸 노인 245만 시대, 고립된 노후와 돌봄 공백 심화",
+          "summary": "국가데이터처의 2025년 인구주택총조사에 따르면 65세 이상 고령자 1인 가구는 245만 6천 가구로 전년 대비 7.3% 증가했습니다. 60대 이상 연령층의 사회적 고립도를 느끼는 비율이 39.4%로 가장 높게 나타나면서, 홀몸 노인의 사회적 고립과 돌봄 공백 문제가 심화하고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/area/area_general/1270960.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260731135100055"
             },
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260802005600056"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/environment/south-korea-records-highest-ever-temperature-414-c-heatwave-intensifies-2026-07-31"
+              "url": "https://www.yna.co.kr/view/AKR20260803012400011"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
+          "tag": "pol",
+          "title": "검찰 보완수사권 폐지법 통과에 여야 갈등 심화, 거부권 촉구",
+          "summary": "더불어민주당 주도로 검찰 보완수사권 폐지를 골자로 하는 형사소송법 개정안이 국회 본회의를 통과하자 국민의힘은 이를 '악법'으로 규정하고 이재명 대통령에게 재의요구권(거부권) 행사를 촉구했습니다. 국민의힘은 또한 이번 개정안에 대한 헌법소원 심판 청구도 예고하며 여야 간의 법적 다툼이 예상됩니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260802031200001"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1271093.html"
+            },
+            {
+              "name": "Yonhap News Agency",
+              "url": "https://en.yna.co.kr/view/AEN20260731003252315"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
           "tag": "eco",
-          "title": "국고채 담합 제재심 임박, 딜러사 긴장 고조",
-          "summary": "국고채 입찰 담합 사건에 대한 공정거래위원회의 제재 심의가 이달 중으로 예상되면서 국고채 전문 딜러사들의 긴장이 커지고 있습니다. 공정위는 딜러사 간 정보 교환을 담합으로 볼지, 과징금 산정 기준을 어떻게 정할지가 핵심 쟁점으로, 제재 수위에 따라 국채 인수 지원이 위축될 수 있다는 우려도 나옵니다.",
+          "title": "기상관측 사상 최고 기온 기록, 폭염 장기화로 사회경제적 피해 우려",
+          "summary": "경남 양산 기온이 42.5도를 기록하며 122년 국내 기상관측 사상 최고 기온을 경신했습니다. 행정안전부는 전국적인 폭염 장기화에 대응하기 위해 중앙재난안전대책본부(중대본)를 2단계로 격상하고 범정부 대응을 강화했습니다. 특히 취약계층과 지방에 폭염 피해가 집중될 우려가 커지고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260731155300008"
+              "url": "https://www.yna.co.kr/view/AKR20260802027700011"
             },
             {
-              "name": "Ministry of Economy and Finance Korea Treasury Bond",
-              "url": "https://ktb.moef.go.kr/eng/aucResDetail.do?nttId=921&bbsId=BBSMSTR_000000000006"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608030700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The Korea JoongAng Daily",
+              "url": "https://www.koreajoongangdaily.com/korea/seoul-to-throw-cold-water-on-punishing-heat-with-cooling-roads-refreshing-mists/12793708"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "이재명 대통령, 순방 마치고 귀국…경제 현안 점검 및 국정 운영 재개",
+          "summary": "이재명 대통령이 7박 11일간의 미국·남미 순방 일정을 마치고 귀국했습니다. 귀국 후 즉시 청와대로 출근해 부동산 및 주식시장 등 국내 경제 현안 관련 비공개 회의를 주재할 예정입니다. 또한 4일과 5일에는 주요 부처 업무보고를 받을 계획입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260802053900001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260802041051001"
+            },
+            {
+              "name": "The Korea Times",
+              "url": "https://www.koreatimes.co.kr/southkorea/politics/20260802/lee-returns-from-overseas-trip-with-economic-security-gains-domestic-tests-ahead"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -103,87 +103,87 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 백악관 연못 보수 책임 법무부 조사 결과 반박",
-          "summary": "도널드 트럼프 전 대통령이 백악관 거울 연못 보수 공사의 손상 원인이 부실 공사 때문이라는 법무부의 조사 결과에 이의를 제기했습니다. 트럼프 전 대통령은 자신의 진실 소셜(Truth Social) 계정을 통해 장 피로 워싱턴 D.C. 연방 검사와 100% 의견이 다르며, 이는 명백한 기물 파손 행위라고 주장했습니다.",
+          "title": "트럼프, 이란과 호르무즈 합의 시사하며 군사 공격 보류 발표",
+          "summary": "도널드 트럼프 미국 대통령은 이란 및 다른 중동 국가들과 호르무즈 해협 개방 문제에 대한 '합의 틀'에 도달했다며 이란에 대한 군사 작전을 취소했다고 밝혔습니다. 그는 미국과 이란의 협상이 3일 오후부터 시작될 것이라고 예고했으며, 이란의 핵 위협 종식도 합의에 포함될 것이라고 덧붙였습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260803008151071"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/america/1271098.html"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/us/trump-disputes-his-own-justice-departments-findings-reflecting-pool-2026-08-01"
+              "name": "spectrumlocalnews.com",
+              "url": "https://spectrumlocalnews.com/me/maine/international/2026/08/02/trump-iran-war-strikes-deal-"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "트럼프, 검찰총장 지명 승인 문제로 18억 달러 기금 부활 위협",
-          "summary": "도널드 트럼프 전 대통령이 검찰총장 지명자인 토드 블랑슈의 상원 인준 문제로 상원 공화당 의원들과 갈등을 겪고 있습니다. 트럼프 전 대통령은 인준이 불발될 경우, 논란이 되었던 18억 달러 규모의 '무기화 반대 기금'을 부활시키겠다고 위협하며 상원과의 대결 구도를 심화시키고 있습니다.",
+          "tag": "soc",
+          "title": "워싱턴주 스포캔 대규모 산불 발생, 수백 채 건물 전소 및 수천 명 대피",
+          "summary": "미국 워싱턴주 스포캔 지역에서 대규모 산불이 빠르게 확산하며 수백 채의 건물을 전소시키고 수천 명의 주민에게 대피령이 내려졌습니다. 주지사는 주 전체에 비상사태를 선포했으며, 당국은 이번 화재를 스포캔 역사상 가장 큰 자연재해로 보고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+              "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-08-01/trump-pushes-1-8-billion-doj-fund-over-blanche-nomination"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 우크라이나 패트리어트 미사일 자체 생산 지원 번복",
-          "summary": "도널드 트럼프 대통령이 우크라이나의 패트리어트 미사일 자체 생산 지원 약속에 대해 \"확신할 수 없다\"며 입장을 번복했습니다. 트럼프 대통령은 해당 기술을 넘겨주는 것이 매우 어려운 일이며, 라이선스를 부여하는 대상에 대해 매우 신중해야 한다고 언급하며 우크라이나의 미사일 방어 시스템 강화 계획에 불확실성을 더했습니다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
+              "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "아이다호 패스트푸드점 총기 난사로 3명 사망, 범인 자살",
+          "summary": "아이다호주 트윈폴스의 한 패스트푸드점에서 총기 난사 사건이 발생해 3명이 사망하고 7명이 부상했습니다. 경찰은 현장에 도착한 후 용의자의 시신을 발견했으며, 용의자가 자해로 사망했다고 밝혔습니다. 부상자 중 일부는 위독한 상태입니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead"
             },
             {
-              "name": "Kurdistan24",
-              "url": "https://www.kurdistan24.net/en/story/929416"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/aug/02/idaho-shooting-suspect-gunshot-wound-death"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "Capital One, 트럼프 기업 계좌 돈세탁 우려로 폐쇄",
+          "summary": "Capital One 은행은 2021년 트럼프 기업의 수백 개 은행 계좌를 폐쇄한 것은 돈세탁 방지 검토 때문이었으며, 1월 6일 의사당 폭동에 대한 보복이 아니라고 주장하며 트럼프 기업이 제기한 소송 기각을 연방 판사에게 요청했습니다. 이 은행은 수개월간의 분석과 금융 범죄팀의 신중한 검토 끝에 계좌 폐쇄를 결정했다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
+            },
+            {
+              "name": "aljazeera.com",
+              "url": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "tec",
-          "title": "미국 수자원 시스템 사이버 공격 확산, 이란 소행 가능성",
-          "summary": "미국 전역의 수자원 공급 시스템에 대한 사이버 공격이 확산되고 있으며, 미시간과 미네소타를 포함한 최소 7개 주가 피해를 입었습니다. FBI, EPA, CISA는 공식적으로 이란을 배후로 지목하지는 않았지만, 관련 증거들이 이란의 소행임을 시사하고 있으며, 트럼프 대통령은 이를 팀 왈츠 주지사의 책임으로 돌리고 있습니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran"
-            },
-            {
-              "name": "ABC News",
-              "url": "https://www.abc.net.au/news/2026-07-31/iran-water-hacking-us-minnesota-fbi-warning-cybersecurity/106980260"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -193,67 +193,84 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "eco",
-          "title": "미 재무장관 메모로 50억~100억 달러 규모 일본 엔화 매수 계획 유출",
-          "summary": "스콧 베센트 미국 재무장관의 메모에서 50억~100억 달러 규모의 일본 엔화 매수 계획이 드러나면서 엔화 가치 방어를 위한 미일 공조가 강화되고 있습니다. 지난주 엔화 가치가 1986년 이래 최저 수준으로 떨어지자 일본 당국이 개입했고, 이후 미국 재무부도 엔화 가치를 지지하기 위한 추가 개입 가능성을 시사했습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/markets/currencies/japan-and-us-step-up-coordinated-push-to-stem-yen-s-slide"
-            },
-            {
-              "name": "Reuters",
-              "url": "https://uk.finance.yahoo.com/news/us-treasury-undertakes-intervention-yen-003009552.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "구마모토 지진 생존자들 폭염과 사투, 반려동물 동반 피난 문제 부각",
-          "summary": "일본 구마모토 지진 생존자들이 기록적인 폭염 속에서 피난 생활을 이어가고 있으며, 사망자 수가 최소 36명으로 증가했습니다. 많은 이들이 무더위를 피해 차량에서 피난하고 있으며, 대피소의 반려동물 동반 입소 문제가 부각되면서 일부 동물병원이 반려동물 동반 피난처로 전환되는 사례도 나타났습니다.",
+          "title": "일본 고령 노숙인, 기록적인 폭염에 취약성 증가",
+          "summary": "일본은 기록적인 폭염으로 인해 열사병 환자가 증가하고 있으며, 특히 고령 노숙인들이 큰 위험에 처해 있습니다. 노숙인 인구의 고령화가 빠르게 진행되고 있어, 이들의 건강 악화 및 복합적인 문제로 인해 폭염에 대한 취약성이 더욱 커지고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/01/japan/kumamoto-quake-survivors-heat/"
+              "url": "https://www.japantimes.co.jp/environment/2026/08/03/climate-change/homeless-people-japan-heat/"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/01/japan/animal-hospital-kumamoto-quake/"
+              "name": "2news.com",
+              "url": "https://www.2news.com/news/national/a-woman-with-apparent-heat-stroke-found-dead-while-taking-shelter-in-a-car-in/article_b83b145d-5c53-56dd-9e62-fad69fb00701.html"
             },
             {
-              "name": "The Independent",
-              "url": "https://www.independent.co.uk/asia/japan/japan-earthquake-survivors-cars-heatwave-death-toll-b3025761.html"
+              "name": "aol.com",
+              "url": "https://www.aol.com/articles/japan-earthquake-death-toll-rises-111013000.html"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "tec",
-          "title": "중국 딥시크, 내몽골에 대규모 AI 데이터 센터 건설 계획 발표",
-          "summary": "중국의 AI 스타트업 딥시크(DeepSeek)가 내몽골에 1기가와트 규모의 대규모 인공지능(AI) 데이터 센터를 건설할 계획이라고 밝혔습니다. 이는 실리콘밸리의 AI 모델들과 경쟁하기 위한 야심 찬 움직임으로, 자체 시설을 구축하는 동시에 다른 회사들로부터 추가 용량을 임차할 예정이며, 2027년 말 또는 2028년 초까지 부분적으로 가동하는 것을 목표로 하고 있습니다.",
+          "tag": "pol",
+          "title": "중국 인민해방군, 2049년까지 미국과 동등한 '세계적 수준' 군사력 목표",
+          "summary": "중국 인민해방군은 2027년까지 국방 및 군 현대화를 기본적으로 달성하고, 2049년 중국 건국 100주년에는 미국과 동등한 '세계적 수준'의 군사력을 구축하는 것을 목표로 하고 있습니다. 이는 현대전에서 인공지능(AI) 및 사이버 역량의 중요성이 부각되면서 군사력 경쟁이 심화되는 맥락에서 발표되었습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/08/01/tech/deepseek-mongolia-data-center/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed"
             },
             {
-              "name": "Bloomberg.com",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia"
+              "name": "orfonline.org",
+              "url": "https://www.orfonline.org/research/china-s-military-rise-and-its-implications-for-india-and-the-world"
             },
             {
-              "name": "CHOSUNBIZ",
-              "url": "https://biz.chosun.com/en/en-it/2026/07/31/NQCFQABSEJEQTOMZ45BUS6BSQA"
+              "name": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/defence/international/china-to-focus-on-intelligent-military-system-as-pla-celebrates-99-years-what-it-means/articleshow/132761378.cms"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "일본 정부, 인도 시장 진출 기업 지원 위해 외교적 노력 강화",
+          "summary": "일본 외무성이 중소기업 및 스타트업의 인도 시장 진출 및 투자 확대를 지원하기 위해 외교적 노력을 강화합니다. 인도 정부와의 협상을 통해 규제 장벽을 제거하고, 양국 간 경제 성장을 촉진할 계획입니다. 이를 위해 외무성 내에 '일본-인도 경제국'을 신설하고 본격적인 활동을 시작했습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/08/02/japan-support-firms-entry-india/"
+            },
+            {
+              "name": "hindustantimes.com",
+              "url": "https://www.hindustantimes.com/india-news/new-unit-in-japan-s-foreign-ministry-to-help-firms-enter-india-101785674858822.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "eco",
+          "title": "트럼프 대통령, 일본 요청에 엔화 시장 개입 시사",
+          "summary": "도널드 트럼프 미국 대통령은 일본과의 '좋은 관계' 때문에 미국이 엔/달러 외환시장에 개입했다고 밝혔습니다. 그는 일본이 엔화 약세로 '약간의 도움'을 필요로 했으며, 미국이 언제나 일본을 위해 존재한다고 말했습니다. 이는 일본 당국이 최근 엔화 가치 방어를 위해 외환시장에 개입한 것으로 알려진 가운데 나온 발언입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260803008651071"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/currencies/japan-wanted-little-bit-of-help-on-yen-from-us-trump-says-after-intervention"
+            },
+            {
+              "name": "businesstimes.com.sg",
+              "url": "https://www.businesstimes.com.sg/international/global/buy-japanese-yen-jpy-5-10-bil-us-treasury-secretary-bessent-joins-us-japan-bid-lift-yen"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -264,41 +281,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "스페인 세우타 대규모 이주민 유입, EU 내무장관 회의 소집",
-          "summary": "스페인 북아프리카 영토 세우타로 약 6만 명의 이주민이 대규모로 유입되면서 유럽 국가 간 긴장이 고조되었고, 이에 EU는 내무장관 긴급 회의를 소집했습니다. 스페인 총리는 일부 회원국의 '이기적이고 편향된' 반응을 비난하며 EU의 공동 대응을 촉구했으며, 이탈리아는 스페인과의 솅겐 협정을 일시 중단하기도 했습니다.",
+          "title": "스페인 세우타 국경 대규모 이민자 유입, 유럽 정치적 갈등 심화",
+          "summary": "스페인 북아프리카 월경지 세우타로 모로코에서 5만 명 이상의 이민자가 유입되면서 최소 72명이 사망했습니다. 이 사태는 유럽연합(EU) 내 이민 정책에 대한 정치적 갈등을 심화시켰으며, 이탈리아는 스페인과의 솅겐 협정을 일시 중단하는 등 일부 EU 회원국들이 스페인에 비판적인 반응을 보였습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/africa/article/3362727/death-toll-migrant-rush-spains-ceuta-rises-72?utm_source=rss_feed"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "english.news.cn",
-              "url": "https://english.news.cn/20260801/2b479bee59594291b13c020f06588e5d/c.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "러시아, 키이우 탄도미사일 공격으로 9명 사망…우크라이나는 러시아 선박 침몰",
-          "summary": "러시아가 우크라이나 수도 키이우에 탄도미사일 공격을 강화하여 최소 9명이 사망하고 수십 명이 부상했다고 볼로디미르 젤렌스키 우크라이나 대통령이 밝혔습니다. 한편, 우크라이나 드론은 흑해에서 러시아 소유의 컨테이너선을 침몰시켰으며, 러시아는 이를 '해적 행위'로 규정했습니다.",
-          "sources": [
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
-            },
-            {
-              "name": "news.sbs.co.kr",
-              "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008685935"
+              "name": "Euractiv",
+              "url": "https://www.euractiv.com/news/ceuta-migrant-crisis-sends-shockwaves-through-eu-politics"
             }
           ],
           "verification": "multi",
@@ -306,20 +302,41 @@
         },
         {
           "tag": "soc",
-          "title": "이탈리아 전역 기록적 폭염 경보, 나폴리 지진으로 수십 명 부상",
-          "summary": "이탈리아 전역에 기록적인 폭염으로 인해 대부분의 주요 도시에 최고 등급의 '적색' 폭염 경보가 발령되었습니다. 이와 함께 나폴리 인근 캄피 플레그레이 지역에서 4.7 규모의 지진이 발생하여 최소 26명이 부상하고 수백 명이 대피하는 등 자연재해로 인한 피해가 이어지고 있습니다.",
+          "title": "그리스 아테네 인근 산불 진압 헬리콥터 충돌, 승무원 2명 사망",
+          "summary": "그리스 아테네 서부에서 대규모 산불 진압 중이던 헬리콥터 2대가 충돌하여 승무원 2명이 사망했습니다. 사망자는 덴마크인과 그리스인 각 1명으로 확인되었으며, 다른 헬리콥터 승무원 2명은 구조되었습니다. 이 사고는 강풍으로 인해 진압 작업이 어려움을 겪는 상황에서 발생했습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3362725/greece-firefighting-helicopters-collide-battle-contain-wildfires-continues?utm_source=rss_feed"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm"
+              "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
             },
             {
-              "name": "en.tempo.co",
-              "url": "https://en.tempo.co/amp/2116407/italy-issues-red-heat-alert-for-23-cities-this-weekend"
+              "name": "CBC",
+              "url": "https://www.cbc.ca/news/world/greece-europe-wildfire-helicopter-crash-9.7294476"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "모스크바 식당 폭탄 테러로 3명 사망, 테러 행위로 규정",
+          "summary": "러시아 모스크바 도심의 한 이탈리아 식당 근처에서 폭탄 테러가 발생하여 3명이 사망하고 21명이 부상했습니다. 러시아 국가 대테러위원회는 폭발물이 장착된 폭탄을 소지한 여성이 식당 진입을 시도하다가 보안 요원에 의해 저지당하자 폭발이 일어났다고 밝혔습니다. 모스크바 시장은 이를 '잔혹한 테러 행위'로 규정했습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes"
+            },
+            {
+              "name": "latimes.com",
+              "url": "https://www.latimes.com/world-nation/story/2026-08-02/moscow-mayor-calls-restaurant-bombing-terrorist-act"
             }
           ],
           "verification": "multi",
@@ -334,20 +351,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "스냅챗 등 주요 플랫폼, 'AI 슬롭' 확산 방지 노력 강화",
-          "summary": "스냅챗이 유튜브, 링크드인, 서브스택 등 주요 플랫폼들과 함께 인공지능(AI) 기반의 가짜 콘텐츠, 즉 'AI 슬롭' 확산에 맞서기 위한 노력을 강화하고 있습니다. 스냅챗은 인기 피드에서 전적으로 AI로 생성된 동영상 추천을 중단하고, '인간이 만든 진정한 콘텐츠'를 우선시하겠다고 밝혔습니다.",
+          "title": "수학자들, 완벽하게 공정한 선거 시스템은 불가능하다고 증명",
+          "summary": "케임브리지 대학과 코펜하겐 대학의 수학자들이 충분히 많은 정당이 경쟁할 경우, 지역 대표성, 비례적 전국 결과, 고정된 의회 규모를 완벽하게 동시에 만족시키는 선거 시스템은 존재할 수 없다고 증명했습니다. 모든 선거 방식은 이러한 요소들 간의 절충을 포함한다고 분석했습니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
+              "name": "ssbcrack.com",
+              "url": "https://news.ssbcrack.com/mathematical-proof-reveals-impossibility-of-a-perfectly-fair-election-system"
             },
             {
-              "name": "engadget.com",
-              "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight"
+              "name": "University of Cambridge",
+              "url": "https://www.cam.ac.uk/research/news/maths-shows-why-your-vote-may-not-count-the-way-you-think-it-does"
             }
           ],
           "verification": "multi",
@@ -355,41 +372,37 @@
         },
         {
           "tag": "tec",
-          "title": "구글 어스, AI 기반 가짜 위성 사진 생성 기능 악용 우려로 철회",
-          "summary": "구글 어스가 인공지능(AI) 기반의 항공·위성 사진 편집 기능을 도입한 지 하루 만에 허위정보 생성에 악용될 수 있다는 우려로 해당 기능을 철회했습니다. 이 기능은 가자지구 폭탄 분화구, 이란 핵시설 등 민감한 사안에 대한 가짜 이미지를 생성하는 데 사용될 수 있다는 지적이 제기되었습니다.",
+          "title": "암세포, 자체 DNA 손상 및 복구 반복하며 돌연변이 축적",
+          "summary": "새로운 연구에 따르면 암세포는 성장을 촉진하는 유전자들을 과도하게 활성화하는 과정에서 자체 DNA에 손상을 입힙니다. 이러한 손상된 DNA는 반복적으로 복구되지만, 이 과정에서 작은 실수가 발생하여 새로운 돌연변이가 축적되는 것으로 밝혀졌습니다. 연구진은 이러한 자가 손상이 종양의 진화를 돕는 동시에 새로운 치료 표적이 될 수 있다고 보고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1270958.html"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
+              "name": "Florida State University News",
+              "url": "https://news.fsu.edu/news/university-news/2026/07/27/fsu-researchers-uncover-new-mechanism-behind-dna-repair"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "구글, AI 기반 지도 조작 도구 논란에 일시 철회",
+          "summary": "구글이 AI를 활용해 위성 이미지를 조작할 수 있는 새로운 구글 어스 도구를 일시적으로 출시했다가 정보 조작 위험에 대한 우려와 반발로 인해 곧바로 철회했습니다. 이 도구는 사용자들이 재난, 군사 시설 등 민감한 상황에 대한 가짜 위성 이미지를 생성할 수 있게 하여 논란이 되었습니다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html"
+            },
+            {
+              "name": "aol.com",
+              "url": "https://www.aol.com/articles/google-earths-ai-image-generation-205511000.html"
             },
             {
               "name": "bbc.com",
               "url": "https://www.bbc.com/news/articles/c9349yx2ydvo"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "인간 DNA에서 네안데르탈인 외 두 개의 신비로운 '유령 조상' 유전자 발견",
-          "summary": "과학자들이 인간 DNA에서 네안데르탈인 및 데니소바인 외에 두 개의 알려지지 않은 '유령 조상' 유전자를 발견하여 인류 진화의 복잡성을 밝혀냈습니다. 이들 유전자는 현대 인류가 아프리카를 떠나기 전 5만 년 이상 전에 아프리카에서 혼혈되었던 미스터리한 고대 혈통에서 유래했으며, 현대 인간 게놈의 약 1%를 구성하는 것으로 추정됩니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm"
-            },
-            {
-              "name": "The Debrief",
-              "url": "https://thedebrief.org/scientists-discover-evidence-of-a-mysterious-ghost-human-ancestor-hidden-in-our-dna"
             }
           ],
           "verification": "multi",
