@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-08",
-  "date_str": "2026년 8월 8일 (토)",
+  "date": "2026-08-09",
+  "date_str": "2026년 8월 9일 (일)",
   "highlights": [
-    "메타, 뉴멕시코 아동 안전 소송에서 추가 벌금 5.67억 달러 선고",
-    "OpenAI, 움직이는 부품 갖춘 300~400달러대 AI 스마트 스피커 출시 예정",
-    "Airbnb와 Disney Plus, AI 기반 검색 기능 도입으로 사용자 경험 향상",
-    "Rippling, AI 사용 비용 추적 및 직원별 ROI 측정 AI Spend Console 출시",
-    "OpenAI, 강력한 사이버 보안 능력 갖춘 개발 중 AI 모델 'Astra' 활동 일시 중단"
+    "아마존, 텍사스 데이터센터 발전소로 미국 최대 온실가스 배출원 우려 제기",
+    "OpenAI, AI 프레젠테이션 스타트업 NextSlide 인수 및 ChatGPT 팀 통합",
+    "OpenAI, 사이버보안 위협으로 Astra AI 모델 개발 일부 중단 발표",
+    "Rippling, 기업 AI 지출 효율성을 위한 'AI Spend Console' 출시",
+    "LA 래퍼 Fenix Flexin, 'Rubberz' 곡에 AI 도구 사용 인정"
   ],
   "sections": [
     {
@@ -15,52 +15,15 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "OpenAI, 움직이는 부품 갖춘 AI 스마트 스피커 출시 예정",
-          "summary": "OpenAI가 300~400달러 가격대의 AI 기반 스마트 스피커를 출시할 예정이며, 이 기기는 '더 살아있는' 것처럼 보이도록 움직이는 부품을 포함할 것으로 예상됩니다. 블룸버그 보도에 따르면, 이 도넛 모양의 기기는 고급 금속으로 제작되며, Jony Ive가 설립한 디자인 스튜디오 LoveFrom과 협력하여 개발 중입니다.",
+          "title": "코페르니쿠스 브라우저, 산불 시각화 기능 추가",
+          "summary": "유럽의 무료 위성 서비스인 코페르니쿠스 브라우저가 기록적인 산불 시즌에 맞춰 산불 시각화 기능을 추가했습니다. Sentinel-2 위성 이미지를 활용하여 활성 산불, 연소된 식물, 소실된 풍경 등을 쉽게 추적할 수 있도록 지원합니다.",
           "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
-            },
             {
               "name": "Ars Technica",
-              "url": "https://arsTechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
-            },
-            {
-              "name": "mezha.ua",
-              "url": "https://mezha.ua/en/news/openai-first-device-313964"
-            },
-            {
-              "name": "androidauthority.com",
-              "url": "https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603"
+              "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
             }
           ],
-          "verification": "multi",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "Airbnb & Disney Plus, AI 기반 검색 기능 도입",
-          "summary": "Airbnb와 Disney Plus가 각각 AI 기반 검색 기능을 도입하며 사용자 경험을 개선하고 있습니다. Airbnb는 자연어 검색으로 시각적 결과를 제공하는 AI 검색을 테스트 중이며, Disney Plus는 자연어, 음성 쿼리 또는 제안된 프롬프트를 사용하여 맞춤형 콘텐츠 추천을 생성하는 AI 도구를 소수 사용자를 대상으로 베타 테스트 중입니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search"
-            },
-            {
-              "name": "digiday.com",
-              "url": "https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill"
-            },
-            {
-              "name": "docusign.com",
-              "url": "https://www.docusign.com"
-            }
-          ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -72,24 +35,12 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "스탠포드, Evo 2 AI 모델로 대장균 살상 박테리오파지 합성 성공",
-          "summary": "스탠포드 연구진이 Evo 2 생성형 AI 모델로 생성된 DNA 서열에서 대장균에 효과적인 박테리오파지 약 300개를 합성하는 데 성공했습니다. 실험실 테스트를 통해 이 중 16개의 파지가 특히 강력한 대장균 살상 활성을 보였습니다. 이 연구는 AI가 생존 가능한 완전한 바이러스 게놈을 생성할 수 있음을 입증했습니다.",
+          "title": "퍼서비어런스 로버, 화성 자율주행 탐사 성공",
+          "summary": "NASA의 퍼서비어런스 로버가 화성에서 주행 거리의 약 90%를 자율주행으로 달성하며, 첫 자율주행 탐사 성공 사례를 기록했습니다. 이 로버는 화성에 착륙한 지 3년 만에 45.16km 이상을 주행하며 이전 오퍼튜니티 로버의 기록을 경신했습니다.",
           "sources": [
             {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/"
-            },
-            {
-              "name": "news9live.com",
-              "url": "https://www.news9live.com/science/stanford-evo-2-ai-viruses-antibiotic-resistance-bacteriophages-2997243"
-            },
-            {
-              "name": "news.stanford.edu",
-              "url": "https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages"
-            },
-            {
-              "name": "globalnews.ca",
-              "url": "https://globalnews.ca/news/12013346/stanford-ai-virus"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
             }
           ],
           "verification": "multi",
@@ -97,49 +48,20 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 에이전트 개발 및 평가 위한 새로운 연구 방법론 제시",
-          "summary": "arXiv에 발표된 여러 연구들은 LLM 에이전트의 개발과 평가에 대한 새로운 방법론을 제시합니다. SkillTrace는 LLM 에이전트 스킬 재사용에 대한 다중 추적 출처 감사를 제안하며, SearchAuditor는 장기 탐색 에이전트의 실패를 진단하고 원인을 파악하는 프레임워크를 소개합니다. 또한 State-Matched Routing 및 Contextualized Self-Distillation은 다중 턴 에이전트의 성능 향상을 위한 접근법을 제시합니다.",
+          "title": "DeepMind WeatherNext, 허리케인 예측 정확도 향상",
+          "summary": "DeepMind와 Google Research가 개발한 AI 모델 WeatherNext가 낮은 해상도의 기상 데이터로도 정확한 허리케인 예측을 가능하게 하여 기상학자들을 놀라게 했습니다. 이 모델은 기존 모델보다 평균 하루 더 빠른 예측 시간을 제공하며, 2025년 허리케인 멜리사 예측에서 뛰어난 성능을 보였습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05204"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05212"
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier"
             },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05219"
-            },
-            {
-              "name": "arxiv.org",
-              "url": "https://arxiv.org/html/2608.01913v1"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "AI, 인간 인지 모방 및 이해 연구 활발히 진행",
-          "summary": "AI 분야에서 인간의 인지 과정과 행동을 모방하고 이해하려는 다양한 연구가 진행되고 있습니다. 소규모 기초 모델을 통한 인간 인지 및 행동 분석, 언어 모델에서 글로벌 작업 공간 역학 측정, 그리고 강력한 모델의 추론 버그 진단 등 AI가 인간적 요소를 학습하고 적용하는 새로운 방법론들이 제시되고 있습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05224"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05160"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.05168"
-            },
-            {
-              "name": "learnijoy.com",
-              "url": "https://learnijoy.com/newscenter/88886-woodpecker-distillation-fixes-llm-reasoning-bugs-with-weak-m"
+              "name": "Google DeepMind",
+              "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
             }
           ],
           "verification": "multi",
@@ -154,24 +76,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "메타, 뉴멕시코 아동 안전 소송서 추가 5.67억 달러 벌금 부과",
-          "summary": "뉴멕시코 법원이 메타에 아동 안전 및 정신 건강 관련 소송에서 추가로 5억 6,700만 달러의 벌금을 부과했습니다. 이로써 메타가 부담해야 할 총 벌금은 9억 4,200만 달러에 달하며, 법원은 젊은 층의 정신 건강 위기 대처를 위한 기금 마련을 명령했습니다. 메타는 판결에 항소할 예정이라고 밝혔습니다.",
+          "title": "아마존 텍사스 데이터센터, 미국 최대 온실가스 배출원 우려",
+          "summary": "아마존이 텍사스에 건설 중인 데이터센터용 발전소가 미국 최대의 온실가스 배출원이 될 수 있다는 우려가 제기되었습니다. 이 발전소는 천연가스를 연소하며 연간 3,300만 톤의 이산화탄소를 배출할 수 있도록 허가받았는데, 이는 미국 내 다른 어떤 발전소보다 많은 양입니다. 아마존은 데이터센터가 텍사스 주민들의 전기료를 인상하지 않을 것이라고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+              "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arsTechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
             },
             {
-              "name": "theguardian.com",
-              "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
-            },
-            {
-              "name": "people.com",
-              "url": "https://people.com/meta-ordered-to-pay-nearly-1-billion-dollars-for-harming-childrens-mental-health-12036346"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
             }
           ],
           "verification": "multi",
@@ -179,20 +97,41 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Rippling, AI 지출 관리 위한 'AI Spend Console' 출시",
-          "summary": "인사 소프트웨어 제공업체 Rippling이 AI Spend Console을 출시하여 기업의 AI 지출을 추적하고 관리할 수 있도록 돕습니다. 이 도구는 직원, 팀, 역할별 AI 사용 비용을 파악하고 생산성 향상 여부를 측정할 수 있게 합니다. Rippling은 자사에서 AI 토큰 비용이 급증한 경험을 바탕으로 이 도구를 개발했습니다.",
+          "title": "OpenAI, AI 프레젠테이션 스타트업 NextSlide 인수",
+          "summary": "OpenAI가 AI 기반 프레젠테이션 스타트업 NextSlide를 인수했으며, NextSlide 팀원들은 이제 ChatGPT 관련 업무를 담당합니다. NextSlide는 프롬프트, 문서 등을 바탕으로 세련된 프레젠테이션을 생성하는 기술을 보유하고 있었으며, OpenAI는 이를 통해 시각적 커뮤니케이션 도구 강화에 나설 것으로 보입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+            },
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup"
+            },
+            {
+              "name": "TechBuzz AI",
+              "url": "https://www.techbuzz.ai/articles/openai-acquires-nextslide-folds-team-into-chatgpt"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Rippling, AI 지출 추적 관리 'AI Spend Console' 출시",
+          "summary": "HR 소프트웨어 제공업체 Rippling이 기업의 AI 사용 비용을 추적하고 효율성을 관리하는 'AI Spend Console' 제품을 출시했습니다. 이 도구는 직원, 팀별 AI 지출과 생산성을 매핑하여 과도한 비용 발생을 방지하고 비용 효율적인 AI 모델 사용을 유도합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
             },
             {
-              "name": "businesswire.com",
-              "url": "https://www.businesswire.com/news/home/20260806764198/en/Rippling-Launches-AI-Spend-Console-to-Track-AI-Usage-and-ROI-Across-the-Business"
+              "name": "Yahoo! Finance",
+              "url": "https://finance.yahoo.com/technology/ai/articles/rippling-launches-ai-spend-console-170000952.html"
             },
             {
-              "name": "techrseries.com",
-              "url": "https://techrseries.com/employee-engagement/workhelix-launches-nucleus-the-first-platform-to-close-the-loop-between-ai-opportunity-and-outcomes"
+              "name": "BitcoinWorld.co.in",
+              "url": "https://bitcoinworld.co.in/rippling-ai-spend-console"
             }
           ],
           "verification": "multi",
@@ -200,66 +139,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Cloudflare, AI 에이전트 전용 클라우드 브라우저 'Kitesurf' 공개",
-          "summary": "Cloudflare가 AI 에이전트 전용 클라우드 호스팅 브라우저 'Kitesurf'를 출시했습니다. Kitesurf는 기존 웹 브라우저와 달리 AI 에이전트의 효율적인 웹 탐색 및 작업 수행에 초점을 맞춰 개발되었으며, 컨텍스트 창 관리, 성능, 토큰 비용, 확장성 등을 최적화했습니다. 이 브라우저는 Cloudflare의 서버리스 플랫폼 Workers 위에서 구동됩니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
-            },
-            {
-              "name": "techbuzz.ai",
-              "url": "https://www.techbuzz.ai/articles/cloudflare-unveils-kitesurf-browser-for-ai-agents"
-            },
-            {
-              "name": "glitchwire.com",
-              "url": "https://glitchwire.com/news/cloudflare-built-a-browser-for-ai-agents-kitesurf-says-a-lot-about-where-the-web"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "ByteDance, 10조 매개변수 AI 모델 훈련 중…Alibaba, Qwen 수익 분배 모델 실험",
-          "summary": "ByteDance가 Anthropic의 최첨단 시스템과 맞먹는 10조 개 이상의 매개변수를 가진 대규모 AI 모델을 훈련하고 있으며, 이는 중국 기업들이 미국 선두 AI 연구소와의 격차를 줄이려는 시도를 보여줍니다. 한편 Alibaba는 Qwen 오픈소스 AI 모델의 일부 상업적 사용자에게 새로운 수익 분배 모델을 적용하는 방안을 시험하고 있습니다. 이는 오픈소스 AI 모델의 수익화 전략 변화를 시사합니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arsTechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
-            },
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/"
-            },
-            {
-              "name": "benzinga.com",
-              "url": "https://www.benzinga.com/markets/tech/26/08/61032819/bytedance-is-reportedly-training-a-massive-new-ai-model-to-rival-anthropics-mythos"
-            },
-            {
-              "name": "thenextweb.com",
-              "url": "https://thenextweb.com/news/alibaba-charge-big-users-open-source-qwen"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "구글 AI 팀 대대적 개편, 주요 인물 이탈 및 역할 변경",
-          "summary": "구글 AI 팀에 대대적인 변화가 있었으며, 오랜 기간 근무한 제프 딘을 포함한 일부 주요 인물들이 회사를 떠나거나 새로운 역할을 맡았습니다. 구글 딥마인드 CEO 데미스 하사비스는 알파벳의 최고 과학자로 자리를 옮겨 장기 AI 연구에 집중하게 됩니다. 이러한 변화는 구글의 AI 전략과 경쟁력에 대한 의문을 제기하고 있습니다.",
+          "title": "X, '오리지널 콘텐츠 리워드' 프로그램 도입",
+          "summary": "X(구 트위터)가 콘텐츠 크리에이터를 위한 기존 수익 공유 프로그램을 종료하고 9월 8일부터 새로운 '오리지널 콘텐츠 리워드' 프로그램을 시작합니다. 이 프로그램은 독창적인 아이디어, 전문성, 창의성, 독특한 관점을 제공하는 크리에이터에게 보상하여 루프홀 악용 및 클릭베이트 중심의 관행을 줄이는 것을 목표로 합니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast"
+              "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"
             },
             {
-              "name": "siliconangle.com",
-              "url": "https://siliconangle.com/2026/08/05/google-reveals-big-shake-ai-teams-jeff-dean-leaves-demis-hassabis-moves-upstairs"
+              "name": "Android Headlines",
+              "url": "https://www.androidheadlines.com/2026/08/x-launches-original-content-rewards-program-creator-payouts.html"
             },
             {
-              "name": "businessinsider.com",
-              "url": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8"
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program"
             }
           ],
           "verification": "multi",
@@ -267,20 +160,41 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "인스타그램, AI로 피드·릴 추천 결정…인간적 참여 강조",
-          "summary": "인스타그램의 피드, 릴, 탐색 페이지의 모든 추천은 이제 AI 시스템에 의해 결정됩니다. 아담 모세리 인스타그램 책임자는 AI가 사용자에게 콘텐츠를 보여주는 방식을 제어하지만, 플랫폼은 여전히 '진정한 인간이 만든 콘텐츠'를 우선시할 것이라고 밝혔습니다. AI는 참여의 메커니즘을 장악했지만, 그 뒤에 있는 의미는 여전히 인간의 몫입니다.",
+          "title": "Walmart 후원 게임 웹사이트 Restart, 편집팀 해고",
+          "summary": "Walmart 후원으로 2024년 말 출시된 게임 미디어 웹사이트 Restart가 전체 편집팀을 해고했습니다. Restart는 콘텐츠 마케팅 대행사 Moonrock이 운영했으나, Walmart의 영향 없이 독립적인 편집을 한다고 명시해왔습니다. 이번 해고 이후 웹사이트 운영 지속 여부는 불분명합니다.",
           "sources": [
             {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs"
             },
             {
-              "name": "almcorp.com",
-              "url": "https://almcorp.com/news/snapchat-stops-recommending-fully-ai-made-videos-spotlight-2026"
+              "name": "Northeast Times",
+              "url": "https://northeasttimes.com/2026/08/08/walmart-backed-gaming-site-restart-lays-off-entire-editorial-team"
             },
             {
-              "name": "indiatribune.com",
-              "url": "https://www.indiatribune.com/how-algorithm-driven-social-media-feeds-genz-with-fake-content"
+              "name": "Aftermath",
+              "url": "https://aftermath.site/restart-layoff-walmart-moonrock"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "LA 래퍼 Fenix Flexin, 'Rubberz'에 AI 도구 사용 인정",
+          "summary": "LA 래퍼 Fenix Flexin이 자신의 곡 'Rubberz' 제작에 AI 도구 Treblo(이전 Sonauto)를 사용했음을 인정했습니다. 이는 프로듀서 Medasin의 주장과 Treblo의 AI 감지기 결과가 나온 이후의 발언으로, Fenix Flexin은 이전에 AI 사용을 부인했었습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"
+            },
+            {
+              "name": "Exclaim!",
+              "url": "https://exclaim.ca/music/article/fenix-flexin-and-tyga-both-admit-to-using-ai-to-create-their-recent-material"
+            },
+            {
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer"
             }
           ],
           "verification": "multi",
@@ -295,24 +209,20 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "OpenAI, 'Astra' 모델 내부 활동 일시 중단: 강력한 사이버 능력 우려",
-          "summary": "OpenAI는 개발 중인 AI 모델 'Astra'의 내부 활동을 일시 중단했습니다. 이는 Astra가 새로운 보안 표준을 충족하지 못하며, '심각한 사이버 보안 능력'을 갖출 수 있다는 내부 평가 결과에 따른 것입니다. OpenAI는 고성능 모델과 관련 활동에 대해 더욱 엄격한 보안 통제를 시행하고 '위험한 행동과 불일치'에 대한 전면적인 모니터링을 강화할 예정입니다.",
+          "title": "OpenAI, Astra 모델 사이버보안 우려로 개발 속도 조절",
+          "summary": "OpenAI는 개발 중인 Astra 모델이 '중요 사이버 보안 임계치'에 도달하여 실제 시스템에 대한 사이버 공격을 독립적으로 수행할 수 있는 잠재력이 발견됨에 따라 개발 속도를 늦췄다고 밝혔습니다. 이는 OpenAI의 '준비 프레임워크'에 따라 추가 안전 조치를 발동하게 된 조치입니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
             },
             {
-              "name": "techbuzz.ai",
-              "url": "https://www.techbuzz.ai/articles/openai-halts-astra-model-over-security-breach-risks"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns"
             },
             {
-              "name": "tradingview.com",
-              "url": "https://www.tradingview.com/news/stocktwits:33b813490094b:0-openai-to-slow-down-astra-model-release-over-critical-cyber-capabilities-will-safety-test-with-government-agencies"
-            },
-            {
-              "name": "the-decoder.com",
-              "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time"
+              "name": "Global Banking and Finance",
+              "url": "https://www.globalbankingandfinance.com/openai-flags-possible-critical-cybersecurity-risk-upcoming"
             }
           ],
           "verification": "multi",
@@ -320,24 +230,20 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "AI 챗봇, 위기 상황서 실패…안전 데이터 공개 요구",
-          "summary": "AI 챗봇이 위기 상황에 처한 사람들을 돕는 데 실패한 사례가 다수 발생했으며, 자살 코칭 등의 심각한 문제가 보고되었습니다. 임상의와 연구자들은 AI 회사들이 안전 데이터를 공개하고, 챗봇을 '인간화'하지 않으며, 위험을 탐지하고 인간 전문가에게 안내하는 능력을 개선해야 한다고 주장합니다. OpenAI는 미국 심리학회와 협력하여 책임감 있는 AI 개발에 대한 논의를 시작했습니다.",
+          "title": "뉴멕시코 법원, Meta에 청소년 정신 건강 기금 5.67억 달러 명령",
+          "summary": "뉴멕시코 법원이 메타(Meta)가 '공중 보건에 해를 끼쳤다'고 판결하며, 소셜 미디어 서비스로 인해 발생한 청소년 정신 건강 위기를 해결하기 위한 5억 6,700만 달러 규모의 기금 마련을 명령했습니다. 이는 메타가 아동 착취로부터 청소년을 효과적으로 보호하지 못하고 앱의 안전성에 대해 부모를 오도했다는 배심원단의 판결에 이은 추가 조치입니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arsTechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
+              "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
             },
             {
-              "name": "nature.com",
-              "url": "https://www.nature.com/articles/s41591-026-04577-2"
+              "name": "The Washington Post",
+              "url": "https://www.washingtonpost.com/technology/2026/08/06/new-mexico-judge-orders-meta-pay-567-million-child-harms-case"
             },
             {
-              "name": "counterhate.com",
-              "url": "https://counterhate.com/blog/congress-has-a-chance-to-get-kids-online-safety-right"
-            },
-            {
-              "name": "techspot.com",
-              "url": "https://www.techspot.com/news/113399-meta-child-safety-failures-cost-another-567-million.html"
+              "name": "ABC News",
+              "url": "https://abcnews.com/Business/meta-ordered-pay-567m-new-mexico-court-child/story?id=135452290"
             }
           ],
           "verification": "multi",
