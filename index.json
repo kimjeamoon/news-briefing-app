@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-09",
-  "date_str": "2026년 8월 9일 (일)",
+  "date": "2026-08-11",
+  "date_str": "2026년 8월 11일 (화)",
   "key5": [
-    "민주당 김민석, 제주·인천 경선 승리로 누적 득표율 1위 탈환",
-    "병무청, 인구절벽 대응 위해 병역제도 개편 및 보충역 감축·폐지 검토",
-    "폭염으로 농수산물 가격 급등 및 양식장 폐사 피해 발생",
-    "트럼프 전 대통령 변호사 토드 블랑쉬, 상원 인준 받아 미 법무부 장관 취임",
-    "NASA 퍼서비어런스 로버, 화성에서 90% 이상 자율 주행 성공"
+    "인천 검단구 및 영종구, CCTV 사각지대 심각하여 치안 공백 우려 제기",
+    "평택 위험물 창고 화재 발생, 국가소방동원령 발령 후 대응 1단계 하향",
+    "트럼프 행정부, 아동 백신 접종 권고 변경 및 MMR 백신 분리 접종 추진",
+    "유럽 전역 기록적 폭염, 가뭄, 산불로 경제적 타격 및 인명 피해 발생",
+    "중국, 서방보다 빠르게 원자력 발전소 건설 가속화"
   ],
   "regions": [
     {
@@ -15,84 +15,80 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "민주당 김민석, 제주·인천 경선 승리로 누적 득표율 1위 탈환",
-          "summary": "더불어민주당 차기 지도부 선출을 위한 전당대회에서 김민석 후보가 제주와 인천 경선에서 승리하며 누적 득표율 1위를 탈환했습니다. 김 후보(45.42%)와 정청래 후보(44.56%)의 누적 득표율 차는 0.86%포인트로 여전히 초박빙 양상을 보이며, 남은 호남 및 서울·경기 경선이 승패의 최대 변수가 될 전망입니다.",
+          "tag": "soc",
+          "title": "인천 검단·영종구 CCTV 부족으로 치안 공백 우려",
+          "summary": "인천 검단구와 영종구가 새로 출범했지만, 다른 자치구에 비해 방범용 CCTV 설치 대수가 현저히 적어 치안 공백에 대한 우려가 제기되고 있다. 1㎢당 CCTV 설치 대수는 검단구 20대, 영종구 8대로 인천 9개 구 중 가장 적은 수준이다. 특히 인구 급증 지역인 검단구와 국제공항이 있는 영종구의 특성을 고려할 때 CCTV 확충의 필요성이 강조된다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260808051000001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260808048251001"
-            },
-            {
-              "name": "The Korea Herald",
-              "url": "https://www.koreaherald.com/article/10828152"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260805063500065"
             }
           ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "병무청, 인구절벽 대응 병역제도 개편 및 보충역 감축·폐지 검토",
-          "summary": "홍소영 병무청장은 인구절벽에 따른 병역 자원 감소에 대응하기 위해 병역제도 전반의 근본적인 개편과 보충역 제도 단계적 감축·폐지 방안을 검토 중이라고 밝혔습니다. 특히 공공필수 분야를 제외한 민간 분야 보충역을 상당히 축소하고, 정신건강 검사 기준을 강화해 현역 전환을 유도하는 방안도 고려하고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260808024900504"
-            },
-            {
-              "name": "Yonhap News Agency",
-              "url": "https://en.yna.co.kr/view/AEN20260807005000315"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "폭염에 농수산물 가격 급등 및 양식장 폐사 피해 속출",
-          "summary": "전국적인 폭염으로 인해 농산물(시금치, 오이, 애호박, 청상추 등)과 수산물(광어, 전어) 가격이 급등하고 있으며, 제주 양식장에서는 광어 집단 폐사 피해가 발생했습니다. 바다 수온 상승의 영향은 9월에 더 커질 것으로 전망되어 추석을 앞두고 농축수산물 전반의 '히트플레이션' 우려가 커지고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260808052900030"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260808046400030"
-            },
-            {
-              "name": "The Asia Business Daily",
-              "url": "https://www.asiae.co.kr/en/article/2026080710102647310"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
+          "verification": "single",
+          "tag_label": "사회"
         },
         {
           "tag": "soc",
-          "title": "네이버 AI 인프라, 카카오 AI 에이전트…플랫폼 기업별 상이한 AI 전략",
-          "summary": "국내 양대 플랫폼 기업 네이버와 카카오가 인공지능(AI) 경쟁력 확보를 위해 연구개발(R&D) 투자를 확대하면서 상이한 전략을 추구하고 있습니다. 네이버는 엔비디아와 협력하여 글로벌 AI 인프라 사업을 강화하는 반면, 카카오는 카카오톡을 중심으로 이용자 의도를 실제 행동으로 연결하는 에이전트 AI 서비스에 집중하고 있습니다.",
+          "title": "평택 위험물 창고 화재, 국가소방동원령 발령 후 진화 중",
+          "summary": "11일 경기 평택시 청북읍에 위치한 특수물류센터에서 대형 화재가 발생하여 소방 당국이 국가소방동원령을 발령했다. 불이 난 PJK 평택1센터는 국내 최대 규모의 위험물 및 유해화학물질 전용 보관 시설로, 100여 종의 제4류 위험물과 일반 화학물 약 191만 리터가 보관되어 있었다. 현재까지 인명 피해는 없는 것으로 확인되었으며, 소방 당국은 화재 발생 약 5시간 만에 큰 불길을 잡고 대응 단계를 하향 조정했으나 국가소방동원령은 유지 중이다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260807119900017"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260811013700001"
             },
             {
-              "name": "Aju Press",
-              "url": "https://www.ajupress.com/view/20260808162942169"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608110633001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "TechTimes",
-              "url": "https://www.techtimes.com/articles/323423/20260806/kakaotalk-ai-agent-orders-your-food-while-naver-builds-gigawatt-gpu-farms.htm"
+              "name": "SBS News",
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008699102"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "폭염 속 기후복지 격차 심화, 냉방 시설 확충 필요",
+          "summary": "역대급 폭염이 지속되면서 냉방 시설을 갖춘 버스정류장 '스마트쉘터'의 필요성이 커지고 있으나, 지자체 재정 여건에 따라 설치율에 큰 격차가 발생하고 있다. 스마트쉘터 1개당 1억 원 이상의 설치 비용과 유지비 부담으로 많은 지자체가 확충에 어려움을 겪고 있으며, 인도 폭 등의 공간 제약 또한 문제로 지적된다. 전문가들은 기후 위기 대응 인프라가 시민의 생명권과 직결되는 만큼 국가 차원의 재정 지원이 시급하다고 강조했다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260810106000061"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260810105700061"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/asia/east-asia/heatwave-divides-rich-and-poor-of-upmarket-seoul"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "김상호 춘추관장, 주택 무단 증축 논란에 사의 표명",
+          "summary": "김상호 청와대 춘추관장이 자신이 소유한 서울 강남구 대치동 다세대주택의 무단 증축 및 이를 통한 임대 수익 논란이 불거지자 사의를 표명했다. 김 관장은 주택 매입 당시 무단 증축 사실을 인지하지 못했으며, 이후 양성화 절차를 추진할 예정이라고 밝혔다. 그는 이재명 대통령의 오랜 공보 측근으로 알려져 있으며, 그의 사의 표명은 청와대 참모진 추가 개편으로 이어질 가능성이 있다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260810152700001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260810062751001"
+            },
+            {
+              "name": "SBS News",
+              "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008698148"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -103,20 +99,24 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 전 대통령 변호사 토드 블랑쉬, 상원 인준 받아 미 법무부 장관 취임",
-          "summary": "도널드 트럼프 전 대통령의 개인 변호사였던 토드 블랑쉬가 50대 49의 근소한 차이로 상원 인준을 받아 미 법무부 장관으로 공식 취임했습니다. 블랑쉬는 제프리 엡스타인 관련 문서 공개와 트럼프의 '반(反) 무기화' 기금 조성 등 여러 논란에도 불구하고 법무부 장관직을 맡게 되었습니다.",
+          "title": "트럼프, 아동 백신 접종 축소 및 MMR 분리 접종 명령 서명",
+          "summary": "도널드 트럼프 대통령이 아동 백신 권고 접종 수를 줄이고 홍역, 볼거리, 풍진(MMR) 백신을 분리 접종하도록 권고하는 행정 명령에 서명했다. 이 명령은 아동 백신 권고 수를 기존 18개에서 11개로 줄이고, MMR 백신을 한 번에 접종할 경우 '매우 치명적'일 수 있다고 주장하며 분리 접종을 권고하고 있다. 그러나 여러 연구에서 MMR 백신과 자폐증 사이의 연관성은 발견되지 않았으며, 전문가들은 분리 접종 시 질병에 걸릴 위험이 높아질 수 있다고 경고했다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general"
+              "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news"
+            },
+            {
+              "name": "The Hill",
+              "url": "https://thehill.com/policy/healthcare/6021147-trump-executive-order-mmr-vaccine"
             }
           ],
           "verification": "multi",
@@ -124,62 +124,70 @@
         },
         {
           "tag": "pol",
-          "title": "헌터 바이든, 부친 조 바이든 전 대통령의 암 전이 및 고통 언급",
-          "summary": "헌터 바이든이 BBC와의 인터뷰에서 조 바이든 전 대통령의 전립선암이 뼈로 전이되어 고통을 겪고 있다고 밝혔습니다. 그는 아버지가 치료를 받고 있음에도 힘든 상황에서 가족과 시간을 보내는 데 집중하고 있다고 덧붙였습니다. 이 언급은 바이든 전 대통령의 건강에 대한 가족의 가장 자세한 공개 업데이트 중 하나입니다.",
+          "title": "트럼프 행정부, 중동 정책 전환 시도하나 난항 지속",
+          "summary": "트럼프 대통령이 이란과 가자 지역 문제에서 성공을 선언하길 원하지만, 중동은 그의 의지대로 움직이지 않고 있다. 이스라엘 총리 네타냐후는 가자 지구 내 하마스 무장 해제를 위한 트럼프의 15개 계획을 거부했으나, 백악관은 이를 선거용 수사로 간주하고 있다. 또한 이라크에서는 이란 최고 지도자의 사망을 계기로 시아파 성지 순례객이 증가하며 반미 정서가 확산되고 있다.",
           "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
+            },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
-            },
-            {
-              "name": "AOL",
-              "url": "https://www.aol.com/articles/hunter-biden-says-former-president-180341000.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "미국, 이란전 무기 소진으로 비축량 우려…러시아·중국 주시",
-          "summary": "미국 상원이 이란에 대한 무기 비축량 고갈 문제를 해결하기 위한 법안 처리에 실패했습니다. 이란과의 전쟁으로 인해 미국은 장거리 정밀 미사일 비축량의 상당 부분을 소진했으며, 이는 러시아와 중국이 미국의 전력 약화를 주시하게 만들고 있습니다. 일부 분석가들은 이란 분쟁의 장기화가 모스크바와 베이징에 이익이 될 수 있다고 보고 있습니다.",
+          "tag": "eco",
+          "title": "호르무즈 해협 재개 협상 교착, 국제 유가 5% 급등",
+          "summary": "미국과 이란 간 호르무즈 해협 재개 협상이 교착 상태에 빠지면서 10일(현지시간) 국제유가가 5% 급등했다. 이란이 해상 봉쇄 해제, 미군 철수, 전쟁 피해 보상 등 6개 요구사항을 제시하자 트럼프 대통령은 이란의 과거 테러 행위에 대한 배상을 요구하며 맞서고 있다. 이에 따라 시장의 조속한 합의 기대감이 낮아졌으며, 중동 지역의 추가 공급 차질 우려도 유가 상승 압력을 키웠다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260811004600072"
             },
             {
-              "name": "Modern Diplomacy",
-              "url": "https://moderndiplomacy.eu/2026/08/04/us-missile-stockpile-depletion-raises-readiness-concerns"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html"
             },
             {
-              "name": "Defence Security Asia",
-              "url": "https://defencesecurityasia.com/en/us-missile-arsenal-crisis-iran-war-atacms-prsm-china-deterrence"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/diplomacy/article/3363579/trump-demands-iran-pay-compensation-hopes-fade-hormuz-agreement?utm_source=rss_feed"
+            },
+            {
+              "name": "tradingkey.com",
+              "url": "https://www.tradingkey.com/analysis/commodities/oil/262091313-brent-crude-84-hormuz-strait-negotiation-deadlock-pushes-oil-prices-higher-tradingkey"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "캐나다 브리티시컬럼비아주 산불 확산, 수천 명 대피 및 전력 공급 중단",
-          "summary": "캐나다 브리티시컬럼비아주 서머랜드와 오카나간-시밀카민 지역에서 빠르게 확산하는 산불로 인해 수천 명이 대피해야 하는 상황에 직면했습니다. 발드 레인지 산불은 금요일 발견 이후 규모가 두 배로 커져 95㎢ 이상을 태웠으며, 서머랜드 지역의 전력 공급이 중단되는 등 피해가 확대되고 있습니다.",
+          "title": "캐나다 전역 산불 확산, 주민 대피 및 대응 전략 변화 모색",
+          "summary": "캐나다 전역에서 750건 이상의 산불이 활발히 진행 중이며, 특히 브리티시컬럼비아주의 발드 레인지 산불로 인해 1만 2천 명 이상의 주민이 대피했다. 산불의 규모와 속도가 전례 없이 빨라지면서 1명이 사망하고 수많은 주택이 소실되는 등 피해가 커지고 있다. 캐나다 정부와 지역사회는 화재 진압 자원 부족 문제를 인식하고, 원주민 공동체를 중심으로 자체적인 화재 대응 시스템 구축과 주민 보호 전략 변화를 모색하고 있다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires"
             }
           ],
           "verification": "multi",
@@ -193,67 +201,71 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "일본, 독도 근해 한국 해양조사에 항의…외교 마찰 심화",
-          "summary": "일본 외무성은 한국 해양조사선이 독도(일본명 다케시마) 근해 일본의 배타적경제수역(EEZ)에서 일본의 사전 동의 없이 해양 조사를 실시한 것에 대해 한국 정부에 강력히 항의했습니다. 일본 측은 한국 선박이 해상에 와이어를 투하하는 것을 확인했다고 밝히며, 양국 간 영토 분쟁을 둘러싼 외교적 긴장이 고조되고 있습니다.",
+          "tag": "soc",
+          "title": "구마모토 지진 2주, 6천여 명 이재민 여전히 대피소 생활",
+          "summary": "지난달 말 발생한 구마모토 7.1 규모 지진 이후 2주가 지났지만, 6천 명 이상의 이재민이 여전히 대피소에 머물고 있다. 39명이 사망하고 21,614채의 주택이 파손되었으며, 3만 가구 이상이 단수 피해를 겪고 있다. 일본 정부는 모든 구마모토현에 재해 생활 재건 지원법을 적용하여 주택 건설, 수리, 임대 비용을 최대 300만 엔까지 지원하고, 이재민들이 호텔로 2차 대피할 수 있도록 돕고 있다. 특히 발달·지적 장애 아동들을 위한 심리 지원 공간도 마련되어 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/politics/japan-protests-takeshima-south-korea/"
+              "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/reconstruction-aid-law-kumamoto/"
             },
-            {
-              "name": "Japan Today",
-              "url": "https://japantoday.com/category/politics/japan-lodges-protest-with-s.-korea-over-marine-survey-near-disputed-islets1"
-            },
-            {
-              "name": "Nippon.com",
-              "url": "https://www.nippon.com/en/news/yjj2026080601025"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "북한·중국 위협 고조에 도쿄역 인근 미사일 대피소 건설 추진",
-          "summary": "도쿄도 정부가 북한의 탄도 미사일 시험 발사 증가와 중국의 무기 증강에 따른 안보 우려 고조에 대응하여 도쿄역 인근 지하 주차장에 미사일 대피소 건설 계획을 발표했습니다. 도쿄 지사는 도쿄역이 수도의 관문이자 많은 사람이 모이는 곳이므로 이 지역의 대피소 건설이 매우 효과적일 것이라고 강조했습니다.",
-          "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/tokyo-missile-shelter/"
+              "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/6000-evacuation-centers-kumamoto/"
             },
             {
-              "name": "The Statesman",
-              "url": "https://www.thestatesman.com/world/japan-unveils-defence-build-up-plan-warns-of-chinas-military-expansion-north-koreas-nuclear-threat-and-russia-ties-1503624550.html"
+              "name": "asianews.network",
+              "url": "https://asianews.network/japans-kumamoto-quake-1-week-on-government-volunteer-support-work-gets-up-to-speed"
             },
             {
-              "name": "UA.NEWS",
-              "url": "https://ua.news/en/world/iaponiia-posiliuie-oboronu-cherez-zblizhennia-rf-kitaiu-ta-kndr"
+              "name": "ReliefWeb",
+              "url": "https://reliefweb.int/report/japan/amda-emergency-relief-2-kumamoto-earthquake-japan-3-august-2026"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
           "tag": "tec",
-          "title": "중국 연구팀, 순수한 힘으로 구성된 희귀 물질 '글루볼' 존재 확인",
-          "summary": "중국 연구팀이 15년간의 연구 끝에 '글루볼(glueball)'이라는 희귀 물질의 존재를 확인하며 물리학계의 중요한 돌파구를 마련했습니다. 글루볼은 강한 핵력을 전달하는 입자인 글루온만으로 구성된 입자로, 이번 발견은 입자 물리학의 표준 모델을 검증하고 새로운 형태의 물질에 대한 이해를 심화하는 데 기여할 것으로 기대됩니다.",
+          "title": "중국, 서방보다 빠른 속도로 원자력 발전소 건설 가속화",
+          "summary": "중국이 서방 국가들보다 훨씬 빠른 속도로 원자력 발전소 건설을 가속화하며 글로벌 원자력 시장을 주도하고 있다. 서방 프로젝트가 지연과 비용 상승에 발목 잡히는 동안, 중국은 국가 주도 모델을 통해 기록적인 속도로 원자로를 건설하고 있다. 지난해 중국은 2020년 이후 총 21기의 새로운 원자로를 추가했으며, 이는 미국이 같은 기간 추가한 2기와 대조적이다. 이러한 건설 경험의 연속성은 중국을 원자력 건설 분야에서 독보적인 위치에 올려놓고 있다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3363404/what-glueball-chinese-led-team-finds-rare-particle-made-entirely-force?utm_source=rss_feed"
+              "url": "https://www.scmp.com/economy/china-economy/article/3363550/china-building-nuclear-reactors-faster-west-can-it-keep-pace?utm_source=rss_feed"
             },
             {
-              "name": "Xinhua",
-              "url": "https://english.news.cn/20260806/0f02548d2a4a4b47bc3db1640a62b4b6/c.html"
+              "name": "Chinadaily.com.cn",
+              "url": "https://global.chinadaily.com.cn/a/202608/04/WS6a7138e0a310986e2b468cb2.html"
             },
             {
-              "name": "TRT World",
-              "url": "https://www.trtworld.com/article/3bcd2cc560c9"
+              "name": "constructionreviewonline.com",
+              "url": "https://constructionreviewonline.com/china-nuclear-power-projects-worth-us25-billion-clear-state-council-approval"
             }
           ],
           "verification": "multi",
           "tag_label": "기술·과학"
+        },
+        {
+          "tag": "pol",
+          "title": "중국, 브라질 WTO 제소에 동참하며 트럼프 관세 정책 비판",
+          "summary": "중국이 브라질이 미국에 부과된 '강제 노동 관세'에 대해 세계무역기구(WTO)에 제기한 협의에 참여 의사를 밝혔다. 브라질은 트럼프 행정부가 부과한 최대 37.5%의 관세에 대해 WTO에 제소했으며, 중국은 미국의 이러한 조치가 자국 상품에도 적용될 수 있고, 중국 상품의 미국 시장 경쟁 조건을 변화시킨다는 이유로 실질적인 상업적 이해관계를 가지고 있다고 주장했다. 중국은 2018년부터 미국의 무역법 301조에 대해 WTO에 이의를 제기해 왔다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/article/3363585/china-moves-join-brazils-wto-fight-over-trumps-forced-labour-tariffs?utm_source=rss_feed"
+            },
+            {
+              "name": "moderndiplomacy.eu",
+              "url": "https://moderndiplomacy.eu/2026/08/07/trumps-brazil-tariffs-causing-a-pivot-to-asia"
+            },
+            {
+              "name": "chathamhouse.org",
+              "url": "https://www.chathamhouse.org/2026/08/trumps-summer-tariffs-means-trade-uncertainty-here-stay"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -264,83 +276,74 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "코소보 의회에서 야당 의원, 쿠르티 총리 대행에 계란 투척…정치 위기 고조",
-          "summary": "코소보 의회에서 야당 의원이 알빈 쿠르티 총리 대행에게 계란을 던지는 사건이 발생하며 회의가 중단되었고, 이는 장기화된 정치적 위기가 고조되고 있음을 보여줍니다. 쿠르티 총리 대행은 야당 의원의 계란 투척에도 불구하고 대화의 대가라면 기꺼이 감수하겠다고 밝혔으나, 연이은 총선으로 정치적 불안정성이 심화되고 있습니다.",
+          "title": "러시아, 반전 정당 총선 출마 금지 및 우크라이나 드론 공격 사상자 발생",
+          "summary": "러시아 대법원이 우크라이나 전쟁에 반대하는 유일한 공식 등록 정당인 자유주의 야블로코당의 9월 총선 출마를 금지했다. 이는 러시아 정치에서 반전 의견에 대한 당국의 불관용을 보여준다. 한편 우크라이나는 러시아 타타르스탄 공화국 니즈네캄스크에 드론 공격을 감행하여 최소 13명이 사망하고 75명 이상이 부상했다. 러시아는 이를 '민간인 대상 공격'이라 비난하며 보복을 경고했다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3363413/kosovo-pm-egged-parliament-political-crisis-spirals?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363576/russia-bars-anti-war-party-parliamentary-election?utm_source=rss_feed"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Yahoo News UK",
-              "url": "https://www.google.com/goto?url=CAESgQEB7keqTf_1GJHP2udlPRiPGFvw0tWMHNPgZo9RCTCajw3rKNt4D9xUQpZ7oIG54BQZzLB3i_Zf42m9AesNj6tUb3u7fmHX3d0MW0eGwKcHEOyEPYAvcF5CTd8_xm0LHeTBc6HuKIcWmvGbeSIToUfzyUpYIlSWNSvAAjfMyN2xb_4%3D"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "globalbankingandfinance.com",
+              "url": "https://www.globalbankingandfinance.com/russia-bars-anti-war-party-parliamentary-vote"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "스페인, 이탈리아발 방문객에 임시 국경 검사 도입…이민자 유입 갈등 증폭",
-          "summary": "스페인이 이탈리아발 모든 항공 및 해상 이동에 대한 임시 국경 통제를 도입할 예정이며, 이는 이탈리아가 세우타를 통한 이민자 유입에 대응하여 유사한 제한 조치를 시행한 데 따른 것입니다. 이로 인해 두 EU 국가 간의 갈등이 심화되고 있으며, 이민자 유입과 국경 통제 문제를 둘러싼 긴장이 고조되고 있습니다.",
+          "tag": "eco",
+          "title": "유럽, 기록적 폭염·가뭄·산불로 수천억 유로 경제적 타격",
+          "summary": "올여름 유럽 전역을 덮친 기록적인 폭염, 가뭄, 그리고 사상 최대 규모의 산불로 인해 유럽 경제가 수천억 유로의 막대한 손실을 입은 것으로 추정된다. 기후 변화로 인한 극심한 기상 현상은 전력 생산, 해운, 공중 보건 시스템에 큰 혼란을 초래했으며, 물가 변동과 관광 지형 변화에도 영향을 미치고 있다. 과학자들은 이러한 기후 변화가 더욱 가속화될 것으로 예상하며, 경제적 비용 또한 더욱 빠르게 증가할 것이라고 경고했다.",
           "sources": [
             {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/08/10/economy/climate-change-europe-economy-summer/"
+            },
+            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
+              "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "newscord.org",
+              "url": "https://newscord.org/article/copernicus-says-western-europe-sets-june-july-temperature-record-amid-forest-fir--Story_20260810_ThehellofJuneandJuly91d921de"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "러시아군의 우크라이나 야간 공격으로 12명 사망, 80여 명 부상",
-          "summary": "러시아군이 밤새 우크라이나 전역에 미사일과 드론 공격을 감행하여 최소 12명이 사망하고 80여 명이 부상당하는 사상자가 발생했습니다. 우크라이나 공군에 따르면 러시아는 6발의 미사일과 151대의 공격 드론을 발사했으며, 젤렌스키 대통령은 추가적인 제재와 방공 시스템 지원을 촉구했습니다.",
-          "sources": [
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/russia-attack-across-ukraine-kills-12-injures-over-80-overnight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles"
-            },
-            {
-              "name": "France 24",
-              "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "유럽 기록적 폭염·가뭄, 다뉴브강 수위 낮아져 나치 선박 잔해 노출",
-          "summary": "유럽 전역의 기록적인 폭염과 가뭄으로 다뉴브강의 수위가 낮아지면서 제2차 세계대전 당시 침몰했던 나치 선박 잔해가 드러났습니다. 세르비아와 루마니아 국경 부근에서는 파손된 선체와 무기가 실려 있을 것으로 추정되는 선박들이 노출되었으며, 이는 1944년 나치 독일군이 소련군 진격을 늦추기 위해 의도적으로 침몰시킨 것으로 알려져 있습니다.",
+          "title": "스페인 세우타 대규모 이민자 유입, 유럽 이민 정책 논쟁 격화",
+          "summary": "지난 7월 말 스페인 북아프리카 영토 세우타에 모로코로부터 7만 2천여 명의 이민자가 유입되는 전례 없는 사태가 발생했으며, 이 중 약 7만 명은 모로코로 돌아갔다. 그러나 수천 명이 여전히 남아있어 세우타 당국의 자원이 한계에 달하고 있다. 이번 사태는 유럽연합(EU) 내 불법 이민에 대한 오랜 논쟁을 다시 점화시켰으며, 이탈리아와 덴마크 등 일부 국가들은 '통제 불능 이민'에 대한 비판과 함께 엄격한 이민 정책을 요구하고 있다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/10/ceuta-leader-wants-migrant-detention-centre-after-mass-influx-from-morocco"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "The Sydney Morning Herald",
-              "url": "https://www.smh.com.au/world/europe/europe-s-most-famous-rivers-are-drying-out-and-revealing-long-held-secrets-20260807-p60mb0.html"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/giorgia-meloni-mette-frederisken-unite-to-condemn-uncontrolled-immigration-after-ceuta-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/eu-ceuta-migration-politics-spain-ea9bf6713d1ab342370f28eec1cd888d"
             }
           ],
           "verification": "multi",
@@ -355,16 +358,24 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "NASA 퍼서비어런스 로버, 화성 자율 주행 90% 이상 성공",
-          "summary": "NASA의 퍼서비어런스 로버가 화성에서 주행 거리 기록을 경신하며 45.16km 이상을 이동했습니다. 이 로버는 주행 시간의 90% 이상을 자율 주행으로 성공적으로 수행하며, 이는 향상된 자동 내비게이션 시스템 덕분입니다. 퍼서비어런스의 성공적인 자율 주행은 미래 행성 탐사에 중요한 발전을 시사합니다.",
+          "title": "AI 개발 윤리 문제 대두, 샌더스 상원의원 개발 중단 촉구",
+          "summary": "버니 샌더스 상원의원이 인공지능(AI) 기업들에게 '재앙을 피하기 위해' AI 개발을 일시 중단할 것을 촉구했다. 그는 기업들이 이미 수백만 명에게 '잠재적으로 파멸적인 결과'를 초래할 수 있는 기술을 통제하지 못하고 있다고 경고했다. 조 바이든 전 대통령 또한 AI가 사생활, 노동 방식, 국가 안보에 새로운 위협을 가할 수 있다고 우려하며 안전장치 마련의 중요성을 강조한 바 있다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html"
             },
             {
-              "name": "Process and Control Today",
-              "url": "https://www.pandct.com/news/nasa-returns-to-spring-manufacturer-for-second-mars-rover-programme"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics"
+            },
+            {
+              "name": "hlc.com",
+              "url": "https://www.hlc.com/en/publications/china-continues-to-strengthen-regulation-of-artificial-intelligence-ai-in-the-life-sciences-sectors"
+            },
+            {
+              "name": "unesco.org",
+              "url": "https://www.unesco.org/en/articles/unesco-peru-promotes-dialogue-ethical-horizons-artificial-intelligence-fil-lima-2026"
             }
           ],
           "verification": "multi",
@@ -372,20 +383,24 @@
         },
         {
           "tag": "tec",
-          "title": "과학자들, 햇빛으로 양자 얽힘 직접 생성 성공…에너지 효율적인 양자 기술 가능성 제시",
-          "summary": "과학자들이 햇빛으로부터 양자 얽힘을 직접 생성하는 데 성공했으며, 이는 양자 기술에 필요한 레이저보다 에너지 효율적인 대안을 제시할 수 있습니다. 이번 연구 결과는 양자 위성, 보안 통신, 에너지 효율적인 양자 컴퓨팅 개발의 새로운 길을 열 수 있을 것으로 기대됩니다.",
+          "title": "미 SEC, AI 데이터센터 ABS 규제 완화로 투자 확대 기대",
+          "summary": "미국 증권거래위원회(SEC)가 인공지능(AI) 데이터센터 관련 자산유동화증권(ABS)에 대한 핵심 투자자 보호 규정을 면제하여, AI 인프라 구축을 위한 자금 조달이 쉬워질 전망이다. 이번 조치로 데이터센터 ABS 발행 기업은 '위험 보유' 요건 등을 준수할 필요가 없어져 부채 매각이 용이해졌다. AI 관련 데이터센터 ABS 발행 규모는 2020년 24억 달러에서 지난해 155억 달러로 급증했으며, 올해는 사상 최대치를 경신할 것으로 예상된다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260811011600009"
             },
             {
-              "name": "The Quantum Insider",
-              "url": "https://thequantuminsider.com/2026/08/07/researchers-show-sunlight-can-generate-quantum-entanglement"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed"
             },
             {
-              "name": "Quantum Zeitgeist",
-              "url": "https://quantumzeitgeist.com/abdullah-al-sunlight-generates-quantum-entanglement"
+              "name": "akingump.com",
+              "url": "https://www.akingump.com/en/insights/alerts/sec-staff-guidance-clarifies-the-exchange-act-abs-analysis-for-data-center-securitizations"
+            },
+            {
+              "name": "marketbeat.com",
+              "url": "https://www.marketbeat.com/instant-alerts/filing-summittx-capital-lp-acquires-10072-shares-of-nvidia-corporation-nvda-2026-08-08"
             }
           ],
           "verification": "multi",
@@ -393,20 +408,24 @@
         },
         {
           "tag": "tec",
-          "title": "뉴저지 주택 강타 운석, 고대 염수·유기 화합물·아미노산 등 생명의 기원 단서 발견",
-          "summary": "뉴저지 주택 지붕을 뚫고 떨어진 희귀 운석에서 고대 염수, 유기 화합물, 아미노산 등 생명의 기원에 대한 단서가 발견되었습니다. 연구팀은 이 운석 조각들이 원시 소행성 표면 근처에서 농축된 염수에 노출된 흔적을 보존하고 있으며, 이는 초기 지구가 생명에 필요한 성분을 어떻게 얻었는지에 대한 새로운 통찰력을 제공할 수 있다고 밝혔습니다.",
+          "title": "공기 흡입식 추진 인공위성 내년 발사, 초저궤도 개척 전망",
+          "summary": "대기권 내 공기를 흡입해 추진력을 생성하는 신개념 인공위성이 내년에 발사될 예정이다. 스페인 기업 크레이오스 스페이스가 개발한 '공기 흡입식 전기 추진기(ABEP)'를 탑재한 이 위성은 세계 최초로 동체에 화학연료 대신 공기를 추진 용도로 사용한다. 이는 기존 위성이 운용할 수 없었던 고도 150~300km의 초저궤도를 개척하여 지상 초정밀 촬영 및 고품질 위성 통신 서비스 시대를 열 것으로 기대된다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608110600031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The Brighter Side of News",
-              "url": "https://www.thebrighterside.news/post/rare-meteorite-crashes-into-new-jersey-home-revealing-clues-to-the-origin-of-life"
+              "name": "space.com",
+              "url": "https://www.google.com/goto?url=CAES1AEB7keqTW2N3kYKx3_Fpqz7xYwfN7TqtH4dYO3OSlkhDnmM11zb_6iFQjMp22xfSx-Swu0NPzeaQJZGYgUMCKyY0s16VOHxQmnSBT97AqAmB2YQj68tVktFKXgnyLsAKRA9dur0KswojK4g4W4eNjKQ7eDl_MNW44TR60jH4u-T_A9WFoDlI7xSW3kid4mCqqFQeJ8q_4mWKmiQHDa_xVFR3h7dgH7odtDFGwUbc2q-PPWlaborQiITG6FK3shaNch-1t9kGX6BY7PZnaH8yqnIAmVBEA%3D%3D"
             },
             {
-              "name": "AOL",
-              "url": "https://www.aol.com/articles/rare-meteorite-crashes-jersey-home-230700000.html"
+              "name": "satelliteevolution.com",
+              "url": "https://www.satelliteevolution.com/post/kreios-space-selects-kongsberg-nanoavionics-for-first-ever-air-breathing-electric-propulsion-satelli"
+            },
+            {
+              "name": "techtimes.com",
+              "url": "https://www.techtimes.com/articles/323012/20260804/kreios-space-fly-first-air-breathing-electric-propulsion-engine-very-low-earth-orbit.htm"
             }
           ],
           "verification": "multi",
