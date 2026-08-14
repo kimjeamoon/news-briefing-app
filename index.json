@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-14",
-  "date_str": "2026년 8월 14일 (금)",
+  "date": "2026-08-15",
+  "date_str": "2026년 8월 15일 (토)",
   "key5": [
-    "북한, 한미연합훈련에 반발하며 핵억제력 강화 및 '새로운 수준의 억제력' 주장",
-    "트럼프 미국 대통령, 중국 겨냥해 드론 및 부품에 최대 100% 관세 부과 지시",
-    "트럼프, 케네디센터 명칭 변경 좌절되자 '트럼프가 복원' 문구 추가 및 재보수 추진",
-    "푸틴 러시아 대통령, 일본과 영토 분쟁 중인 쿠릴열도 방문해 일본 강력 항의",
-    "아마존 트위치, 사용자 동의 없이 AI 학습에 콘텐츠 활용 논란 확산"
+    "이재명 대통령, 4년 중임·연임제 개헌 및 임기 단축 수용 발언에 여야 반응 엇갈려.",
+    "정부, 부동산 시장 안정 위해 47.8조원 규모 공급 및 금융 대책 발표.",
+    "최태원 SK그룹 회장, 노소영 아트센터 나비 관장에 대한 9440억 원 재산 분할 판결에 재상고.",
+    "미국 7월 소매 판매, 1년여 만에 최대 하락 기록하며 인플레이션 압박 심화.",
+    "맥 OS 치명적인 취약점 '스크린 공유 버그' 활발히 악용 중, 사용자 주의 필요."
   ],
   "regions": [
     {
@@ -16,83 +16,83 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "북한, 한미연합훈련에 반발…'핵억제력 강화' 위협",
-          "summary": "북한은 한미 연합훈련 '을지 자유의 방패'(UFS)에 대해 '대적 입장'을 명백히 표현하고 '새로운 수준의 억제력'을 적용할 것이라고 경고했습니다. 또한 미국이 전술 핵무기에 비중을 둔 새로운 핵 전략을 논의하는 것에 대해 '자위적 핵 억제력을 끊임없이 확대 강화할 것'이라고 주장했습니다. 북한은 이번 한미 연합훈련이 '침략전쟁 시연'이며 '핵전쟁 폭발의 임계점'으로 몰아가는 중대 위협이라고 비판했습니다.",
+          "title": "이재명 대통령, 4년 중임·연임제 개헌 및 임기 단축 수용 발언에 여야 반응 엇갈려",
+          "summary": "이재명 대통령이 4년 중임제 또는 연임제 개헌을 언급하며 임기 단축 수용 의사를 밝혔으나, 야당은 이를 지지율 하락에 따른 정국 전환 시도로 비판했습니다. 청와대는 일관된 입장을 강조하며 국회 논의를 존중하겠다고 밝혔습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260814010300504"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260814151351001"
             },
             {
-              "name": "Internazionale",
-              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/13/north-korea-denounces-us-south-korea-drills-kcna-says"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260814105751001"
             },
             {
-              "name": "The Straits Times",
-              "url": "https://www.straitstimes.com/asia/north-korea-denounces-us-south-korea-drills-kcna-says"
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-favours-four-year-presidency-with-re-election-permitted-yonhap-2026-08-14"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "안중근 유묵 '독립' 환수 난항…오희옥 지사 기념관 건립 추진",
-          "summary": "안중근 의사의 유묵 '독립'의 국내 반환이 일본인 소장자의 입장 변경으로 1년째 난항을 겪고 있습니다. 경기도는 지난해 13억 원의 예산을 확보했으나 협상이 진전되지 않아 국민 펀딩도 시작하지 못하고 있습니다. 한편, 용인시에서는 '마지막 여성 광복군' 오희옥 애국지사의 기념관이 내년 말 개관할 예정이며, 오 지사의 3대 독립운동 일가 자료를 전시할 계획입니다.",
+          "tag": "pol",
+          "title": "광복절 맞아 친일파 동상 및 친일 재산 환수 논란 재조명",
+          "summary": "광복 81주년을 맞아 육군 상무대 보병학교 내 독립군 토벌에 참여한 친일파 김백일 장군의 동상 존치 문제가 재조명되었습니다. 보훈부와 육군본부는 동상 철거에 대해 서로 소관을 미루는 상황이며, 과거 친일 행적 지우기 노력에도 불구하고 해결되지 않은 친일 잔재에 대한 비판이 제기되고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260813150800061"
+              "url": "https://www.yna.co.kr/view/AKR20260814081300054"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260813121400061"
+              "name": "mk.co.kr",
+              "url": "https://www.mk.co.kr/en/society/12126216"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "정부 주택공급·세제개편안, 여당 내에서도 '폭망' 비판 봇물",
-          "summary": "정부가 발표한 주택공급 대책과 세제개편안에 대해 더불어민주당 의원총회에서 '폭망'할 것이라는 거센 비판이 쏟아졌습니다. 특히 비거주 1주택자에 대한 조세 정책이 수도권 선거에 부정적인 영향을 미칠 수 있다는 우려가 제기되었으며, 초과 세수 투입을 통한 주택 공급 확대 요구도 있었습니다. 청와대는 임기 내 150만 호 착공을 목표로 하며, 용산공원 부지 활용도 논의해야 한다고 밝혔습니다.",
+          "title": "국내 부동산 시장 안정 위한 47.8조원 규모 공급 및 금융 대책 발표",
+          "summary": "정부가 주택 신속공급 방안과 부동산 시장 안정 금융대책을 발표하며 건설업계의 자금 조달 부담 완화 및 민간 주택 공급 여건 개선을 약속했습니다. 47.8조 원 규모의 정책 금융 지원 확대와 젊은층 및 신혼부부를 위한 정책 대출 신설 등이 포함되었습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260813168400001"
-            },
-            {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260813156751001"
+              "url": "https://www.yna.co.kr/view/AKR20260814166700003"
             },
             {
-              "name": "UPI.com",
-              "url": "https://www.upi.com/Top_News/World-News/2026/08/12/democratic-party-housing-task-force-supply-taxes/4251786577776"
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/world/asia-pacific/south-korea-unveils-package-boost-housing-supply-support-young-buyers-2026-08-13"
+            },
+            {
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/37408ac9-f72d-46ed-9164-a993f6132a78"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "선관위 특검 국민추천위, 오늘 특검 후보 2인 압축 논의",
-          "summary": "6·3 지방선거 투표용지 부족 사태를 수사할 '선거관리위원회 특별검사' 국민추천위원회가 오늘 특검 후보 2인을 압축합니다. 대한변호사협회와 법학전문대학원협의회가 추천한 6명의 후보 중 이재명 대통령에게 추천할 2명을 선정하며, 특검법에 따라 후보 선정에는 추천위원 6명 전원이 찬성해야 합니다. 최종 후보가 대통령에게 추천되면 대통령은 이 중 1명을 특검으로 임명합니다.",
+          "tag": "soc",
+          "title": "최태원 SK그룹 회장, 9440억 재산 분할 판결에 재상고",
+          "summary": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 9440억 원의 재산 분할을 명령한 파기환송심 판결에 불복하여 재상고했습니다. 이로써 두 사람의 재산 분할 소송은 다시 대법원에서 다뤄지게 되었습니다. 최 회장 측은 주주들과 그룹 경영에 대한 부정적 영향을 최소화하겠다고 밝혔습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260813121100001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1273023.html"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608140717001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202608150001001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "news.sbs.co.kr",
-              "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008703830"
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/national-en/2026/08/09/A4BCVYXQB5CSRJ3EA5PXPX6URQ"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -103,45 +103,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 드론 및 부품에 최대 100% 관세…한국은 15%",
-          "summary": "도널드 트럼프 미국 대통령이 국가 안보를 이유로 드론 및 드론 부품에 최대 100%의 관세를 부과하는 포고문에 서명했습니다. 최대 이륙 중량 25kg 초과 드론이나 열화상 기능 드론에 100% 관세가 적용되며, 한국, EU, 일본 등에서 수입되는 드론 및 부품에는 15% 관세가 부과됩니다. 이는 무인항공체계 시장을 장악한 중국을 견제하기 위한 조치로 해석됩니다.",
+          "title": "트럼프 전 대통령, USS 에이브러햄 링컨호 배치 및 호르무즈 해협 관련 발언",
+          "summary": "트럼프 전 대통령이 USS 에이브러햄 링컨 항공모함의 장기 배치에 대한 우려를 일축하며, 배치 기간이 '전혀 길지 않다'고 주장했습니다. 또한 호르무즈 해협을 미국 영토로 선언하겠다는 위협을 지속하며 이 지역의 긴장을 고조시키고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260814012400071"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1272882.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608140723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "케네디센터, 트럼프 이름 추가 및 재보수 재추진 논란",
-          "summary": "워싱턴 D.C. 케네디센터 이사회가 건물 재보수 계획과 함께 '트럼프 대통령에 의해 복원 및 개보수'라는 문구를 외벽에 추가하고 부지를 '도널드 트럼프 대통령 플라자'로 명명하는 방안을 의결했습니다. 이는 기존 '트럼프-케네디센터' 명칭 변경 시도가 법원에 의해 저지되자 우회하려는 시도로 해석됩니다. 재보수 및 문구 추가는 법원의 승인이 필요합니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260814002651071"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates"
+              "name": "pbs.org",
+              "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough"
             },
             {
               "name": "cnn.com",
-              "url": "https://www.cnn.com/2026/08/13/politics/kennedy-center-board-vote"
+              "url": "https://www.cnn.com/2026/08/14/world/live-news/iran-war-trump"
             }
           ],
           "verification": "multi",
@@ -149,45 +124,66 @@
         },
         {
           "tag": "pol",
-          "title": "미 항공모함 USS 링컨, 장기 배치로 승조원 복지 우려 증폭",
-          "summary": "미 해군 항공모함 USS 에이브러햄 링컨이 9개월 가까이 장기 배치되면서 승조원들의 복지 문제가 불거지고 있습니다. 식량 부족, 배관 문제, 정신 건강 악화 등의 보고가 이어졌으며, 일부 승조원은 투신 시도까지 한 것으로 알려졌습니다. 미 국방장관은 해당 보고를 '완전히 왜곡된 것'이라고 일축했으나, 의원들은 펜타곤에 조사를 촉구하고 있습니다.",
+          "title": "의원 주식 거래 논란, 중간선거 주요 쟁점으로 부상",
+          "summary": "일부 미 의원들과 그 가족들이 수백만 달러 상당의 주식 거래를 한 사실이 드러나면서, 의원들의 주식 거래가 중간선거의 주요 쟁점으로 떠올랐습니다. 공화당과 민주당 모두 이 문제를 활용해 상대방을 비윤리적이라고 비난하고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
+              "url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html"
             },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html"
+            },
+            {
+              "name": "washingtonpost.com",
+              "url": "https://www.washingtonpost.com/politics/2026/08/10/primary-upsets-scramble-fight-control-congress"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "유나이티드헬스케어 CEO 살인 사건, 루이지 망기오네 유죄 인정",
+          "summary": "유나이티드헬스케어 CEO 브라이언 톰슨 살인 사건의 피고인 루이지 망기오네가 연방 법원에서 유죄를 인정했습니다. 망기오네는 2024년 12월 맨해튼 거리에서 톰슨을 총으로 살해했다고 시인했으며, 이 사건은 의료보험 보장 범위에 대한 대중의 불만을 다시 한번 부각시켰습니다.",
+          "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/aug/13/uss-abraham-conditions-hegseth"
+              "name": "cnbc.com",
+              "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html"
+            },
+            {
+              "name": "nytimes.com",
+              "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
-          "tag": "pol",
-          "title": "트럼프 행정부, 하버드대 반유대주의 소송 법원서 기각",
-          "summary": "트럼프 행정부가 하버드대가 교내 반유대주의에 제대로 대응하지 않았다며 제기한 소송이 연방 법원에서 기각되었습니다. 법원은 행정부가 제시한 사건들이 하버드대가 현재까지 연방 민권법을 지속적으로 위반하고 있다고 보기 어렵다고 판단했습니다. 법무부는 판결에 동의하지 않으며 다음 조치를 검토 중이라고 밝혔습니다. 이 판결은 트럼프 행정부의 하버드대 압박 노력에 타격을 입혔습니다.",
+          "tag": "eco",
+          "title": "미국 7월 소매 판매, 1년여 만에 최대 하락 기록하며 인플레이션 압박 심화",
+          "summary": "미국의 7월 소매 판매가 1년여 만에 가장 큰 폭으로 하락했으며, 이는 지속적인 인플레이션으로 인한 가계의 경제적 어려움을 반영합니다. 전자제품, 자동차 및 부품, 휘발유 판매가 감소하며 소비자 지출이 둔화되고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1272881.html"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/08/13/trump-harvard-lawsuit-dismissed"
+              "name": "fortune.com",
+              "url": "https://fortune.com/2026/08/14/its-not-lights-out-for-the-economy-u-s-retail-sales-drop-0-6-in-july"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -198,58 +194,66 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "푸틴, 일본 영토분쟁지역 쿠릴열도 방문…일본 강력 항의",
-          "summary": "블라디미르 푸틴 러시아 대통령이 일본이 영유권을 주장하는 쿠릴열도(일본명 북방영토)의 에토로후섬을 방문했습니다. 이는 푸틴 대통령의 첫 쿠릴열도 방문으로, 일본 정부는 러시아 대사를 초치하여 강력히 항의했습니다. 일본은 해당 지역이 역사적으로나 국제법상 일본 고유 영토임을 주장하며 이번 방문을 '절대 용납할 수 없는' 행위로 규정했습니다.",
+          "title": "미국 드론 고율 관세에 중국 비판, 공급망 재편 노림수 지적",
+          "summary": "미국이 수입 드론 및 관련 부품에 최대 100%의 관세를 부과하기로 한 것에 대해 중국 관영매체는 보호무역 조치이자 중국 업체를 견제하고 글로벌 공급망을 미국 중심으로 재편하려는 의도라고 비판했습니다. 이는 세계 드론 시장에서 중국 업체의 높은 점유율을 겨냥한 조치로 분석됩니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608142148001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/13/japan/society/russia-putin-japan-disputed-isle-visit/"
+              "name": "globaltimes.cn",
+              "url": "https://www.globaltimes.cn/page/202608/1368198.shtml"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/08/13/japan-condemns-vladimir-putin-visit-kuril-islands"
+              "name": "insideunmannedsystems.com",
+              "url": "https://insideunmannedsystems.com/trump-imposes-tariffs-up-to-100-on-foreign-made-drones-targeting-chinese-supply-chains"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "중국 STEM 학생들, 서방 대신 싱가포르로 유학 방향 전환",
-          "summary": "중국의 과학, 기술, 공학, 수학(STEM) 분야 학생들이 서방 국가 대신 싱가포르로 유학 방향을 전환하고 있습니다. 이는 서방의 유학 옵션이 줄어들고 있기 때문으로 분석됩니다. 싱가포르는 1997년부터 '시니어 미들 2(SM2)' 장학금 프로그램을 통해 중국 우수 고등학생들에게 전액 지원 학비를 제공하며, 졸업 후 6년간 싱가포르에서 근무하는 조건을 제시하고 있습니다.",
+          "tag": "eco",
+          "title": "중국 '996' 근무 관행 내부 불만 고조, 정부 경쟁 완화 노력",
+          "summary": "중국에서는 오전 9시부터 오후 9시까지 주 6일 근무를 의미하는 '996' 근무 관행에 대한 내부 불만이 고조되고 있습니다. 중국 정부는 이러한 '내권식 경쟁'을 심층 정비 대상으로 지정하며 소모적인 장시간 노동 관행을 개선하려는 노력을 보이고 있습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3363892/chinas-stem-students-turn-singapore-western-study-options-shrink?utm_source=rss_feed"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260814177600083"
             },
             {
-              "name": "medium.com",
-              "url": "https://medium.com/@vikas162202/why-the-young-chinese-are-not-studying-abroad-ae11e9b1a94a"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608150600061/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "thehansindia.com",
+              "url": "https://www.thehansindia.com/news/international/chinas-overworked-tech-force-now-faces-mass-ai-driven-layoffs-report-1106866"
             }
           ],
-          "verification": "single",
-          "tag_label": "정치·외교"
+          "verification": "multi",
+          "tag_label": "경제·시장"
         },
         {
-          "tag": "eco",
-          "title": "일본, 식품 소비세 인하안 여론조사 '찬성 49.1%', 정부 우려",
-          "summary": "지지통신 여론조사에 따르면 일본 정부의 식품 소비세 사실상 제로 인하 계획에 대해 응답자의 49.1%가 찬성하고 31.6%가 반대하는 것으로 나타났습니다. 야당인 국민민주당은 이 계획에 부정적 입장이지만, 지지층의 절반 이상은 찬성했습니다. 정부는 이 계획이 소규모 농민과 식당 사업의 소득 감소 등 문제를 야기할 수 있다고 우려하고 있습니다.",
+          "tag": "soc",
+          "title": "일본, 기록적인 폭우로 인명 피해 및 교통 마비 발생",
+          "summary": "일본 수도 도쿄 외곽에서 기록적인 폭우가 쏟아져 최소 8명이 사망하고 광범위한 홍수가 발생했습니다. 밤샘 비로 휴가철 교통이 마비되었으며, 나리타 국제공항에는 수천 명의 여행객이 고립되었습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/13/japan/politics/japan-survey-consumption-tax-cut/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather"
             },
             {
-              "name": "en.sedaily.com",
-              "url": "https://en.sedaily.com/international/2026/08/10/japans-takaichi-cabinet-support-falls-for-second-month-on"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/14/japan/heavy-rain-chiba/"
+            },
+            {
+              "name": "france24.com",
+              "url": "https://www.france24.com/en/live-news/20260814-thousands-stranded-as-heavy-rain-kills-at-least-four-in-japan"
             }
           ],
-          "verification": "single",
-          "tag_label": "경제·시장"
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -260,66 +264,66 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "폴란드, 우크라이나계 미국인 살해 시도 러시아인 체포 발표",
-          "summary": "폴란드 총리는 러시아가 고용한 러시아 국적자가 바르샤바에서 우크라이나계 미국인 시민을 살해하려던 계획을 폴란드 당국이 저지했다고 발표했습니다. 이 러시아인은 8월 7일 체포되었으며, '푸틴 정권에 불편한' 인물을 살해할 목적으로 고용되었다고 합니다. 폴란드 총리는 이번 사건이 나토 국가 영토에서 러시아의 지시로 미국 시민을 공격하려 한 첫 사례라고 밝혔습니다.",
+          "title": "프랑스 헌재, 15세 미만 SNS 금지법 위헌 판결…마크롱 대통령 재추진 의지",
+          "summary": "프랑스 헌법재판소가 15세 미만 청소년의 소셜미디어 이용을 금지하는 법안에 대해 표현의 자유와 사생활 침해를 이유로 위헌 판결을 내렸습니다. 에마뉘엘 마크롱 대통령은 이 결정에 즉시 반응하여 총리에게 새로운 법안 초안을 마련하도록 지시하며 개혁 의지를 재차 강조했습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3363952/poland-says-it-arrested-russian-hired-kill-ukrainian-american-citizen?utm_source=rss_feed"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1273022.html"
             },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm"
-            },
-            {
-              "name": "ua.news",
-              "url": "https://ua.news/en/world/u-polshchi-zatrimali-rosiianina-za-pidgotovku-vbivstva-ukrayintsia-ta-amerikantsia"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "노벨평화상 수상자, \"푸틴은 더 이상 우크라이나 승리 주장 못 해\"",
-          "summary": "노벨평화상 수상자인 드미트리 무라토프는 BBC와의 인터뷰에서 블라디미르 푸틴 러시아 대통령이 더 이상 우크라이나에서 승리를 주장할 수 없을 것이라고 말했습니다. 그는 5년 가까이 지속된 전쟁이 어떻게 끝나든 '승리'로 간주될 수 없다고 강조했습니다. 또한, 우크라이나는 파괴될 수는 있어도 정복될 수는 없다고 덧붙였습니다.",
-          "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "commonspace.eu",
-              "url": "https://www.commonspace.eu/opinion/putin-can-no-longer-claim-victory-ukraine-nobel-peace-prize-winner-dimitry-muratov-tells"
-            },
-            {
-              "name": "bbc.co.uk",
-              "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko"
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/french-constitutional-court-shoots-down-social-media-ban-for-minors"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "유럽 폭염 장기화, 루마니아 유일 원전 가동 중단 등 피해 확산",
-          "summary": "유럽 전역의 지속적인 폭염으로 루마니아가 다뉴브강 수위 급감으로 인해 유일한 원자력 발전소를 가동 중단했습니다. 루마니아 전력의 약 20%를 생산하는 체르나보다 원전의 두 개 원자로가 모두 멈췄습니다. 유럽은 두 배 빠른 속도로 온난화되고 있으며, 이로 인해 여름 폭염 증가, 수자원 압박, 산불 확산 등 막대한 경제적 피해가 발생하고 있습니다.",
+          "tag": "eco",
+          "title": "유럽 전역 기록적 폭염과 가뭄으로 에너지 및 환경 문제 심화",
+          "summary": "유럽 전역에 걸친 기록적인 폭염과 가뭄으로 인해 에너지 및 환경 문제가 심화되고 있습니다. 루마니아는 다뉴브강 수위 저하로 유일한 원자력 발전소를 폐쇄했으며, 크로아티아에서는 대규모 산불이 발생하여 수십 명이 부상하고 수천 명이 대피했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
               "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/13/millions-across-europe-swelter-through-a-new-wave-of-extreme-temperatures"
+              "name": "openaccessgovernment.org",
+              "url": "https://www.openaccessgovernment.org/worsening-drought-and-record-heat-grip-europe-as-wildfires-spread/213195"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "미국, EU 녹색 보고 규제에 압력 가하며 무역 갈등 조짐",
+          "summary": "미국은 유럽연합(EU)의 환경 및 인권 관련 기업 보고 규제가 미국 기업에 불합리한 부담을 준다며, EU에 규제 완화를 요구하고 압력을 가하고 있습니다. EU는 규제 체제와 자율성은 협상 대상이 아니라고 선을 그으며 무역 갈등 조짐이 나타나고 있습니다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/us-threatens-eu-over-transatlantic-green-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/us-threatens-eu-over-transatlantic-green-rules"
+            },
+            {
+              "name": "firstpost.com",
+              "url": "https://www.firstpost.com/world/eu-pushes-back-against-trumps-trade-pressure-as-us-targets-green-rules-china-tariff-evasion-14038317.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -330,20 +334,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "트럼프 행정부, 민간 보안 기업의 해외 사이버 범죄자 해킹 허용",
-          "summary": "트럼프 행정부가 민간 보안 기업들에게 해외 사이버 범죄 조직에 대한 해킹 작전을 수행할 수 있도록 허용하는 정책 전환을 발표했습니다. 이 정책은 민간 기업들이 미국 정부의 지휘와 통제 하에 사이버 감시 및 사이버 효과 작전을 수행하도록 할 것입니다. 이는 국가 안보 임무에 민간 부문 해커를 활용하는 중국, 러시아와 유사한 접근 방식으로, 법률 전문가들 사이에서 잠재적 위험에 대한 우려가 제기되고 있습니다.",
+          "title": "맥 OS 치명적인 취약점 '스크린 공유 버그' 활발히 악용 중, 사용자 주의 필요",
+          "summary": "맥 OS의 치명적인 취약점인 '스크린 공유 버그'(CVE-2026-65400)가 활발하게 악용되고 있어 사용자들의 주의가 요구됩니다. 이 버그는 공격자가 사용자 인증 없이 원격으로 맥을 완전히 제어하고 암호화폐 채굴 악성코드를 설치할 수 있게 합니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/08/13/donald-trump-private-companies-cyber-attack"
+              "name": "ua.news",
+              "url": "https://ua.news/en/technologies/u-macos-aktivno-ekspluatuiut-urazlivist-u-funktsiyi-spilnogo-dostupu-do-ekrana"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.com/news/2026/08/13/white-house-memo-cybercrime-01036176?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "bleepingcomputer.com",
+              "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner"
             }
           ],
           "verification": "multi",
@@ -351,20 +355,20 @@
         },
         {
           "tag": "tec",
-          "title": "아마존 트위치, 사용자 동의 없이 AI 학습에 콘텐츠 활용 논란",
-          "summary": "아마존 소유의 스트리밍 플랫폼 트위치가 사용자 콘텐츠를 아마존의 AI 모델 학습에 활용하는 설정이 기본값으로 되어 있어 사용자들의 반발을 사고 있습니다. 사용자들은 이 기능에서 선택적으로 제외될 수 있지만, 왜 기본 설정으로 되어 있는지에 대한 비판이 많습니다. 트위치 측은 '옵트인 방식이면 아무도 동의하지 않을 것'이라고 해명했습니다. 이로 인해 스트리머와 게임 개발자들의 콘텐츠 활용에 대한 우려가 커지고 있습니다.",
+          "title": "AI 기술 경쟁 심화로 오픈AI와 앤스로픽 간 가격 전쟁 발발",
+          "summary": "주요 미국 AI 연구소인 오픈AI와 앤스로픽이 중국 경쟁사들의 저가 대안 모델에 고객을 빼앗기지 않기 위해 가격 전쟁에 돌입했습니다. 오픈AI는 GPT-5.6 루나 모델 가격을 80% 인하했고, 앤스로픽은 클로드 오푸스 5 모델을 기존 모델의 절반 가격으로 출시하는 등 가격 경쟁이 심화되고 있습니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
             },
             {
-              "name": "arstechnica.com",
-              "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now"
+              "name": "ft.com",
+              "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1"
             },
             {
-              "name": "unite.ai",
-              "url": "https://www.unite.ai/twitch-adds-opt-out-that-keeps-streamer-content-out-of-amazon-ai-training"
+              "name": "businessday.ng",
+              "url": "https://businessday.ng/technology/article/openai-anthropic-enters-ai-price-war-as-cheaper-chinese-rivals-gain-ground"
             }
           ],
           "verification": "multi",
@@ -372,20 +376,16 @@
         },
         {
           "tag": "tec",
-          "title": "차량 번호판 인식 카메라 '플록', 개인 정보 침해 및 경찰 오용 논란",
-          "summary": "자동 차량 번호판 인식(ALPR) 카메라 시스템을 제공하는 '플록(Flock)'이 경찰의 개인 정보 오용 논란에 휩싸이자 새로운 개인 정보 보호 조치를 발표했습니다. 이 시스템은 경찰이 연인 추적, 낙태 여성 감시 등 부적절하게 사용했다는 비판을 받았습니다. 플록은 데이터 보관 기간을 30일에서 7일로 줄이고, 비정상적인 검색을 자동으로 플래그 지정하는 등 새로운 안전 장치를 도입했습니다.",
+          "title": "새로운 연구, 6600만년 된 공룡 뼈에서 유기 분자 발견",
+          "summary": "새로운 연구를 통해 6600만 년 된 에드몬토사우루스(오리 주둥이 공룡)의 엉덩이 뼈에서 놀랍도록 잘 보존된 콜라겐 잔해가 발견되었습니다. 이는 화석화 과정이 원래의 유기 분자를 파괴한다는 오랜 가정을 뒤집는 것으로, 고대 단백질이 수천만 년 동안 생존할 수 있음을 시사합니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "scrippsnews.com",
-              "url": "https://www.scrippsnews.com/business/company-news/flock-rolls-out-new-police-auditing-and-accountability-controls-following-surveillance-concerns"
+              "name": "news.ssbcrack.com",
+              "url": "https://news.ssbcrack.com/ancient-proteins-discovered-in-dinosaur-fossils-challenge-long-standing-assumptions"
             }
           ],
           "verification": "multi",
