@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-22",
-  "date_str": "2026년 8월 22일 (토)",
+  "date": "2026-08-23",
+  "date_str": "2026년 8월 23일 (일)",
   "key5": [
-    "노웅래 전 의원 뇌물 혐의 2심 무죄 판결, 여야 정치권 반응 엇갈려",
-    "이재명 대통령, 집중호우 피해지역 특별재난지역 선포 및 민주당 지도부 만찬 초청",
-    "러시아 드론 우크라이나 쇼핑몰 공격, 15명 사망 130명 부상",
-    "틱톡, 미국 아동 개인정보 보호법 위반으로 4억 달러 합의금 지급",
-    "테슬라, 중국에서 도어 핸들 문제로 300만 대 리콜"
+    "카카오, 주주가치 제고 위해 인적분할 통한 사업 구조 재편 추진",
+    "미국-캐나다 무역 분쟁 심화, 미국 관세 부과에 캐나다 보복 관세 예고",
+    "북한, 일본 최대 방위비 편성 추진 '침략 전쟁 준비' 규탄하며 반격 경고",
+    "러시아군 우크라이나 쇼핑몰 공습, 젤렌스키 '비열한 테러' 규탄",
+    "JWST 관측, 초기 은하 예상보다 3~4배 더 무거워 은하 형성 이론에 의문 제기"
   ],
   "regions": [
     {
@@ -16,16 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "노웅래 전 의원 2심 무죄에 정치권 공방 가열",
-          "summary": "노웅래 전 의원이 수천만원대 뇌물 및 불법 정치자금 수수 혐의 2심에서 무죄를 선고받자, 더불어민주당은 검찰의 '조작 기소'를 비판하며 한동훈 의원의 책임을 촉구했습니다. 반면 한동훈 의원은 무죄가 '위법수집증거 배제'에 따른 형식적 이유라고 반박했습니다. 이재명 대통령은 노 전 의원의 무죄 판결에 대해 '정치검찰의 기소로 정치 생명을 박탈당했다'며 유감을 표했습니다.",
+          "title": "정부 2차 공공기관 지방 이전 앞두고 지자체 유치 경쟁 가열",
+          "summary": "정부의 2차 공공기관 지방 이전 계획 발표를 앞두고 전국 지방자치단체들이 인구 감소와 지역소멸 위기 대응을 위해 유치 경쟁에 나섰습니다. 각 지자체는 지역 전략산업 연계, 주거·자녀 교육 지원 등 다양한 유인책을 마련하며 총력전을 펼치고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260821163551001"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260821109600053"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260821178700001"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260822037800530"
             }
           ],
           "verification": "multi",
@@ -33,16 +33,16 @@
         },
         {
           "tag": "pol",
-          "title": "이재명 대통령, 호우 피해 특별재난지역 선포 및 민주당 지도부 만찬",
-          "summary": "이재명 대통령은 집중호우로 큰 피해를 입은 경남 거제시와 통영시 산양읍·봉평동을 특별재난지역으로 선포했습니다. 또한, 이 대통령은 오는 25일 김민석 대표를 비롯한 더불어민주당 신임 지도부를 청와대로 초청해 만찬을 가질 예정입니다.",
+          "title": "김민석 민주당 대표, 고위당정서 입법·정책 드라이브 시동",
+          "summary": "더불어민주당 김민석 대표가 취임 후 첫 고위당정협의회에 참석하며 부동산 세제 및 주택 공급 문제 등 입법·정책 드라이브를 본격화합니다. 한편, 최근 논란이 된 '90도 단체 인사'에 대해서는 '의미 있고 보기 좋은 인사법으로 다듬겠다'고 밝혔습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260821165200001"
+              "url": "https://www.yna.co.kr/view/AKR20260822039400001"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608212057001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202608222004001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -50,32 +50,32 @@
         },
         {
           "tag": "eco",
-          "title": "북극항로 활성화, 부산 물류거점화 및 해양수도권 비전",
-          "summary": "정부가 북극항로 활성화를 국정과제로 추진하며 국내 선사의 시범 운항을 시작으로 2030년 정기 서비스 항로 개설을 목표로 하고 있습니다. 부산항을 아시아와 유럽을 잇는 북극항로의 핵심 거점으로 육성하여 물류비 절감과 새로운 경제적 기회를 창출하고, 해양수도권을 구축해 지역 균형 발전을 이루겠다는 계획입니다. 하지만 북극항로의 경제성과 지정학적 리스크에 대한 회의적 시각도 존재합니다.",
+          "title": "카카오, 주주가치 제고 위해 카카오AI·카카오X 인적분할 추진",
+          "summary": "카카오가 주주가치 제고 및 기업가치 저평가 해소를 위해 카카오AI와 카카오X로 사업 구조를 인적분할 방식으로 재편합니다. 이는 기존 주주에게 신설 회사 주식을 지분율대로 배분하여 성장 과실을 공유하고, 복합기업 디스카운트를 해소하려는 전략으로 풀이됩니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821072000051"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821071100051"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260822044600017"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "학교 카드 횡령한 행정실장, 2천만 원 넘는 교비 유용",
-          "summary": "초등학교 교육행정실장이 4년간 학교 카드로 2천160만원 상당의 개인 물품을 구매하고 회계 서류를 조작한 혐의로 징역 6개월에 집행유예 1년을 선고받았습니다. 피고인은 범행을 시인하고 피해 금액 전액을 변제한 것으로 알려졌습니다.",
+          "title": "경기도, 전세사기 불법 중개 적발 및 피해주택 수리비 지원",
+          "summary": "경기도가 안전한 부동산 중개시장 조성을 위해 공인중개사무소 527곳을 점검하여 69건의 불법 중개 행위를 적발했습니다. 또한, 전세사기 피해주택의 안전관리 및 유지보수를 위해 최대 2천만원까지 수리비를 지원하는 사업의 하반기 신청을 받습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821149400062"
+              "url": "https://www.yna.co.kr/view/AKR20260821150000061"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260821152700061"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         }
       ]
@@ -87,20 +87,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 백악관 연회장 건설, 대법원 일시적 허용",
-          "summary": "미국 대법원이 트럼프 전 대통령의 백악관 연회장 건설 프로젝트를 일시적으로 허용했습니다. 이는 하급심에서 공사 중단 명령이 내려진 후 나온 결정으로, 대법원은 해당 사건을 심리하는 동안 공사가 계속될 수 있도록 했습니다. 트럼프 전 대통령은 연회장이 국가 안보에 필수적이라고 주장하고 있습니다.",
+          "title": "미국-캐나다 무역 분쟁 심화, 관세 맞불 예고",
+          "summary": "미국과 캐나다 간 무역 협상이 결렬되면서 미국이 캐나다산 수입품에 50% 관세를 부과했고, 이에 캐나다 마크 카니 총리는 이를 '무역 전쟁'으로 규정하며 동일한 규모의 보복 관세를 예고했습니다. 양국 간 무역 갈등이 더욱 심화될 것으로 전망됩니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608230607001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/21/us/politics/supreme-court-trump-ballroom.html"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
             }
           ],
           "verification": "multi",
@@ -108,54 +104,54 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 라이베리아에 500만 달러 지급",
-          "summary": "트럼프 행정부가 라이베리아에 추방 대상자 송환과 관련하여 500만 달러를 지급하기로 합의한 문서가 공개되었습니다. 이는 라이베리아가 다른 국가의 이민자 수용을 고려하겠다고 밝힌 이후에 이루어졌습니다. 한편 트럼프 행정부는 유엔에 7억 2500만 달러를 송금하기 시작했으며, 이는 유엔이 회원국들의 미납금으로 인한 재정 위기에 직면한 상황에서 이루어진 조치입니다.",
+          "title": "트럼프, 호르무즈 해협 '미국 영토' 주장 및 한미 연합훈련 복원 촉구",
+          "summary": "도널드 트럼프 미국 대통령은 호르무즈 해협을 '미국 영토'로 간주하며 이란에 대한 강경한 입장을 고수했습니다. 한편, 미 공화당 의원은 트럼프 대통령의 한미 연합군사훈련 축소 결정에 의문을 제기하며 훈련 복원을 촉구했습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1274143.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-united-nations-payment"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260823004000009"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "중동 불안에 국제유가 6일 연속 상승, 브렌트유 94달러대",
-          "summary": "중동 지역의 지정학적 불안이 지속되면서 국제유가가 6거래일 연속 상승했습니다. 런던 ICE 선물 거래소에서 10월 인도분 브렌트유는 배럴당 94.39달러를 기록했으며, 뉴욕상업거래소의 서부 텍사스산 원유(WTI)도 배럴당 87.06달러로 마감했습니다. 이란에 대한 미국의 경제 압박 강화와 이란의 보복 경고가 유가 상승 압력으로 작용하고 있으며, 미국의 급증하는 국가 부채에 대한 우려도 전 세계 시장을 흔들고 있습니다.",
+          "tag": "soc",
+          "title": "미시시피 경찰서장 인종차별 발언 논란, 아동 살해 사건 수사 확대",
+          "summary": "미국 미시시피주의 한 경찰서장이 문자 메시지를 통해 인종차별적 비방 발언을 상습적으로 사용한 사실이 드러나 파문이 일고 있습니다. 이와 별개로, 한 살 아동 살해 사건과 관련하여 출산 후 정신증으로 자녀를 살해한 혐의를 받는 여성의 사례 등 아동 살해 사건에 대한 논란이 커지고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260822005400072"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/22/us/police-chief-mississippi-racist-slurs.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "미국 경제, 초저금리 시대 종료로 리스크 직면 및 Z세대 투자 집중",
+          "summary": "지난 20년간의 초저금리 시대가 끝나고 급격한 금리 인상으로 미국 경제가 새로운 리스크에 직면하고 있습니다. 한편, Z세대는 주택 구매보다는 투자 앱과 퇴직 계좌를 통해 부를 축적하는 데 집중하는 경향을 보이고 있습니다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "알렉스 존스 샌디훅 학부모 배상금, 텍사스 주 피해 보상 한도 적용",
-          "summary": "항소법원이 음모론자 알렉스 존스가 샌디훅 초등학교 총기 난사 사건 유족에게 지급해야 할 배상금을 텍사스주의 피해 보상 한도에 따라 4,900만 달러에서 600만 달러로 삭감했습니다. 존스는 다른 사건들로 인해 여전히 10억 달러 이상의 배상금을 지불해야 합니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "사회"
         }
       ]
     },
@@ -166,59 +162,46 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "북한, 日 역대 최대 방위비 편성에 “침략전쟁 준비” 비난",
-          "summary": "북한은 일본 방위성이 역대 최대 규모인 최대 10조 엔에 달하는 방위비 예산 편성을 추진하는 것에 대해 '침략전쟁 준비'라고 강력히 비난했습니다. 조선중앙통신은 일본의 군비 증액이 지역과 세계에 새로운 동란을 가져올 것이라고 주장하며, '전범국 후예들의 군사적 진화 과정을 절대로 묵과하지 않을 것'이라고 위협했습니다.",
+          "title": "북한, 일본 최대 방위비 편성 추진에 '침략 전쟁 준비' 규탄",
+          "summary": "북한은 일본 방위성이 역대 최대 규모인 10조 엔에 달하는 방위비 예산 편성을 추진하는 것에 대해 '침략 전쟁 준비 완성을 위한 무력 증강'이라며 강력히 비판했습니다. 북한은 무모한 군비 증강이 일본의 안보 적자만 증대시킬 것이며, 단합된 힘으로 철저히 반격할 것이라고 경고했습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260822009400504"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/defense/1274139.html"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "홍콩 천안문 추모 활동가들, 국가보안법 위반으로 유죄 판결",
-          "summary": "홍콩 법원이 천안문 민주화 시위 희생자 추모 집회를 주도한 민주화 활동가 두 명에게 '국가 정권 전복 선동' 혐의로 유죄를 선고했습니다. 이들은 해산된 홍콩 동맹의 지도부로, 이번 판결은 홍콩 내 표현의 자유에 대한 중요한 시금석으로 여겨집니다. 피고인들은 최대 10년 징역형에 처해질 수 있습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/21/asia-pacific/hong-kong-tiananmen-activists-convicted/"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "BYD, 일본 경차 시장 진출로 돌파구 모색",
-          "summary": "중국 전기차 제조업체 BYD가 일본 경차 시장에 진출하며 새로운 전략을 펼치고 있습니다. BYD는 소형 전기차 '라코(Racco)'를 출시하여 일본 소비자들이 선호하는 작고 경제적인 차량 시장을 공략하고 있습니다. 이는 BYD가 수년간 일본 시장에서 판매 부진을 겪은 후 돌파구를 찾기 위한 시도로 분석됩니다.",
+          "title": "태평양 도서국가들, 서방 안보와 중국 무역 사이 균형 외교",
+          "summary": "태평양 도서국가들이 서방의 안보 협력과 중국의 무역 및 투자 사이에서 균형을 잡는 외교 전략을 펼치고 있습니다. 이들 국가는 서방으로부터는 안보 보장을 얻고, 중국으로부터는 인프라 건설과 경제적 지원을 유치하며 지정학적 경쟁을 활용하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/commentary/2026/08/21/japan/byd-japan-mission/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "후지필름, AI 수요 급증에 핵심 반도체 재료 생산 확대",
-          "summary": "후지필름 홀딩스가 인공지능(AI) 데이터 센터의 급증하는 수요에 발맞춰 첨단 반도체 제조에 사용되는 핵심 재료 생산을 확대하고 있습니다. 오이타현 공장에 새로운 제조 시설을 가동하여 CMP 후 클리너 생산을 3배로 늘릴 계획이며, 이는 반도체 분야를 후지필름의 가장 유망한 성장 동력으로 삼기 위한 전략입니다.",
+          "tag": "soc",
+          "title": "일본 후지산, 7세 아들 홀로 두고 등산한 아버지 경찰 조사",
+          "summary": "일본 후지산에서 한 남성이 7세 아들이 힘들다고 하자 홀로 남겨두고 등산을 계속한 사실이 드러나 경찰 조사를 받았습니다. 이와 별개로, 홍콩에서는 88세 노인이 미용 제품 구매에 약 10만 홍콩 달러를 지출하도록 강요당했다는 의혹이 제기되어 세관이 조사에 착수했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/08/21/companies/fujifilm-expansion-chip-material-ai/"
+              "url": "https://www.japantimes.co.jp/news/2026/08/22/japan/crime-legal/japan-dad-child-mount-fuji/"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan"
             }
           ],
-          "verification": "single",
-          "tag_label": "기술·과학"
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -229,16 +212,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아 드론, 우크라이나 쇼핑몰 공격 15명 사망 130명 부상",
-          "summary": "러시아가 우크라이나 중부 크리비리흐 쇼핑몰에 이중 드론 공격을 감행해 최소 15명이 사망하고 130명이 부상당했습니다. 볼로디미르 젤렌스키 대통령은 이번 공격을 '냉소적이고 비열한' 행위로 규탄하며, 두 번째 공격은 긴급 구조대원들을 겨냥했다고 밝혔습니다. 부상자 중 23명은 어린이며, 사망자 수는 더 늘어날 것으로 예상됩니다.",
+          "title": "러시아군 우크라이나 쇼핑몰 공습, 젤렌스키 '비열한 테러' 규탄",
+          "summary": "러시아군이 우크라이나 중부 도시 크리비리흐의 한 쇼핑몰을 공습해 16명이 사망하고 130명이 부상당했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 이 공격을 '냉소적이고 비열한 테러'로 강력히 규탄했으며, EU 외교정책 대표 카야 칼라스는 러시아의 전쟁 행위를 '계획적인 테러'로 비난했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
               "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/21/at-least-six-killed-and-91-injured-in-russian-daytime-attack-on-shopping-mall-in-zelenskyy"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/france-to-ramp-up-ukraine-support-says-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -246,16 +233,16 @@
         },
         {
           "tag": "pol",
-          "title": "베를린 근교 무기 은닉처 발견, 러시아 정보기관 연루 의혹",
-          "summary": "독일 베를린 근교 숲에서 권총 두 정이 포함된 무기 은닉처가 발견되어 연방 검찰이 수사 중입니다. 독일 내무장관은 '외국 세력의 개입 가능성을 배제할 수 없다'고 밝혔으며, 현지 언론은 러시아 정보기관이 독일 내 반정부 인사 암살 목적으로 설치했을 가능성을 제기하고 있습니다. 루마니아에서 소포 폭탄 공격과 관련하여 용의자 한 명이 체포되었으며, 독일 당국은 신병 인도를 추진 중입니다.",
+          "title": "시임 칼라스 전 EU 집행위원 77세로 별세, 에스토니아 EU 통합 기여",
+          "summary": "에스토니아의 전 총리이자 전 EU 집행위원인 시임 칼라스가 77세의 나이로 별세했습니다. 그는 에스토니아의 EU 가입을 이끈 핵심 인물이었으며, 경제 및 통화 담당 집행위원을 역임하며 에스토니아의 통화 개혁과 유럽 통합에 중요한 역할을 했습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608212233001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/22/metsola-pays-tribute-to-ex-eu-commissioner-kallas-after-daughter-kaja-kallas-announces-fat"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/former-estonia-eu-commissioner-siim-kallas-dies-at-77/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -263,16 +250,16 @@
         },
         {
           "tag": "soc",
-          "title": "스웨덴 고등학교 칼부림 사건, 1명 사망 3명 부상",
-          "summary": "스웨덴 중부 파게르스타의 한 고등학교에서 칼부림 사건이 발생하여 1명이 사망하고 3명이 부상당했습니다. 18세 용의자는 경찰의 총격으로 제압되어 체포되었으며, 현지 언론은 용의자가 이 학교의 전 학생이며 헬멧을 착용한 상태였다고 보도했습니다. 경찰은 사건 동기를 파악 중이며, 인근 8개 학교에는 임시 폐쇄 조치가 내려졌습니다.",
+          "title": "스웨덴 학교 칼부림 공격 1명 사망, 용의자 온라인 활동 조사",
+          "summary": "스웨덴 파예르스타의 한 고등학교에서 칼부림 공격이 발생하여 17세 소녀가 사망하고 3명이 부상당했습니다. 경찰은 18세 용의자가 학교 폭력을 조장하는 온라인 커뮤니티 활동에 연루되었는지 여부를 조사 중입니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3364889/man-armed-sword-injures-several-swedish-high-school?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-1-prompts-probe-social-media?utm_source=rss_feed"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden"
             }
           ],
           "verification": "multi",
@@ -287,16 +274,29 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "틱톡, 아동 개인정보 보호법 위반으로 4억 달러 합의금 지급",
-          "summary": "틱톡이 미국에서 아동 온라인 개인정보 보호법(COPPA) 위반 혐의로 제기된 소송에 대해 4억 달러(약 5,472억 원)의 합의금을 지급하기로 동의했습니다. 이는 아동 개인정보 관련 역대 최대 규모의 합의금 중 하나입니다. 이번 합의는 틱톡과 모회사 바이트댄스가 13세 미만 사용자들의 동의 없이 방대한 데이터를 수집했다는 2024년 법무부 소송을 종결시켰습니다.",
+          "title": "JWST, 초기 은하 예상보다 3~4배 더 무거워 은하 형성 이론에 의문 제기",
+          "summary": "제임스 웹 우주 망원경(JWST) 관측 결과, 초기 우주의 거대 은하들이 예상보다 3~4배 더 큰 질량을 가졌을 가능성이 제기되었습니다. 이는 초기 은하 형성 및 진화 이론에 중대한 도전을 제기하며, 빅뱅 직후 어떻게 그렇게 거대하고 성숙한 은하들이 형성되었는지 설명하기 어렵게 만들고 있습니다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "틱톡, 아동 개인정보 보호 위반으로 미 법무부에 4억 달러 벌금 합의",
+          "summary": "틱톡이 아동 개인정보 보호 위반 혐의로 미국 법무부와의 소송에서 4억 달러(약 5,400억 원)의 벌금을 지불하기로 합의했습니다. 이는 아동 개인정보 보호 관련 합의금 중 가장 큰 규모에 속하며, 틱톡과 모회사 바이트댄스는 13세 미만 사용자들의 방대한 데이터를 수집한 혐의를 받았습니다.",
           "sources": [
             {
               "name": "BBC US & Canada",
               "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/business/china-evs/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
             }
           ],
           "verification": "multi",
@@ -304,33 +304,12 @@
         },
         {
           "tag": "tec",
-          "title": "테슬라, 중국에서 도어 핸들 문제로 300만 대 리콜 명령",
-          "summary": "테슬라가 중국에서 도어 핸들 문제로 약 300만 대에 달하는 차량에 대해 리콜 명령을 받았습니다. 이는 중국 전기차 시장에서 역대 최대 규모의 리콜입니다. 이번 리콜은 사고 시 탑승자가 차량 밖으로 나오기 어려운 안전 문제에 대한 중국 규제 당국의 강화된 규제 조치에 따른 것입니다. 테슬라는 경고 라벨 부착 및 충돌 시 창문 자동 하강 소프트웨어 업데이트를 실시할 예정입니다.",
+          "title": "동면 쥐, 시냅스 절반 손실에도 기억력 유지 밝혀져",
+          "summary": "동면 상태에 들어간 쥐가 시냅스의 절반 이상을 잃었음에도 불구하고 기억력을 유지하는 것으로 새로운 연구에서 밝혀졌습니다. 이 연구는 기억이 뉴런 간의 연결 강도 변화에 의해 저장된다는 기존 가설에 의문을 제기하며, 뇌 활동과 기억 저장 메커니즘에 대한 새로운 연구 방향을 제시하고 있습니다.",
           "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/business/china-evs/article/3364887/tesla-forced-recall-record-3-million-cars-china-over-door-handle-issue?utm_source=rss_feed"
-            },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "애플, 비전 프로 및 시리 팀 인력 감축 발표",
-          "summary": "애플이 비전 프로 및 시리 팀 인력을 감축한다고 블룸버그 통신이 보도했습니다. 이는 비전 프로 게임 팀의 '대대적 해체'와 몰입형 콘텐츠 팀 규모 축소를 포함하며, 200명 이상의 일자리가 사라질 예정입니다. 애플은 이러한 변화가 사용자에게 더 나은 경험을 제공하기 위한 사업 진화의 일환이라고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+              "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
             }
           ],
           "verification": "single",
