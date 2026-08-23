@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-23",
-  "date_str": "2026년 8월 23일 (일)",
+  "date": "2026-08-24",
+  "date_str": "2026년 8월 24일 (월)",
   "key5": [
-    "카카오, 주주가치 제고 위해 인적분할 통한 사업 구조 재편 추진",
-    "미국-캐나다 무역 분쟁 심화, 미국 관세 부과에 캐나다 보복 관세 예고",
-    "북한, 일본 최대 방위비 편성 추진 '침략 전쟁 준비' 규탄하며 반격 경고",
-    "러시아군 우크라이나 쇼핑몰 공습, 젤렌스키 '비열한 테러' 규탄",
-    "JWST 관측, 초기 은하 예상보다 3~4배 더 무거워 은하 형성 이론에 의문 제기"
+    "종합특검, 윤석열 전 대통령 등 58명 기소하며 180일 수사 마쳐",
+    "국민의힘, 당협위원장 선출 방식 변경 둘러싼 당내 갈등 심화",
+    "트럼프 사위 쿠슈너, 민주당 제프리스와 비밀 회동…'부적절' 비판",
+    "우크라이나 젤렌스키 대통령, 전시 선거 실시 반대 입장 표명",
+    "미국 네바다주 리노 인근 대형 산불로 수만 명 대피 명령"
   ],
   "regions": [
     {
@@ -16,16 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "정부 2차 공공기관 지방 이전 앞두고 지자체 유치 경쟁 가열",
-          "summary": "정부의 2차 공공기관 지방 이전 계획 발표를 앞두고 전국 지방자치단체들이 인구 감소와 지역소멸 위기 대응을 위해 유치 경쟁에 나섰습니다. 각 지자체는 지역 전략산업 연계, 주거·자녀 교육 지원 등 다양한 유인책을 마련하며 총력전을 펼치고 있습니다.",
+          "title": "종합특검, 윤석열 전 대통령 등 58명 기소로 수사 마무리",
+          "summary": "권창영 2차 종합특별검사팀이 180일간의 수사를 마치고 윤석열 전 대통령, 김건희 여사를 포함한 총 58명을 기소했습니다. 이번 특검 수사는 대통령 관저 이전 의혹, 감사원 수사 무마 혐의, 12·3 비상계엄 정당화 지시 혐의 등을 다뤘으며, 구속 기소 7명, 불구속 기소 51명으로 집계되었습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821109600053"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260823027951004"
             },
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260822037800530"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260823041400004"
             }
           ],
           "verification": "multi",
@@ -33,46 +33,58 @@
         },
         {
           "tag": "pol",
-          "title": "김민석 민주당 대표, 고위당정서 입법·정책 드라이브 시동",
-          "summary": "더불어민주당 김민석 대표가 취임 후 첫 고위당정협의회에 참석하며 부동산 세제 및 주택 공급 문제 등 입법·정책 드라이브를 본격화합니다. 한편, 최근 논란이 된 '90도 단체 인사'에 대해서는 '의미 있고 보기 좋은 인사법으로 다듬겠다'고 밝혔습니다.",
+          "title": "국민의힘, 당협위원장 선출 방식 변경 및 비당권파 징계 논란",
+          "summary": "국민의힘 장동혁 대표가 추진하는 '당협위원장 당원 직선제'와 '비당권파 4인 중징계'를 두고 당내 갈등이 고조되고 있습니다. 소속 의원들은 당원 직선제에 반대 의사를 표명했으나, 장 대표는 24일 최고위원회의에서 관련 안건 의결을 시도할 것으로 예상되어 진통이 예상됩니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260822039400001"
+              "url": "https://www.yna.co.kr/view/AKR20260823048000001"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608222004001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260822044251001"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1274251.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "카카오, 주주가치 제고 위해 카카오AI·카카오X 인적분할 추진",
-          "summary": "카카오가 주주가치 제고 및 기업가치 저평가 해소를 위해 카카오AI와 카카오X로 사업 구조를 인적분할 방식으로 재편합니다. 이는 기존 주주에게 신설 회사 주식을 지분율대로 배분하여 성장 과실을 공유하고, 복합기업 디스카운트를 해소하려는 전략으로 풀이됩니다.",
+          "tag": "pol",
+          "title": "용산공원 주택 공급 두고 정부-서울시 이견 지속",
+          "summary": "정부가 용산공원 본체 부지에 주택 공급을 추진하는 반면, 서울시는 용산공원 대신 주변 부지 활용과 재건축·재개발 속도 조절을 주장하며 대립하고 있습니다. 김윤덕 국토교통부 장관과 오세훈 서울시장은 이번 주 재협상에 나설 예정이지만, 양측의 입장차가 커 합의 도출이 쉽지 않을 것으로 보입니다. 공원 부지의 심각한 토양 오염 문제도 주택 공급의 난제로 지적됩니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260822044600017"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/capital/1274250.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608240700021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608240600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "single",
-          "tag_label": "경제·시장"
+          "verification": "multi",
+          "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "경기도, 전세사기 불법 중개 적발 및 피해주택 수리비 지원",
-          "summary": "경기도가 안전한 부동산 중개시장 조성을 위해 공인중개사무소 527곳을 점검하여 69건의 불법 중개 행위를 적발했습니다. 또한, 전세사기 피해주택의 안전관리 및 유지보수를 위해 최대 2천만원까지 수리비를 지원하는 사업의 하반기 신청을 받습니다.",
+          "title": "제주 실종 CCTV 영상 삭제, 경찰 부실 수사 논란 증폭",
+          "summary": "제주에서 실종된 장미란 씨 사건과 관련하여 실종 추정 지점 인근 CCTV 118대의 영상이 6월 중순 자동 삭제된 것으로 드러나 경찰의 부실 수사 논란이 커지고 있습니다. 경찰이 실종 추정일로부터 98일, 영상 삭제 시점으로부터 61일이 지난 8월 19일에야 영상 열람을 요청한 것으로 파악되어 초동 수사 미흡에 대한 비판이 제기되고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821150000061"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260823048500001"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260821152700061"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260823037900001"
             }
           ],
           "verification": "multi",
@@ -87,71 +99,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국-캐나다 무역 분쟁 심화, 관세 맞불 예고",
-          "summary": "미국과 캐나다 간 무역 협상이 결렬되면서 미국이 캐나다산 수입품에 50% 관세를 부과했고, 이에 캐나다 마크 카니 총리는 이를 '무역 전쟁'으로 규정하며 동일한 규모의 보복 관세를 예고했습니다. 양국 간 무역 갈등이 더욱 심화될 것으로 전망됩니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608230607001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 호르무즈 해협 '미국 영토' 주장 및 한미 연합훈련 복원 촉구",
-          "summary": "도널드 트럼프 미국 대통령은 호르무즈 해협을 '미국 영토'로 간주하며 이란에 대한 강경한 입장을 고수했습니다. 한편, 미 공화당 의원은 트럼프 대통령의 한미 연합군사훈련 축소 결정에 의문을 제기하며 훈련 복원을 촉구했습니다.",
+          "title": "트럼프 사위 쿠슈너, 민주당 제프리스 원내대표와 비공개 회동 논란",
+          "summary": "재러드 쿠슈너 전 백악관 선임고문이 하킴 제프리스 하원 민주당 원내대표와 비공개 회동을 가졌습니다. 이들은 주택, 이민 등 초당적 협력 분야를 논의했으며, 트럼프 행정부의 하원 탈환 가능성에 대비한 움직임으로 해석됩니다. 그러나 민주당 내부에서는 쿠슈너의 해외 자금 문제 조사가 진행 중인 상황에서 부적절한 만남이라는 비판이 제기되었습니다.",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1274143.html"
+              "url": "https://www.hani.co.kr/arti/international/america/1274255.html"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260823004000009"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/08/23/hakeem-jeffries-jared-kushner-meeting"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "미시시피 경찰서장 인종차별 발언 논란, 아동 살해 사건 수사 확대",
-          "summary": "미국 미시시피주의 한 경찰서장이 문자 메시지를 통해 인종차별적 비방 발언을 상습적으로 사용한 사실이 드러나 파문이 일고 있습니다. 이와 별개로, 한 살 아동 살해 사건과 관련하여 출산 후 정신증으로 자녀를 살해한 혐의를 받는 여성의 사례 등 아동 살해 사건에 대한 논란이 커지고 있습니다.",
+          "tag": "eco",
+          "title": "미국-캐나다 무역 협상 결렬, 무역 전쟁 위협 고조",
+          "summary": "미국과 캐나다 간 무역 협상이 결렬되면서 도널드 트럼프 미국 대통령은 캐나다가 미국 주(州)로서의 이점을 누리려 한다며 새로운 관세 부과를 발표했습니다. 이에 마크 카니 캐나다 총리는 미국의 관세를 '오판'이라 비판하며 맞대응 관세 부과를 예고, 양국 간 무역 '전쟁' 국면이 격화되고 있습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/22/us/police-chief-mississippi-racist-slurs.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "네바다주 리노 인근 대형 산불, 수만 명 대피 명령",
+          "summary": "미국 네바다주 리노 인근에서 '호크 산불'이 13,000 에이커 이상을 태우며 빠르게 확산하여, 약 42,000명에게 대피 명령이 내려졌고 수만 명에게 대피 준비를 권고했습니다. 강한 바람과 낮은 습도, 건조한 식생으로 인해 불길이 시에나 고지대에서 리노 시내 방향으로 번지며 주택가와 네바다 대학 캠퍼스 가장자리를 위협하고 있습니다. 당국은 산불이 인재(人災)라고 밝히고 수사 중입니다.",
+          "sources": [
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/08/23/wildfire-reno-nevada-hawk-fire"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3364995/tens-thousands-ordered-evacuate-nevada-fire-threatens-reno?utm_source=rss_feed"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "eco",
-          "title": "미국 경제, 초저금리 시대 종료로 리스크 직면 및 Z세대 투자 집중",
-          "summary": "지난 20년간의 초저금리 시대가 끝나고 급격한 금리 인상으로 미국 경제가 새로운 리스크에 직면하고 있습니다. 한편, Z세대는 주택 구매보다는 투자 앱과 퇴직 계좌를 통해 부를 축적하는 데 집중하는 경향을 보이고 있습니다.",
+          "tag": "pol",
+          "title": "트럼프 노숙인 정책에 보수 싱크탱크 영향력 논란",
+          "summary": "트럼프 행정부의 노숙인 정책 전환 과정에서 억만장자가 설립한 보수 싱크탱크 '키케로연구소'가 상당한 영향력을 행사한 것으로 나타났습니다. 이 연구소는 노숙을 범죄로 규정하고 단속 및 강제 치료 확대를 주장했으며, 이는 기존의 '주거 우선' 정책과는 상반됩니다. 개인의 부와 정재계 네트워크를 이용한 정책 개입에 대한 비판과 함께, 제시된 정책의 효과가 충분히 검증되지 않았다는 지적이 나오고 있습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608240600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
+          "verification": "single",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -162,46 +182,46 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "북한, 일본 최대 방위비 편성 추진에 '침략 전쟁 준비' 규탄",
-          "summary": "북한은 일본 방위성이 역대 최대 규모인 10조 엔에 달하는 방위비 예산 편성을 추진하는 것에 대해 '침략 전쟁 준비 완성을 위한 무력 증강'이라며 강력히 비판했습니다. 북한은 무모한 군비 증강이 일본의 안보 적자만 증대시킬 것이며, 단합된 힘으로 철저히 반격할 것이라고 경고했습니다.",
+          "title": "대만, 중국과의 군사적 대치 기념 '힘을 통한 평화' 강조",
+          "summary": "라이칭더 대만 총통은 중국과의 1958년 금문도 포격전 68주년을 맞아 접경 도서인 금문도를 방문하여 '힘을 통한 평화'를 강조했습니다. 그는 국가 주권 수호와 대만 해협 평화 유지를 위한 결의를 다지고, 한 치의 영토도 포기하지 않을 것이라며 군사비 지출 증대 필요성을 언급했습니다. 중국은 대만을 자국 영토로 간주하며 라이 총통을 '분리주의자'로 비난하고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/defense/1274139.html"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/23/asia-pacific/politics/lai-taiwan-kinmen-matsu-anniversary/"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "태평양 도서국가들, 서방 안보와 중국 무역 사이 균형 외교",
-          "summary": "태평양 도서국가들이 서방의 안보 협력과 중국의 무역 및 투자 사이에서 균형을 잡는 외교 전략을 펼치고 있습니다. 이들 국가는 서방으로부터는 안보 보장을 얻고, 중국으로부터는 인프라 건설과 경제적 지원을 유치하며 지정학적 경쟁을 활용하고 있습니다.",
+          "title": "일본, 재난 대비 '제2 수도' 지정 추진에 지자체 유치 경쟁 과열",
+          "summary": "일본 정부가 지진 등 재난 상황 시 도쿄의 행정 기능을 대체할 '제2 수도' 지정을 추진하면서, 오사카, 후쿠오카, 삿포로 등 13개 지방자치단체가 유치 경쟁에 뛰어들었습니다. 제2 수도 지정 시 막대한 경제적 이득과 세금 감면, 관광 활성화 등의 효과가 기대되지만, 일부에서는 제2 수도 지정보다 도쿄의 재난 대응 능력 강화가 우선이며, 정치적 이해관계가 얽혀 있다는 비판도 제기됩니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608240600091/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "일본 후지산, 7세 아들 홀로 두고 등산한 아버지 경찰 조사",
-          "summary": "일본 후지산에서 한 남성이 7세 아들이 힘들다고 하자 홀로 남겨두고 등산을 계속한 사실이 드러나 경찰 조사를 받았습니다. 이와 별개로, 홍콩에서는 88세 노인이 미용 제품 구매에 약 10만 홍콩 달러를 지출하도록 강요당했다는 의혹이 제기되어 세관이 조사에 착수했습니다.",
+          "tag": "tec",
+          "title": "중국, AI 로봇 활용한 휴머노이드 로봇 대회 베이징 개최",
+          "summary": "중국 베이징에서 '제2회 세계 휴머노이드 로봇 게임'이 개최되었습니다. 이 대회는 인간의 스포츠와 유사한 종목과 함께, 공장·레스토랑·사무실 및 비상 상황 등에서 인간처럼 작업하는 로봇의 능력을 평가하는 시뮬레이션 이벤트를 결합하여 진행됩니다. 이는 중국의 휴머노이드 로봇 기술 발전을 보여주는 행사로 평가됩니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/22/japan/crime-legal/japan-dad-child-mount-fuji/"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan"
+              "url": "https://www.japantimes.co.jp/news/2026/08/23/asia-pacific/science-health/robots-outrun-humans-future/"
             }
           ],
-          "verification": "multi",
-          "tag_label": "사회"
+          "verification": "single",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -212,20 +232,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아군 우크라이나 쇼핑몰 공습, 젤렌스키 '비열한 테러' 규탄",
-          "summary": "러시아군이 우크라이나 중부 도시 크리비리흐의 한 쇼핑몰을 공습해 16명이 사망하고 130명이 부상당했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 이 공격을 '냉소적이고 비열한 테러'로 강력히 규탄했으며, EU 외교정책 대표 카야 칼라스는 러시아의 전쟁 행위를 '계획적인 테러'로 비난했습니다.",
+          "title": "젤렌스키 우크라이나 대통령, 전시 선거 실시 반대 입장 표명",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령은 전시 상황에서의 선거 실시는 나라를 분열시킬 위험이 있다며 반대 입장을 표명했습니다. 그는 러시아가 탄도미사일을 비축하고 추가 동원을 고려하는 상황에서 선거는 비현실적이며 '국가에 쓰나미가 될 것'이라고 경고했습니다. 이 발언은 해임된 국방장관 미하일로 페도로프가 선거를 요구한 것에 대한 첫 공개적인 답변입니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
+              "url": "https://www.theguardian.com/world/2026/08/23/ukraine-election-wartime-risk-russia-zelenskyy"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/france-to-ramp-up-ukraine-support-says-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/volodymyr-zelenskyy-elections-would-tear-ukraine-apart/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -233,37 +253,46 @@
         },
         {
           "tag": "pol",
-          "title": "시임 칼라스 전 EU 집행위원 77세로 별세, 에스토니아 EU 통합 기여",
-          "summary": "에스토니아의 전 총리이자 전 EU 집행위원인 시임 칼라스가 77세의 나이로 별세했습니다. 그는 에스토니아의 EU 가입을 이끈 핵심 인물이었으며, 경제 및 통화 담당 집행위원을 역임하며 에스토니아의 통화 개혁과 유럽 통합에 중요한 역할을 했습니다.",
+          "title": "러시아, 우크라이나 지원 압박 강화로 영국 대사 철수",
+          "summary": "러시아가 안드레이 켈린 주영 러시아 대사를 철수시키며 우크라이나 지원을 둘러싼 영국에 대한 압박을 강화하고 있습니다. 러시아 대사관은 지난달 켈린 대사의 외교 임무가 종료되었음을 확인했으며, 영국이 우크라이나에 공격 드론을 제공한 이후 '결과'를 경고하며 양국 관계는 전례 없는 낮은 수준으로 악화되었습니다. 영국 외무부는 대사 철수가 러시아의 문제이며, 우크라이나 지원을 계속할 것이라는 입장을 밝혔습니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/22/metsola-pays-tribute-to-ex-eu-commissioner-kallas-after-daughter-kaja-kallas-announces-fat"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/former-estonia-eu-commissioner-siim-kallas-dies-at-77/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/08/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "스웨덴 학교 칼부림 공격 1명 사망, 용의자 온라인 활동 조사",
-          "summary": "스웨덴 파예르스타의 한 고등학교에서 칼부림 공격이 발생하여 17세 소녀가 사망하고 3명이 부상당했습니다. 경찰은 18세 용의자가 학교 폭력을 조장하는 온라인 커뮤니티 활동에 연루되었는지 여부를 조사 중입니다.",
+          "title": "프랑스, 폭염 관련 익사 사고 급증에 우려 표명",
+          "summary": "프랑스에서 6월 19일 이후 301건의 익사 사고가 발생했으며, 이는 작년 대비 14% 증가한 수치로 장기화된 폭염과 관련이 깊다고 스포츠청소년부 장관이 밝혔습니다. 많은 사망 사고가 비인가 또는 비관리 수영 구역, 특히 개방 수역과 운하에서 발생했으며, 갑작스러운 냉수 입수가 충격을 유발하거나 육체적 한계를 넘어서는 경우가 많았습니다. 정부는 수영 구역 개선 및 안전 조치 강화에 나설 예정입니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-1-prompts-probe-social-media?utm_source=rss_feed"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/23/hats-on-shades-on-tourists-in-greece-better-prepared-for-heat-risks"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "우즈베키스탄-아제르바이잔, 10억 달러 무역 목표 및 트랜스-카스피 해 연계 강화 합의",
+          "summary": "우즈베키스탄과 아제르바이잔은 10억 달러 무역 목표를 설정하고 '영원한 우정 조약'을 체결하며 동맹을 강화했습니다. 양국 대통령은 타슈켄트에서 만나 은행, 에너지, 관광, 광업 분야에서 새로운 프로젝트를 시작하고 트랜스-카스피 해 연계를 더욱 긴밀히 하기로 합의했습니다. 또한, 2027년 FIFA U-20 월드컵을 공동 개최할 예정입니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -274,12 +303,12 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "JWST, 초기 은하 예상보다 3~4배 더 무거워 은하 형성 이론에 의문 제기",
-          "summary": "제임스 웹 우주 망원경(JWST) 관측 결과, 초기 우주의 거대 은하들이 예상보다 3~4배 더 큰 질량을 가졌을 가능성이 제기되었습니다. 이는 초기 은하 형성 및 진화 이론에 중대한 도전을 제기하며, 빅뱅 직후 어떻게 그렇게 거대하고 성숙한 은하들이 형성되었는지 설명하기 어렵게 만들고 있습니다.",
+          "title": "중국, 달 탐사선 창어 7호 발사 '절대적인 성공' 위해 2027년으로 연기",
+          "summary": "중국은 달 탐사선 '창어 7호'의 발사를 '신중하고 신뢰할 수 있으며, 절대적인 성공을 보장한다'는 원칙에 따라 2027년으로 연기했습니다. 당초 올해 발사 예정이었으나, 남중국해의 태풍 '나라'를 포함한 기상 조건과 발사 창구 문제 등 종합적인 평가 결과 올해 발사 조건을 충족하지 못했다고 밝혔습니다. 이 임무는 달 궤도선, 착륙선, 로버, 미니 호퍼로 구성되어 달 남극에 착륙할 계획입니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
             }
           ],
           "verification": "single",
@@ -287,29 +316,25 @@
         },
         {
           "tag": "tec",
-          "title": "틱톡, 아동 개인정보 보호 위반으로 미 법무부에 4억 달러 벌금 합의",
-          "summary": "틱톡이 아동 개인정보 보호 위반 혐의로 미국 법무부와의 소송에서 4억 달러(약 5,400억 원)의 벌금을 지불하기로 합의했습니다. 이는 아동 개인정보 보호 관련 합의금 중 가장 큰 규모에 속하며, 틱톡과 모회사 바이트댄스는 13세 미만 사용자들의 방대한 데이터를 수집한 혐의를 받았습니다.",
+          "title": "AI, 인간 DNA의 숨겨진 유전자 '켜기' 스위치 해독",
+          "summary": "연구자들이 인공지능(AI)을 활용하여 인간 DNA 내 유전자 활성화 시점을 결정하는 핵심적인 유전자 '켜기' 스위치, 즉 '개시자'의 DNA 서명을 해독했습니다. 약 50만 개의 DNA 서열을 분석한 AI 모델은 인간 유전자의 약 60%에서 개시자를 식별했으며, 이 발견은 유해 돌연변이의 영향을 예측하고 유전자 활동을 조절하는 유전적 지시를 해독하는 데 기여할 것으로 기대됩니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "동면 쥐, 시냅스 절반 손실에도 기억력 유지 밝혀져",
-          "summary": "동면 상태에 들어간 쥐가 시냅스의 절반 이상을 잃었음에도 불구하고 기억력을 유지하는 것으로 새로운 연구에서 밝혀졌습니다. 이 연구는 기억이 뉴런 간의 연결 강도 변화에 의해 저장된다는 기존 가설에 의문을 제기하며, 뇌 활동과 기억 저장 메커니즘에 대한 새로운 연구 방향을 제시하고 있습니다.",
+          "title": "세포 손상 없이 지방 연소 돕는 실험적 화합물 개발",
+          "summary": "과학자들이 세포 손상 없이 지방을 연소시키는 데 도움이 되는 실험적 화합물 '5-테트라데실록시-2-푸로산(TOFA)'을 개발했습니다. 쥐 실험에서 TOFA는 에너지 사용량을 최대 18% 증가시키고, 상당한 근육 손실 없이 체지방을 감소시키며 혈당, 중성지방, 지방간 질환을 개선하는 효과를 보였습니다. 이 화합물은 오젬픽(Ozempic)과 같은 GLP-1 약물과 병용했을 때 더 강력한 결과를 나타내 비만 치료의 새로운 접근법을 제시합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm"
             }
           ],
           "verification": "single",
