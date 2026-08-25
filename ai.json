@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-25",
-  "date_str": "2026년 8월 25일 (화)",
+  "date": "2026-08-26",
+  "date_str": "2026년 8월 26일 (수)",
   "highlights": [
-    "AI 비서 'Instinct', 강력한 기능과 함께 개인정보 및 보안 우려 제기",
-    "AI 에이전트 스타트업 General Intuition, 로봇공학 확장하며 60억 달러 투자 유치 논의",
-    "오픈소스 AI 플랫폼 Hugging Face, 130억 달러 규모 인수 협상 보도",
-    "미지의 AI 모델 'Ox Alpha' 등장, 개발 주체 놓고 온라인에서 뜨거운 논쟁",
-    "Nvidia 매니저, Supermicro의 AI 서버 중국 밀수 계획 연루 혐의로 기소"
+    "Stability AI, 이미지 생성 모델 Stable Diffusion 개발사, 신규 자금 조달 라운드에서 7,600만 달러 추가 유치.",
+    "Anthropic, Claude에 채팅 및 Cowork 전반에 걸친 공유 메모리 기능 추가, AI의 반복 설명 필요성 제거.",
+    "OpenAI의 Jalapeño 칩, SemiAnalysis 벤치마크에서 기존 최고 성능 칩보다 우수한 토큰 및 전력 효율성 입증.",
+    "Accel 지원 디자인 스타트업 Lica, Gamma에 인수되어 새로운 연구팀으로 합류 예정.",
+    "SEC, 거의 파산할 뻔한 AI 헤지펀드 Situational Awareness 조사 중."
   ],
   "sections": [
     {
@@ -15,12 +15,25 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "AI 비서 'Instinct' 출시, 개인정보 및 보안 우려 제기",
-          "summary": "비공개 테스트 중인 AI 개인 비서 'Instinct'가 강력한 기능으로 주목받고 있으나, 개인정보 보호 및 보안 문제에 대한 우려가 제기되고 있습니다. 일부 테스터들은 서비스 약관이 사용자 데이터에 대한 광범위한 접근 권한을 부여하고, AI 모델 학습에 활용될 수 있다고 지적했습니다.",
+          "title": "Anthropic Claude, 공유 메모리 기능으로 대화 연속성 강화",
+          "summary": "Anthropic이 Claude의 채팅 및 Cowork 전반에 걸친 공유 메모리 기능을 업데이트하여, 사용자가 AI에 프로젝트나 선호도를 반복적으로 설명할 필요 없이 이전 대화 내용을 기억할 수 있도록 했습니다. 이 업데이트로 Claude는 연구 단계와 실행 단계 사이를 보다 원활하게 이동할 수 있는 연속적인 AI 비서처럼 작동하게 됩니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+              "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "인스타그램, 릴스 자동 편집 기능 'First Draft' 출시",
+          "summary": "인스타그램이 새로운 릴스 편집 기능인 'First Draft'를 출시했습니다. 이 기능은 비디오 클립을 자동으로 트리밍하여 하이라이트에 집중하며, 일시정지 부분을 제거하고 가장 중요한 부분을 보여주도록 편집합니다. 인스타그램은 이 기능이 AI를 사용하지 않는다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels"
             }
           ],
           "verification": "single",
@@ -35,12 +48,12 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "미지의 AI 모델 'Ox Alpha' 등장, 개발 주체 미확인",
-          "summary": "새로운 AI 모델 'Ox Alpha'가 OpenRouter에 출시되어 강력한 성능으로 주목받고 있으나, 개발 주체가 익명으로 남아 온라인에서 추측이 난무하고 있습니다. Stripe CEO 패트릭 콜리슨이 '매우 인상적'이라고 평가하며, 중국 기업 Z.ai의 GLM 모델 또는 마이크로소프트의 미공개 MAI 모델일 것이라는 등 다양한 가능성이 제기되고 있습니다.",
+          "title": "OpenAI Jalapeño 칩, 고속 대규모 추론 효율성 입증",
+          "summary": "OpenAI의 Jalapeño 칩이 SemiAnalysis의 InferenceX 벤치마크 테스트에서 현재 최첨단 추론 프로세서보다 더 많은 토큰 및 전력 효율성을 기록했습니다. 이 칩은 대규모 AI 작업에 효율적이며, 응답 시간을 단축하도록 설계되었습니다. OpenAI는 Jalapeño가 2026년 말 소량 배포를 시작하여 2027년에는 더 광범위하게 배포될 것으로 예상하고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+              "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
             }
           ],
           "verification": "single",
@@ -48,29 +61,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "인간의 언어 학습 방식, AI 효율성 개선 연구",
-          "summary": "인간 어린이가 AI보다 훨씬 적은 데이터로 언어를 습득하는 '데이터 효율성 격차'에 대한 연구가 진행 중입니다. 과학자들은 어린이의 학습 방식을 역설계하여 AI 모델의 데이터 효율성을 높이고, 언어 및 아동 발달에 대한 근본적인 질문에 답을 찾고자 합니다.",
+          "title": "KVBoost, LLM 추론 비용 절감 위한 캐시 재사용 기술 발표",
+          "summary": "arXiv에 Transformer 기반 LLM의 고비용 Prefill 지연 시간을 줄이기 위한 KVBoost 연구 논문이 발표되었습니다. 이 시스템은 청크 수준의 키-값 캐시 재사용과 편차 기반 재계산을 활용하여, 기존 방식의 한계를 극복하고 효율적인 LLM 추론을 가능하게 합니다.",
           "sources": [
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
-            },
-            {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "극단적 데이터 없이 미래 위기 시나리오 생성 AI 개발",
-          "summary": "MIT 연구진이 과거 극단적 사건 데이터 없이도 미래의 극단적 기후 현상과 같은 위기 시나리오를 생성하는 머신러닝 알고리즘 'Extreme Event Aware'를 개발했습니다. 이 기술은 홍수, 폭염, 산불 등 예측 불가능한 시나리오의 규모, 강도, 지속 시간을 매핑하여 도시 계획자들이 재난에 대비하는 데 도움을 줄 수 있습니다.",
-          "sources": [
-            {
-              "name": "MIT News (AI)",
-              "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2608.21362"
             }
           ],
           "verification": "single",
@@ -78,12 +74,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 안전 정렬의 한계: 유해 개념 지식 잔존 연구",
-          "summary": "대규모 언어 모델(LLM)의 안전 정렬이 종종 피상적이며, 유해한 개념에 대한 근본적인 지식을 완전히 제거하지 못한다는 연구 결과가 발표되었습니다. '의미적 위장(Semantic Camouflage)' 공격에 LLM이 취약하며, 초기 레이어에서는 여전히 유해한 의도 신호가 감지될 수 있음을 확인했습니다.",
+          "title": "생성형 AI '모델 붕괴' 현상과 대응책 연구 공개",
+          "summary": "생성형 AI 모델 붕괴(Model Collapse) 현상과 이에 대한 대응책을 검토하는 연구 논문이 arXiv에 공개되었습니다. 이 논문은 AI 생성 데이터를 다음 세대 AI 모델 훈련에 사용하는 과정에서 발생하는 모델 붕괴 문제를 다루고, 이를 완화하기 위한 잠재적 해결책을 제시합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20378"
+              "url": "https://arxiv.org/abs/2608.21366"
             }
           ],
           "verification": "single",
@@ -91,53 +87,15 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "멀티모달 에이전트 프레임워크 연구 동향 및 응용 조사",
-          "summary": "이미지, 오디오, 비디오 등 다양한 양식을 통합하는 멀티모달 에이전트 프레임워크의 기초와 최신 동향에 대한 종합적인 연구가 진행 중입니다. 이 조사는 인지, 추론, 계획, 기억 및 행동과 같은 에이전트 프레임워크의 핵심 모듈 전반에 걸쳐 멀티모달리티의 영향을 분석합니다.",
+          "title": "학생 학습 습관 추적 및 번아웃 감지 AI 시스템 RIACT 연구",
+          "summary": "arXiv에 대학생의 개인화된 학습 습관 추적 및 번아웃 조기 감지를 위한 책임감 있는 AI 시스템 RIACT에 대한 연구 논문이 발표되었습니다. 이 웹 기반 애플리케이션은 학습 세션 기록을 통해 맞춤형 인사이트를 제공하고, 투명하고 결정론적인 규칙을 활용하여 번아웃 징후를 감지합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20379"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20384"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20389"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "월드 모델: 모델 기반 강화 학습의 핵심 구성 요소",
-          "summary": "월드 모델은 모델 기반 강화 학습의 핵심 요소로, 환경, 에이전트, 그리고 에이전트-환경 시스템 예측에 대한 중요성이 강조되고 있습니다. 이 연구는 월드 모델이 예측하는 변수들을 넘어, 어떤 채널을 모델링하는지에 대한 근본적인 구분을 제시합니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20401"
+              "url": "https://arxiv.org/abs/2608.21379"
             }
           ],
           "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 코딩 에이전트, 소프트웨어 개발 주기 재편 연구",
-          "summary": "대규모 언어 모델(LLM) 기반 코딩 에이전트가 소프트웨어 개발 주기(SDLC)를 재편하고 있으며, 이와 관련된 연구가 활발히 진행 중입니다. 풍부한 컨텍스트 처리와 다단계 추론을 통해 기능 요구 사항 문서 및 저장소 컨텍스트를 단일 워크플로에서 처리하는 등 새로운 개발 패러다임을 제시하고 있습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20341"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20342"
-            }
-          ],
-          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         }
@@ -149,12 +107,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "General Intuition, 로봇공학 확장하며 60억 달러 투자 논의",
-          "summary": "AI 에이전트 개발 스타트업 General Intuition이 로봇공학 분야로 확장을 추진하며 밸러 에쿼티 파트너스, 포인트72 벤처스 등 신규 투자자들로부터 60억 달러 규모의 투자를 유치하는 협상을 진행 중입니다. 이 회사는 로봇 구현에 중점을 둔 일반 모델 개선을 위해 자금을 활용할 계획입니다.",
+          "title": "Stability AI, 신규 자금 조달로 7,600만 달러 추가 유치",
+          "summary": "AI 이미지 생성 모델 Stable Diffusion의 개발사인 Stability AI가 새로운 자금 조달 라운드에서 7,600만 달러를 추가 유치했습니다. 이로써 회사의 총 자금 조달액은 2억 3,200만 달러에 달하며, Universal Music Group, Sony Music Group, Warner Music Group, Electronic Arts 등 엔터테인먼트 업계 주요 기업들이 투자에 참여했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+              "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
             }
           ],
           "verification": "single",
@@ -162,12 +120,12 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Hugging Face, 130억 달러 규모 인수 협상 중",
-          "summary": "오픈소스 AI 플랫폼 기업 Hugging Face가 130억 달러 이상의 가치로 피인수 협상 중이라는 보도가 나왔습니다. 이 스타트업은 개발자와 연구자들이 AI 모델을 공유하고 배포하는 중심 허브 역할을 하며, 최근 OpenAI 시스템의 공격을 받은 바 있습니다.",
+          "title": "Gamma, Accel 지원 디자인 스타트업 Lica 인수",
+          "summary": "프레젠테이션 스타트업 Gamma가 Accel이 지원하는 디자인 스타트업 Lica를 인수했습니다. Lica의 공동 창업자들은 Gamma의 새로운 디자인 연구팀을 이끌 예정이며, 이번 인수는 Gamma가 시각적 커뮤니케이션 및 다양한 형식의 콘텐츠 탐색 역량을 강화하려는 전략의 일환입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
+              "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
             }
           ],
           "verification": "single",
@@ -175,25 +133,38 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Nvidia 매니저, Supermicro AI 서버 중국 밀수 계획 연루 기소",
-          "summary": "미국 수출 통제를 위반하고 고성능 AI 서버를 중국으로 밀수출하려던 Supermicro 계획에 Nvidia 고위 매니저가 연루되어 대만에서 기소되었습니다. 대만 검찰은 용의자 9명을 문서 위조 및 배임 혐의로 기소했으며, 이들은 130대의 B300 서버를 위장 설치하려 한 것으로 알려졌습니다.",
+          "title": "Keenable, AI 에이전트 위한 웹 검색 인덱스 구축에 2,600만 달러 시드 투자 유치",
+          "summary": "Accel이 지원하는 Keenable이 2,600만 달러의 시드 펀딩을 통해 은밀 모드에서 벗어나 AI 에이전트를 위한 방대한 웹 검색 인덱스를 구축하고 있음을 밝혔습니다. 이 회사는 1,000억 개 이상의 문서로 구성된 웹 검색 인덱스를 구축 중이며, AI 챗봇이 출처 문서에 기반한 응답을 제공하는 데 중점을 둡니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "IBM, LinuxONE 기반 Spyre 가속 RAG 클라우드 아키텍처 공개",
+          "summary": "IBM이 LinuxONE 플랫폼 상에서 Spyre 가속 Retrieval-Augmented Generation (RAG)을 위한 클라우드 네이티브 아키텍처를 소개했습니다. 이 아키텍처는 안전하고 높은 처리량의 엔터프라이즈 AI 추론을 가능하게 하며, 민감한 데이터가 하드웨어 경계를 벗어나지 않도록 설계되었습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2608.21393"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Apple, 로컬 AI 개발 강화 위한 신형 데스크톱 출시",
+          "summary": "Apple이 로컬 AI 개발에 특화된 새로운 Mac mini와 Mac Studio 데스크톱 컴퓨터를 출시했습니다. 새로운 M6 및 M5 Ultra 칩을 탑재한 이 기기들은 통합 메모리 아키텍처와 빠른 CPU 및 GPU를 활용하여 AI 워크로드에 최적화되었으며, 여러 Mac을 연결하여 대규모 LLM 추론을 실행하는 방식에 중점을 둡니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "XPENG 물리적 AI 유닛, 휴머노이드 로봇 플랫폼 개발에 9억 달러 투자 유치",
-          "summary": "중국 전기차 제조업체 XPENG의 물리적 AI 유닛이 자사 휴머노이드 로봇 플랫폼 'IRON' 확장을 위해 9억 달러 이상의 투자를 유치했습니다. IDG 캐피탈이 투자를 주도했으며 텐센트와 알리바바도 전략적 투자자로 참여했습니다. 이는 중국 물리적 AI 산업에서 단일 라운드 최대 규모 투자로 알려졌습니다.",
-          "sources": [
-            {
-              "name": "AI News",
-              "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/"
+              "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
             }
           ],
           "verification": "single",
@@ -208,12 +179,12 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "로보택시 확산과 함께 규제 및 정책 반발 증대",
-          "summary": "로보택시가 확산되면서 관련 규제 및 정책에 대한 반발이 커지고 있습니다. 뉴욕에서는 무인 로보택시 도입 제안이 철회되었고, 워싱턴 DC에서는 상업용 로보택시 합법화 법안에 대한 노조의 반대가 거세며, 샌프란시스코 시장은 더 엄격한 규제를 요구하고 있습니다.",
+          "title": "SEC, AI 헤지펀드 Situational Awareness 조사 착수",
+          "summary": "미국 증권거래위원회(SEC)가 한때 월스트리트의 주목을 받았던 AI 헤지펀드 Situational Awareness를 조사하고 있습니다. AI 주식 시장의 하락으로 수십억 달러의 가치를 잃은 이 회사를 대상으로 SEC는 거래를 감독하고 자금을 지원한 은행에 소환장을 발부한 것으로 알려졌습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
             }
           ],
           "verification": "single",
@@ -221,12 +192,25 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "생성형 AI의 환경 지속 가능성 위한 '환경적 느린 AI' 원칙 제안",
-          "summary": "생성형 AI 시스템의 환경적 지속 가능성을 위한 '환경적 느린 AI(Environmental Slow AI)' 설계 원칙이 제안되었습니다. 이 원칙들은 절제, 충분성, 선택적 보존, 물질적 가시성, 마찰을 통한 기능성 등 다섯 가지로 구성되며, AI 디자인에 환경적 가치를 핵심으로 통합하고자 합니다.",
+          "title": "AI 런타임 거버넌스 의사결정 증거 기록 프로토콜 AIREP 발표",
+          "summary": "arXiv에 AI 런타임 거버넌스의 의사결정 증거 기록을 위한 프로토콜인 AIREP에 대한 논문이 발표되었습니다. 이 프로토콜은 자동화된 AI 런타임이 개별 출력을 해제, 차단, 연기, 수정 또는 에스컬레이션할 때 해당 결정을 단일 서명된 객체로 기록하여 어떤 당사자든 오프라인에서 검증할 수 있도록 설계되었습니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.20398"
+              "url": "https://arxiv.org/abs/2608.21363"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "LLM 리더보드의 중립성 의문 제기: 설정 취약 항목 연구",
+          "summary": "현대 LLM 리더보드가 설정에 취약한 항목들로 인해 조작될 수 있다는 연구 논문이 arXiv에 발표되었습니다. 이 연구는 벤치마크 평가의 '하네스(harness)' 설정(옵션 순서, 프롬프트 문구 등)이 모델 점수에 큰 영향을 미치며, 이로 인해 리더보드 순위가 결정된다는 점을 지적하며 벤치마크 평가의 중립성에 대한 의문을 제기합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2608.21382"
             }
           ],
           "verification": "single",

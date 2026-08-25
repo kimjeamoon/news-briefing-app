@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-25",
-  "date_str": "2026년 8월 25일 (화)",
+  "date": "2026-08-26",
+  "date_str": "2026년 8월 26일 (수)",
   "key5": [
-    "트럼프, 북미정상회담 추진 시사…한미 외교당국은 대북 공조 강조",
-    "제주 실종 허위 종결 사건, 국회 질타 속 총리 책임론 부상",
-    "미국 대법원, 트럼프 행정부의 우편 투표 제한 명령 임시 승인",
-    "트럼프, 캐나다에 자동차·철강 관세 50% 인상 위협",
-    "영국 총리, 러시아 위협에도 우크라이나 지원 및 미사일 기술 공유 약속"
+    "김정은 위원장, 노동당 정치국 확대회의 주재하며 경제 운영 미숙 지적",
+    "이재명 대통령, 김민석 대표 등 민주당 지도부와 만찬하며 국정 협력 강조",
+    "트럼프 대통령, 캐나다에 대한 강경 입장 지속하며 온타리오 호수 명칭 변경 주장",
+    "미국 대법원, 트럼프 행정부의 우편 투표 제한 계획 허용",
+    "호주, AI 생성 음악 음원 차트 금지; 스탠포드 연구 AI가 초급 일자리에 큰 영향"
   ],
   "regions": [
     {
@@ -16,20 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 북미정상회담 추진 시사…한미 외교당국은 대북 공조 강조",
-          "summary": "도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과의 3차례 만남 이후 7년 만에 재회 가능성을 시사하며 대북 대화 의지를 드러냈다. 이는 미국 중간선거를 앞둔 정치적 이벤트라는 의구심과 함께 북한 비핵화 포기 신호로 해석될 수 있다는 우려를 낳고 있다. 한미 외교장관은 전화 통화에서 '북핵 문제 해결'을 위해 긴밀한 소통과 공조를 이어가기로 했으나, '비핵화' 표현은 명시되지 않았다.",
+          "title": "김정은, 경제 운영 미숙 지적…트럼프 대화 제의에 무반응",
+          "summary": "김정은 국무위원장이 노동당 정치국 확대회의를 주재하며 경제 지도기관의 미숙한 작전과 지휘 능력을 지적했다. 도널드 트럼프 미국 대통령이 북미 대화 재개 의지를 연일 보냈으나, 북한은 이에 대해 아무런 반응을 보이지 않았다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260824140700546"
+              "url": "https://www.yna.co.kr/view/AKR20260826013800504"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260825001300504"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260825000300504"
+              "url": "https://www.yna.co.kr/view/AKR20260826004000071"
             }
           ],
           "verification": "multi",
@@ -37,16 +33,16 @@
         },
         {
           "tag": "pol",
-          "title": "제주 실종 허위 종결 사건, 국회 질타 속 총리 책임론 부상",
-          "summary": "제주경찰청의 실종 사건 허위 종결 논란에 대해 국회 행정안전위원회는 경찰을 강력히 질타하며 철저한 진상규명을 요구했다. 여야 의원들은 경찰의 신뢰 하락과 부실 수사에 대한 책임을 물었고, 유재성 경찰청장 직무대행의 사퇴 압박으로 이어졌다. 한성숙 국무총리는 이번 사건에 대해 무한 책임을 느끼며, 부당·불법 행위가 확인되면 지위고하를 막론하고 엄중히 처벌하겠다고 밝혔다.",
+          "title": "이재명 대통령, 김민석 대표와 만찬…당정청 공동운명체 강조",
+          "summary": "이재명 대통령이 김민석 대표와 한병도 원내대표를 비롯한 더불어민주당 지도부를 청와대로 초청해 만찬을 가졌다. 이 대통령은 '당정청은 공동운명체'라며 긴밀한 당정 관계를 강조했고, 김 대표는 '여당 지도부답게 일하겠다'고 화답하며 국정 운영 협력을 다짐했다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260824143851001"
+              "url": "https://www.yna.co.kr/view/AKR20260825176351001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260824085552001"
+              "url": "https://www.yna.co.kr/view/AKR20260825176300001"
             }
           ],
           "verification": "multi",
@@ -54,36 +50,36 @@
         },
         {
           "tag": "eco",
-          "title": "국내 기업 경기 전망 개선과 소비심리 하락, 경제 지표 혼조세",
-          "summary": "환율 안정과 추석 명절 특수 기대로 국내 기업들의 9월 경기 전망이 6개월 만에 긍정적으로 전환됐다. 특히 내수와 수출 전망이 개선을 주도했다. 그러나 국내 증시 조정과 누적된 물가 상승으로 8월 소비심리지수는 4개월 만에 하락했으며, 주택가격 상승 기대감도 소폭 줄어들었다.",
+          "title": "국내 제약·바이오 기업, 글로벌 시장 공략 위해 대규모 시설 투자",
+          "summary": "국내 제약·바이오 기업들이 글로벌 시장 공략과 생산 역량 강화를 위해 대규모 시설 투자를 단행하고 있다. GC녹십자는 미국 면역글로불린 시장 공략을 위해 오창공장에 5천억 원 이상을, 알테오젠은 바이오의약품 자체 생산시설 구축에 2천500억 원 이상을 투자한다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260824125200003"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260824149100002"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/economy_general/1274442.html"
+              "url": "https://www.yna.co.kr/view/AKR20260825155300017"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "경남 해역 고수온 경보 확대, 양식 어류 및 멍게 폐사 심화",
-          "summary": "경남 남해안에 고수온 현상이 지속되면서 양식 어류에 이어 멍게까지 폐사하는 피해가 발생했다. 하루 만에 양식 어류 2만3천 마리가 죽어 누적 폐사량이 110만 마리를 넘어섰고, 멍게 95줄도 고수온으로 폐사했다. 국립수산과학원은 경남 전 해역으로 고수온 경보를 확대 발령했으며, 사천만, 강진만, 진해만 해역의 수온은 28~31.9도에 달했다.",
+          "title": "성인 실종자 수색 부실 반복…경찰 체질 개선 요구 확산",
+          "summary": "제주 실종 여성 사건을 계기로 경찰의 성인 실종자 수색 및 대응 부실 문제가 다시 불거지면서 체질 개선 요구가 커지고 있다. 현행법상 성인 실종자에 대한 실종 경보 발령이 제한되어 경찰이 편법을 동원하는 상황이며, 전문가들은 실종 대응의 과학화와 내부 통제 강화가 필요하다고 지적했다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260825013600052"
+              "url": "https://www.yna.co.kr/view/AKR20260825148100004"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608260600131/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608260600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         }
       ]
@@ -95,20 +91,41 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미 대법원, 트럼프 행정부의 우편 투표 제한 명령 임시 승인",
-          "summary": "미국 대법원은 트럼프 행정부가 발령한 우편 투표 제한 명령에 대한 하급 법원의 판결을 일시 중단시켰다. 이로써 트럼프 대통령의 명령은 현재로서는 시행될 수 있게 되었으며, 해당 명령은 우편 투표를 받을 자격이 있는 유권자 명단을 작성하도록 우체국에 지시하는 내용을 담고 있다. 그러나 민주당 주도의 23개 주와 워싱턴 D.C.가 제기한 소송은 진행 중이며, 대법원은 이번 결정이 명령의 합법성에 대한 판단은 아니라고 밝혔다.",
+          "title": "트럼프, 캐나다에 관세 부과 및 '온타리오호 명칭 변경' 주장",
+          "summary": "도널드 트럼프 미국 대통령이 캐나다에 대한 50% 관세 부과와 통상 협상 결렬에 이어, 온타리오 호수의 이름을 '아메리카 호수'로 바꾸는 방안을 검토하고 있다고 주장했다. 이는 캐나다 마크 카니 총리가 미국의 프랑스어 보호 정책 비판을 제기한 것에 대한 반발로 보인다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1274644.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608252242001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미 대법원, 우편 투표 제한 허용…유권자 혼란 우려",
+          "summary": "미국 대법원이 트럼프 행정부의 우편 투표 제한 계획을 일시적으로 허용하는 판결을 내렸다. 이는 하급 법원의 관련 명령을 중단시킨 것으로, 다가오는 선거에서 유권자 혼란 및 추가적인 법적 분쟁을 야기할 수 있다는 우려가 제기되고 있다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html"
+              "url": "https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates"
+              "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
             }
           ],
           "verification": "multi",
@@ -116,41 +133,20 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프, 캐나다에 자동차·철강 관세 50% 인상 위협",
-          "summary": "도널드 트럼프 미국 대통령이 캐나다와의 무역 협상 결렬 이후 캐나다산 자동차, 트럭, 자동차 부품, 철강에 대한 관세를 2027년 1월 1일부터 50%로 인상하겠다고 발표했다. 트럼프 대통령은 캐나다를 '상대하기 가장 어려운 국가 중 하나'로 지칭하며 무역 분쟁이 격화될 조짐을 보였다. 이에 캐나다는 일부 미국산 제품에 대한 보복 관세 부과를 준비하고 있다.",
+          "title": "미국, 이란 제재 강화…중국 반발로 외교 갈등 심화",
+          "summary": "트럼프 행정부가 이란에 대한 새로운 경제 제재를 발표하며 이란의 경제적 고립을 목표로 하고 있다. 이에 대해 이란 경제부 장관은 준비되어 있다고 밝혔으며, 이란산 석유의 최대 수입국인 중국은 미국의 '불법적 일방 제재'에 반대하며 필요한 조치를 취할 것이라고 경고하여 미-중-이란 간의 외교적 긴장이 고조되고 있다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608242305001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/24/business/dealbook/canada-carney-tariffs-trump.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미 재무장관, 이란에 대한 강력한 '경제적 왕따 작전' 발표",
-          "summary": "스콧 베선트 미 재무장관은 호르무즈 해협을 봉쇄한 이란을 압박하기 위해 '경제적 왕따 작전'을 개시한다고 발표했다. 이는 이란과 거래하는 제3국에 디지털 자산, 기술, 금, 항공 및 해운 등 5개 분야에서 2차 제재를 부과하는 것을 핵심으로 한다. 베선트 장관은 이란 정권의 자금줄을 옥죄고 이란이 완전한 국제적 고립 또는 세계 경제 재편입 중 양자택일할 것을 요구했다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608250651001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
+              "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -158,20 +154,16 @@
         },
         {
           "tag": "soc",
-          "title": "네바다주 리노 인근 산불 확산, 대규모 주민 대피령 발령",
-          "summary": "네바다주 리노 인근에서 대형 산불이 도시 외곽까지 확산되면서 약 9만 명에 가까운 주민들에게 대피령이 내려졌다. 4만2천 명은 즉시 대피 명령을 받았고, 추가 4만5천 명은 대피 준비를 요청받았다. 토요일에 처음 보고된 이 산불은 현재까지 6명의 부상자를 발생시켰으며, 강풍과 예측 불가능한 기상 조건이 확산에 영향을 미쳤다. 주지사는 비상사태를 선포하고 주 방위군을 투입했다.",
+          "title": "타겟, 인종차별 논란 할로윈 복장 판매 중단 및 사과",
+          "summary": "미국의 소매업체 타겟(Target)이 인종차별적이라는 비판을 받은 아동용 할로윈 복장 판매를 중단하고 사과했다. 이 복장은 '블랙페이스' 이미지를 연상시킨다는 지적을 받았으며, 타겟은 '깊이 사과한다'고 밝혔다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages"
+              "url": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -185,60 +177,55 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "일본 의원단, 관계 개선 위해 중국 방문",
-          "summary": "일본 의원단이 중국과의 관계 개선을 목표로 중국을 방문했다. 이번 방문은 다카이치 사나에 일본 총리의 대만 관련 발언으로 인해 중국과의 관계가 악화된 이후 첫 의원단 교류이다. 의원단은 집권 자민당과 야당 의원으로 구성되었으며, 중국 공산당 고위 관계자들과 만날 것으로 예상된다. 중국은 다카이치 총리 발언 이후 일본 여행 자제 경고와 무역 제한 조치를 내린 바 있다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/24/japan/politics/japan-lawmakers-visit-china/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "시진핑 주석의 반부패 캠페인, 중국의 핵심 정책으로 부상",
-          "summary": "시진핑 중국 주석의 반부패 캠페인이 일시적인 단속을 넘어 중국 공산당의 핵심 정책으로 자리 잡았다. 이 캠페인은 당 기율을 강화하고 경제 전략을 추진하는 데 중요한 도구로 활용되고 있다. 지난 10년간 반부패 운동은 확대되어 지난해 98만3천 명의 인원이 처벌받았으며, 이는 2013년에 비해 3배 증가한 수치이다. 특히 지방 정부 고위 관리들의 낙마가 두드러졌다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/politics/article/3365052/how-chinas-anti-corruption-fight-became-xi-jinpings-most-important-policy?utm_source=rss_feed"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "중국 교수 '긱 워크는 복지' 발언에 젊은 세대 강력 반발",
-          "summary": "중국 유명 경제학 교수가 긱 워크(임시직 노동)를 '복지'의 한 형태로 표현하자 중국 젊은 세대 사이에서 대규모 반발이 일어났다. 이 발언은 일자리 불안정성에 대한 깊은 우려를 표출하며 긱 워크가 가진 장기적인 위험성을 재조명했다. 교수는 노동 경제학 관점에서 '유연성 자체가 복지'라고 주장했지만, 이는 대중의 분노를 샀다.",
+          "title": "엔화 약세 장기화 전망에 일본 기업 헤지 전략 모색",
+          "summary": "엔화 약세가 장기화될 것으로 예상되면서 일본 기업들이 수입 비용 상승에 대비하기 위한 새로운 헤지 전략을 모색하고 있다. 일본의 유일한 고속 거래 기업인 다마캐피탈(Dharmacapital)은 높은 세율을 이유로 싱가포르로 이전하는 등 고액 연봉자들의 해외 이전 움직임도 나타나고 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/24/asia-pacific/china-professor-gig-work-welfare/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "tec",
-          "title": "일본, 해저 케이블 선박 구매 지원 및 AI 활용 재료 개발 추진",
-          "summary": "일본 정부는 해저 케이블 설치 선박 구매를 지원하기 위해 약 1000억 엔(약 6억2800만 달러)의 예산을 배정할 예정이다. 이는 비용 상승과 중국과의 경쟁 심화 속에서 국내 경쟁력과 경제 안보를 강화하기 위함이다. 또한 일본은 제조업체들이 공유하는 데이터를 인공지능(AI)으로 분석해 신소재 개발 속도를 10배 높이는 플랫폼 구축 계획도 추진하고 있다.",
-          "sources": [
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/telecommunication/japan-eyes-630m-to-help-buy-undersea-cable-ships-as-risks-grow"
+              "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/companies-weak-yen/"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/dharmacapital-moves-to-singapore/"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "시진핑 반부패 캠페인, 퇴직 고위 관료 등으로 확대",
+          "summary": "시진핑 주석의 반부패 캠페인이 퇴직 고위 관료를 포함한 새로운 목표를 향해 진행되고 있으며, 인민해방군 로켓군의 부패 조사도 이어지고 있다. 당국은 로켓군 조달 과정의 위반 사항에 대한 대중의 제보를 요청하며 부패 척결 의지를 보이고 있다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/politics/article/3365175/no-immunity-how-xis-anti-corruption-fighters-are-zeroing-fresh-targets?utm_source=rss_feed"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/military/article/3365247/china-seeks-public-tips-procurement-violations-pla-rocket-force-probe-continues?utm_source=rss_feed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "일본 7월 열사병 환자 4만 명 넘어…음주 운전 방지 노력 계속",
+          "summary": "일본에서 지난 7월 한 달간 4만 1천 명 이상이 열사병으로 병원에 입원했으며, 이는 2008년 통계 작성 이후 세 번째로 높은 수치이다. 한편, 후쿠오카현에서는 2006년 음주 운전 사고 희생자를 추모하며 음주 운전 근절을 위한 회의가 개최되는 등 관련 노력이 지속되고 있다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/japan-hospitals-heatstroke/"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/society/drunk-driving-20-years/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -249,57 +236,44 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "영국 총리, 러시아 위협에도 우크라이나 지원 및 미사일 기술 공유 약속",
-          "summary": "앤디 번햄 영국 총리가 첫 우크라이나 방문에서 러시아의 '터무니없는 위협'에도 불구하고 우크라이나에 대한 외교적·군사적 지원을 계속할 것을 약속했다. 영국 정부는 프랑스와 우크라이나가 장거리 SCALP 미사일을 자체 생산할 수 있도록 영국산 부품에 대한 기밀 정보 공유를 허용하기로 했다. 번햄 총리는 우크라이나 대통령과의 회담 후 공동 성명을 통해 우크라이나의 방공망 강화를 최우선 과제로 삼겠다고 밝혔다.",
+          "title": "CIA 국장 모스크바 비밀 방문 보도…독일, 드론 공격 책임 경고",
+          "summary": "존 랫클리프 CIA 국장이 모스크바를 비밀리에 방문하여 러시아 당국자들과 회담한 것으로 보도되었다. 한편, 독일 라이프치히 공항에서 드론 공격이 발생하자 프리드리히 메르츠 독일 총리는 공격자들에게 책임을 물을 것이라고 경고했으며, 스웨덴은 러시아 드론 위협에 대비해 러시아 소유 부동산 압류를 추진 중이다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/24/world/politics/burnham-world-stage-debut-ukraine/"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/25/us/politics/cia-director-russia.html"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365248/us-spy-chief-john-ratcliffe-russia-visit-us-media-reports?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "사우디, 프랑스 파리 인근에 60억 유로 규모 테마파크 투자",
-          "summary": "사우디아라비아가 프랑스 파리 인근에 60억 유로(약 51억3천만 파운드) 규모의 테마파크 3곳 건설에 투자한다. 이 프로젝트는 사우디아라비아 국부펀드의 자회사인 킵디야 투자 회사(QIC)가 주도하며, 일본 인기 만화 '드래곤볼 Z'에서 영감을 받은 테마파크도 포함될 예정이다. 프랑스 대통령은 이번 투자가 '디즈니랜드 파리 이후 가장 큰 규모'라며 2만2천 개의 일자리 창출을 기대한다고 밝혔다.",
+          "tag": "soc",
+          "title": "프랑스 남서부 마을 토네이도 강타, 수십 명 부상 및 가옥 파손",
+          "summary": "프랑스 남서부 포마스 마을에 토네이도가 강타하여 39명이 부상하고 수백 채의 가옥이 파손되었다. 15명이 병원으로 이송되었고, 이 중 2명은 위중한 상태인 것으로 알려졌다. 시속 117km의 강풍으로 마을 절반이 파괴되는 등 큰 피해가 발생했다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/24/japan/dragon-ball-theme-park-france-saudi/"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/24/saudi-arabia-to-pump-6-billion-into-building-three-theme-parks-near-paris"
+              "url": "https://www.bbc.co.uk/news/videos/c3d79mp2jeno?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "덴마크 정부, 과거 청소년 보호 시설 학대 피해자 보상 결정",
-          "summary": "덴마크 정부가 청소년 보호 시설 '솔가든'에서 학대를 겪은 13명의 피해자에게 보상금을 지급하기로 결정했다. 사회부 조사에 따르면 1949년부터 1976년까지 이 시설에서 심각하고 체계적인 학대와 국가의 감독 의무 소홀이 확인되었다. 각 피해자는 30만 크로네(약 4천만 원)를 받을 예정이며, 과거 루터교 선교회가 운영했던 솔가든은 2024년 모든 전 입소자들에게 사과한 바 있다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/24/victims-of-abuse-at-youth-care-home-to-be-compensated-by-danish-government"
-            }
-          ],
-          "verification": "single",
           "tag_label": "사회"
         }
       ]
@@ -311,41 +285,57 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "트위치와 아마존, 라이브스트림 AI 훈련 무단 사용 혐의로 피소",
-          "summary": "아마존이 스트리밍 플랫폼 트위치 사용자의 라이브스트림 영상을 AI 모델 훈련에 무단으로 사용한 혐의로 집단 소송에 직면했다. 소송은 수백만 명의 스트리머를 대리하여 제기되었으며, 아마존이 사용자 동의나 적절한 보상 없이 상업적으로 콘텐츠를 활용했다고 주장한다. 트위치와 아마존은 이에 대해 아직 공식 입장을 밝히지 않았다.",
+          "title": "호주, AI 생성 음악 음원 차트 금지…AI, 초급 일자리 큰 영향",
+          "summary": "호주 음반 산업 협회(ARIA)가 AI가 대부분 또는 전적으로 생성한 음악을 음원 차트에서 금지하기로 결정했다. 한편, 스탠포드 대학교 연구에 따르면 AI가 22~25세 젊은층의 초급 일자리에 가장 큰 영향을 미치며, 해당 분야의 고용 수준이 19% 감소한 것으로 나타났다.",
           "sources": [
             {
               "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "GM eBoost 브레이크 시스템 결함, 미 연방 당국 조사 착수",
-          "summary": "미국 연방 정부가 제너럴모터스(GM) 차량의 eBoost 브레이크 시스템 결함에 대한 안전 조사를 확대했다. 수백 건의 브레이크 고장 보고가 접수된 후 110만 대 이상의 차량이 영향을 받을 것으로 보이며, 여기에는 GM의 전기차뿐만 아니라 혼다와 어큐라 모델도 포함된다. 보고에 따르면 eBoost 고장 시 즉각적인 제동력 상실이 발생하여 안전 위험을 초래할 수 있다.",
+          "title": "스페이스X, 루이지애나에 1천억 달러 우주항 건설…AI 스타트업, 데이터 센터 전력 관리",
+          "summary": "스페이스X가 루이지애나주 해안 지역에 1천억 달러를 투자하여 스타십(Starship) 공장 및 발사대 건설 등 대규모 우주항을 개발할 계획이다. 한편, AI 스타트업 에메랄드 AI(Emerald AI)는 데이터 센터의 막대한 전력 수요를 소프트웨어로 관리하여 관련 반발을 해소하는 데 주목받고 있으며, 현재 기업 가치는 10억 5천만 달러에 달한다.",
           "sources": [
             {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html"
+            },
+            {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/"
+              "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "엔비디아 고위 관리자, AI 서버 중국 밀수 계획 연루로 기소",
-          "summary": "엔비디아 고위 관리자를 포함한 9명이 미국의 수출 통제를 위반하고 고성능 AI 서버를 중국으로 불법 수출하는 계획에 연루되어 대만에서 기소되었다. 이들은 서류를 위조하여 130대의 B300 서버가 대만 시설에 설치된 것처럼 꾸몄으나, 실제로는 74대가 중국 고객에게 전달되었으며 나머지 56대도 중국으로 향할 예정이었으나 대만 세관에 의해 적발되었다.",
+          "title": "우울증, 뇌 뉴런 생성 저해 가능성…대상포진 백신 치매 위험 24% 감소",
+          "summary": "주요 연구에 따르면 우울증이 뇌의 새로운 뉴런 생성 능력을 방해하여, 새로운 경험을 고통스러운 기억과 분리하는 뇌의 능력을 약화시킬 수 있다. 또한, 또 다른 연구에서는 대상포진 백신인 싱그릭스(Shingrix)가 고령층의 치매 발병 위험을 24% 낮추는 것과 관련이 있다는 결과가 발표되었다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
