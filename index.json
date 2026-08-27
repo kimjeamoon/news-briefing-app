@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-26",
-  "date_str": "2026년 8월 26일 (수)",
+  "date": "2026-08-27",
+  "date_str": "2026년 8월 27일 (목)",
   "key5": [
-    "김정은 위원장, 노동당 정치국 확대회의 주재하며 경제 운영 미숙 지적",
-    "이재명 대통령, 김민석 대표 등 민주당 지도부와 만찬하며 국정 협력 강조",
-    "트럼프 대통령, 캐나다에 대한 강경 입장 지속하며 온타리오 호수 명칭 변경 주장",
-    "미국 대법원, 트럼프 행정부의 우편 투표 제한 계획 허용",
-    "호주, AI 생성 음악 음원 차트 금지; 스탠포드 연구 AI가 초급 일자리에 큰 영향"
+    "메타, 소셜 미디어 중독 소송에서 171억 달러 합의 및 아동 안전 위한 플랫폼 변경 동의",
+    "한국은행, 시장 예상 깨고 기준금리 0.25%p 인상 결정",
+    "서울, 합계출산율 전국 최저 불구 출생아·혼인 증가율은 1위",
+    "네팔-티베트 국경 지역 홍수로 최소 98명 사망, 수백 명 실종",
+    "엔비디아, AI 수요 폭증에 2분기 매출 962억 달러 기록하며 '변곡점' 도달"
   ],
   "regions": [
     {
@@ -15,34 +15,38 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "김정은, 경제 운영 미숙 지적…트럼프 대화 제의에 무반응",
-          "summary": "김정은 국무위원장이 노동당 정치국 확대회의를 주재하며 경제 지도기관의 미숙한 작전과 지휘 능력을 지적했다. 도널드 트럼프 미국 대통령이 북미 대화 재개 의지를 연일 보냈으나, 북한은 이에 대해 아무런 반응을 보이지 않았다.",
+          "tag": "soc",
+          "title": "서울 출산율 최저 불구, 출생아·혼인 증가율은 전국 1위 기록",
+          "summary": "작년 서울의 합계출산율은 0.63명으로 전국 시도 중 가장 낮았지만, 출생아 수는 전년 대비 9.4% 증가하여 전국 최고 증가율을 보였습니다. 올해 상반기에도 출생아 수와 혼인 건수 증가율 모두 전국 1위를 기록했으며, 서울시는 저출생 정책과 주거 환경 개선 노력을 지속하고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260826013800504"
+              "url": "https://www.yna.co.kr/view/AKR20260827040300004"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260826004000071"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608271115011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260827063700004"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
           "tag": "pol",
-          "title": "이재명 대통령, 김민석 대표와 만찬…당정청 공동운명체 강조",
-          "summary": "이재명 대통령이 김민석 대표와 한병도 원내대표를 비롯한 더불어민주당 지도부를 청와대로 초청해 만찬을 가졌다. 이 대통령은 '당정청은 공동운명체'라며 긴밀한 당정 관계를 강조했고, 김 대표는 '여당 지도부답게 일하겠다'고 화답하며 국정 운영 협력을 다짐했다.",
+          "title": "대통령, 네팔 홍수 긴급 점검회의 주재 및 북미 대화 재개 지원 의지 표명",
+          "summary": "이재명 대통령은 네팔 홍수로 인한 한국인 피해 긴급 점검 회의를 주재하고, 예정된 일정을 순연했습니다. 또한, '2026 국제 한반도 포럼' 축사를 통해 한반도 평화 당사자로서 북미 간 신뢰 구축과 대화 재개를 지원하겠다는 의지를 밝혔습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260825176351001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1274883.html"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260825176300001"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608271113001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -50,33 +54,41 @@
         },
         {
           "tag": "eco",
-          "title": "국내 제약·바이오 기업, 글로벌 시장 공략 위해 대규모 시설 투자",
-          "summary": "국내 제약·바이오 기업들이 글로벌 시장 공략과 생산 역량 강화를 위해 대규모 시설 투자를 단행하고 있다. GC녹십자는 미국 면역글로불린 시장 공략을 위해 오창공장에 5천억 원 이상을, 알테오젠은 바이오의약품 자체 생산시설 구축에 2천500억 원 이상을 투자한다.",
+          "title": "한국은행 기준금리 0.25%p 인상, 정부는 중소기업 지원 4조원 절감 재투자 계획",
+          "summary": "한국은행 금융통화위원회가 시장의 예상과 달리 기준금리를 연 2.75%에서 3.00%로 0.25%포인트 인상했습니다. 한편, 정부는 중소기업 지원사업 671개 중 유사·중복, 저성과 사업 등 절반가량을 구조조정하여 4조 원의 예산을 절감하고, 이를 신안보·제약바이오 등 신성장 분야 혁신기업 육성에 재투자할 계획입니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260825155300017"
+              "url": "https://www.yna.co.kr/view/AKR20260827076100008"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/finance/1274874.html"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260827002900030"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "성인 실종자 수색 부실 반복…경찰 체질 개선 요구 확산",
-          "summary": "제주 실종 여성 사건을 계기로 경찰의 성인 실종자 수색 및 대응 부실 문제가 다시 불거지면서 체질 개선 요구가 커지고 있다. 현행법상 성인 실종자에 대한 실종 경보 발령이 제한되어 경찰이 편법을 동원하는 상황이며, 전문가들은 실종 대응의 과학화와 내부 통제 강화가 필요하다고 지적했다.",
+          "title": "서울시, '기후동행패스' 출시 및 '서울아트위크'·'서울패션위크' 개최",
+          "summary": "서울시는 9월 1일부터 대중교통 정기권인 '기후동행패스'를 출시하고, 기존 카드 사용자 대상 무상 교환 이벤트를 진행합니다. 또한, 8월 31일부터 '서울아트위크'를 개최하여 141곳에서 전시 및 문화예술 프로그램을 선보이며, 9월 1일부터는 '서울패션위크'를 통해 31개 브랜드의 런웨이와 NCT 데뷔 10주년 기념 의상 전시를 진행하여 시민들의 문화생활 증진을 꾀하고 있습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260825148100004"
+              "url": "https://www.yna.co.kr/view/AKR20260827040500004"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608260600131/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260827047900004"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608260600121/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260827055100004"
             }
           ],
           "verification": "multi",
@@ -91,83 +103,75 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 캐나다에 관세 부과 및 '온타리오호 명칭 변경' 주장",
-          "summary": "도널드 트럼프 미국 대통령이 캐나다에 대한 50% 관세 부과와 통상 협상 결렬에 이어, 온타리오 호수의 이름을 '아메리카 호수'로 바꾸는 방안을 검토하고 있다고 주장했다. 이는 캐나다 마크 카니 총리가 미국의 프랑스어 보호 정책 비판을 제기한 것에 대한 반발로 보인다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1274644.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608252242001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미 대법원, 우편 투표 제한 허용…유권자 혼란 우려",
-          "summary": "미국 대법원이 트럼프 행정부의 우편 투표 제한 계획을 일시적으로 허용하는 판결을 내렸다. 이는 하급 법원의 관련 명령을 중단시킨 것으로, 다가오는 선거에서 유권자 혼란 및 추가적인 법적 분쟁을 야기할 수 있다는 우려가 제기되고 있다.",
+          "title": "트럼프 행정부 '극좌 테러리즘' 단속 강화, 선거 개입 논란 속 우편 투표 행정명령 추진",
+          "summary": "트럼프 행정부는 '극좌 정치 테러리즘'에 대한 전 세계적 단속을 강화하며 팔레스타인 권리를 옹호하는 단체를 포함한 3개 유럽 기반 그룹을 국제 테러 조직으로 지정했습니다. 또한, 우편 투표 제한과 관련된 행정명령을 추진하며 선거 개입 논란이 일고 있으며, 소상공인 기준을 대폭 확대하여 대기업도 연방 계약 및 대출을 받을 수 있도록 하는 방안을 추진 중입니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미국, 이란 제재 강화…중국 반발로 외교 갈등 심화",
-          "summary": "트럼프 행정부가 이란에 대한 새로운 경제 제재를 발표하며 이란의 경제적 고립을 목표로 하고 있다. 이에 대해 이란 경제부 장관은 준비되어 있다고 밝혔으며, 이란산 석유의 최대 수입국인 중국은 미국의 '불법적 일방 제재'에 반대하며 필요한 조치를 취할 것이라고 경고하여 미-중-이란 간의 외교적 긴장이 고조되고 있다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html"
+              "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-crackdown-far-left.html"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "메타, 소셜 미디어 중독 소송 171억 달러 합의; 인플레이션 여전히 높아",
+          "summary": "메타는 소셜 미디어 플랫폼이 아동을 위험에 빠뜨렸다는 주장에 대해 47개 주, 워싱턴 D.C. 및 미국령과 최대 171억 달러에 합의했으며, 아동 안전을 위한 주요 제품 변경에 동의했습니다. 한편, 연방준비제도(Fed)가 선호하는 인플레이션 추적 지수인 개인소비지출(PCE) 물가지수는 7월에도 높은 에너지 비용으로 인해 높은 수준을 유지했습니다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "타겟, 인종차별 논란 할로윈 복장 판매 중단 및 사과",
-          "summary": "미국의 소매업체 타겟(Target)이 인종차별적이라는 비판을 받은 아동용 할로윈 복장 판매를 중단하고 사과했다. 이 복장은 '블랙페이스' 이미지를 연상시킨다는 지적을 받았으며, 타겟은 '깊이 사과한다'고 밝혔다.",
+          "title": "컨트리 스타 돌리 파튼 80세로 사망, 자선 활동과 문화적 유산 재조명",
+          "summary": "컨트리 음악계의 전설적인 스타 돌리 파튼이 80세의 나이로 사망했습니다. 그녀는 어린 시절 문해력 증진, 재난 구호, 코로나19 백신 개발 등을 지원하는 등 활발한 자선 활동으로 잘 알려져 있으며, 자신의 고향을 기념하는 돌리우드 테마파크를 통해 문화적 유산을 남겼습니다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html"
+              "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "미국, 팔레스타인 행동 그룹 테러 조직 지정; CIA 국장 모스크바 방문 관심 증폭",
+          "summary": "미국은 팔레스타인 권리 옹호 단체인 '팔레스타인 행동(Palestine Action)'을 테러 조직으로 지정하고 제재를 가했습니다. 한편, 존 랫클리프 CIA 국장의 예고 없는 모스크바 방문이 있었으며, 트럼프 대통령은 이 방문을 '반정기적'이라고 평가하며 우크라이나 전쟁 종식에 대한 희망을 표했습니다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -177,55 +181,59 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "eco",
-          "title": "엔화 약세 장기화 전망에 일본 기업 헤지 전략 모색",
-          "summary": "엔화 약세가 장기화될 것으로 예상되면서 일본 기업들이 수입 비용 상승에 대비하기 위한 새로운 헤지 전략을 모색하고 있다. 일본의 유일한 고속 거래 기업인 다마캐피탈(Dharmacapital)은 높은 세율을 이유로 싱가포르로 이전하는 등 고액 연봉자들의 해외 이전 움직임도 나타나고 있다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/companies-weak-yen/"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/dharmacapital-moves-to-singapore/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "pol",
-          "title": "시진핑 반부패 캠페인, 퇴직 고위 관료 등으로 확대",
-          "summary": "시진핑 주석의 반부패 캠페인이 퇴직 고위 관료를 포함한 새로운 목표를 향해 진행되고 있으며, 인민해방군 로켓군의 부패 조사도 이어지고 있다. 당국은 로켓군 조달 과정의 위반 사항에 대한 대중의 제보를 요청하며 부패 척결 의지를 보이고 있다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/politics/article/3365175/no-immunity-how-xis-anti-corruption-fighters-are-zeroing-fresh-targets?utm_source=rss_feed"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/military/article/3365247/china-seeks-public-tips-procurement-violations-pla-rocket-force-probe-continues?utm_source=rss_feed"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "일본 7월 열사병 환자 4만 명 넘어…음주 운전 방지 노력 계속",
-          "summary": "일본에서 지난 7월 한 달간 4만 1천 명 이상이 열사병으로 병원에 입원했으며, 이는 2008년 통계 작성 이후 세 번째로 높은 수치이다. 한편, 후쿠오카현에서는 2006년 음주 운전 사고 희생자를 추모하며 음주 운전 근절을 위한 회의가 개최되는 등 관련 노력이 지속되고 있다.",
+          "title": "네팔-티베트 국경 홍수로 최소 98명 사망, 수백 명 실종",
+          "summary": "네팔과 중국 접경 지역에서 발생한 대규모 산사태와 홍수로 최소 98명이 사망하고 수백 명의 관광객과 현지 주민이 실종됐습니다. 네팔 당국은 사망자가 최소 95명이라고 보고했으며, 중국 CCTV는 티베트 지역의 진룽현에서 산사태로 3명 이상이 사망하고 265명이 실종됐다고 보도했습니다. 한국인 9명도 수력발전소 건설 현장에서 연락이 두절된 상태입니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/japan-hospitals-heatstroke/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods"
             },
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/society/drunk-driving-20-years/"
+              "url": "https://www.japantimes.co.jp/news/2026/08/27/asia-pacific/flood-nepal-tibet-border-missing-dead/"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260827040300004"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "중국, 세계 최초 대나무 프레임 부유식 태양광 발전소 가동; 홍콩 아시아 최고 국제도시",
+          "summary": "중국은 산둥성 연안에 세계 최초로 대나무 프레임으로 제작된 100kW급 부유식 태양광 발전소 '지린-2'를 가동했습니다. 이 발전소는 기존 철강 및 HDPE 구조물보다 해양 환경 영향을 크게 줄여줄 것으로 기대됩니다. 한편, 홍콩은 아시아 도시 국제성 지수에서 비즈니스, 연결성, 인재 다양성 부문에서 싱가포르를 제치고 아시아에서 가장 국제적인 도시로 선정되었습니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/science/article/3365347/china-launches-worlds-first-100kw-bamboo-built-floating-solar-farm-shandong-coast?utm_source=rss_feed"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365370/hong-kong-remains-most-international-city-asia-widening-lead-over-singapore?utm_source=rss_feed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "pol",
+          "title": "미국, 북한 비핵화 약속 재확인에도 트럼프 김정은 회담 관심 표명",
+          "summary": "미국 국무부는 한국과의 외교 장관 회담에서 '북한 비핵화' 문구가 빠진 이후에도 북한의 '완전한 비핵화'에 대한 약속을 재확인했습니다. 그러나 도널드 트럼프 미국 대통령은 김정은 북한 국무위원장과의 만남 재개에 대한 의지를 밝히며 북미 대화 재개 가능성에 대한 관심이 이어지고 있습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/27/world/politics/us-north-korea-denuclearization-phrase/"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1274882.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -236,41 +244,54 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "CIA 국장 모스크바 비밀 방문 보도…독일, 드론 공격 책임 경고",
-          "summary": "존 랫클리프 CIA 국장이 모스크바를 비밀리에 방문하여 러시아 당국자들과 회담한 것으로 보도되었다. 한편, 독일 라이프치히 공항에서 드론 공격이 발생하자 프리드리히 메르츠 독일 총리는 공격자들에게 책임을 물을 것이라고 경고했으며, 스웨덴은 러시아 드론 위협에 대비해 러시아 소유 부동산 압류를 추진 중이다.",
+          "title": "우크라이나, 러시아 정유 시설 공격에 맞서 주유소 피격; CIA 러시아에 경고",
+          "summary": "우크라이나의 러시아 정유 시설 공격에 대한 보복으로 러시아는 우크라이나 주유소를 공격하고 있으며, 특히 북동부 하르키우와 크리비리흐 인근 주유소가 드론 공격을 받았습니다. 한편, 존 랫클리프 CIA 국장은 모스크바를 방문하여 러시아에 NATO 국가 공격 자제와 이란 지원 축소를 경고했습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/25/us/politics/cia-director-russia.html"
-            },
-            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365248/us-spy-chief-john-ratcliffe-russia-visit-us-media-reports?utm_source=rss_feed"
+              "name": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/08/26/cia-russia-nato-moscow-ratcliffe-01051848?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
+          "tag": "eco",
+          "title": "트럼프 관세 정책에 캐나다 반발, EU와 협력 모색 중",
+          "summary": "트럼프 대통령의 캐나다 수출품에 대한 관세 부과 이후, 마크 카니 캐나다 총리는 브뤼셀과의 협력을 통해 EU-캐나다 관계를 강화할 것을 모색하고 있습니다. 캐나다는 미국이 무역 협상에서 불합리한 요구를 했다고 비난하며 보복 관세를 부과했습니다. 이로 인해 양국 간의 무역 긴장이 고조되고 있습니다.",
+          "sources": [
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/us-news/2026/08/26/trump-canada-trade-war"
+            },
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/26/mark-carney-to-address-european-parliament-as-canada-turns-to-brussels-amid-trumps-tariff-"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/us-news/2026/08/26/paper-product-toilet-paper-tariffs-us-canada"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
           "tag": "soc",
-          "title": "프랑스 남서부 마을 토네이도 강타, 수십 명 부상 및 가옥 파손",
-          "summary": "프랑스 남서부 포마스 마을에 토네이도가 강타하여 39명이 부상하고 수백 채의 가옥이 파손되었다. 15명이 병원으로 이송되었고, 이 중 2명은 위중한 상태인 것으로 알려졌다. 시속 117km의 강풍으로 마을 절반이 파괴되는 등 큰 피해가 발생했다.",
+          "title": "프랑스 법원, 승무원 유방암-방사선 연관성 인정; 독일 공항 말라리아 사망자 발생",
+          "summary": "프랑스 법원은 전직 에어프랑스 승무원의 유방암이 우주 방사선 노출, 간접흡연, 야간근무 등 직업적 요인과 연관성이 있다고 처음으로 인정했습니다. 한편, 독일 프랑크푸르트 공항에서는 비행기를 통해 유입된 것으로 추정되는 모기에 의해 6명의 직원이 말라리아에 감염되었고, 그중 2명이 사망하는 사건이 발생했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/videos/c3d79mp2jeno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -285,16 +306,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "호주, AI 생성 음악 음원 차트 금지…AI, 초급 일자리 큰 영향",
-          "summary": "호주 음반 산업 협회(ARIA)가 AI가 대부분 또는 전적으로 생성한 음악을 음원 차트에서 금지하기로 결정했다. 한편, 스탠포드 대학교 연구에 따르면 AI가 22~25세 젊은층의 초급 일자리에 가장 큰 영향을 미치며, 해당 분야의 고용 수준이 19% 감소한 것으로 나타났다.",
+          "title": "엔비디아, AI 수요 폭증에 2분기 매출 962억 달러 기록하며 '변곡점' 도달",
+          "summary": "엔비디아가 회계연도 2분기 매출 962억 달러를 기록하며 시장 전망치를 크게 웃돌았으며, 젠슨 황 CEO는 인공지능(AI)이 '변곡점'에 도달했다고 선언했습니다. 데이터센터 매출이 전년 대비 117% 증가한 890억 달러를 기록하며 AI 인프라 구축의 핵심 역할을 강조했습니다. 황 CEO는 AI 기업들에 대한 투자가 선순환 구조를 지원하는 필수적인 역할이라고 옹호했습니다.",
           "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/business/2026/08/26/nvidia-smashes-q2-forecasts-with-962bn-in-revenue-as-ai-hits-inflection-point"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260827071600091"
+            },
             {
               "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+              "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -302,20 +327,20 @@
         },
         {
           "tag": "tec",
-          "title": "스페이스X, 루이지애나에 1천억 달러 우주항 건설…AI 스타트업, 데이터 센터 전력 관리",
-          "summary": "스페이스X가 루이지애나주 해안 지역에 1천억 달러를 투자하여 스타십(Starship) 공장 및 발사대 건설 등 대규모 우주항을 개발할 계획이다. 한편, AI 스타트업 에메랄드 AI(Emerald AI)는 데이터 센터의 막대한 전력 수요를 소프트웨어로 관리하여 관련 반발을 해소하는 데 주목받고 있으며, 현재 기업 가치는 10억 5천만 달러에 달한다.",
+          "title": "메타, 아동 안전 소송 180억 달러 합의; Xbox, 실물 게임 디지털 전환 프로그램 공개",
+          "summary": "메타는 소셜 미디어 플랫폼의 아동 안전 문제와 관련한 소송에서 최대 180억 달러에 합의했으며, 아동 안전을 위한 플랫폼에 대대적인 변화를 적용하기로 동의했습니다. 한편, Xbox는 실물 게임을 디지털 버전으로 전환할 수 있는 새로운 프로그램을 발표하여, 게임 디스크를 소유한 사용자들이 디지털 라이브러리를 확장할 수 있도록 했습니다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html"
+              "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
             },
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
             }
           ],
           "verification": "multi",
@@ -323,16 +348,16 @@
         },
         {
           "tag": "tec",
-          "title": "우울증, 뇌 뉴런 생성 저해 가능성…대상포진 백신 치매 위험 24% 감소",
-          "summary": "주요 연구에 따르면 우울증이 뇌의 새로운 뉴런 생성 능력을 방해하여, 새로운 경험을 고통스러운 기억과 분리하는 뇌의 능력을 약화시킬 수 있다. 또한, 또 다른 연구에서는 대상포진 백신인 싱그릭스(Shingrix)가 고령층의 치매 발병 위험을 24% 낮추는 것과 관련이 있다는 결과가 발표되었다.",
+          "title": "NASA 로만 망원경 외계 행성 탐색 준비 완료, 그린란드 빙하에서 맨해튼 크기 빙산 분리",
+          "summary": "NASA의 낸시 그레이스 로만 우주 망원경이 발사를 앞두고 팰컨 헤비 페어링 안에 안착했으며, 수천 개의 외계 행성을 탐색하고 암흑 물질 및 우주 팽창 연구에 기여할 예정입니다. 한편, 그린란드 페테르만 빙하에서 맨해튼 크기(76.4km²)의 빙산이 분리되었으며, 이는 2012년 이후 가장 큰 빙하 손실이자 2020년 이후 최대 규모의 북극 빙하 분리 사건입니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm"
             }
           ],
           "verification": "multi",
