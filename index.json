@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-27",
-  "date_str": "2026년 8월 27일 (목)",
+  "date": "2026-08-28",
+  "date_str": "2026년 8월 28일 (금)",
   "key5": [
-    "메타, 소셜 미디어 중독 소송에서 171억 달러 합의 및 아동 안전 위한 플랫폼 변경 동의",
-    "한국은행, 시장 예상 깨고 기준금리 0.25%p 인상 결정",
-    "서울, 합계출산율 전국 최저 불구 출생아·혼인 증가율은 1위",
-    "네팔-티베트 국경 지역 홍수로 최소 98명 사망, 수백 명 실종",
-    "엔비디아, AI 수요 폭증에 2분기 매출 962억 달러 기록하며 '변곡점' 도달"
+    "트럼프 행정부의 우편투표 제한 시도가 연방 법원에서 다시 저지되었습니다.",
+    "정부, 국립대 등록금 전액 지원 및 지방교육재정교부금 개편 추진에 사립대와 교원 노조가 반발하고 있습니다.",
+    "대법관 후보자 임명동의안과 국방과학연구소장 해임 관련 청와대 입장이 발표되었습니다.",
+    "보스니아 세르비아 전범 라트코 믈라디치, 84세로 복역 중 사망했습니다.",
+    "AWS, 전 세계 대학생 AI 역량 강화를 위해 7천억 원을 투자한다고 밝혔습니다."
   ],
   "regions": [
     {
@@ -15,84 +15,72 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "soc",
-          "title": "서울 출산율 최저 불구, 출생아·혼인 증가율은 전국 1위 기록",
-          "summary": "작년 서울의 합계출산율은 0.63명으로 전국 시도 중 가장 낮았지만, 출생아 수는 전년 대비 9.4% 증가하여 전국 최고 증가율을 보였습니다. 올해 상반기에도 출생아 수와 혼인 건수 증가율 모두 전국 1위를 기록했으며, 서울시는 저출생 정책과 주거 환경 개선 노력을 지속하고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827040300004"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608271115011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827063700004"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
           "tag": "pol",
-          "title": "대통령, 네팔 홍수 긴급 점검회의 주재 및 북미 대화 재개 지원 의지 표명",
-          "summary": "이재명 대통령은 네팔 홍수로 인한 한국인 피해 긴급 점검 회의를 주재하고, 예정된 일정을 순연했습니다. 또한, '2026 국제 한반도 포럼' 축사를 통해 한반도 평화 당사자로서 북미 간 신뢰 구축과 대화 재개를 지원하겠다는 의지를 밝혔습니다.",
+          "title": "국립대 무상 등록금·지방교육교부금 개편에 사립대·교원 노조 반발",
+          "summary": "정부가 지역 국립대 등록금을 전액 지원하고 지방교육재정교부금을 개편하는 방안을 추진하자, 한국사립대학총장협의회는 국립대만 무상 등록금을 지원하는 것은 불공정하다며 정책 폐기를 촉구했습니다. 강원교사노동조합 또한 지방교육재정교부금 축소 개편 추진 중단을 요구하며 반발하고 있습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1274883.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260828104100530"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608271113001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260828106700062"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "한국은행 기준금리 0.25%p 인상, 정부는 중소기업 지원 4조원 절감 재투자 계획",
-          "summary": "한국은행 금융통화위원회가 시장의 예상과 달리 기준금리를 연 2.75%에서 3.00%로 0.25%포인트 인상했습니다. 한편, 정부는 중소기업 지원사업 671개 중 유사·중복, 저성과 사업 등 절반가량을 구조조정하여 4조 원의 예산을 절감하고, 이를 신안보·제약바이오 등 신성장 분야 혁신기업 육성에 재투자할 계획입니다.",
+          "tag": "pol",
+          "title": "靑, 손봉기 대법관 후보자 재제청 요청…ADD 소장 해임",
+          "summary": "청와대는 손봉기 대구지방법원 부장판사에 대한 대법관 임명동의안을 국회에 제출하지 않기로 하고, 조희대 대법원장에게 다른 후보자를 재제청할 것을 요청했습니다. 반면 김성수 서울고등법원 부장판사의 임명동의안은 국회에 제출할 예정입니다. 한편 이건완 국방과학연구소(ADD) 소장은 공공기관운영법 위반으로 해임이 확정되었습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260827076100008"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260828102100001"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/finance/1274874.html"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260827002900030"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260828093400504"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "서울시, '기후동행패스' 출시 및 '서울아트위크'·'서울패션위크' 개최",
-          "summary": "서울시는 9월 1일부터 대중교통 정기권인 '기후동행패스'를 출시하고, 기존 카드 사용자 대상 무상 교환 이벤트를 진행합니다. 또한, 8월 31일부터 '서울아트위크'를 개최하여 141곳에서 전시 및 문화예술 프로그램을 선보이며, 9월 1일부터는 '서울패션위크'를 통해 31개 브랜드의 런웨이와 NCT 데뷔 10주년 기념 의상 전시를 진행하여 시민들의 문화생활 증진을 꾀하고 있습니다.",
+          "title": "강원 혹명나방 확산 방제 당부 및 천안 공장 화재 수습 총력 지시",
+          "summary": "강원특별자치도농업기술원은 영동 지역에 혹명나방 피해가 확산함에 따라 긴급 예찰 및 방제를 당부했습니다. 또한, 천안시 동남구 성남면 대원산업 공장 화재로 3명이 사망하고 2명이 다쳤으며, 장기수 천안시장은 가용 행정력을 총동원하여 사고를 수습하고 2차 피해를 방지하도록 지시했습니다. 한성숙 국무총리도 화재 진압 및 인명 검색에 최선을 다할 것을 지시했습니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827040500004"
+              "url": "https://www.yna.co.kr/view/AKR20260828104200062"
             },
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827047900004"
+              "url": "https://www.yna.co.kr/view/AKR20260828103500063"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827055100004"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260828092100001"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "코로나19 피해 자영업자 채무 조정 및 성실 상환자 인센티브 확대",
+          "summary": "정부가 코로나19 유행 시기 3년 넘게 채무가 연체된 자영업자·소상공인에 대한 채무 조정을 추진합니다. 금융권 및 공공기관이 보유한 장기 연체 채권을 감면하고, 성실히 채무를 상환한 중소기업·소상공인에게 이자 감면 등의 혜택을 확대할 계획입니다. 이는 금리 상승기 취약 차주들의 부담을 덜고 재기를 돕기 위한 조치입니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608281440001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -103,75 +91,71 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부 '극좌 테러리즘' 단속 강화, 선거 개입 논란 속 우편 투표 행정명령 추진",
-          "summary": "트럼프 행정부는 '극좌 정치 테러리즘'에 대한 전 세계적 단속을 강화하며 팔레스타인 권리를 옹호하는 단체를 포함한 3개 유럽 기반 그룹을 국제 테러 조직으로 지정했습니다. 또한, 우편 투표 제한과 관련된 행정명령을 추진하며 선거 개입 논란이 일고 있으며, 소상공인 기준을 대폭 확대하여 대기업도 연방 계약 및 대출을 받을 수 있도록 하는 방안을 추진 중입니다.",
+          "title": "연방 법원, 트럼프 행정부의 우편투표 제한 시도 또다시 저지",
+          "summary": "연방 판사가 우편 서비스의 우편투표 제한 시도를 다시 한번 저지했습니다. 트럼프 행정부는 새로운 우편투표 요건을 부과하려 했으나, 법원은 이러한 조치가 주정부의 선거 규정 권한을 침해하고 충분한 시간과 자금이 없는 주정부에 부담을 준다고 판단했습니다. 이는 다가오는 중간선거에 큰 영향을 미칠 것으로 보입니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-crackdown-far-left.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "메타, 소셜 미디어 중독 소송 171억 달러 합의; 인플레이션 여전히 높아",
-          "summary": "메타는 소셜 미디어 플랫폼이 아동을 위험에 빠뜨렸다는 주장에 대해 47개 주, 워싱턴 D.C. 및 미국령과 최대 171억 달러에 합의했으며, 아동 안전을 위한 주요 제품 변경에 동의했습니다. 한편, 연방준비제도(Fed)가 선호하는 인플레이션 추적 지수인 개인소비지출(PCE) 물가지수는 7월에도 높은 에너지 비용으로 인해 높은 수준을 유지했습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "컨트리 스타 돌리 파튼 80세로 사망, 자선 활동과 문화적 유산 재조명",
-          "summary": "컨트리 음악계의 전설적인 스타 돌리 파튼이 80세의 나이로 사망했습니다. 그녀는 어린 시절 문해력 증진, 재난 구호, 코로나19 백신 개발 등을 지원하는 등 활발한 자선 활동으로 잘 알려져 있으며, 자신의 고향을 기념하는 돌리우드 테마파크를 통해 문화적 유산을 남겼습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "미국, 팔레스타인 행동 그룹 테러 조직 지정; CIA 국장 모스크바 방문 관심 증폭",
-          "summary": "미국은 팔레스타인 권리 옹호 단체인 '팔레스타인 행동(Palestine Action)'을 테러 조직으로 지정하고 제재를 가했습니다. 한편, 존 랫클리프 CIA 국장의 예고 없는 모스크바 방문이 있었으며, 트럼프 대통령은 이 방문을 '반정기적'이라고 평가하며 우크라이나 전쟁 종식에 대한 희망을 표했습니다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.nytimes.com/2026/08/27/us/politics/judge-postal-service-mail-ballots.html"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit"
+              "url": "https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프, 온타리오 호수 '아메리카 호수'로 개명 행정명령 서명 논란",
+          "summary": "도널드 트럼프 미국 대통령이 미국과 캐나다 국경에 있는 온타리오 호수의 이름을 '아메리카 호수'로 바꾸는 행정명령에 서명했습니다. 이는 미국과 캐나다 간의 무역 분쟁이 심화되는 가운데 캐나다를 자극하는 도발적 조치로 해석됩니다. 캐나다 총리는 이에 대해 '과거에도, 지금도, 앞으로도 언제나 온타리오 호수로 불릴 것'이라며 반발했습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608281415001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미국·한국·일본, 북한 압력에 대응해 군사 훈련 실시 예정",
+          "summary": "한국, 미국, 일본 3국이 다음 달 연합 군사 훈련을 실시할 예정이라고 서울 관계자들이 밝혔습니다. 이는 북한의 핵 위협에 대응하고 역내 평화와 안정을 증진하기 위한 '프리덤 엣지' 훈련의 일환으로, 북한은 이 훈련을 '무모한 무력 시위'로 비난해왔습니다. 이번 훈련은 북미 외교 재개 전망을 더욱 불투명하게 할 것으로 보입니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/defense/japan-south-korea-and-us-to-hold-joint-military-drills-seoul-says"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "tec",
+          "title": "미 법원, 펜타곤의 AI 기업 Anthropic 블랙리스트 지정 불법 판결",
+          "summary": "연방 판사가 펜타곤이 AI 기업 앤트로픽(Anthropic)을 '공급망 위험'으로 지정한 조치가 불법적이고 근거가 없다고 판결했습니다. 앤트로픽은 국방부의 AI 사용 견해에 대한 비판 때문에 불이익을 받았다고 주장했으며, 법원은 정부의 조치가 앤트로픽을 '오만하다'는 이유로 본보기로 삼으려 한 것이라고 지적했습니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/technology/2026/08/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -181,59 +165,68 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "soc",
-          "title": "네팔-티베트 국경 홍수로 최소 98명 사망, 수백 명 실종",
-          "summary": "네팔과 중국 접경 지역에서 발생한 대규모 산사태와 홍수로 최소 98명이 사망하고 수백 명의 관광객과 현지 주민이 실종됐습니다. 네팔 당국은 사망자가 최소 95명이라고 보고했으며, 중국 CCTV는 티베트 지역의 진룽현에서 산사태로 3명 이상이 사망하고 265명이 실종됐다고 보도했습니다. 한국인 9명도 수력발전소 건설 현장에서 연락이 두절된 상태입니다.",
+          "tag": "pol",
+          "title": "중국 티베트-네팔 국경 홍수·산사태, 자연댐 붕괴 우려로 구조 중단",
+          "summary": "중국 티베트자치구와 네팔 국경 지대에서 대규모 홍수와 산사태가 발생하여 현재 구조 작업이 일시 중단되었습니다. 산사태와 빙하 붕괴로 하천이 막히면서 형성된 '자연댐'과 호수에 200만㎥ 이상의 물이 고여 붕괴 위험이 크며, 추가적인 홍수나 산사태 가능성이 제기되고 있습니다. 현재까지 3명이 사망하고 558명이 실종된 것으로 집계되었습니다.",
           "sources": [
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/27/asia-pacific/flood-nepal-tibet-border-missing-dead/"
-            },
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827040300004"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "tec",
-          "title": "중국, 세계 최초 대나무 프레임 부유식 태양광 발전소 가동; 홍콩 아시아 최고 국제도시",
-          "summary": "중국은 산둥성 연안에 세계 최초로 대나무 프레임으로 제작된 100kW급 부유식 태양광 발전소 '지린-2'를 가동했습니다. 이 발전소는 기존 철강 및 HDPE 구조물보다 해양 환경 영향을 크게 줄여줄 것으로 기대됩니다. 한편, 홍콩은 아시아 도시 국제성 지수에서 비즈니스, 연결성, 인재 다양성 부문에서 싱가포르를 제치고 아시아에서 가장 국제적인 도시로 선정되었습니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3365347/china-launches-worlds-first-100kw-bamboo-built-floating-solar-farm-shandong-coast?utm_source=rss_feed"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365370/hong-kong-remains-most-international-city-asia-widening-lead-over-singapore?utm_source=rss_feed"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "pol",
-          "title": "미국, 북한 비핵화 약속 재확인에도 트럼프 김정은 회담 관심 표명",
-          "summary": "미국 국무부는 한국과의 외교 장관 회담에서 '북한 비핵화' 문구가 빠진 이후에도 북한의 '완전한 비핵화'에 대한 약속을 재확인했습니다. 그러나 도널드 트럼프 미국 대통령은 김정은 북한 국무위원장과의 만남 재개에 대한 의지를 밝히며 북미 대화 재개 가능성에 대한 관심이 이어지고 있습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/27/world/politics/us-north-korea-denuclearization-phrase/"
+              "url": "https://www.yna.co.kr/view/AKR20260828101000083"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/politics_general/1274882.html"
+              "url": "https://www.hani.co.kr/arti/international/china/1275122.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "한국, 북미 대화 재개 과정서 '한국 패싱' 없도록 미국과 공조 강조",
+          "summary": "위성락 청와대 국가안보실장은 북미 대화 재개 과정에서 '한국 패싱'이 없도록 미국과 공조하는 것이 중요하다고 밝혔습니다. 트럼프 대통령의 북미 대화 재개 노력을 지원하면서도, 한반도 평화 체제 구축과 북핵 문제의 실질적 진전이 이뤄지도록 대비하는 다차원적 접근을 강조했습니다. 아울러 왕이 중국 외교부장과의 대화를 통해 한반도 비핵화 및 평화 정착에 대한 한국의 입장을 전달했다고 덧붙였습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608281441001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/08/28/asia-pacific/north-south-korea-us-nuclear/"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3365542/south-korea-backs-trumps-north-korea-outreach-warns-against-being-sidelined?utm_source=rss_feed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "SK하이닉스, 일본 메모리 산업과의 협력 강화 검토",
+          "summary": "SK하이닉스가 일본 메모리 산업 내 고객 및 공급업체들과의 협력을 심화하는 방안을 모색 중이라고 곽노정 CEO가 밝혔습니다. 곽 CEO는 낸드플래시 시장의 공동 발전을 위해 협력 방안을 신중하게 검토하고 있다고 언급했습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties/"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "eco",
+          "title": "홍콩, 라이드 헤일링 플랫폼 라이선스 규제 강화: 일일 주문 10만 건 요건",
+          "summary": "홍콩 당국이 라이드 헤일링 플랫폼에 대한 새로운 라이선스 제도를 발표하며, 운영사 자격 요건으로 인구 750만 명 이상 도시에서 합법적인 서비스 제공 이력이 있고, 최소 두 도시에서 하루 10만 건 이상의 주문을 처리한 실적을 요구했습니다. 이는 안전하고 규정을 준수하는 운송 서비스를 제공하기 위한 목적이며, 기술력, 운영 경험, 재정 건전성 등도 심사 기준에 포함됩니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/hong-kong/transport/article/3365541/ride-hailing-platforms-seeking-hong-kong-licence-must-have-handled-100000-orders-day?utm_source=rss_feed"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -244,58 +237,71 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "우크라이나, 러시아 정유 시설 공격에 맞서 주유소 피격; CIA 러시아에 경고",
-          "summary": "우크라이나의 러시아 정유 시설 공격에 대한 보복으로 러시아는 우크라이나 주유소를 공격하고 있으며, 특히 북동부 하르키우와 크리비리흐 인근 주유소가 드론 공격을 받았습니다. 한편, 존 랫클리프 CIA 국장은 모스크바를 방문하여 러시아에 NATO 국가 공격 자제와 이란 지원 축소를 경고했습니다.",
+          "title": "보스니아 세르비아 전범 라트코 믈라디치, 84세로 복역 중 사망",
+          "summary": "보스니아 내전 당시 보스니아 세르비아군 사령관으로 제2차 세계대전 이후 유럽 최악의 학살을 지휘했던 라트코 믈라디치(Ratko Mladic)가 84세로 복역 중 사망했습니다. 그는 1990년대 옛 유고슬라비아 전쟁 범죄에 대한 유엔 재판소에서 종신형을 선고받았으며, 2011년 체포되어 2017년 유죄 판결을 받았습니다. 그의 사망에도 불구하고 희생자 어머니들은 그의 범죄가 여전히 많은 보스니아 세르비아인들에 의해 부인되고 있는 현실에 대한 복합적인 감정을 드러냈습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.com/news/2026/08/26/cia-russia-nato-moscow-ratcliffe-01051848?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "트럼프 관세 정책에 캐나다 반발, EU와 협력 모색 중",
-          "summary": "트럼프 대통령의 캐나다 수출품에 대한 관세 부과 이후, 마크 카니 캐나다 총리는 브뤼셀과의 협력을 통해 EU-캐나다 관계를 강화할 것을 모색하고 있습니다. 캐나다는 미국이 무역 협상에서 불합리한 요구를 했다고 비난하며 보복 관세를 부과했습니다. 이로 인해 양국 간의 무역 긴장이 고조되고 있습니다.",
+          "tag": "pol",
+          "title": "노르웨이 국왕 하랄 5세 건강 악화에 시민 지지 물결",
+          "summary": "노르웨이 하랄 5세 국왕(89)의 건강 상태가 '극도로 심각하다'는 왕실 발표 이후 오슬로 왕궁 앞에 시민들이 모여 꽃을 놓고 국왕을 응원했습니다. 유럽 최고령 국가원수인 하랄 5세 국왕은 희귀 혈액 질환으로 10일째 입원 치료 중이며, 건강 악화 소식에 왕비와 왕세자를 비롯한 가족들이 병원을 찾았습니다. 총리 또한 독일 방문 일정을 취소하며 국왕과 왕실에 위로를 보냈습니다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/us-news/2026/08/26/trump-canada-trade-war"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/26/mark-carney-to-address-european-parliament-as-canada-turns-to-brussels-amid-trumps-tariff-"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/us-news/2026/08/26/paper-product-toilet-paper-tariffs-us-canada"
+              "url": "http://www.euronews.com/video/2026/08/28/hundreds-gather-in-oslo-to-support-norways-king-harald-v"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "프랑스 법원, 승무원 유방암-방사선 연관성 인정; 독일 공항 말라리아 사망자 발생",
-          "summary": "프랑스 법원은 전직 에어프랑스 승무원의 유방암이 우주 방사선 노출, 간접흡연, 야간근무 등 직업적 요인과 연관성이 있다고 처음으로 인정했습니다. 한편, 독일 프랑크푸르트 공항에서는 비행기를 통해 유입된 것으로 추정되는 모기에 의해 6명의 직원이 말라리아에 감염되었고, 그중 2명이 사망하는 사건이 발생했습니다.",
+          "tag": "pol",
+          "title": "EU, 러시아 동결 자산 활용 방안 재논의…우크라이나 지원 목표",
+          "summary": "유럽연합(EU)이 러시아 중앙은행의 동결 자산 활용 방안을 다시 논의하고 있습니다. 이는 우크라이나의 재정적 필요를 지원하기 위한 목적으로, 스웨덴, 네덜란드, 스페인, 폴란드 등 일부 회원국들이 유럽연합 집행위원회에 새로운 방안을 모색할 것을 요청했습니다. 기존 900억 유로 대출만으로는 우크라이나의 급증하는 자금 수요를 충당하기 어렵다는 판단에 따른 것입니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/28/once-again-the-eu-grapples-with-thorny-questions-about-russian-assets"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "독일 극우 AfD, 동독 향수 이용해 동부 지역 선거 지지율 상승 추진",
+          "summary": "독일 극우 정당인 '독일을 위한 대안(AfD)'이 동독 시절에 대한 향수를 이용하여 동부 지역 선거에서 지지율을 높이려 하고 있습니다. 작센안할트주 주총선을 앞두고 AfD는 '오스탈기(Ostalgie)'를 활용, 과거의 간소하고 좋았던 시절을 되찾겠다는 메시지를 통해 유권자들에게 다가가고 있습니다. 이 정당은 또한 역사 교육에서 나치 시대 비중을 줄이고 '애국주의'를 강조하는 정책을 추진하고 있습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/germany-far-right-taps-nostalgia-communist-east-election-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -306,61 +312,41 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "엔비디아, AI 수요 폭증에 2분기 매출 962억 달러 기록하며 '변곡점' 도달",
-          "summary": "엔비디아가 회계연도 2분기 매출 962억 달러를 기록하며 시장 전망치를 크게 웃돌았으며, 젠슨 황 CEO는 인공지능(AI)이 '변곡점'에 도달했다고 선언했습니다. 데이터센터 매출이 전년 대비 117% 증가한 890억 달러를 기록하며 AI 인프라 구축의 핵심 역할을 강조했습니다. 황 CEO는 AI 기업들에 대한 투자가 선순환 구조를 지원하는 필수적인 역할이라고 옹호했습니다.",
+          "title": "AWS, 전 세계 대학생 AI 역량 강화를 위해 7천억 원 투자",
+          "summary": "아마존웹서비스(AWS)가 전 세계 대학생들의 클라우드 및 AI 분야 역량 강화를 위해 5억 달러(약 7천억 원) 이상을 투자하는 '스튜던트 리워드' 프로그램을 출시했습니다. 이 프로그램은 대학생들에게 AWS 크레딧, 프리미엄 스킬 빌더 이용권, 교육, 자격증 응시권 등 다양한 혜택을 제공하여 AI 분야로의 진출을 지원합니다. 한국 대학생도 참여 대상에 포함됩니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/business/2026/08/26/nvidia-smashes-q2-forecasts-with-962bn-in-revenue-as-ai-hits-inflection-point"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260827071600091"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260828104800017"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "메타, 아동 안전 소송 180억 달러 합의; Xbox, 실물 게임 디지털 전환 프로그램 공개",
-          "summary": "메타는 소셜 미디어 플랫폼의 아동 안전 문제와 관련한 소송에서 최대 180억 달러에 합의했으며, 아동 안전을 위한 플랫폼에 대대적인 변화를 적용하기로 동의했습니다. 한편, Xbox는 실물 게임을 디지털 버전으로 전환할 수 있는 새로운 프로그램을 발표하여, 게임 디스크를 소유한 사용자들이 디지털 라이브러리를 확장할 수 있도록 했습니다.",
+          "title": "엔비디아, AI 모델 저장소 'Hugging Face' 130억 달러에 인수 추진 보도",
+          "summary": "엔비디아가 AI 모델 저장소 허깅 페이스(Hugging Face)를 약 129억 달러(한화 약 17조 2천억 원)에 인수하는 방안을 추진하고 있다는 보도가 나왔습니다. 이 인수는 엔비디아가 하드웨어 산업을 넘어 광범위한 AI 산업과의 통합을 강화하는 데 도움이 될 것으로 예상됩니다. 허깅 페이스는 AI 모델을 위한 클라우드 저장소 역할을 하며, 개발자들이 모델을 검색하고 미세 조정할 수 있는 플랫폼을 제공합니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "NASA 로만 망원경 외계 행성 탐색 준비 완료, 그린란드 빙하에서 맨해튼 크기 빙산 분리",
-          "summary": "NASA의 낸시 그레이스 로만 우주 망원경이 발사를 앞두고 팰컨 헤비 페어링 안에 안착했으며, 수천 개의 외계 행성을 탐색하고 암흑 물질 및 우주 팽창 연구에 기여할 예정입니다. 한편, 그린란드 페테르만 빙하에서 맨해튼 크기(76.4km²)의 빙산이 분리되었으며, 이는 2012년 이후 가장 큰 빙하 손실이자 2020년 이후 최대 규모의 북극 빙하 분리 사건입니다.",
+          "title": "AI 기반 연구, NASA 로켓 합금 3D 프린팅 저렴한 방법 발견",
+          "summary": "워싱턴 주립대학교 연구진이 인공지능(AI)을 활용해 NASA 로켓 합금인 GRCop-42를 3D 프린팅하는 더 빠르고 저렴한 방법을 찾아냈습니다. AI는 1억 개 이상의 가능한 설정 중에서 단 40번의 실험 만에 6가지 성공적인 구성을 식별했으며, 이 중에는 기록적으로 낮은 500와트에서도 작동하는 방법이 포함되었습니다. 이로 인해 GRCop-42 합금이 보다 널리 사용되는 상업용 장비로도 프린팅 가능해질 것으로 기대됩니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
