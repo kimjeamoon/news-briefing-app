@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-28",
-  "date_str": "2026년 8월 28일 (금)",
+  "date": "2026-08-30",
+  "date_str": "2026년 8월 30일 (일)",
   "key5": [
-    "트럼프 행정부의 우편투표 제한 시도가 연방 법원에서 다시 저지되었습니다.",
-    "정부, 국립대 등록금 전액 지원 및 지방교육재정교부금 개편 추진에 사립대와 교원 노조가 반발하고 있습니다.",
-    "대법관 후보자 임명동의안과 국방과학연구소장 해임 관련 청와대 입장이 발표되었습니다.",
-    "보스니아 세르비아 전범 라트코 믈라디치, 84세로 복역 중 사망했습니다.",
-    "AWS, 전 세계 대학생 AI 역량 강화를 위해 7천억 원을 투자한다고 밝혔습니다."
+    "한국 정부, 네팔 대홍수 현장에 헬기 2대 파견하여 실종자 수색 개시, 추가 대응팀 9명 투입 예정.",
+    "서울 아파트 중하위권 가격 상승세 지속, 일부 지역 전고점 돌파하며 부동산 시장 강세.",
+    "네팔 대홍수, 히말라야 빙하 호수 면적 27% 폭증 등 기후변화 영향 심각성 경고.",
+    "트럼프 행정부, 베네수엘라와 650억 배럴 이상 석유 자원 통제 합의 발표.",
+    "아이슬란드, EU 가입 협상 재개 여부 국민투표 실시, 찬반 박빙 예상."
   ],
   "regions": [
     {
@@ -15,17 +15,38 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "국립대 무상 등록금·지방교육교부금 개편에 사립대·교원 노조 반발",
-          "summary": "정부가 지역 국립대 등록금을 전액 지원하고 지방교육재정교부금을 개편하는 방안을 추진하자, 한국사립대학총장협의회는 국립대만 무상 등록금을 지원하는 것은 불공정하다며 정책 폐기를 촉구했습니다. 강원교사노동조합 또한 지방교육재정교부금 축소 개편 추진 중단을 요구하며 반발하고 있습니다.",
+          "tag": "eco",
+          "title": "서울 중하위권 아파트 가격 상승 지속, 일부 지역 전고점 돌파",
+          "summary": "서울 아파트 시장에서 중하위권 지역의 매매가격지수가 전고점을 향해 상승세를 이어가고 있으며, 중랑구는 최근 전고점을 돌파했다. 청년 실수요층의 유입과 우호적인 정책 환경이 상승세를 견인하고 있는 것으로 분석된다. 한편, 경남도는 민선 9기 출범 후 두 차례 연속 지방채를 발행하여 추경 예산을 편성하며 재정 운영에 부담을 안고 있다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260828104100530"
+              "url": "https://www.yna.co.kr/view/AKR20260830006900003"
             },
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260828106700062"
+              "url": "https://www.yna.co.kr/view/AKR20260828127900052"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "네팔 대홍수 실종자 수색에 한국 헬기 투입, 정부 대응팀 추가 파견",
+          "summary": "네팔 대홍수 현장에서 한국 정부가 운용하는 헬기 2대가 한국인 실종자 수색을 개시했으며, 외교부와 소방청 등으로 구성된 정부 합동신속대응팀 9명이 추가 파견되었다. 사고 현장은 육로 접근이 어려워 헬기 수색에 의존하고 있으며, 한국수출입은행은 네팔 대홍수 피해 구호를 위해 2억원을 후원했다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260829029252504"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1275261.html"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260829033800002"
             }
           ],
           "verification": "multi",
@@ -33,54 +54,29 @@
         },
         {
           "tag": "pol",
-          "title": "靑, 손봉기 대법관 후보자 재제청 요청…ADD 소장 해임",
-          "summary": "청와대는 손봉기 대구지방법원 부장판사에 대한 대법관 임명동의안을 국회에 제출하지 않기로 하고, 조희대 대법원장에게 다른 후보자를 재제청할 것을 요청했습니다. 반면 김성수 서울고등법원 부장판사의 임명동의안은 국회에 제출할 예정입니다. 한편 이건완 국방과학연구소(ADD) 소장은 공공기관운영법 위반으로 해임이 확정되었습니다.",
+          "title": "정기국회 개막 임박, 여야 입법·예산 전쟁 예고",
+          "summary": "다음 달 1일 개회하는 정기국회를 앞두고 여야는 100일간 입법 및 예산 전쟁을 예고했다. 여당인 더불어민주당은 이재명 정부 국정과제 관련 입법과 내년도 슈퍼 예산안 사수를 목표로 하며, 야당인 국민의힘은 이를 '입법 독주'와 '포퓰리즘'으로 규정하고 필리버스터 등으로 맞설 계획이다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260828102100001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260828093400504"
+              "url": "https://www.yna.co.kr/view/AKR20260829045500001"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "강원 혹명나방 확산 방제 당부 및 천안 공장 화재 수습 총력 지시",
-          "summary": "강원특별자치도농업기술원은 영동 지역에 혹명나방 피해가 확산함에 따라 긴급 예찰 및 방제를 당부했습니다. 또한, 천안시 동남구 성남면 대원산업 공장 화재로 3명이 사망하고 2명이 다쳤으며, 장기수 천안시장은 가용 행정력을 총동원하여 사고를 수습하고 2차 피해를 방지하도록 지시했습니다. 한성숙 국무총리도 화재 진압 및 인명 검색에 최선을 다할 것을 지시했습니다.",
+          "title": "경남 거제, 극한 호우로 차량 2천여 대 침수 피해",
+          "summary": "광복절 연휴 기간 경남 거제 지역에 내린 극한 호우로 인해 차량 2,228대의 침수 피해 신고가 접수되었으며, 이 중 1,152대가 침수 차량으로 판정되었다. 잠정 피해액은 1천억원에 달하며, 거제시는 침수 차량을 고현동 매립지로 모아 복구 작업을 진행 중이다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260828104200062"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260828103500063"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260828092100001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "eco",
-          "title": "코로나19 피해 자영업자 채무 조정 및 성실 상환자 인센티브 확대",
-          "summary": "정부가 코로나19 유행 시기 3년 넘게 채무가 연체된 자영업자·소상공인에 대한 채무 조정을 추진합니다. 금융권 및 공공기관이 보유한 장기 연체 채권을 감면하고, 성실히 채무를 상환한 중소기업·소상공인에게 이자 감면 등의 혜택을 확대할 계획입니다. 이는 금리 상승기 취약 차주들의 부담을 덜고 재기를 돕기 위한 조치입니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608281440001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.yna.co.kr/view/AKR20260828152400052"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         }
       ]
     },
@@ -91,33 +87,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "연방 법원, 트럼프 행정부의 우편투표 제한 시도 또다시 저지",
-          "summary": "연방 판사가 우편 서비스의 우편투표 제한 시도를 다시 한번 저지했습니다. 트럼프 행정부는 새로운 우편투표 요건을 부과하려 했으나, 법원은 이러한 조치가 주정부의 선거 규정 권한을 침해하고 충분한 시간과 자금이 없는 주정부에 부담을 준다고 판단했습니다. 이는 다가오는 중간선거에 큰 영향을 미칠 것으로 보입니다.",
+          "title": "트럼프, 베네수엘라 석유 자원 통제 '역사적' 합의 발표",
+          "summary": "도널드 트럼프 대통령이 미국이 베네수엘라의 650억 배럴 이상 원유 매장량을 통제하는 '역사적' 합의를 체결했다고 발표했다. 이번 합의는 미국 석유 매장량을 두 배 이상 늘리고 휘발유 가격을 크게 낮출 것으로 예상된다. 하지만 일부 분석가들은 합의의 실효성과 베네수엘라 국내 상황을 고려할 때 회의적인 반응을 보이고 있다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/27/us/politics/judge-postal-service-mail-ballots.html"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 온타리오 호수 '아메리카 호수'로 개명 행정명령 서명 논란",
-          "summary": "도널드 트럼프 미국 대통령이 미국과 캐나다 국경에 있는 온타리오 호수의 이름을 '아메리카 호수'로 바꾸는 행정명령에 서명했습니다. 이는 미국과 캐나다 간의 무역 분쟁이 심화되는 가운데 캐나다를 자극하는 도발적 조치로 해석됩니다. 캐나다 총리는 이에 대해 '과거에도, 지금도, 앞으로도 언제나 온타리오 호수로 불릴 것'이라며 반발했습니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608281415001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -125,37 +104,62 @@
         },
         {
           "tag": "pol",
-          "title": "미국·한국·일본, 북한 압력에 대응해 군사 훈련 실시 예정",
-          "summary": "한국, 미국, 일본 3국이 다음 달 연합 군사 훈련을 실시할 예정이라고 서울 관계자들이 밝혔습니다. 이는 북한의 핵 위협에 대응하고 역내 평화와 안정을 증진하기 위한 '프리덤 엣지' 훈련의 일환으로, 북한은 이 훈련을 '무모한 무력 시위'로 비난해왔습니다. 이번 훈련은 북미 외교 재개 전망을 더욱 불투명하게 할 것으로 보입니다.",
+          "title": "극우 논객 마일로 이아노풀로스, 미국에서 추방되어 영국으로 송환",
+          "summary": "도널드 트럼프 전 대통령의 초기 지지자였던 극우 논객 마일로 이아노풀로스가 미국 이민 당국에 의해 체포되어 영국으로 추방되었다. 이아노풀로스는 미국 이민 단속을 적극적으로 지지했음에도 불구하고 비자 만료 후 불법 체류 혐의로 추방당했다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/politics/defense/japan-south-korea-and-us-to-hold-joint-military-drills-seoul-says"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "미 법원, 펜타곤의 AI 기업 Anthropic 블랙리스트 지정 불법 판결",
-          "summary": "연방 판사가 펜타곤이 AI 기업 앤트로픽(Anthropic)을 '공급망 위험'으로 지정한 조치가 불법적이고 근거가 없다고 판결했습니다. 앤트로픽은 국방부의 AI 사용 견해에 대한 비판 때문에 불이익을 받았다고 주장했으며, 법원은 정부의 조치가 앤트로픽을 '오만하다'는 이유로 본보기로 삼으려 한 것이라고 지적했습니다.",
+          "tag": "pol",
+          "title": "트럼프 연설 내용 불법 베팅, 전 백악관 텔레프롬프터 담당자 벌금",
+          "summary": "도널드 트럼프 전 대통령의 텔레프롬프터 담당자였던 가브리엘 페레즈가 대통령의 연설 내용을 사전 인지하고 온라인 베팅 플랫폼에서 불법 베팅을 한 혐의로 17만2천 달러의 벌금 납부 명령을 받았다. 페레즈는 백악관 연설문 접근 권한을 이용해 2025년 12월부터 2026년 2월까지 베팅을 한 것으로 조사되었다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/technology/2026/08/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai"
+              "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "네팔 치명적인 홍수, 히말라야 수력 발전 위험성 부각",
+          "summary": "네팔을 강타한 치명적인 홍수는 전 세계에서 가장 위험에 취약한 산악 지역 중 하나인 히말라야의 야심찬 재생 에너지 확장에 대한 의문을 제기하고 있다. 빙하 붕괴가 홍수를 유발한 것으로 알려진 가운데, 현지에서는 '히말라야 전체가 녹고 있다'는 우려가 커지고 있다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -166,16 +170,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "중국 티베트-네팔 국경 홍수·산사태, 자연댐 붕괴 우려로 구조 중단",
-          "summary": "중국 티베트자치구와 네팔 국경 지대에서 대규모 홍수와 산사태가 발생하여 현재 구조 작업이 일시 중단되었습니다. 산사태와 빙하 붕괴로 하천이 막히면서 형성된 '자연댐'과 호수에 200만㎥ 이상의 물이 고여 붕괴 위험이 크며, 추가적인 홍수나 산사태 가능성이 제기되고 있습니다. 현재까지 3명이 사망하고 558명이 실종된 것으로 집계되었습니다.",
+          "title": "히말라야 빙하 호수 면적 27% 폭증, 네팔 대홍수 피해 우려 증폭",
+          "summary": "중국과 네팔 접경 히말라야 산맥의 빙하 호수 면적이 지난 30년간 27% 증가했으며, 총 2,377개의 빙하 호수가 분포해 있다는 연구 결과가 나왔다. 네팔에서 발생한 대규모 홍수의 원인이 기후변화에 따른 빙하 붕괴로 지목되면서, 아시아 산악지역 빙하 붕괴로 인한 재난 위험이 가중되고 있다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260828101000083"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1275256.html"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/china/1275122.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608300800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -183,50 +187,50 @@
         },
         {
           "tag": "pol",
-          "title": "한국, 북미 대화 재개 과정서 '한국 패싱' 없도록 미국과 공조 강조",
-          "summary": "위성락 청와대 국가안보실장은 북미 대화 재개 과정에서 '한국 패싱'이 없도록 미국과 공조하는 것이 중요하다고 밝혔습니다. 트럼프 대통령의 북미 대화 재개 노력을 지원하면서도, 한반도 평화 체제 구축과 북핵 문제의 실질적 진전이 이뤄지도록 대비하는 다차원적 접근을 강조했습니다. 아울러 왕이 중국 외교부장과의 대화를 통해 한반도 비핵화 및 평화 정착에 대한 한국의 입장을 전달했다고 덧붙였습니다.",
+          "title": "중국 중앙 군사 위원회 고위 장성 2명 숙청",
+          "summary": "중국이 장유샤와 류젠리 두 고위 장성을 중앙 군사 위원회(CMC)에서 해임했다고 국영 언론이 보도했다. 이들은 '심각한 법 위반' 혐의로 조사를 받아왔으며, 장유샤는 중국군 최고위 장성 중 한 명으로 시진핑 주석과 가까운 관계로 알려져 숙청 소식에 충격이 크다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608281441001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/28/asia-pacific/north-south-korea-us-nuclear/"
-            },
+              "url": "https://www.japantimes.co.jp/news/2026/08/29/asia-pacific/politics/china-top-officers-removed/"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "일본, 인도에 전투기 배치 계획으로 중국에 전략적 메시지",
+          "summary": "일본이 다음 달 인도에 전투기를 배치하고 인도 공군과 합동 훈련을 실시할 계획이다. 이는 일본이 인도-태평양 지역의 '뜻을 같이하는' 국가들과 안보 협력을 강화하고 중국의 군사력 증강에 대응하려는 의지를 나타내는 것으로 분석된다.",
+          "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/east-asia/article/3365542/south-korea-backs-trumps-north-korea-outreach-warns-against-being-sidelined?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/china/military/article/3365697/what-japans-coming-fighter-jet-deployment-india-means-china?utm_source=rss_feed"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "러시아 드론 공습, 키이우 인근 마을서 연쇄 폭발로 최소 37명 사망",
+          "summary": "우크라이나 수도 키이우 인근 부차 지역 밀라 마을에서 러시아 드론 공격에 따른 창고 폭발로 최소 37명이 사망하고 40여 명이 부상했다. 폭발은 주거용 건물 최소 50채를 파손시켰으며, 젤렌스키 대통령은 무기 보관 규정 위반에 대한 수사를 지시했다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1275257.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608292231001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "SK하이닉스, 일본 메모리 산업과의 협력 강화 검토",
-          "summary": "SK하이닉스가 일본 메모리 산업 내 고객 및 공급업체들과의 협력을 심화하는 방안을 모색 중이라고 곽노정 CEO가 밝혔습니다. 곽 CEO는 낸드플래시 시장의 공동 발전을 위해 협력 방안을 신중하게 검토하고 있다고 언급했습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "홍콩, 라이드 헤일링 플랫폼 라이선스 규제 강화: 일일 주문 10만 건 요건",
-          "summary": "홍콩 당국이 라이드 헤일링 플랫폼에 대한 새로운 라이선스 제도를 발표하며, 운영사 자격 요건으로 인구 750만 명 이상 도시에서 합법적인 서비스 제공 이력이 있고, 최소 두 도시에서 하루 10만 건 이상의 주문을 처리한 실적을 요구했습니다. 이는 안전하고 규정을 준수하는 운송 서비스를 제공하기 위한 목적이며, 기술력, 운영 경험, 재정 건전성 등도 심사 기준에 포함됩니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/transport/article/3365541/ride-hailing-platforms-seeking-hong-kong-licence-must-have-handled-100000-orders-day?utm_source=rss_feed"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
         }
       ]
     },
@@ -237,20 +241,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "보스니아 세르비아 전범 라트코 믈라디치, 84세로 복역 중 사망",
-          "summary": "보스니아 내전 당시 보스니아 세르비아군 사령관으로 제2차 세계대전 이후 유럽 최악의 학살을 지휘했던 라트코 믈라디치(Ratko Mladic)가 84세로 복역 중 사망했습니다. 그는 1990년대 옛 유고슬라비아 전쟁 범죄에 대한 유엔 재판소에서 종신형을 선고받았으며, 2011년 체포되어 2017년 유죄 판결을 받았습니다. 그의 사망에도 불구하고 희생자 어머니들은 그의 범죄가 여전히 많은 보스니아 세르비아인들에 의해 부인되고 있는 현실에 대한 복합적인 감정을 드러냈습니다.",
+          "title": "아이슬란드, EU 가입 협상 재개 여부 국민투표 실시",
+          "summary": "아이슬란드에서 유럽연합(EU) 가입 협상 재개 여부를 결정하는 국민투표가 실시되었다. 13년 만에 재개될지 관심이 모이는 가운데, 사전 여론조사에서는 찬반 지지율이 박빙을 보여 결과가 주목된다. 어업권 보호와 안보 강화 등이 주요 쟁점으로 떠오르고 있다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202608292025001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/30/icelands-eu-referendum-polling-stations-close-as-europe-awaits-results"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/29/icelands-eu-referendum-sees-high-preliminary-voter-turnout-in-expected-close-race"
             }
           ],
           "verification": "multi",
@@ -258,50 +262,46 @@
         },
         {
           "tag": "pol",
-          "title": "노르웨이 국왕 하랄 5세 건강 악화에 시민 지지 물결",
-          "summary": "노르웨이 하랄 5세 국왕(89)의 건강 상태가 '극도로 심각하다'는 왕실 발표 이후 오슬로 왕궁 앞에 시민들이 모여 꽃을 놓고 국왕을 응원했습니다. 유럽 최고령 국가원수인 하랄 5세 국왕은 희귀 혈액 질환으로 10일째 입원 치료 중이며, 건강 악화 소식에 왕비와 왕세자를 비롯한 가족들이 병원을 찾았습니다. 총리 또한 독일 방문 일정을 취소하며 국왕과 왕실에 위로를 보냈습니다.",
+          "title": "독일 베를린, 해커들의 사이버 공격으로 협박 직면",
+          "summary": "독일 베를린 시가 해커들의 사이버 공격으로 시 시스템이 손상되고 데이터가 유출된 후 협박을 받고 있다고 시장이 밝혔다. 시는 해커들의 몸값 요구에 굴복하지 않을 것이며, 경찰과 연방 보안 당국이 긴급히 수사 중이다. 이번 공격은 러시아 및 동유럽에서 활동하는 것으로 추정되는 Rhysida 그룹의 소행으로 알려졌다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/video/2026/08/28/hundreds-gather-in-oslo-to-support-norways-king-harald-v"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "EU, 러시아 동결 자산 활용 방안 재논의…우크라이나 지원 목표",
-          "summary": "유럽연합(EU)이 러시아 중앙은행의 동결 자산 활용 방안을 다시 논의하고 있습니다. 이는 우크라이나의 재정적 필요를 지원하기 위한 목적으로, 스웨덴, 네덜란드, 스페인, 폴란드 등 일부 회원국들이 유럽연합 집행위원회에 새로운 방안을 모색할 것을 요청했습니다. 기존 900억 유로 대출만으로는 우크라이나의 급증하는 자금 수요를 충당하기 어렵다는 판단에 따른 것입니다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/28/once-again-the-eu-grapples-with-thorny-questions-about-russian-assets"
+              "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "독일 극우 AfD, 동독 향수 이용해 동부 지역 선거 지지율 상승 추진",
-          "summary": "독일 극우 정당인 '독일을 위한 대안(AfD)'이 동독 시절에 대한 향수를 이용하여 동부 지역 선거에서 지지율을 높이려 하고 있습니다. 작센안할트주 주총선을 앞두고 AfD는 '오스탈기(Ostalgie)'를 활용, 과거의 간소하고 좋았던 시절을 되찾겠다는 메시지를 통해 유권자들에게 다가가고 있습니다. 이 정당은 또한 역사 교육에서 나치 시대 비중을 줄이고 '애국주의'를 강조하는 정책을 추진하고 있습니다.",
+          "tag": "eco",
+          "title": "유럽 가스 재고량 13년 만에 최저치, 겨울 에너지 위기 우려",
+          "summary": "유럽의 가스 재고량이 13년 만에 최저 수준을 기록하며 겨울철 에너지 위기에 대한 우려가 커지고 있다. 8월 마지막 주 EU 가스 저장량은 63%로, 최근 몇 년간 8월 말 평균치인 80%에 훨씬 못 미치는 수준이다. 이는 미국-이스라엘 전쟁으로 인한 중동 지역의 석유 및 가스 수출 차질과 지난 겨울의 추운 날씨 등이 복합적으로 작용한 결과로 분석된다.",
+          "sources": [
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "네덜란드, 트럼프 모양 엑스터시 알약에 '적색 경보' 발령",
+          "summary": "네덜란드 보건 당국이 미국 도널드 트럼프 대통령 모양의 엑스터시 알약이 잠재적으로 치명적일 수 있다며 사용자들에게 '적색 경보'를 발령했다. 이 알약에는 고농도의 PMMA 성분이 함유되어 있어 과열로 인한 치명적인 결과를 초래할 수 있다고 경고했다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/germany-far-right-taps-nostalgia-communist-east-election-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/donald-trump-shaped-ecstasy-pills-can-be-fatal-dutch-drug-institute-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -312,38 +312,38 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "AWS, 전 세계 대학생 AI 역량 강화를 위해 7천억 원 투자",
-          "summary": "아마존웹서비스(AWS)가 전 세계 대학생들의 클라우드 및 AI 분야 역량 강화를 위해 5억 달러(약 7천억 원) 이상을 투자하는 '스튜던트 리워드' 프로그램을 출시했습니다. 이 프로그램은 대학생들에게 AWS 크레딧, 프리미엄 스킬 빌더 이용권, 교육, 자격증 응시권 등 다양한 혜택을 제공하여 AI 분야로의 진출을 지원합니다. 한국 대학생도 참여 대상에 포함됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260828104800017"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "엔비디아, AI 모델 저장소 'Hugging Face' 130억 달러에 인수 추진 보도",
-          "summary": "엔비디아가 AI 모델 저장소 허깅 페이스(Hugging Face)를 약 129억 달러(한화 약 17조 2천억 원)에 인수하는 방안을 추진하고 있다는 보도가 나왔습니다. 이 인수는 엔비디아가 하드웨어 산업을 넘어 광범위한 AI 산업과의 통합을 강화하는 데 도움이 될 것으로 예상됩니다. 허깅 페이스는 AI 모델을 위한 클라우드 저장소 역할을 하며, 개발자들이 모델을 검색하고 미세 조정할 수 있는 플랫폼을 제공합니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "AI 기반 연구, NASA 로켓 합금 3D 프린팅 저렴한 방법 발견",
-          "summary": "워싱턴 주립대학교 연구진이 인공지능(AI)을 활용해 NASA 로켓 합금인 GRCop-42를 3D 프린팅하는 더 빠르고 저렴한 방법을 찾아냈습니다. AI는 1억 개 이상의 가능한 설정 중에서 단 40번의 실험 만에 6가지 성공적인 구성을 식별했으며, 이 중에는 기록적으로 낮은 500와트에서도 작동하는 방법이 포함되었습니다. 이로 인해 GRCop-42 합금이 보다 널리 사용되는 상업용 장비로도 프린팅 가능해질 것으로 기대됩니다.",
+          "title": "장기 멜라토닌 사용, 심부전 위험 90% 증가 연구 결과",
+          "summary": "만성 불면증 환자를 대상으로 한 예비 연구 결과, 멜라토닌을 장기간 복용한 사람들이 5년 동안 심부전 발병 위험이 약 90% 더 높은 것으로 나타났다. 이 연구는 멜라토닌이 심장 문제를 일으킨다는 것을 직접적으로 증명하지는 않지만, 인기 있는 수면 보조제의 장기적인 안전성에 대한 새로운 의문을 제기하고 있다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "손상된 신경 치유 방해 단백질 발견, 재생 치료 가능성 열어",
+          "summary": "과학자들이 손상된 신경 연결의 재생 능력을 제한하는 단백질인 아릴 탄화수소 수용체(AHR)를 발견했다. AHR을 차단하자 손상된 신경 섬유의 재성장이 촉진되고, 신경 손상 및 척수 손상 생쥐의 운동 및 감각 기능이 향상되었다. 이 발견은 신경 세포가 손상에서 살아남는 것을 넘어 적극적으로 재건되도록 유도하는 새로운 치료법 개발의 길을 열 수 있다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "재활용 어려운 PVC 플라스틱, 고성능 엔진 윤활유로 전환 기술 개발",
+          "summary": "버지니아 공대 연구팀이 재활용이 어려운 PVC 플라스틱 폐기물을 고성능 윤활유(엔진 오일 등)의 핵심 성분인 폴리알파올레핀으로 전환하는 방법을 개발했다. 이 기술은 대량의 플라스틱 폐기물에 가치 있는 두 번째 생명을 부여하고 윤활유 생산을 더욱 지속 가능하게 만들 수 있다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm"
             }
           ],
           "verification": "single",
