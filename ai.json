@@ -1,118 +1,24 @@
 {
-  "date": "2026-08-30",
-  "date_str": "2026년 8월 30일 (일)",
+  "date": "2026-08-31",
+  "date_str": "2026년 8월 31일 (월)",
   "highlights": [
-    "소니 뮤직과 워너 채플, 앤트로픽에 수만 건 저작권 침해 혐의로 소송 제기",
-    "엔비디아, AI 효율성 강점을 GPU 넘어 데이터센터 시스템으로 확장 강조",
-    "구글, 일부 검색 결과에 AI 요약 자동 확장으로 일반 링크 노출 하단으로 이동",
-    "AI 투자 전문가 비제이 판데, 생물학 분야의 AI 기반 전환 강조",
-    "개인 정보 요청 시 기업들의 데이터 삭제 또는 혼란스러운 응답 사례 발생"
+    "메타, 데이터 센터 로봇 활용 확대...운영 효율성 및 비용 절감 목표",
+    "중국, 휴머노이드 로봇 기술 빠르게 발전하며 국제 경쟁력 강화",
+    "캐터필러, 자율 채굴 경험 기반 AI 배포 기술 확장 적용",
+    "텍사스 주지사, Flock AI 감시 카메라에 대한 주정부 자금 지원 중단 결정"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": [
-        {
-          "title": "구글, AI 요약 자동 확장으로 검색 결과 개편",
-          "summary": "구글이 일부 검색 쿼리에 대해 AI 요약을 검색 결과 상단에 자동으로 확장하고 있습니다. 이로 인해 기존의 링크 목록은 더 아래로 밀려나게 되며, 구글은 이러한 동적 경험이 사용자에게 더 유용하다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
-            }
-          ],
-          "verification": "single",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": [
-        {
-          "title": "금융 질의 응답 위한 AI 프레임워크 CIFQA 제안",
-          "summary": "계산 집약적인 금융 질의 응답을 위해 CIFQA(Calculation-Intensive Financial Query Answering)라는 결정론적 도구 기반 다중 에이전트 LLM 프레임워크가 제안되었습니다. CIFQA는 금융 계산 및 규칙 적용을 위해 전문화된 에이전트와 Python 기반 도구를 활용하여 높은 정확도를 달성합니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26114"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "실리콘 포토닉 장치 자율 최적화 AI 설계 프레임워크 PICasso",
-          "summary": "자연어 사양으로부터 포토닉 집적 회로(PIC)의 자동 합성, 검증 및 최적화를 위한 AI 지원 프레임워크 PICasso가 소개되었습니다. PICasso는 LLM 기반 설계 파이프라인과 시뮬레이션 기반 최적화를 결합하여 PIC 설계의 효율성을 크게 향상시킵니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26113"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "자율 강화 학습 통한 자기 조직화 현상 연구",
-          "summary": "자율적인 강화 학습을 통해 자기 조직화 현상을 발견하고 제어하는 인공 실험주의자(The Artificial Experimentalist) 연구가 진행되었습니다. 이 프레임워크는 세포 자동자 시스템 'Lenia'에서 안정적인 솔리톤을 발견하고 움직임을 제어하는 능력을 보여주었습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26116"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 컨텍스트 창이 문헌 검토 생성 품질에 미치는 영향 평가",
-          "summary": "대규모 언어 모델(LLMs)의 단기 및 장기 컨텍스트 창이 문헌 검토 생성 품질에 미치는 영향을 평가하는 연구가 진행되었습니다. 연구 결과, AI 생성 문헌 검토는 학술 출판 기준을 충족하기 위해 인간의 감독이 필요하며, 컨텍스트 창이 증가할수록 내용 반복 및 중요 정보 누락과 같은 문제가 심화될 수 있음이 밝혀졌습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26145"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "온라인 교육 학생 학업 위험 예측 신경-심볼릭 프레임워크 EduRiskX",
-          "summary": "온라인 교육에서 학생들의 학업 위험을 조기에 예측하기 위한 신경-심볼릭 프레임워크 EduRiskX가 발표되었습니다. EduRiskX는 시간적 트랜스포머 기반 예측기와 F-논리 심볼릭 추론을 통합하여 기존 모델의 한계를 극복하고 예측 성능과 해석 가능성을 향상시킵니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26107"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "ICU 사망률 예측 설명 위한 LLM 및 에이전트 파이프라인 연구",
-          "summary": "중환자실(ICU) 사망률 예측 설명을 위한 독립형 LLM과 사전 지정된 에이전트 파이프라인의 타당성 연구가 진행되었습니다. 이 연구는 에이전트 분해가 안전 관련 근거 및 환자별 세부 정보를 개선할 수 있지만, 고위험 시나리오에서 사용하기 전에 귀속 기반 확인이 필요하다고 제안합니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2608.26109"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        }
-      ]
+      "stories": []
     },
     {
       "name": "산업·투자·기업",
@@ -120,12 +26,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "엔비디아, AI 경쟁력 GPU 넘어 시스템 전체로 확장",
-          "summary": "엔비디아가 AI 시장에서의 강점을 GPU를 넘어 데이터센터 시스템 전반으로 확장하고 있습니다. 이 회사는 GPU 주변의 시스템 효율성을 극대화하는 하드웨어를 개발하여 증가하는 AI 컴퓨팅 수요에 대응하며 경쟁 우위를 확보하고 있습니다.",
+          "title": "메타, 데이터 센터 운영에 로봇 도입 확대",
+          "summary": "메타가 데이터 센터 운영 효율성 향상을 위해 로봇 활용을 확대하고 있습니다. 케이블 연결, 서버 재설정 등 다양한 작업을 로봇이 수행하며, 장기적으로 인력 의존도를 줄여 AI 인프라 확장에 따른 노동 비용을 절감하는 것을 목표로 합니다. 현재 키노바(Kinova) 및 ABB 등 여러 업체의 로봇이 시험 운영되고 있습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
             }
           ],
           "verification": "single",
@@ -133,12 +39,25 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "AI 투자 전문가, 생물학 분야의 AI 전환 강조",
-          "summary": "AI 투자 전문가 비제이 판데(Vijay Pande)는 생물학 분야가 발견의 과학에서 공학으로 전환되고 있다고 언급했습니다. 그는 AI와 머신러닝이 복잡한 생물학적 이해를 가능하게 하며, 신약 개발 과정 전반에 걸쳐 효율성을 높인다고 설명했습니다.",
+          "title": "중국, 휴머노이드 로봇 기술 경쟁력 강화",
+          "summary": "중국이 '세계 휴머노이드 로봇 경기 대회'를 통해 로봇 기술 분야에서 빠르게 발전하며 경쟁 우위를 확보하고 있습니다. 로봇들은 달리기, 역도 등 신체 활동뿐만 아니라 침대 정리, 택배 배달, 선반 정리와 같은 실생활 작업을 수행하며 실험실 밖 실제 환경에서의 로봇 적용 가능성을 보여주고 있습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "캐터필러, 자율 채굴 경험 기반 AI 기술 적용 확대",
+          "summary": "캐터필러가 자율 채굴 분야에서 얻은 수십 년간의 경험을 바탕으로 AI 배포 기술을 확장 적용하고 있습니다. 현장 기술자들이 음성 명령으로 수리 절차를 확인하고 문제를 해결하는 'Cat AI 어시스턴트'를 도입했으며, 제조 분야에서는 AI를 활용한 디지털 트윈 생성 및 운영 분석에 주력하고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+              "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
             }
           ],
           "verification": "single",
@@ -153,42 +72,12 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "소니 뮤직 등, 앤트로픽에 수만 건 저작권 침해 소송 제기",
-          "summary": "소니 뮤직 퍼블리싱과 워너 채플을 비롯한 여러 음악 출판사들이 앤트로픽을 상대로 수만 건의 저작권 침해 혐의로 소송을 제기했습니다. 이들은 앤트로픽이 AI 모델 클로드(Claude) 훈련을 위해 불법적인 토렌트 및 스크래핑을 통해 저작물을 대규모로 사용했다고 주장합니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
-            }
-          ],
-          "verification": "multi",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "개인 정보 요청 시 기업들의 불성실한 응대 문제 제기",
-          "summary": "소비자 데이터 액세스 권리 행사 시 일부 기업들이 데이터를 삭제하거나 요청된 것과 다른 혼란스러운 응답을 하는 사례가 발견되었습니다. 이는 캘리포니아 소비자 프라이버시법(CCPA)의 허점을 드러내며, 소비자 옹호론자들은 기업의 책임 있는 행동을 촉구했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "뮤지션들, AI 생성 음악의 저작권 침해 추적",
-          "summary": "음악인들이 AI 생성 음악의 저작권 침해 및 표절 사례를 적극적으로 추적하고 있습니다. 특히 전자 댄스 음악(EDM) 분야에서는 AI를 사용하고도 인간이 만든 작품인 것처럼 속이는 행위에 대한 비판이 커지고 있습니다.",
+          "title": "텍사스 주지사, AI 감시 카메라 주정부 자금 지원 중단",
+          "summary": "텍사스 주지사가 Flock AI 감시 카메라에 대한 주정부 자금 지원을 중단했습니다. 이는 Flock 카메라의 개인 정보 보호 및 데이터 공유에 대한 우려, 그리고 오용 사례가 증가하면서 양당의 비판이 커진 데 따른 조치입니다. 텍사스주는 촉매 변환기 도난 방지 명목으로 보험료에 1달러의 수수료를 부과하여 3천만 달러 이상을 Flock 카메라에 지출한 것으로 알려졌습니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
             }
           ],
           "verification": "single",
