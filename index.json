@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-31",
-  "date_str": "2026년 8월 31일 (월)",
+  "date": "2026-09-01",
+  "date_str": "2026년 9월 1일 (화)",
   "key5": [
-    "이재명 대통령 지지율 취임 후 최저 38.9% 기록, 7주 연속 하락세 보여",
-    "트럼프 전 대통령, 온타리오호 명칭 '아메리카호' 변경 행정명령에 캐나다 반발 및 구글 지도에 반영 논란",
-    "미 국방부, 이란 라라크 섬 미사일 발사대 2곳 공습…한 달여 만에 재개",
-    "7월 산업생산 보합, 소비 2.4% 감소, 설비투자 7.5% 증가…경기 지표 엇갈려",
-    "NASA, 낸시 그레이스 로만 우주 망원경 발사 성공…암흑 에너지 연구 기대"
+    "김용범 청와대 정책실장, 취임 15개월 만에 사퇴…첫 실장급 교체",
+    "네팔 홍수 피해지역에 대한민국 해외 긴급구호대 44명 파견",
+    "8월 수출 983억 달러로 역대 3위, 반도체 사상 최대 실적 달성",
+    "미국 대법원, 트럼프 대통령의 백악관 무도회장 건설 승인",
+    "미국과 이란, 호르무즈 해협에서 수주 만에 상호 공격 재개"
   ],
   "regions": [
     {
@@ -16,75 +16,71 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령 지지도 38.9%로 취임 후 최저 기록",
-          "summary": "이재명 대통령의 국정수행 지지도가 취임 후 처음으로 30%대인 38.9%를 기록하며 7주 연속 하락세를 보였다는 여론조사 결과가 나왔습니다. 부동산 민심 악화와 대법관 후보자 임명 거부 등 여러 요인이 지지율 하락의 원인으로 분석되었습니다.",
+          "title": "김용범 靑정책실장 사퇴…정부 출범 15개월만에 첫 실장급 교체",
+          "summary": "김용범 청와대 정책실장이 취임 15개월 만에 사의를 표명하고 이재명 대통령이 이를 수리했다. 이번 사퇴는 이재명 정부 출범 이후 첫 실장급 교체이며, 단일종목 레버리지 ETF 등 정책 혼선으로 인한 여론 악화와 국정 지지율 하락이 배경으로 꼽힌다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260831019800001"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608310824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260901034652001"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "김민석 민주당 대표, 여론조사 조작 의혹 감찰 및 민생 드라이브",
-          "summary": "더불어민주당 김민석 대표가 전당대회 여론조작 의혹을 제기한 유튜버에 대한 긴급 감찰을 지시했습니다. 또한, 김 대표는 당내 특위와 추진단 첫 회의를 잇달아 주재하며 당 쇄신과 민생 정책 추진에 박차를 가하고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260830069400001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260830064400001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "7월 산업생산 보합, 소비 감소 속 설비투자 두 달 연속 증가",
-          "summary": "7월 산업생산은 전월과 비슷한 수준을 유지했으며, 상품 소비를 보여주는 소매판매액지수는 2.4% 감소했습니다. 반면, 설비투자는 7.5% 증가하며 두 달 연속 상승세를 기록했고, 이는 5개월 만에 최대폭 증가입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260831014451002"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260831014400002"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "전국 강한 비 예보에 한 총리 호우 대비 긴급지시, 전북 폭우 피해 잇따라",
-          "summary": "한성숙 국무총리는 전국 대부분 지역에 강한 비가 예보됨에 따라 관계기관에 호우 대비를 위한 긴급지시를 내렸습니다. 특히 전북 지역에는 최고 264mm의 폭우가 쏟아져 도로 및 주택 침수 등 96건의 시설 피해가 발생했으나 인명 피해는 없었습니다.",
+          "title": "네팔 홍수 피해지역에 대한민국 해외 긴급구호대 파견",
+          "summary": "정부가 네팔 홍수 피해 지역에 대한민국 해외 긴급구호대(KDRT) 44명을 파견한다. 네팔 정부의 요청에 따라 외교부, 한국국제협력단(KOICA), 소방청 등으로 구성된 구호대는 약 10일간 현지에서 한국인 실종자 9명을 포함한 피해자 수색 및 구조 활동을 지원할 예정이다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260830061900001"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608310834001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.yna.co.kr/view/AKR20260901054100504"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/environment/1275405.html"
+              "url": "https://www.hani.co.kr/arti/international/asiapacific/1275608.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609010946011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "8월 수출 역대 3위 기록…반도체 사상 최대 실적 견인",
+          "summary": "한국의 8월 수출액이 982억5천만 달러를 기록하며 역대 3위를 달성했다. 특히 반도체 수출은 209.0% 증가한 466억5천만 달러로 사상 최대 실적을 경신하며 전체 수출을 견인했다. 이는 구글, 아마존 등 하이퍼스케일러의 설비투자 확대와 AI 인프라 수요 증가에 따른 것으로 분석된다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260901038051003"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "국내 기업들, AI 활용한 헬스케어 로봇 및 식품 정보 관리 솔루션 출시",
+          "summary": "바디프랜드는 사용자와의 음성 대화를 통해 맞춤형 마사지 프로그램을 제공하는 AI 헬스케어 로봇 '퀀텀AI프로'와 '다빈치AI프로'를 출시했다. 아워홈은 AI를 활용해 식품의 원재료 및 알레르기 정보, 영양성분 등 표시사항 작성부터 온라인몰 상품정보 검증까지 자동화하는 '식품 표시 통합관리 솔루션'을 도입했다. 당진시는 인공지능 전환(AX)을 통해 도시 안전, 산업, 행정 전반을 혁신하는 'AX 선도도시 당진' 비전을 선포했다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260901048800030"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260901042200030"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/biznews/1275617.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -95,20 +91,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 '아메리카 호' 명칭 변경 행정명령에 캐나다 강력 반발",
-          "summary": "도널드 트럼프 미국 대통령이 캐나다와의 국경에 위치한 온타리오 호수의 이름을 '아메리카 호'로 변경하는 행정명령에 서명했습니다. 이에 캐나다는 강하게 반발하며 '온타리오 호는 오늘도 앞으로도 영원히 온타리오 호'라고 맞섰고, 구글 지도는 미국 사용자에 한해 해당 명칭을 반영하여 논란이 일고 있습니다.",
+          "title": "미 대법원, 트럼프 백악관 무도회장 건설 허가",
+          "summary": "미국 대법원은 도널드 트럼프 대통령의 백악관 무도회장 건설 계획을 진행해도 좋다는 판결을 내렸다. 이는 하급심 판결을 뒤집는 5대4 결정으로, 의회 승인 없이 프로젝트를 추진하는 것에 대한 논란이 계속되고 있다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202608310830001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+              "url": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates"
             }
           ],
           "verification": "multi",
@@ -116,50 +112,54 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프, 베네수엘라 석유 통제 합의 주장…실현 가능성은 미지수",
-          "summary": "트럼프 전 대통령이 미국이 베네수엘라의 650억 배럴 이상 석유 매장량을 통제하는 '역사적인' 합의를 이뤘다고 주장했습니다. 하지만 이 합의의 실현 가능성은 복잡하며, 새로운 프로젝트가 유의미한 양의 석유를 생산하기까지 수년이 걸릴 수 있다고 뉴욕타임스가 보도했습니다.",
+          "title": "미국-이란, 호르무즈 해협서 상호 공격 재개…긴장 고조",
+          "summary": "미국과 이란이 호르무즈 해협 라라크 섬에서 상호 공격을 주고받으며 수주 만에 긴장이 다시 고조됐다. 미국은 이란의 로켓 발사 및 해상 기뢰 배치 위협에 대응하여 두 개의 로켓 발사대를 공격했고, 이란은 이에 맞서 요르단 내 미군 기지를 공격했다고 밝혔다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html"
+              "url": "https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+              "url": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "미 국방부, 이란 라라크 섬 미사일 발사대 2곳 공습",
-          "summary": "미 국방부가 한 달여 만에 이란 남부 호르무즈 해협의 라라크 섬에 위치한 이란 이슬람혁명수비대(IRGC) 로켓 발사대 2곳을 공격했다고 밝혔습니다. 이는 이란 병력이 호르무즈 해협을 향해 기뢰를 실은 로켓을 발사하려 준비하는 모습이 관측된 데 따른 조치라고 미 당국자는 설명했습니다.",
+          "tag": "eco",
+          "title": "미국 정부, 아마존 광고 가격 조작 혐의로 소송 제기",
+          "summary": "미국 연방거래위원회(FTC)와 22개 주(州)는 아마존이 온라인 경매를 조작하여 광고 고객들에게 수십억 달러를 부당하게 과다 청구했다고 주장하며 소송을 제기했다. FTC는 아마존이 2019년부터 이 행위로 200억 달러의 수익을 올린 것으로 추정하며, 이는 소비자에게도 추가 비용으로 전가되어 피해를 입혔다고 밝혔다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/arabafrica/1275403.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/31/world/us-iranian-launchers-larak-island/"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "그랜드 캐니언 갑작스러운 홍수로 최소 15명 실종, 수십 명 대피",
-          "summary": "미국 그랜드 캐니언에서 발생한 갑작스러운 홍수로 인해 최소 15명 이상의 사람들이 실종되었을 수 있으며, 수십 명이 대피했습니다. 홍수로 인해 브라이트 엔젤 크릭의 거의 모든 보행자 다리가 파괴되었고, 국립공원관리청은 등산객들의 접근이 차단되었다고 밝혔습니다.",
+          "title": "그랜드 캐니언 돌발 홍수로 최소 2명 사망, 10여 명 실종",
+          "summary": "그랜드 캐니언 일부 지역에 돌발 홍수가 발생하여 최소 2명이 사망하고 10여 명이 실종되거나 연락이 두절되었다. 이번 홍수는 브라이트 엔젤 캐니언과 팬텀 랜치 지역을 덮쳐 보행자 다리가 유실되고 바위가 휩쓸려 내려가는 피해를 냈으며, 국립공원관리청은 수색 및 구조 작업을 계속하고 있다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3365783/least-20-missing-dozens-evacuated-grand-canyon-after-flash-flood-hits-creek?utm_source=rss_feed"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
             }
           ],
           "verification": "multi",
@@ -173,68 +173,72 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "아일랜드 유권자, EU 가입 협상 재개 부결…어업 주권 우려",
-          "summary": "아일랜드 유권자들이 유럽 연합(EU) 가입 협상 재개 제안을 부결시켰습니다. 어업 주권 통제에 대한 우려가 유럽과의 밀접한 연계 주장보다 우세했으며, 이는 2008년 금융 위기 이후 시작된 EU 가입 협상이 10여 년 만에 다시 좌절된 것입니다.",
+          "tag": "eco",
+          "title": "미 재무장관, 일본 엔화 강세 유도 시사…BOJ 금리 인상 가능성 제기",
+          "summary": "스콧 베센트 미국 재무장관이 일본 정부와 중앙은행이 엔화 강세를 유도하는 조치를 취할 것으로 믿으며, 9월 일본은행(BOJ)의 금리 인상 가능성이 크다고 CNBC를 통해 밝혔다. 이는 G20 재무장관 회의에서 나온 발언으로, 엔화 약세에 대한 미국 측의 우려를 반영한 것으로 보인다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/08/31/world/politics/iceland-reject-eu-fisheries/"
+              "url": "https://www.japantimes.co.jp/business/2026/09/01/bessent-japan-yen-boj-rate-hike/"
             },
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3365778/icelandic-voters-reject-proposal-restart-negotiations-join-european-union?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3365907/us-treasurys-bessent-calls-japan-boost-yen-through-interest-rate-hikes?utm_source=rss_feed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "일본, CPTPP 사무국 유치 추진…국제 통상 주도권 확대 모색",
+          "summary": "일본 정부가 포괄적·점진적 환태평양경제동반자협정(CPTPP) 상설 사무국 유치를 추진하며 국제 통상 정책에서의 주도권 확대를 모색하고 있다. 일본은 오는 11월 베트남에서 열리는 CPTPP 관계 장관 회의에서 이 방안을 제안할 예정이며, 가입국 심사 원활화 및 공급망 불안 해소 등을 목표로 하고 있다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260901051400009"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/politics/international-relations/japan-seeks-to-host-secretariat-for-cptpp-trade-pact"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "홍콩 왓츠앱 계정 탈취 사기 급증, 올해 첫 7개월간 2천 건 육박",
-          "summary": "홍콩에서 왓츠앱 계정 탈취 사기가 급증하여 올해 첫 7개월 동안 약 2,000건이 발생했습니다. 이는 전년 동기 대비 170% 증가한 수치로, 일부 피해자는 1천만 홍콩달러 이상을 잃는 등 총 피해액은 1억 4,630만 홍콩달러에 달합니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365746/hong-kong-whatsapp-hijacking-scams-surge-170-nearly-2000-cases?utm_source=rss_feed"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
           "tag": "eco",
-          "title": "미중 무역 갈등 속 씨티은행의 북미-중국 기업 활동 활발",
-          "summary": "미중 무역 갈등에도 불구하고 씨티은행의 북미-중국 회랑을 통한 기업 활동은 활발하며, 매출이 꾸준히 증가하고 있습니다. 중국 기업들은 글로벌 시장 점유율을 보호하기 위해 위험 헤지 전략을 적극적으로 활용하며 국경 간 금융 서비스 수요를 높이고 있습니다.",
+          "title": "중국 패스트 패션 기업 쉬인, 홍콩 상장 앞두고 주가 급락",
+          "summary": "중국 패스트 패션 기업 쉬인(Shein)의 주가가 홍콩 상장을 앞두고 장외 시장에서 최대 28% 하락했다. 이는 2022년 최고 평가액 1000억 달러, 2023년 640억 달러에 비해 크게 낮아진 260억 달러 수준으로, 투자자들의 기업 가치에 대한 의구심이 깊어지고 있다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/business/banking-finance/article/3365445/citis-china-us-corridor-thrives-mainland-firms-hedge-risks-amid-trade-turbulence?utm_source=rss_feed"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "네팔 대규모 홍수 사망 800명 넘어, 수색 및 구조 작업 난항",
-          "summary": "네팔에서 발생한 대규모 홍수로 인해 사망자가 800명을 넘어섰고, 3천 명이 넘는 실종자에 대한 수색 및 구조 작업이 진행 중입니다. 안치실 부족으로 임시 매장까지 진행되고 있으며, 한국인 실종자 9명에 대한 헬기 수색은 네팔 당국의 불허로 무산되는 등 어려움을 겪고 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260830030752504"
+              "url": "https://www.scmp.com/business/banking-finance/article/3365886/shein-shares-plunge-28-grey-market-ahead-hong-kong-debut?utm_source=rss_feed"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/asiapacific/1275408.html"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/ipo/shein-s-reality-check-from-100bn-dream-to-hong-kong-discount-listing"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "러시아 장관의 G20 회의 초청에 유럽 국가들 반발",
+          "summary": "미국이 G20 재무장관 회의에 러시아 장관을 초청한 것에 대해 유럽 국가들이 반발하고 있다. 이번 회의는 글로벌 경제 성장과 이란 전쟁으로 인한 에너지 충격 등에 초점을 맞추고 있으며, 러시아의 참여는 2022년 우크라이나 침공 이후 이러한 모임에서 러시아를 다루던 방식에 대한 변화를 보여준다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/09/01/world/politics/us-g20-russia-barring-journalists/"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/08/31/bessent-welcomes-russia-back-to-g20-as-europe-pushes-back-01058296?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -244,68 +248,68 @@
       "en": "EUROPE",
       "stories": [
         {
-          "tag": "soc",
-          "title": "북키프로스 해상 페리 전복, 최소 8명 사망 18명 실종",
-          "summary": "북키프로스 해상에서 승객과 승무원 약 270명을 태운 페리가 전복되어 최소 8명이 사망하고 18명이 실종되었습니다. 현재까지 237명이 구조되었으며, 페리 선장을 포함한 8명이 조사의 일환으로 구금되었습니다. 사고 원인은 아직 밝혀지지 않았으나, 구조된 승객들은 페리 함수에서 폭발이 있었다고 전했습니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3365774/least-8-dead-22-missing-ferry-capsizes-northern-cyprus?utm_source=rss_feed"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "soc",
-          "title": "스위스 취리히 인근 레이브 파티 총격, 22세 여성 사망 5명 부상",
-          "summary": "스위스 취리히에서 서쪽으로 약 46km 떨어진 아라우의 레이브 파티에서 총격 사건이 발생해 22세 이탈리아 여성이 사망하고 5명이 부상을 입었습니다. 경찰은 용의자를 추적하기 위한 대대적인 수색을 진행 중이며, 부상자 중 일부는 중상을 입었습니다.",
+          "tag": "pol",
+          "title": "키프로스 해상 여객선 침몰, 최소 8명 사망 20명 실종",
+          "summary": "북키프로스 해상에서 여객선이 전복되어 최소 8명이 사망하고 20명이 실종된 것으로 확인되었다. 터키에서 키레니아로 향하던 이 배에는 259명의 승객과 8명의 승무원이 타고 있었으며, 수색 및 구조 작업이 진행 중이다. 사고 당시 거친 파도와 기상 악화가 원인으로 지목되고 있다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland"
+              "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "pol",
-          "title": "프랑스 대선 8개월여 앞두고 여러 후보 출마 의사 표명",
-          "summary": "프랑스 대통령 선거를 8개월도 채 남기지 않은 시점에서 여러 후보들이 출마 의사를 밝히며 정치적 움직임이 활발합니다. 전 총리 도미니크 드 빌팽은 공식 출마 선언은 선거 운동 시작 후 할 것이라고 밝혔으며, 사회당의 올리비에 포르는 당 경선 참여를 선언할 예정입니다.",
+          "title": "폴란드 드론 공장 방화, 테러 가능성 수사 착수",
+          "summary": "폴란드 검찰이 스카르지스코카미엔나에 위치한 WB 일렉트로닉스 드론 공장 화재 사건에 대해 테러 수사에 착수했다. 검찰은 화재가 인화성 물질이 포함된 폭발 장치를 설치하여 고의적으로 발생했다고 보고 있으며, 외국 정보기관의 개입 가능성도 조사 중이다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/30/french-presidential-race-de-villepin-set-to-run-faure-enters-socialist-primary"
+              "url": "http://www.euronews.com/my-europe/2026/08/31/polish-prosecutors-launch-terrorism-investigation-following-fire-at-drone-makers-factory"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/poland-suspects-foreign-involvement-in-drone-plant-arson-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "러시아, 우크라이나 문화 시설 지속 공격…1200만 권 책 파괴",
+          "summary": "러시아군의 공격으로 우크라이나의 인쇄소와 출판사 등 문화 시설이 파괴되어 1200만 권의 책이 손실되었다. 특히 새 학년을 앞두고 교과서 생산이 한창이던 키이우 외곽 인쇄 공장이 미사일 공격을 받았으며, 이는 우크라이나의 교육 및 문화 기반을 약화시키려는 의도로 분석된다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cly5v8qmy64o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "EU 집행위원장, 동시 재난 시대 대비 필요성 강조",
+          "summary": "우르줄라 폰데어라이엔 EU 집행위원장은 유럽이 점점 더 빈번하고 동시에 발생하는 심각한 비상사태에 대비해야 한다고 경고했다. 기후 변화로 인해 극단적인 기상 현상이 늘어나면서 개별 국가의 재난 대응 역량을 넘어설 수 있으며, 재난 예방 및 대비 강화를 위한 시스템 전환이 시급하다고 강조했다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/08/31/europe-must-prepare-for-a-new-era-of-simultaneous-disasters-von-der-leyen-says"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "tec",
-          "title": "독일 라허 호수 화산 아래 심부 지진 감지, 화산 활동 가능성 조사",
-          "summary": "독일 서부 아우펠 지역 라허 호수 화산 아래에서 수백 건의 심부 저주파 지진이 감지되어 화산 활동 가능성에 대한 과학적 조사가 진행 중입니다. 라허 호수 화산은 약 13,000년 전 마지막으로 폭발했으며, 이번 지진은 마그마성 유체가 깊은 곳에서 이동하고 있음을 시사하는 것으로 분석됩니다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/08/30/is-germanys-laacher-see-volcano-stirring-again-scientists-detect-hundreds-of-deep-earthqua"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -316,53 +320,49 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "NASA 낸시 그레이스 로만 우주 망원경 발사 성공, 암흑 에너지 연구 기대",
-          "summary": "NASA가 암흑 물질, 암흑 에너지 등 우주의 미스터리를 탐사할 강력한 차세대 낸시 그레이스 로만 우주 망원경을 성공적으로 발사했습니다. 이 망원경은 허블 및 제임스 웹 우주 망원경보다 100배 넓은 시야로 광대한 우주 파노라마를 촬영하며, 수만 개의 외계 행성을 발견할 것으로 기대됩니다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "12테라바이트 스팀 데이터 유출, 10년 이상 PC 게임 개발 역사 공개",
-          "summary": "12테라바이트에 달하는 스팀 데이터 유출로 포털 2의 삭제된 콘텐츠, 하프라이프 2: 에피소드 3의 흔적 등 2003년부터 2013년까지 10년 이상의 PC 게임 개발 역사가 공개되었습니다. 이 데이터는 스팀의 이전 서버 아키텍처에서 공개적으로 접근 가능한 API 엔드포인트를 통해 유출된 것으로 알려졌습니다.",
+          "title": "NASA 로만 우주 망원경 발사, 암흑 물질·에너지 탐사 시작",
+          "summary": "NASA의 낸시 그레이스 로만 우주 망원경이 발사되어 지구에서 백만 마일 떨어진 곳으로 향하고 있다. 이 망원경은 허블 망원경보다 약 1,000배 빠른 속도로 우주를 매핑하고, 암흑 물질, 암흑 에너지, 외계 행성 등 우주의 깊은 미스터리를 밝히는 임무를 수행할 예정이다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"
+              "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/"
             },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "HEPA 공기 청정기, 한 달 사용 후 뇌 기능 향상 연구 결과",
-          "summary": "실내 공기 질 개선을 위한 헤파(HEPA) 공기 청정기가 한 달 사용 후 40세 이상 성인의 뇌 기능, 특히 실행 기능과 정신적 유연성 향상에 작지만 측정 가능한 도움을 줄 수 있다는 연구 결과가 발표되었습니다. 이는 교통 관련 대기 오염으로부터 뇌를 보호하는 간단한 방법을 제시합니다.",
-          "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "영국 중앙은행 총재, AI로 인한 세계 경제 침체 가능성 경고",
+          "summary": "영국 중앙은행 앤드류 베일리 총재는 G20 재무장관들에게 인공지능(AI)이 세계 경제 침체를 야기하고 금융 시스템에 중대한 사이버 보안 위험을 초래할 수 있다고 경고했다. 그는 AI 부문의 성장 붕괴가 전 세계로 확산될 수 있는 '미래 시장 조정'으로 이어질 수 있다고 지적했다.",
+          "sources": [
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "구글 지도, '온타리오 호수'를 '아메리카 호수'로 변경 요청 논란",
+          "summary": "도널드 트럼프 미국 대통령이 애플에 지도 서비스에서 '온타리오 호수'를 '아메리카 호수'로 변경하도록 요청했으며, 구글은 이미 미국 사용자에게 이 변경 사항을 적용했다. 이는 미국과 캐나다 간 무역 협상 결렬 이후 트럼프 대통령의 행정 명령에 따른 것으로, 캐나다에서는 반발이 확산되고 있다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/"
+            }
+          ],
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
