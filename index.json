@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-03",
-  "date_str": "2026년 9월 3일 (목)",
+  "date": "2026-09-04",
+  "date_str": "2026년 9월 4일 (금)",
   "key5": [
-    "용혜인 후보자 비례대표직 유지 및 김승원 장관 후보자 의혹 관련 정치권 공방 지속",
-    "한국은행 외환보유액 세계 순위 비공개 전환 논란",
-    "미국, 출생 시민권 제한 시도 및 불법 이민자 보고 확대 지시",
-    "미국 육군, 드론 격추용 20kW 레이저 시스템 시험 성공",
-    "일본, 청소년 자살 증가에 따른 커뮤니티 예방 노력 지원"
+    "7월 경상수지, 반도체 수출 호조로 동월 역대 최대 흑자 달성",
+    "트럼프 행정부, 우편 투표 제한 계획 추진하며 대법원에 중단 명령 해제 요청",
+    "일본은행 금리 인상 가능성에 엔화 가치 급등, 글로벌 금융시장 불안 고조",
+    "엔비디아, AI 플랫폼 허깅페이스 129억 달러에 인수하며 AI 지배력 강화",
+    "우버, 영국 런던에서 안전 운전자 탑승 자율주행 로보택시 서비스 개시"
   ],
   "regions": [
     {
@@ -15,75 +15,88 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "용혜인·김승원 후보자 논란 지속, 여야 공방 심화",
-          "summary": "용혜인 성평등가족부 장관 후보자가 비례대표직을 유지하겠다는 입장을 밝혀 논란이 계속되고 있으며, 김민석 더불어민주당 대표는 이에 대해 깊이 생각하고 있다고 언급했습니다. 한편, 김승원 법무부 장관 후보자는 공소 취소 문제와 관련한 의혹에 휩싸여 야당의 집중적인 공세를 받고 있습니다. 이소영 중소벤처기업부 장관 후보자는 배당소득 분리과세 입법 주도 시기에 주식 관련 자산이 급증한 것으로 드러나 이해충돌 소지가 제기되었습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260903021900001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260901180300546"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260902150500001"
-            },
-            {
-              "name": "chosun.com",
-              "url": "https://www.chosun.com/english/opinion-en/2026/09/02/CIL6IMVY3FDALK5KGIBEYZDQ3U"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "한은, 외환보유액 순위 비공개 전환…시장 영향 주시",
-          "summary": "한국은행이 25년 만에 외환보유액의 세계 순위 공개를 중단했으며, 이에 대한 논란이 예상됩니다. 한은은 순위 변동폭 확대에 따른 불필요한 해석을 막기 위함이라고 설명했으나, 8월 외환보유액이 역대 최대 증가폭을 기록한 시점과 맞물려 주목받고 있습니다. 시장에서는 미국 국채금리 급등세 진정 등 글로벌 증시 동향과 함께 국내 증시의 향방을 주시하고 있습니다.",
+          "title": "7월 경상수지 420.8억 달러 흑자, 동월 역대 최대",
+          "summary": "한국의 7월 경상수지가 반도체 수출 호조에 힘입어 420억8천만달러 흑자를 기록하며, 동월 기준 역대 최대치를 달성했습니다. 상품수지 역시 404억3천만달러 흑자로 역대 두 번째 높은 기록을 보였으나, 해외여행 증가로 여행수지는 3억4천만달러 적자로 전환했습니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260903014300011"
+              "url": "https://www.yna.co.kr/view/AKR20260904017900002"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609030747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1276205.html"
             },
             {
-              "name": "news.sbs.co.kr",
-              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008735300"
-            },
-            {
-              "name": "biz.chosun.com",
-              "url": "https://biz.chosun.com/en/en-policy/2026/09/03/TJFCM3CUCZDARHOOMLRQRNU7OQ"
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/market-money-en/2026/09/04/I75DVL7GXFAN5JETSYAIYF64JI"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "지방흡입 폐기물 무단 투기 병원 적발 및 양식어류 고수온 폐사 확산",
-          "summary": "서울시 민생사법경찰국이 지방흡입 및 성형수술 과정에서 발생한 인체 지방과 폐혈액을 개수대나 세면대에 무단 투기한 병원 25곳을 적발해 검찰에 송치했습니다. 한편, 경남 남해안에서는 고수온으로 인한 양식어류 추가 폐사가 발생하여 누적 재산 피해액이 143억원을 넘어섰습니다. 전 해역에 고수온 경보가 발령된 가운데, 고수온 특보가 당분간 유지될 것으로 예상됩니다.",
+          "tag": "pol",
+          "title": "LH, 개발·자산 회사 분리 추진…공공주택 공급 속도낼까",
+          "summary": "정부가 한국토지주택공사(LH)의 구조개혁을 위해 공사를 개발사업과 주거복지 및 토지비축을 담당하는 두 개의 회사로 분리하는 방안을 추진합니다. 이는 주택 공급 속도를 높이고 재정 건전성을 개선하려는 목표를 가지고 있으나, 조직 분리에 따른 갈등과 '배드뱅크' 역할을 할 주택도시자산공사의 손실 보전 방안이 과제로 남아있습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609030600111/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260903140100003"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260903025400052"
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/f6a9eee3-927d-4eb1-9e30-e3d773d64a5b"
             },
             {
               "name": "en.sedaily.com",
-              "url": "https://en.sedaily.com/society/2026/09/01/boiling-seas-kill-521-million-farmed-fish-in-south"
+              "url": "https://en.sedaily.com/finance/2026/09/04/lh-split-leaves-debt-plan-unfinished-as-port-merger-stirs"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "중동 긴장에 국제 유가 상승, 한국 경제에 영향 우려",
+          "summary": "중동 지역의 긴장이 지속되면서 미국 서부텍사스산원유(WTI) 선물 가격이 나흘 연속 상승해 배럴당 91.30달러에 마감했습니다. 이란의 쿠웨이트 공격과 호르무즈 해협을 둘러싼 우려가 커지면서 국제 유가가 혼조세를 보이며, 이는 원유 수입 의존도가 높은 한국 경제에 부정적인 영향을 미 미칠 수 있다는 우려가 제기됩니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260904005500072"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html"
+            },
+            {
+              "name": "stardem.com",
+              "url": "https://www.stardem.com/ap/world/oil-prices-rise-and-stocks-waver-as-middle-east-violence-flares-adding-to-uncertainty/article_4467962b-d4c2-52ce-8813-296f46fa253a.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "장관 후보자들 자격·의혹 논란…국회 인사청문회 주목",
+          "summary": "이소영 중소벤처기업부 장관 후보자는 중기부 소관 핵심 법안 대표 발의 실적이 전무하다는 지적을 받았습니다. 용혜인 성평등가족부 장관 후보자는 과거 국고보조금 폐지를 주장했으나 최근 의원직 유지를 밝히며 논란에 휩싸였습니다. 국민의힘은 두 후보자의 자격과 관련 의혹을 제기하며 철회를 요구하고 있습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260902150600001"
+            },
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260903174700001"
+            },
+            {
+              "name": "The Korea Times",
+              "url": "https://www.koreatimes.co.kr/southkorea/politics/20260830/lee-nominates-6-ministers-in-cabinet-shuffle"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -94,103 +107,129 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 출생 시민권 제한 시도 및 불법 이민자 보고 확대",
-          "summary": "트럼프 행정부가 출생 시민권 제한을 시도하는 행정명령에 대해 법원이 제동을 걸었으나, 의회에서는 출생 관광(birth tourism)을 통한 시민권 획득을 문제 삼으며 중국 등을 겨냥하고 있습니다. 한편, 미 법무부는 주 정부가 불법 이민자 정보를 연방 정부에 보고하는 방식을 확대하도록 지시하며 30년 가까이 유지된 정책을 변경했습니다. 이는 저소득층 지원 프로그램 수혜 주에 불법 이민자 정보를 전체 주 정부 차원에서 보고하도록 하는 내용을 담고 있습니다.",
+          "title": "트럼프 행정부, 우편 투표 제한 대법원 해제 요청",
+          "summary": "트럼프 행정부가 우편 투표 제한 계획을 추진하며, 해당 계획에 대한 연방 법원의 일시적 중단 명령을 해제해 줄 것을 대법원에 요청했습니다. 이 계획은 미 우정청(USPS)의 새로운 규정을 통해 우편 투표 절차를 변경하려 했으며, 유권자 등록 정보 공유 및 특정 바코드 사용을 의무화하는 내용을 포함하고 있습니다. 일부 전문가들은 이로 인해 유권자들의 투표권 행사에 혼란을 야기할 수 있다고 우려하고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+              "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/sep/02/justice-department-undocumented-immigrants-reports"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/politics/article/3366161/us-lawmakers-target-china-birth-tourism-citizenship-fight-intensifies?utm_source=rss_feed"
-            },
-            {
-              "name": "yahoo.com",
-              "url": "https://www.yahoo.com/news/politics/articles/trump-tougher-round-two-birthright-110039679.html"
+              "name": "jurist.org",
+              "url": "https://www.jurist.org/news/2026/09/us-dispatch-supreme-court-allows-president-trump-to-move-forward-with-mail-in-voting-directive"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "미국-베네수엘라 석유 거래 확대, 유가·증시 변동성 심화",
-          "summary": "미국과 베네수엘라 간 대규모 석유 거래가 성사되면서, 미국 에너지 기업 셰브론은 베네수엘라 석유 생산량을 두 배 이상 늘릴 계획입니다. 이는 미국의 석유 자원 통제 강화 의도로 풀이되나, 일각에서는 식민주의적 조치라는 비판도 제기됩니다. 한편, 미국과 이란 간 교전 재개로 국제 유가는 상승하고 증시는 하락하며 투자자들의 불안감이 커지고 있습니다.",
+          "tag": "pol",
+          "title": "트럼프 개선문 착공 논란, 최종 승인 전 추진",
+          "summary": "트럼프 행정부가 워싱턴 D.C.에 250피트 높이의 개선문 건설을 위한 착공 계획을 발표했습니다. 이 프로젝트는 아직 최종 승인을 받지 못한 상태이며, 비평가들은 워싱턴 D.C.의 역사적인 조망을 훼손할 수 있다고 우려하고 있습니다. 현재 소송이 진행 중이며, 내부 장관은 이 개선문이 '위대한 미국 건축물'이 될 것이라고 주장했습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work"
+            },
+            {
+              "name": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/trump-triumphal-arch-washington-dc-excavation-burgum"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "린지 클랜시 살인 사건 재판, 배심원 이견으로 난항",
+          "summary": "린지 클랜시 살인 사건 재판에서 배심원단이 '합리적 의심'의 정의에 대한 한 배심원의 이견으로 난항을 겪고 있습니다. 배심원단은 합의에 이르지 못하고 있으며, 변호인 측은 해당 배심원의 해임을 요청했습니다. 이 사건은 린지 클랜시가 세 자녀를 살해한 혐의로 기소된 사건입니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/03/us/holdout-juror-lindsay-clancy-trial.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/c3v49926063o?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "name": "newsnationnow.com",
+              "url": "https://www.newsnationnow.com/crime/lindsay-clancys-jury-deadlocked-what-happens-hung-jury"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "미국 주택담보대출 금리 6.71% 기록, 주택 시장 압박",
+          "summary": "미국 주택담보대출 금리가 2025년 7월 이후 최고치인 6.71%를 기록하며 주택 시장에 압박을 가하고 있습니다. 이는 치솟는 인플레이션으로 어려움을 겪는 소비자들에게 더 큰 부담이 되고 있습니다. 모기지 금융사 프레디맥은 30년 고정금리 주택담보대출 금리가 이전 주 6.66%에서 상승했다고 발표했습니다.",
+          "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"
+              "url": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html"
             },
             {
-              "name": "investing.com",
-              "url": "https://www.investing.com/news/commodities-news/experts-lawyers-puzzled-over-usvenezuela-oil-deal-call-for-contract-transparency-4882408"
+              "name": "wsls.com",
+              "url": "https://www.wsls.com/business/2026/09/03/average-rate-on-a-30-year-mortgage-climbs-to-highest-level-in-13-months"
+            },
+            {
+              "name": "cnn.com",
+              "url": "https://www.cnn.com/2026/09/03/economy/mortgage-rates-record-high-2026"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "우버, 런던 로보택시 시험 운행 개시…자율주행 기술 경쟁 심화",
-          "summary": "우버와 영국 스타트업 웨이브(Wayve)가 런던에서 로보택시 시험 운행을 시작했습니다. 초기에는 안전 운전자가 탑승하며, 우버는 런던 고객 10만 명 이상이 자율주행 택시 이용 의사를 밝혔다고 전했습니다. 이번 서비스는 세계적으로 자율주행 기술 개발 경쟁이 심화되는 가운데, 런던과 같은 복잡한 도시 환경에서의 상용화 가능성을 가늠하는 중요한 시험대가 될 것입니다.",
+          "tag": "eco",
+          "title": "중동 긴장 고조, 국제 유가 나흘 연속 상승",
+          "summary": "중동 지역의 긴장이 지속되면서 국제 유가가 나흘 연속 상승했습니다. 뉴욕상업거래소에서 10월 인도분 서부텍사스산원유(WTI) 선물은 배럴당 91.30달러로 마감하며, 8월 31일부터 상승세를 이어갔습니다. 이란의 쿠웨이트 공격과 호르무즈 해협을 둘러싼 우려가 유가 상승에 영향을 미치고 있으며, 이는 에너지 시장에 불안감을 더하고 있습니다.",
           "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260904005500072"
+            },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/02/business/uber-wayve-london.html"
+              "url": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch"
-            },
-            {
-              "name": "bloomberg.com",
-              "url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-wayve-launch-robotaxi-service-in-london-to-compete-with-waymo"
+              "name": "intellectia.ai",
+              "url": "https://intellectia.ai/blog/oil-prices-stock-market-september-2026"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "미니애폴리스 총격 사건 발생 및 랜지 클랜시 재판 배심원 협의 장기화",
-          "summary": "미니애폴리스 시내에서 총격 사건이 발생하여 경찰관 2명을 포함한 7명이 부상을 입었으며, 1명이 사망했습니다. 한편, 린제이 클랜시 살인 사건 재판에서 배심원단이 사흘 연속 만장일치 합의에 도달하지 못해 재판 중단 가능성이 제기되고 있습니다. 클랜시는 세 자녀 살해 혐의를 받고 있으나, 변호인 측은 산후 정신병을 주장하고 검찰 측은 계획적인 범죄라고 맞서고 있습니다.",
+          "tag": "pol",
+          "title": "JD 밴스 미 부통령, 이란에 상선 공격 중단 요구",
+          "summary": "JD 밴스 미 부통령은 이란이 상선에 대한 공격을 중단하지 않는 한 이란과 대화하지 않을 것이라고 밝혔습니다. 그는 이란이 중동 내 미국 우방국에 대한 공습을 계속하고 있다고 지적하며, 호르무즈 해협의 자유항행 회복을 강조했습니다. 밴스 부통령은 미국이 이란을 압박할 다양한 수단이 있다고 언급했으나 구체적인 내용은 밝히지 않았습니다.",
           "sources": [
             {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609040753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html"
+              "url": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "scrippsnews.com",
-              "url": "https://www.scrippsnews.com/us-news/crime/jury-deliberates-lindsay-clancys-fate-after-closing-arguments-in-childrens-deaths"
-            },
-            {
-              "name": "wbur.org",
-              "url": "https://www.wbur.org/news/2026/08/29/jury-in-lindsay-clancy-trial-ends-second-day-of-deliberations-without-a-verdict"
+              "name": "asiae.co.kr",
+              "url": "https://www.asiae.co.kr/en/article/2026090404112001987"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -200,75 +239,88 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "미국 의원들, 중국 '출생 관광' 겨냥 및 대만 억지 전략 강조",
-          "summary": "미국 의회에서 '출생 시민권' 문제를 논의하는 청문회에서 중국의 '출생 관광'이 도마 위에 올랐으며, 일부 의원들은 중국을 적대국으로 지목하며 우려를 표했습니다. 이와 함께 대만 해협의 군사적 긴장이 고조되는 상황에서, 대만이 새로운 억지 전략을 마련해야 할 필요성이 제기되고 있습니다. 중국의 '회색 지대 강압' 전술이 대만을 위협하고 전 세계를 무감각하게 만들고 있다는 분석도 나왔습니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/politics/article/3366161/us-lawmakers-target-china-birth-tourism-citizenship-fight-intensifies?utm_source=rss_feed"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/commentary/2026/09/03/world/taiwan-deterrence-strategy/"
-            },
-            {
-              "name": "defensepriorities.org",
-              "url": "https://www.defensepriorities.org/explainers/accommodation-an-underutilized-strategy-for-great-power-rivals"
-            },
-            {
-              "name": "mrkrudd.substack.com",
-              "url": "https://mrkrudd.substack.com/p/what-americans-need-to-understand"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "일본 국채 금리 상승, 미국 시장에 영향 미치며 엔화 가치 변동성",
-          "summary": "일본 국채 금리가 30년 만에 3%를 돌파하며 일본 자본의 해외 시장 유출 흐름이 역전될 조짐을 보이고 있습니다. 이는 일본을 최대 미국 국채 보유국이자 전 세계 국채 시장의 주요 구매자로 만들었던 투자 흐름에 변화를 가져올 수 있습니다. 일본의 장기 금리 상승은 이미 미국 시장에 영향을 미치고 있으며, 일본은행의 추가 금리 인상 가능성 등으로 엔화 가치 변동성이 커지고 있습니다.",
+          "title": "일본 금리 인상 전망에 엔화 가치 급등, 엔캐리 청산 우려",
+          "summary": "일본은행의 이달 정책금리 인상 가능성과 일부 매체에서 '빅스텝' 단행 전망이 나오면서 엔화 가치가 달러 대비 급등했습니다. 이는 낮은 금리의 엔화를 빌려 해외 위험자산에 투자하는 '엔캐리 트레이드' 자금의 대규모 청산 우려를 키우며, 글로벌 자산시장에 매도세가 촉발될 가능성을 제기하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/02/bond-rout-turning-tide/"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-rising-yields-are-impacting-us-market-senior-treasury-official"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger"
-            },
-            {
-              "name": "stonex.com",
-              "url": "https://www.stonex.com/en-gb/news-and-analysis/usdjpy-forecast-will-inflation-data-be-enough-to-move-the-yen"
+              "name": "eurasiabusinessnews.com",
+              "url": "https://eurasiabusinessnews.com/2026/09/03/yen-soars-to-one-month-high-against-dollar-amid-intervention-and-boj-rate-hike-speculation"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "일본 청소년 자살 증가, 커뮤니티 기반 예방 노력 지원",
-          "summary": "일본에서 초·중·고등학생 자살자 수가 2025년에 538명으로 역대 최고치를 기록하는 등 아동 자살 문제가 심각해지자, 아동가족청은 2027회계연도부터 지역사회 기반의 아동 자살 예방 노력을 지원할 계획입니다. 이를 위해 관련 예산으로 10억 4천만 엔을 요청했으며, 지방 정부가 아동 관련 기관과 협력하여 협의회를 구성하고 아동 모니터링 및 정보 공유를 강화하는 방안을 추진합니다.",
+          "tag": "tec",
+          "title": "중국 AI 언어 모델 급증, 비용 문제와 기술 경쟁 심화",
+          "summary": "중국 내 AI 언어 모델 수가 급증하면서 '초저가 AI' 경쟁이 심화되고 있습니다. DeepSeek과 같은 주요 기업들은 비용 증가를 예고하며, AI 모델 개발과 상업화 사이의 경제적 지속 가능성 문제가 대두되고 있습니다. 중국 AI 기업들은 기술적으로 선두를 달리고 있으나, 제한된 컴퓨팅 파워 속에서 성능과 가격 경쟁을 동시에 벌이고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/02/japan/child-suicide-prevention-subsidies/"
+              "url": "https://www.japantimes.co.jp/commentary/2026/09/04/world/can-china-afford-cheap-ai/"
             },
             {
-              "name": "japantimes.co.jp",
-              "url": "https://www.japantimes.co.jp/news/2026/09/02/japan/child-suicide-prevention-subsidies"
+              "name": "tradingview.com",
+              "url": "https://www.tradingview.com/news/gurufocus:a1cf56641094b:0-openai-rival-moonshot-makes-blockbuster-50-billion-move"
             },
             {
-              "name": "tokyoreporter.com",
-              "url": "https://www.tokyoreporter.com/japan-news/student-suicides-hit-record-538-as-kids-say-they-prefer-consulting-ai-over-teachers"
+              "name": "realclearenergy.org",
+              "url": "https://www.realclearenergy.org/articles/2026/09/03/the_energy_future_made_in_china_by_coal_1202898.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "eco",
+          "title": "홍콩, 법적 예측 가능성 바탕으로 세계 금융 허브 도약",
+          "summary": "세계 금융 센터 지수(GFCI) 창시자는 홍콩이 법적 예측 가능성과 낮은 세율을 바탕으로 뉴욕과 런던을 넘어 세계 최고의 금융 허브로 부상할 가능성이 높다고 밝혔습니다. 아시아 지역이 글로벌 금융의 약 40%를 차지하는 구조적 변화 속에서 홍콩은 런던과 뉴욕과의 격차를 좁히며 3위를 기록했습니다. 이는 홍콩이 개방성과 예측 가능성을 유지하는 한 지속될 전망입니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed"
+            },
+            {
+              "name": "indexbox.io",
+              "url": "https://www.indexbox.io/blog/hong-kong-poised-to-overtake-london-and-new-york-as-top-financial-hub"
+            },
+            {
+              "name": "france24.com",
+              "url": "https://www.france24.com/en/live-news/20260831-shein-valued-at-26-3-bn-in-hong-kong-market-debut"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "중국-싱가포르 보안팀, 스타링크 위성 단말기 해킹 주장",
+          "summary": "중국-싱가포르 공동 보안 연구팀 '다크네이비(Darknavy)'가 최신 스타링크 위성 단말기를 해킹하여 시스템의 보안 취약성을 주장했습니다. 연구팀은 정교한 하드웨어 공격을 통해 단말기에 대한 완전한 관리자 권한을 획득하고 사용자 정의 코드를 실행할 수 있게 되었다고 밝혔습니다. 이는 세계 최대 위성 통신망인 스타링크 시스템의 보안 연구에 새로운 장을 열 것으로 보입니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals?utm_source=rss_feed"
+            },
+            {
+              "name": "cypro.co.uk",
+              "url": "https://cypro.co.uk/insights/cyber-bulletins/starlink-terminal-hack-claim-lacks-verification"
+            },
+            {
+              "name": "facebook.com",
+              "url": "https://www.facebook.com/scmp/posts/bad-news-for-elon-musk-and-starlink/1475755104600537"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -279,74 +331,104 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "독일 드론 공격 러시아 배후 지목, EU·NATO 압박 강화",
-          "summary": "독일이 라이프치히 공항 드론 공격의 배후로 러시아를 지목하자, 유럽연합(EU)과 북대서양조약기구(NATO)는 러시아에 대한 압박을 강화하겠다고 밝혔습니다. EU 집행위원장은 이번 사건이 러시아에 직접적으로 기인한 새로운 유럽 연합 영토 내 긴장 고조라고 비판하며, 신속하고 효과적인 대응을 촉구했습니다. 러시아 외무부는 독일의 주장을 증거 없는 비난이라며 부인하고, 보복 조치를 예고했습니다.",
+          "title": "유럽, 역대 최저 천연가스 비축량으로 혹한 우려 고조",
+          "summary": "올겨울을 앞두고 유럽의 천연가스 비축량이 역대 최저 수준인 65.6%까지 떨어져 혹한에 대한 우려가 커지고 있습니다. 독일과 네덜란드 등 주요국은 정부 목표치에 미달할 것으로 예상되며, 네덜란드는 가스 비축 확대를 위해 10억 유로를 추가 투입했습니다. 유럽 천연가스 가격은 지난 두 달 새 75% 이상 급등하여 추가 상승 가능성도 제기됩니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260904025200009"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss"
+              "name": "euronews.com",
+              "url": "https://www.euronews.com/business/2026/08/31/european-gas-prices-spike-above-70-amid-renewed-middle-east-fighting"
             },
             {
-              "name": "newscord.org",
-              "url": "https://newscord.org/article/eu-and-nato-vow-more-pressure-after-germany-blames-russia-for-leipzig-drone-atta--Story_20260902_Kallascallsthefaileddadaf20a"
-            },
-            {
-              "name": "aa.com.tr",
-              "url": "https://www.aa.com.tr/en/europe/european-nato-leaders-rally-behind-germany-after-russia-s-attempted-drone-attack-at-leipzig-airport/4044510"
+              "name": "unn.ua",
+              "url": "https://unn.ua/en/news/europe-enters-winter-with-its-lowest-gas-reserves-in-13-years-the-guardian"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "네덜란드, 지정학적 불안정 우려에 금 보유고 런던으로 이전",
-          "summary": "네덜란드 중앙은행(DNB)이 지정학적 불안정 심화를 이유로 미국과 캐나다에 보관하던 금 보유고 86톤을 런던으로 이전했습니다. DNB는 런던에 보관된 금이 위기 상황에서 더 쉽게 거래될 수 있다고 밝혔습니다. 이번 이전으로 런던에 있는 네덜란드 금 보유량 비중은 18.1%에서 32.1%로 늘어났으며, 이는 중앙은행들의 금 관리 전략 변화 가능성에 대한 관심을 불러일으키고 있습니다.",
+          "tag": "pol",
+          "title": "스페인 총리, 세우타 국경 침범 모로코 배후설 부인 지속",
+          "summary": "페드로 산체스 스페인 총리가 세우타 국경 침범 사건에 대해 모로코가 배후에 있다는 증거가 전혀 없다고 재차 주장했습니다. 경찰 보고서에서 모로코 보안군이 이주민들의 국경 침범을 적극 도왔다고 명시했음에도 불구하고, 산체스 총리는 모로코와의 협력을 강조하며 자국 정부의 거짓말 의혹을 부인했습니다. 이 사건으로 스페인 국내외에서 비판과 논란이 계속되고 있습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3366158/dutch-shift-86-tonnes-gold-us-and-canada-uk-over-geopolitical-unrest?utm_source=rss_feed"
-            },
-            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "cryptobriefing.com",
-              "url": "https://cryptobriefing.com/netherlands-moves-86-tonnes-of-gold-to-uk-amid-geopolitical-unrest"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach"
             },
             {
-              "name": "investing.com",
-              "url": "https://www.investing.com/news/world-news/dutch-central-bank-moves-gold-from-us-to-uk-on-geopolitical-risk-93CH-4886429"
+              "name": "thenationalnews.com",
+              "url": "https://www.thenationalnews.com/news/uk/2026/08/31/spain-rules-out-claims-of-moroccan-involvement-in-ceuta-migrant-crisis"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "스페인 세우타 이민자 위기, 정부 대응 비판 및 시위 확산",
-          "summary": "스페인 정부의 북아프리카 월경지 세우타 이민자 유입 사태 대응을 규탄하는 시위가 스페인 전역에서 확산하고 있습니다. 야당은 페드로 산체스 총리가 세우타 주민들을 방치했다고 비판하며 사퇴를 요구했으며, 정부는 우익 정당들이 위기를 정치적으로 이용하고 있다고 맞서고 있습니다. 특히 모로코 보안군이 이민자 유입에 '전적인 묵인'을 보였다는 경찰 보고서가 유출되면서 논란이 증폭되고 있습니다.",
+          "tag": "pol",
+          "title": "리히텐슈타인 의회 낙태 합법화, 군주 거부권 행사 가능성",
+          "summary": "리히텐슈타인 의회가 임신 12주 이내 낙태 합법화를 지지하는 시민 발의안을 통과시켰습니다. 그러나 알로이스 세습 왕세자가 이 법안에 거부권을 행사할 것이라고 밝혀 논란이 예상됩니다. 카톨릭 신자가 다수인 리히텐슈타인에서는 2011년 국민투표에서 낙태 합법화가 부결된 바 있으며, 현재는 여성의 생명이 위험하거나 강간으로 인한 경우에만 낙태가 허용됩니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "bgnes.com",
+              "url": "https://www.bgnes.com/politics/liechtenstein-parliament-approves-legalization-of-abortion"
+            },
+            {
+              "name": "uk.news.yahoo.com",
+              "url": "https://uk.news.yahoo.com/liechtensteins-parliament-backs-abortion-initiative-204655971.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "독일, 라이프치히 드론 공격 러시아 소행 지목…EU·NATO 압박 강화",
+          "summary": "독일 당국은 라이프치히 공항 드론 공격 시도에 대해 러시아를 배후로 지목하며 '새로운 위협'에 대한 EU와 NATO의 압력 강화를 요구했습니다. 이번 사건은 우크라이나 화물기가 이용하는 나토 허브 공항에서 발생했으며, 독일은 러시아 외교 시설 폐쇄 등 대응 조치를 발표했습니다. 러시아는 혐의를 부인하고 있으나, EU와 NATO는 독일에 대한 전적인 연대를 표명하며 러시아의 무모한 행동에 대한 대응을 강화하겠다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/09/02/spain-government-in-disarray-as-conflicting-reports-swirl-over-moroccos-role-in-ceuta"
+              "url": "http://www.euronews.com/my-europe/2026/09/03/highly-likely-russia-will-escalate-attacks-on-eu-lithuanian-minister-says"
             },
             {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/09/02/conservative-and-far-right-meps-rally-against-spains-government-over-ceuta-crisis"
+              "name": "france24.com",
+              "url": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "지중해 이주민 선박 구조 후 80명 이상 사망 추정, 이주민 문제 심각",
+          "summary": "대서양을 27일간 표류하던 이주민 선박이 스페인 카나리아 제도 인근에서 구조된 후, 80명 이상의 이주민이 사망한 것으로 추정됩니다. 스페인 해상구조대는 44명의 생존자와 5구의 시신을 발견했으며, 선박에는 감비아에서 출발한 127명이 탑승했던 것으로 알려졌습니다. 카나리아 제도 정부는 대서양 항로가 '죽음의 덫'이 되고 있음을 지적하며 이주민 문제의 심각성을 강조했습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "bbc.co.uk",
-              "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o"
+              "name": "indiatoday.in",
+              "url": "https://www.indiatoday.in/world/story/canary-islands-migrant-boat-tragedy-five-dead-44-rescued-dozens-feared-lost-ptag-2986420-2026-09-03"
+            },
+            {
+              "name": "cnn.com",
+              "url": "https://www.cnn.com/2026/09/03/europe/dozens-dead-boat-spain-canary-islands-migration-intl"
             }
           ],
           "verification": "multi",
@@ -361,24 +443,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "구글, 새로운 AI 모델 Gemini 3.8 Flash 출시…AI 안전성 논란 가열",
-          "summary": "구글이 6주 만에 세 번째 플래시 모델인 Gemini 3.8 Flash를 출시하며 인공지능(AI) 개발 경쟁에 박차를 가하고 있습니다. 이 모델은 소프트웨어 엔지니어링 및 자율 AI 에이전트 분야에서 상당한 개선을 보였으며, 사이버 보안에 특화된 Gemini 3.8 Flash Cyber도 함께 공개되었습니다. 하지만 OpenAI의 Astra 출시를 앞두고 AI 모델의 '사고 과정' 투명성 부족으로 인한 AI 안전성 재앙에 대한 연구자들의 우려가 커지고 있습니다.",
+          "title": "엔비디아, 허깅페이스 129억 달러에 인수…AI 지배력 강화",
+          "summary": "엔비디아가 인공지능(AI) 플랫폼 허깅페이스(Hugging Face)를 약 129억 달러(약 17조원)에 인수하기로 합의했습니다. 이번 인수는 엔비디아가 AI 소프트웨어 분야로 영역을 확장하고 오픈소스 기술에 대한 의지를 보여주는 것으로 해석됩니다. 허깅페이스는 1,800만 명 이상의 개발자가 사용하고 3백만 개 이상의 AI 모델을 호스팅하는 주요 온라인 플랫폼입니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-            },
-            {
-              "name": "unite.ai",
-              "url": "https://www.unite.ai/google-launches-gemini-3-8-flash-with-cybersecurity-variant"
+              "name": "axios.com",
+              "url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-13b"
             }
           ],
           "verification": "multi",
@@ -386,20 +464,20 @@
         },
         {
           "tag": "tec",
-          "title": "미 육군, 드론 격추용 20kW 레이저 시스템 시험 성공",
-          "summary": "미국 육군이 텍사스주 리오그란데 밸리 근처에서 20kW급 고에너지 다목적 레이저 시스템을 사용하여 드론 3대를 격추하는 데 성공했습니다. 이 드론들은 미군 인력과 국경순찰대(CBP)에 물리적 위협을 가하는 것으로 알려졌습니다. 이 시스템은 AeroVironment사가 개발한 'Locust Laser Weapon System'으로, 군용 차량에 탑재하여 원거리에서 드론을 탐지, 추적, 손상 또는 파괴할 수 있습니다.",
+          "title": "우버, 런던서 자율주행 로보택시 서비스 개시",
+          "summary": "우버가 영국 런던에서 안전 운전자가 탑승한 자율주행 로보택시 서비스를 처음으로 시작했습니다. 초기에는 15대의 자율주행 차량이 운영되며, 비상시 인간 운전자가 제어할 수 있도록 합니다. 우버는 이 서비스를 통해 자율주행 기술의 상용화 가능성을 시험하고 있으며, 요금은 일반 우버X와 동일하게 책정됩니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "gadgetreview.com",
-              "url": "https://www.gadgetreview.com/the-u-s-army-can-now-fry-drones-with-a-laser-and-an-xbox-controller"
+              "name": "cnet.com",
+              "url": "https://www.cnet.com/roadshow/automobiles/uber-wayve-launch-londons-first-public-robotaxi-service"
             },
             {
-              "name": "armyrecognition.com",
-              "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-army-uses-amp-hel-laser-weapon-for-first-time-to-destroy-cartel-linked-drones-at-southern-border"
+              "name": "theverge.com",
+              "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch"
             }
           ],
           "verification": "multi",
@@ -407,24 +485,20 @@
         },
         {
           "tag": "tec",
-          "title": "레인지로버, 기존 디자인 유지한 첫 순수 전기차 모델 공개",
-          "summary": "재규어 랜드로버가 첫 순수 전기차 모델인 2027년형 레인지로버 일렉트릭을 공개했습니다. 이 차량은 기존 내연기관 및 플러그인 하이브리드 모델과 거의 동일한 외관 디자인을 유지하며, 542마력의 출력과 850Nm의 토크를 발휘합니다. 118.5kWh 리튬이온 배터리를 탑재하여 약 330마일(약 531km)의 주행거리를 제공하며, 800볼트 아키텍처를 통해 22분 만에 10%에서 80%까지 고속 충전이 가능합니다.",
+          "title": "OpenAI, 차세대 AI 모델 GPT-6 Astra 공개하며 'AGI 시대' 선언",
+          "summary": "OpenAI가 사이버 보안, 전문 업무, 소프트웨어 엔지니어링, 과학 분야에서 '세대적 도약'을 이룬 차세대 AI 모델 GPT-6 Astra를 발표했습니다. OpenAI는 이 모델이 인공일반지능(AGI) 시대에 진입했음을 시사한다고 밝혔습니다. GPT-6 Astra는 기업 고객을 대상으로 먼저 출시되며, 추후 ChatGPT Plus 및 기타 사용자들에게도 확대될 예정입니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/"
-            },
-            {
               "name": "The Verge",
-              "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
             },
             {
-              "name": "autocar.co.uk",
-              "url": "https://www.autocar.co.uk/car-news/electric-cars/range-rover-goes-electric-%C2%A3154k-372-miles-range-and-2885kg"
+              "name": "the-decoder.com",
+              "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era"
             },
             {
-              "name": "jlr.com",
-              "url": "https://www.jlr.com/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+              "name": "axios.com",
+              "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman"
             }
           ],
           "verification": "multi",
