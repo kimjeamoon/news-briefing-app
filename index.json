@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-05",
-  "date_str": "2026년 9월 5일 (토)",
+  "date": "2026-09-07",
+  "date_str": "2026년 9월 7일 (월)",
   "key5": [
-    "유엔, 아프리카 실제 크기 반영한 새 세계 지도 채택",
-    "미국 8월 고용 예상치 상회, 연준 금리 인상 압박 지속",
-    "폭스바겐, 2030년까지 10만 명 추가 감원 계획 승인",
-    "러시아, 우크라이나 보안국 본부 드론 공격, 유럽 사보타주 캠페인 의심",
-    "OpenAI 에이전트, 독일 웹사이트 하이재킹 논란 보고서 공개"
+    "이재명 대통령, 프랑스 국제 영화·영상 정상회의 참석 및 국빈 방문 시작",
+    "호르무즈 해협 파병 두고 한국 딜레마 직면, 트럼프 압박 속 이란은 '전쟁 참여' 경고",
+    "김승원 법무부 장관 후보자, 신약 청탁 및 자녀 취업 특혜 의혹으로 곤욕",
+    "2030년부터 고교 내신 절대평가 전환 추진, 변별력 저하 및 교육 격차 우려 제기",
+    "독일 극우 정당 AfD, 작센-안할트 주 선거에서 압도적 득표율로 역사적 승리"
   ],
   "regions": [
     {
@@ -16,50 +16,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "정부 노동시장 유연화 정책 및 외교관 국비 유학 후 미복귀 논란",
-          "summary": "정부가 기업의 인력 재배치 시 파업 가능성을 남겨두는 노동 쟁의 지침을 발표하며 경영계의 우려가 커지고 있습니다. 한편, 국비 유학을 다녀온 외교관들이 의무 복무를 채우지 않고 퇴직하는 사례가 발생해 혈세 낭비 및 '모럴 해저드' 논란이 일고 있습니다.",
+          "title": "이재명 대통령, 프랑스 국제 영화·영상 정상회의 참석 및 국빈 방문 시작",
+          "summary": "이재명 대통령이 에마뉘엘 마크롱 프랑스 대통령의 초청으로 프랑스를 방문하여 국제 영화·영상 정상회의인 '뤼미에르 서밋'에 공동 의장 자격으로 참석하며 일정을 시작했습니다. 이후 파리에서 이틀간 국빈 양자 방문 일정을 소화하며 마크롱 대통령과의 정상회담 등을 가질 예정입니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260904132400003"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260907001100001"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260904168700001"
+              "name": "The Chosun Ilbo (English)",
+              "url": "https://www.chosun.com/english/national-en/2026/09/04/SGWPKMGVW5DKXOOARH25WDXI64"
+            },
+            {
+              "name": "Aju Press",
+              "url": "https://www.ajupress.com/view/20260906142927057"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "중동 불안 속 국제유가 상승에도 국내 기름값 16주 연속 하락",
-          "summary": "중동 지역 정세 불안(미국-이란 간 공방, 예멘 내전 격화)으로 국제유가가 큰 폭으로 상승했음에도 불구하고, 국내 주유소 기름값은 16주 연속 소폭 하락세를 이어갔습니다. 국제유가 변동은 통상 2~3주 시차를 두고 국내 가격에 반영됩니다.",
+          "tag": "pol",
+          "title": "호르무즈 해협 파병 두고 한국 딜레마 직면, 트럼프 압박 속 이란은 '전쟁 참여' 경고",
+          "summary": "도널드 트럼프 미국 대통령이 호르무즈 해협 파병을 포함한 동맹국들의 기여를 압박하는 가운데, 이재명 대통령은 파병 논의가 진척된 바 없으며 신중하게 검토 중이라고 밝혔습니다. 이란은 한국이 호르무즈 해협에 파병할 경우 이를 직접적인 군사적 침략 및 전쟁 참여로 간주하겠다고 경고하며 한국 정부의 고민이 깊어지고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260904119500003"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260906032851504"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609042345001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "wionews.com",
+              "url": "https://www.wionews.com/world/south-korea-plans-for-military-deployment-in-strait-of-hormuz-amid-us-pressure-1788497052424"
+            },
+            {
+              "name": "koreajoongangdaily.com",
+              "url": "https://www.koreajoongangdaily.com/korea/korea-weighs-strait-of-hormuz-deployment-amid-us-pressure/12859426"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "폭염 위기경보 하향 속 산업단지 '유령 사업자' 문제 제기",
-          "summary": "행정안전부가 40일 만에 폭염 재난 위기경보를 '심각'에서 '경계' 단계로 하향 조정하고 중앙재난안전대책본부 비상근무를 해제했습니다. 한편, 국가산업단지에 입주 계약 없이 사업자등록만 해 세제 혜택을 누리는 이른바 '유령 사업자'가 상당한 것으로 나타나 제도 개선이 필요하다는 지적이 제기되었습니다.",
+          "tag": "pol",
+          "title": "김승원 법무부 장관 후보자, 신약 청탁 및 자녀 취업 특혜 의혹으로 곤욕",
+          "summary": "김승원 법무부 장관 후보자가 신약 임상시험 승인 청탁과 관련하여 브로커와 노골적인 통화를 했다는 녹취록이 공개되었고, 국민의힘은 관련 수사를 촉구했습니다. 또한 배우자가 운영하는 복지기관에 자녀 두 명이 취업하여 수억 원의 인건비를 지급받았다는 의혹도 제기되었습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260904152000001"
+              "url": "https://www.yna.co.kr/view/AKR20260906018152001"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609042246001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260906033552001"
+            },
+            {
+              "name": "koreajoongangdaily.com",
+              "url": "https://www.koreajoongangdaily.com/opinion/justice-minister-nominee-faces-clinical-trial-lobbying-questions/12857046"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "2030년부터 고교 내신 절대평가 전환 계획, 변별력 저하 및 교육 격차 우려 제기",
+          "summary": "대통령 직속 국가교육위원회가 2030학년도부터 고등학교 내신을 현재의 5등급 상대평가에서 절대평가로 전면 전환하는 방안을 추진하고 있습니다. 이는 고교학점제 취지를 살리고 과도한 경쟁을 완화하기 위함이지만, 내신 부풀리기 및 대학 입시에서의 변별력 저하, 학교·지역 간 교육 격차 심화에 대한 우려도 제기되고 있습니다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/schooling/1276526.html"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/society/schooling/1276523.html"
             }
           ],
           "verification": "multi",
@@ -74,16 +103,62 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 우편투표 제한 시도 및 사면권 행사",
-          "summary": "트럼프 행정부는 중간 선거를 앞두고 우편투표를 제한하려는 시도를 하고 있으며, 노스캐롤라이나주에서는 우편투표 프로그램에 새로운 규제가 추가되어 일부 표가 무효화될 가능성이 제기됩니다. 한편, 트럼프 대통령은 목요일 30명에게 사면 또는 감형을 부여하며 그의 독특한 사면권 행사를 이어갔습니다.",
+          "title": "트럼프 전 대통령, 우편투표 제한 시도 및 대선 캠페인에 영향",
+          "summary": "트럼프 행정부가 우편투표 제한을 허용해달라는 요청을 다시 대법원에 제출했습니다. 이는 중간 선거를 앞두고 투표 방식을 둘러싼 혼란을 가중시키며 공화당 후보들의 선거 전략에도 영향을 미치고 있습니다. 법원은 트럼프의 행정명령이 위헌적이라고 판단했으나, 행정부는 계속해서 대법원 판결을 구하고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html"
+              "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
             },
             {
+              "name": "AP News",
+              "url": "https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-63899f738d28d161b629054a314f161a"
+            },
+            {
+              "name": "democracydocket.com",
+              "url": "https://www.democracydocket.com/news-alerts/in-major-win-for-voters-judge-blocks-trumps-mail-voting-restrictions-for-midterms"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미국 특사, 푸틴·젤렌스키 연쇄 접촉으로 우크라이나 3자 평화 협상 재개 추진",
+          "summary": "도널드 트럼프 미국 대통령의 특사 스티브 윗코프와 재러드 쿠슈너가 러시아 푸틴 대통령과 우크라이나 젤렌스키 대통령을 연이어 만나 우크라이나 전쟁 종식 협상을 진행했습니다. 미국은 러시아와 우크라이나가 직접 참여하는 3자 협상을 재개할 것을 제안했으며, 양측 모두 참여 의사를 밝혔으나 영토 문제 등 핵심 쟁점에서는 여전히 입장 차이가 큰 것으로 알려졌습니다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/europe/1276530.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "오하이오 주지사 민주당 후보 에이미 액튼, 선거 유세 중 무장 괴한에게 공격받아",
+          "summary": "오하이오 주지사 민주당 후보 에이미 액튼이 선거 유세 중 무장 괴한에게 공격받는 사건이 발생했습니다. 액튼 후보는 다치지 않았으나, 캠페인 관계자 여러 명이 부상을 입었으며 용의자는 현장에서 체포되었습니다. 해당 사건은 정치적 폭력에 대한 우려를 증폭시키고 있습니다.",
+          "sources": [
+            {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html"
+              "url": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack"
+            },
+            {
+              "name": "dispatch.com",
+              "url": "https://www.dispatch.com/story/news/politics/2026/09/06/armed-man-attacks-ohio-governor-candidate-amy-acton-several-injured/91644512007"
             }
           ],
           "verification": "multi",
@@ -91,45 +166,24 @@
         },
         {
           "tag": "eco",
-          "title": "8월 고용 예상치 상회, 트럼프 연준에 금리 인하 압박",
-          "summary": "미국 노동부 발표에 따르면 8월 비농업 일자리가 16만2000명 증가하며 시장 예상치를 크게 웃돌았고 실업률은 4.1%를 유지해 노동시장의 안정세를 보였습니다. 이에 따라 연방준비제도(Fed)의 금리 인상 가능성이 열려있는 가운데, 도널드 트럼프 대통령은 연준의 금리 인하를 압박하며 무역 정책 연계를 시사했습니다.",
+          "title": "미국-이란 군사 충돌 재개 후 유가 상승, OPEC+ 생산량 동결 결정",
+          "summary": "미국과 이란 간 군사적 충돌이 재개되면서 유가가 소폭 상승했으며, 국제유가 벤치마크인 브렌트유는 1%가량 올랐습니다. 이에 OPEC+는 페르시아만에서의 군사 충돌 재개 이후 산유량을 동결하기로 결정했습니다. 이란의 공격으로 호르무즈 해협의 선박 통행에 차질이 생기면서 석유 공급에 대한 우려가 커지고 있습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609042203001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
+              "url": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
             },
             {
-              "name": "aljazeera.com",
-              "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts"
+              "name": "thenationalnews.com",
+              "url": "https://www.thenationalnews.com/business/energy/2026/09/06/opec-keeps-oil-output-policy-unchanged-for-october-amid-iran-war-uncertainty"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "린제이 클랜시 살인 사건 재판 오심 선언 및 홍역 사망자 논란",
-          "summary": "자녀 셋을 살해한 혐의로 기소된 린제이 클랜시 사건 재판에서 배심원단의 합의 실패로 오심이 선언되었습니다. 배심원단은 클랜시가 정신병을 앓고 있었다는 변호인 측 주장과 의도적인 살해였다는 검찰 측 주장 사이에서 만장일치 평결에 도달하지 못했습니다. 한편, 홍역 관련 사망자 논란이 계속되고 있습니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "wcvb.com",
-              "url": "https://www.wcvb.com/article/measles-associated-deaths-dissecting-the-dispute/73590335"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
         }
       ]
     },
@@ -140,20 +194,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "유엔, 아프리카 실제 크기 반영한 새 세계 지도 채택",
-          "summary": "유엔 총회가 아프리카 대륙의 실제 크기를 보다 정확하게 반영하는 새로운 세계 지도(Equal Earth 투영법)를 채택하는 결의안을 압도적인 찬성으로 통과시켰습니다. 164개국이 찬성했으며, 미국만이 반대했습니다. 이번 결의는 구형 메르카토르 도법이 아프리카와 적도 부근 지역을 실제보다 작게 왜곡한다는 비판에 따른 것입니다.",
+          "title": "일본 입헌민주당 다마키 유이치로 대표 3선 연임, 정권 장악 준비",
+          "summary": "일본 야당인 입헌민주당(DPP)의 다마키 유이치로 대표가 3선 연임에 성공했습니다. 다마키 대표는 자신의 새로운 임기를 '정권 장악을 위한 준비 기간'으로 간주하며 당의 존재감을 높이는 것을 목표로 한다고 밝혔습니다. 그는 30세 하시모토 미키히코 의원을 꺾고 재선되었습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/09/06/japan/politics/tamaki-wins-3rd-term-dpp/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/article/3366446/un-adopts-new-map-africa-bigger-north-america-and-europe-smaller?utm_source=rss_feed"
+              "name": "chinadaily.com.cn",
+              "url": "https://usa.chinadaily.com.cn/a/202609/06/WS6a9d6f12e4b06d4aa055c9ae.html"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
+              "name": "mainichi.jp",
+              "url": "https://mainichi.jp/english/articles/20260906/p2g/00m/0na/044000c"
             }
           ],
           "verification": "multi",
@@ -161,37 +215,45 @@
         },
         {
           "tag": "eco",
-          "title": "일본 기업 니덱 품질 관리 부정 적발 및 엔화 가치 변동",
-          "summary": "일본의 주요 모터 제조업체 니덱(Nidec)의 제3자 조사 패널이 고객 승인 없이 재료, 제조 공정 및 디자인을 변경하는 등 844건의 품질 관리 부정 사례를 확인했습니다. 한편, 이번 주 엔화 가치의 급격한 강세가 관찰되었으나, 일부 분석가들은 개입 속도 부족을 이유로 일본 또는 미국의 공식적인 시장 개입은 아니라고 결론 내렸습니다.",
+          "title": "중국, 금융 부문에 400억 파운드 규모 경기 부양책 준비",
+          "summary": "중국 정부가 경기 둔화 우려 속에 금융 부문에 400억 파운드(약 540억 달러) 규모의 자본 투입을 준비하고 있습니다. 이는 은행과 보험사들의 주식 시장 투자 및 기업 대출 역량을 강화하기 위함이며, 주요 국영 금융 기관들이 재무부 및 국영 담배 회사 등으로부터 자본을 확충할 예정입니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/04/nidec-844-quality-irregularities/"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/09/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/04/markets/yen-friday/"
+              "name": "the420.in",
+              "url": "https://the420.in/china-54-billion-state-banks-insurers-capital-injection"
+            },
+            {
+              "name": "economictimes.indiatimes.com",
+              "url": "https://m.economictimes.com/news/international/world-news/china-to-pump-54-billion-into-state-banks-insurers-in-capital-boosting-push/articleshow/133834870.cms"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "중국 해수 우라늄 추출 기술 진전 및 태국 데이터 센터 건설 중단",
-          "summary": "중국 연구팀이 해수에서 우라늄을 추출하는 새로운 재료인 '포스케이지(PhosCage)'를 개발하여 미국 목표치의 8배에 달하는 추출율을 달성하며 이 분야에서 상당한 진전을 보였습니다. 한편, 태국 정부는 자원 소비 우려가 커지면서 49개 데이터 센터 건설을 일시적으로 중단하고 새로운 산업 규제 마련에 착수했습니다.",
+          "tag": "soc",
+          "title": "일본 도쿄 및 주변 현에 폭우 예보, 산사태·하천 범람 경고",
+          "summary": "일본 기상청이 도쿄와 주변 현에 폭우를 예보하며 산사태, 하천 수위 상승, 저지대 침수에 대한 높은 경계를 당부했습니다. 최근 몇 주간 일본 전역에 걸쳐 폭우가 쏟아져 일부 지역에서는 사망자가 발생하기도 했습니다. 기상청은 태풍 크로반과 전선의 영향으로 서일본 저지대도 침수될 수 있다고 경고했습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3366307/chinese-team-extracts-uranium-seawater-8-times-us-target-rate?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/09/07/japan/rain-kanto-tokyo-floods/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366435/thailand-suspends-building-49-data-centres-resource-strain-concerns-grow?utm_source=rss_feed"
+              "name": "qazinform.com",
+              "url": "https://qazinform.com/news/record-breaking-rain-triggers-landslide-alerts-on-japans-yakushima-island-6e95aa"
+            },
+            {
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026090500159"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "사회"
         }
       ]
     },
@@ -202,62 +264,87 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아, 우크라이나 보안국 본부 드론 공격 및 유럽 사보타주 캠페인",
-          "summary": "러시아 드론이 우크라이나 수도 키이우 중심부의 우크라이나 보안국(SBU) 본부를 공격했으며, 젤렌스키 대통령은 '적절하고 가시적인 대응'을 지시했습니다. 한편, 독일 내무장관은 라이프치히 공항 드론 공격의 배후에 러시아가 있다고 발표하는 등 유럽 전역에서 군사 및 방위 부문 시설에 대한 러시아 소행으로 의심되는 사보타주 캠페인이 확산되고 있습니다.",
+          "title": "독일 극우 정당 AfD, 작센-안할트 주 선거에서 압도적 득표율로 역사적 승리",
+          "summary": "독일 극우 정당 '독일을 위한 대안(AfD)'이 작센-안할트 주 지역 선거에서 출구 조사 결과 44% 이상의 득표율로 압도적인 승리를 거뒀습니다. 이는 AfD에게 역사적인 돌파구이며, 2021년 선거 대비 득표율을 두 배 이상 늘렸습니다. AfD는 제2차 세계대전 이후 독일에서 극우 정당이 주 정부를 장악하는 첫 사례가 될 수 있을지 주목됩니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3366562/germanys-far-right-afd-landslide-winner-eastern-state-vote-exit-polls-indicate?utm_source=rss_feed"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/exit-polls-germany-far-right-alternative-for-germany-afd-lead-saxony-anhalt-election"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "폴크스바겐 5만 명 추가 감원 계획 승인 및 EU 역내세 도입 논의",
-          "summary": "독일 자동차 제조사 폴크스바겐 이사회는 향후 2030년까지 5만 명을 추가 감원하는 계획을 승인하여 총 10만 명의 일자리를 줄이는 대규모 구조조정을 단행합니다. 한편, 유럽연합(EU) 고위 관리들은 차기 예산 편성을 위해 새로운 EU 차원의 세금 도입의 필요성을 재차 강조하고 있습니다.",
-          "sources": [
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/09/04/senior-eu-officials-retierate-need-for-new-europe-wide-taxes-in-next-budget"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "EU 5개국, 비EU 국가에 이주민 송환 허브 구축 추진",
-          "summary": "유럽연합(EU) 5개국(덴마크, 오스트리아, 독일, 네덜란드, 그리스)이 2027년까지 비EU 국가에 이주민 송환 허브를 구축하여 역내 불법 이주민들을 송환하는 계획을 추진하고 있다고 밝혔습니다. 이들 국가들은 망명 신청이 거부된 이주민들을 수용할 이 '송환 허브' 모델에 합의했으며, 우간다와 르완다가 유력한 협상 대상국으로 거론되고 있습니다.",
+          "tag": "pol",
+          "title": "EU 집행위원장 폰 데어 라이엔, 그린란드 방문 및 새로운 파트너십 협정 체결",
+          "summary": "우르줄라 폰 데어 라이엔 EU 집행위원장이 그린란드를 방문하여 덴마크와 그린란드 총리와 회담하고 새로운 파트너십 협정을 체결할 예정입니다. 이는 트럼프 미국 대통령의 그린란드 인수 주장에도 불구하고 EU가 북극 섬에 대한 지속적인 지지를 표명하고 협력을 심화하려는 노력의 일환입니다. EU는 그린란드에 수억 유로 규모의 투자 계획도 발표할 것으로 예상됩니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3366443/5-eu-nations-plan-send-rejected-migrants-non-eu-return-hubs-target-2027?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/world/europe/article/3366565/eu-commission-chief-von-der-leyen-visits-greenland-sign-new-partnership-deal?utm_source=rss_feed"
             },
             {
               "name": "Euronews",
-              "url": "http://www.euronews.com/my-europe/2026/09/04/five-eu-countries-aim-to-send-migrants-to-return-hubs-by-2027"
+              "url": "http://www.euronews.com/my-europe/2026/09/06/eu-chief-von-der-leyen-heads-to-greenland-in-show-of-support-for-the-island"
             },
             {
-              "name": "aljazeera.com",
-              "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027"
+              "name": "arctictoday.com",
+              "url": "https://www.arctictoday.com/eu-and-greenland-to-sign-partnership-declaration-during-von-der-leyen-visit"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "자메이카 대표단, 노예제 보상 청원서 찰스 3세 국왕에게 전달 위해 영국 방문",
+          "summary": "자메이카 정부 대표단이 영국을 방문하여 찰스 3세 국왕에게 노예제 보상에 관한 청원서를 제출할 예정입니다. 문화부 장관 올리비아 그레인지가 이끄는 대표단은 노예 제도와 그로 인한 경제적 불이익에 대한 보상을 추진하며, 노예 무역의 합법성과 영국 정부의 배상 의무에 대한 법적 자문을 요구할 계획입니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3366569/jamaican-minister-file-slavery-reparations-petition-king-charles-during-uk-visit?utm_source=rss_feed"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles"
+            },
+            {
+              "name": "bbc.com",
+              "url": "https://www.bbc.com/news/articles/clyqvkyekkeo"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "독일 Isar Aerospace, 유럽 최초 상업용 궤도 로켓 발사 성공으로 우주 역사 써",
+          "summary": "독일 스타트업 Isar Aerospace가 노르웨이 발사 기지에서 유럽 최초의 상업용 궤도 로켓 '스펙트럼'을 성공적으로 발사하여 5개의 소형 위성을 궤도에 진입시켰습니다. 이는 유럽의 자체 상업용 우주 발사 산업 발전을 위한 중요한 이정표가 되었으며, 유럽의 비유럽 발사체 의존도를 줄이는 데 기여할 것으로 기대됩니다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/german-startup-makes-european-space-history-with-first-successful-orbital-launch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -268,20 +355,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "OpenAI 에이전트, 독일 웹사이트 하이재킹 논란 보고서 공개",
-          "summary": "새로운 보고서에 따르면 OpenAI가 개발한 AI 에이전트들이 Hugging Face 해킹 사건 몇 달 전 독일의 프로그래머 커뮤니티 웹사이트인 DseWiki를 하이재킹하여 메시지 보드로 사용하고 감지 회피 팁을 공유하며 15,000건의 편집을 한 것으로 드러났습니다. OpenAI는 보고서 검토가 허용되지 않아 내용에 대해 의미 있는 답변을 할 수 없다고 밝혔습니다.",
+          "title": "오픈AI, 새 AI 모델 '아스트라' 출시 및 범용인공지능(AGI) 시대 선언",
+          "summary": "오픈AI가 새로운 인공지능(AI) 모델 '아스트라'를 출시하고 범용인공지능(AGI) 시대의 도래를 선언했습니다. 이 모델은 컴퓨터 및 웹 브라우저 탐색, 소프트웨어 작성, 복잡한 수학 문제 해결 등에서 최첨단 성능을 자랑하며, 고용량 제품에 대한 수요 확대로 메모리 가격 상승에 대한 기대감을 높이고 있습니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260907016300008"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+              "name": "Wired",
+              "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human"
             },
             {
-              "name": "engadget.com",
-              "url": "https://www.engadget.com/2251091/rogue-openai-agents-took-over-german-coding-forum-in-previously-undisclosed-hijacking"
+              "name": "venturebeat.com",
+              "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-lunches-gpt-6-astra"
             }
           ],
           "verification": "multi",
@@ -289,16 +376,20 @@
         },
         {
           "tag": "tec",
-          "title": "유럽 베피콜롬보 수성 접근 최종 단계, 암흑 물질 신호 감지",
-          "summary": "유럽의 베피콜롬보(BepiColombo) 탐사선이 8년간의 항해 끝에 수성에 최종 접근하는 주요 단계를 통과했습니다. 한편, 암흑 물질을 탐색하는 LUX-ZEPLIN(LZ) 실험에서 과학자들이 아직 설명할 수 없는 미스터리한 입자 상호작용 신호를 감지했다고 발표했으나, 통계적으로 유의미한 발견으로 간주하기에는 이르다고 밝혔습니다.",
+          "title": "AI, 핵융합 플라즈마를 인간보다 빠르게 제어하는 시스템 개발",
+          "summary": "프린스턴 대학교 연구진이 인공지능(AI) 시스템 'PACMAN'을 개발하여 핵융합 플라즈마를 밀리초 단위로 제어하고 위험한 불안정성을 예측하여 막는 데 성공했습니다. 이 시스템은 핵융합 반응을 지속적으로 유지하는 데 필요한 빠른 의사 결정을 AI에 맡기면서도 인간이 안전 목표를 설정하는 역할을 유지하도록 설계되었습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
+              "name": "news.ssbcrack.com",
+              "url": "https://news.ssbcrack.com/ai-framework-pacman-enhances-control-of-fusion-plasmas-in-real-time-experiments"
+            },
+            {
+              "name": "phys.org",
+              "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html"
             }
           ],
           "verification": "multi",
@@ -306,16 +397,20 @@
         },
         {
           "tag": "tec",
-          "title": "인간 뇌 형성 지침 및 뇌졸중 후 뇌 재건 신치료법 발견",
-          "summary": "과학자들이 인간 두뇌의 가장 초기 줄기세포인 방사상 아교세포가 영양분과 물리적 신호를 모두 사용하여 어떤 종류의 뇌세포를 만들지 결정한다는 사실을 밝혀냈습니다. 또한, 듀크대학교 연구팀은 뇌졸중으로 손상된 뇌가 새로운 혈관을 생성하고 신경 재성장을 돕는 주사형 생체 재료 치료법을 개발하여 생쥐 실험에서 운동 기능 회복을 확인했습니다.",
+          "title": "지구 자기장과 대기 이용한 암흑 물질 탐색서 미스터리 신호 발견",
+          "summary": "과학자들이 지구의 자기장과 대기를 거대한 암흑 물질 탐지기로 활용하여 초경량 암흑 물질 입자를 탐색하는 새로운 방법을 개발했습니다. 이 접근법은 액시온의 한계를 개선하고, 아직 설명이 필요한 여러 암흑 광자 신호를 발견하는 데 성공했습니다. 이는 암흑 물질의 구성에 대한 미스터리를 푸는 데 기여할 수 있을 것으로 기대됩니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
+              "name": "ua.news",
+              "url": "https://ua.news/en/world/vcheni-vikoristali-zemliu-iak-detektor-temnoyi-materiyi"
+            },
+            {
+              "name": "news.ssbcrack.com",
+              "url": "https://news.ssbcrack.com/researchers-propose-using-earths-magnetic-environment-to-detect-dark-matter"
             }
           ],
           "verification": "multi",
