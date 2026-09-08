@@ -1,25 +1,136 @@
 {
-  "date": "2026-09-07",
-  "date_str": "2026년 9월 7일 (월)",
+  "date": "2026-09-09",
+  "date_str": "2026년 9월 9일 (수)",
   "highlights": [
-    "작가 단체들, Anthropic 합의금 분배 둘러싼 출판사들의 과도한 청구에 반발",
-    "우버 창립자 트래비스 칼라닉의 Atoms, 로보택시 사업 진출 모색",
-    "Seattle Times와 Newsday, OpenAI 및 Microsoft를 상대로 저작권 침해 소송 제기",
-    "대형 뉴스 매체들의 AI 기업에 대한 저작권 소송이 계속 이어지는 추세",
-    "Anthropic의 저작권 합의금 분배 과정에서 출판사들의 불공정 청구 의혹 제기"
+    "메타, 개인 AI 에이전트 '뮤즈' 공개",
+    "OpenAI, 스케치 기능 탑재한 ChatGPT Images 2.5 출시",
+    "Google, Chrome 업데이트 주기 단축 및 AI 날씨 모델 정확도 개선",
+    "OpenAI, 90년 난제 나비에-스토크스 방정식 해법 주장…논란 가중",
+    "프랑스 AI 스타트업 미스트랄, 30억 유로 투자 유치"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": []
+      "stories": [
+        {
+          "title": "메타, 개인 AI 에이전트 '뮤즈' 출시로 서비스 확장 모색",
+          "summary": "메타가 개인 AI 에이전트 '뮤즈(Muse)'를 발표하며 이메일, 캘린더, 결제 등 사용자 앱 및 서비스와 연동해 일상 업무를 돕는다고 밝혔습니다. 이 서비스는 무료로 제공되며, 사용량 증가 시 유료 구독 플랜이 도입될 예정입니다. 메타는 뮤즈를 통해 AI 경쟁에서 추격하고, 사용자 데이터 활용을 통한 서비스 확장을 시도하고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+            },
+            {
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "OpenAI, 그림으로 이미지 생성 지시하는 '스케치' 기능 추가",
+          "summary": "OpenAI가 ChatGPT Images 2.5를 공개하며 사용자가 직접 그림을 그려 AI 이미지 생성에 활용할 수 있는 '스케치' 기능을 도입했습니다. 이와 함께 이미지 생성 속도가 최대 50% 향상되었으며, 편집 지시를 더 잘 따르고 더욱 자연스러운 조명과 풍부한 질감을 구현한다고 OpenAI는 밝혔습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+            },
+            {
+              "name": "news.futunn.com",
+              "url": "https://news.futunn.com/en/post/78970473/openai-releases-chatgpt-images-2-5-generation-speed-increased-by"
+            },
+            {
+              "name": "investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/openai-lunches-chatgpt-images-25-with-faster-generation-93CH-4892221"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "구글 크롬, AI 보안 위협 대응 위해 업데이트 주기 2주로 단축",
+          "summary": "구글이 크롬(Chrome)의 업데이트 주기를 기존 4주에서 2주로 단축했습니다. 이는 AI 시대의 빠르게 변화하는 보안 위협에 더욱 신속하게 대응하고, AI 기반 기능들을 빠르게 적용하기 위한 전략입니다. 또한 구글은 AI 날씨 모델인 WeatherNext 3의 정확도를 개선하기 위해 위성 데이터를 활용하고, 예측 빈도를 시간 단위로 높였습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
+            },
+            {
+              "name": "pymnts.com",
+              "url": "https://www.pymnts.com/cybersecurity/2026/google-accelerates-chrome-updates-outrun-fast-moving-ai-hackers"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
     },
     {
       "name": "연구·논문",
       "flag": "🧪",
       "en": "RESEARCH",
-      "stories": []
+      "stories": [
+        {
+          "title": "OpenAI, 90년 난제 '나비에-스토크스' 해법 주장…표절 논란 증폭",
+          "summary": "OpenAI가 약 90년간 풀리지 않았던 나비에-스토크스(Navier-Stokes) 방정식의 해법을 자사 AI 모델을 통해 발견했다고 발표했습니다. 그러나 뉴욕대 수학 교수 트리스탄 버크마스터는 OpenAI가 자신들의 연구 진행 상황에 대한 정보를 입수하여 이를 활용해 먼저 해법을 발표한 것으로 보인다고 주장하며 논란이 일고 있습니다. OpenAI는 사용자 데이터를 사용하지 않았다고 반박하고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+            },
+            {
+              "name": "engadget.com",
+              "url": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy"
+            },
+            {
+              "name": "fortune.com",
+              "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "MIT Technology Review, 35세 미만 혁신가 선정…AI 에이전트 등 조명",
+          "summary": "MIT Technology Review가 2026년 '35세 미만 혁신가'를 발표하며 생명공학, AI, 컴퓨팅 및 로봇공학, 기후 및 에너지 분야의 35인을 조명했습니다. 선정된 인물 중에는 에너지 재활용 칩을 개발하는 해나 얼리(Hannah Earley)와 예측 능력 AI 에이전트를 개발하는 다니야르 하프너(Danijar Hafner) 등이 포함되어 있습니다. 이들은 각자의 분야에서 중요한 기술적 진전을 이루어냈습니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        }
+      ]
     },
     {
       "name": "산업·투자·기업",
@@ -27,20 +138,91 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "우버 창립자 칼라닉의 Atoms, 로보택시 시장 진출 모색",
-          "summary": "우버 공동 창립자 트래비스 칼라닉의 스타트업 Atoms가 로보택시 사업 진출을 모색하고 있습니다. Atoms는 최근 17억 달러 규모의 투자를 유치했으며, 대규모 채용과 인수합병을 통해 자율주행 업계의 주요 기업으로 성장할 계획입니다. 회사는 이미 우버와 로보택시 기술 활용 방안을 논의했으며, 우버는 Atoms에 1억 달러를 투자한 것으로 알려졌습니다.",
+          "title": "프랑스 AI 연구소 미스트랄, 30억 유로 투자 유치하며 기업가치 210억 유로 달성",
+          "summary": "프랑스 AI 연구소 미스트랄(Mistral AI)이 삼성전자, EQT 스케일업 유럽 펀드 등으로부터 30억 유로(약 35.8억 달러)의 투자를 유치하며 기업 가치 210억 유로(약 243.9억 달러)를 기록했습니다. 이는 유럽 기술 기업 역사상 최대 규모의 증자 라운드입니다. 미스트랄은 이 자금을 컴퓨팅 역량 확장, 인프라 구축, 상업적 성장 가속화 및 국제적 입지 확장에 활용할 계획입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+              "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
             },
             {
-              "name": "mezha.net",
-              "url": "https://mezha.net/eng/news/8d8985b8_travis_kalanick-s_atums"
+              "name": "forkast.news",
+              "url": "https://forkast.news/mistral-ais-e3b-series-d-makes-it-europes-sovereign-ai-champion-with-a-paradox-built-into-its-foundation"
             },
             {
-              "name": "ua.news",
-              "url": "https://ua.news/en/technologies/atoms-trevisa-kalanika-mozhe-zainiatisia-robotaksi-techcrunch"
+              "name": "news.crunchbase.com",
+              "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise"
+            },
+            {
+              "name": "mistral.ai",
+              "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AI 코딩 스타트업 코그니션, 기업가치 480억 달러 달성",
+          "summary": "AI 코딩 스타트업 코그니션(Cognition)이 20억 달러를 추가 유치하며 480억 달러의 기업 가치를 달성했습니다. 이는 4개월 전 260억 달러 평가 이후 급격히 상승한 수치로, AI 코딩 시장에 대한 투자자들의 높은 기대를 보여줍니다. 코그니션은 연간 경상 수익(ARR)이 4억 9,200만 달러에서 9억 달러로 성장했다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+            },
+            {
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/cognition-hits-48b-valuation-in-ai-coding-race"
+            },
+            {
+              "name": "pymnts.com",
+              "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cognition-secures-48-billion-valuation-as-demand-for-ai-coding-surges"
+            },
+            {
+              "name": "siliconangle.com",
+              "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "구글 클라우드, 액센츄어와 협력하여 기업 AI 배포 시장 경쟁력 강화",
+          "summary": "구글 클라우드(Google Cloud)가 액센츄어(Accenture)와 협력하여 공동 사업부를 설립하고, 기업들의 AI 도구 및 서비스 도입을 지원하기로 했습니다. 이 협력을 통해 구글은 최대 1,000명의 액센츄어 엔지니어를 훈련시켜 기업용 Gemini 플랫폼 기반의 맞춤형 AI 애플리케이션 구축을 돕습니다. 이는 기업 AI 배포 시장에서 경쟁 우위를 확보하고, AI 모델의 실제 활용도를 높이기 위한 전략으로 분석됩니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+            },
+            {
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/google-cloud-taps-accenture-to-fix-ai-s-deployment-gap"
+            },
+            {
+              "name": "newsroom.accenture.com",
+              "url": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "주요 칩 제조업체, ASML 최신 장비 도입 및 생산성 40% 향상 합의",
+          "summary": "삼성전자와 TSMC 등 주요 칩 제조업체들이 ASML의 4억 달러 규모 최신 장비를 도입하고, 핵심 제조 공정 변화에 합의했습니다. 이들은 ASML의 최신 고개구수(high NA) EUV 노광 기술을 활용하여 차세대 AI 데이터 센터 및 소비자 전자기기용 칩 생산을 목표로 합니다. 특히, 포토마스크를 6인치에서 12인치로 확대하는 새로운 산업 이니셔티브에 참여하여 칩 생산성을 40% 향상시킬 계획입니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/"
+            },
+            {
+              "name": "qz.com",
+              "url": "https://qz.com/tsmc-samsung-asml-high-na-euv-ai-chips-090826"
+            },
+            {
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/world/asia-pacific/asml-work-major-chipmakers-use-latest-tools-larger-chips-2026-09-08"
             }
           ],
           "verification": "multi",
@@ -55,20 +237,16 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "작가 단체들, Anthropic 합의금 분배 둘러싼 출판사 청구에 반발",
-          "summary": "AI 기업 Anthropic의 15억 달러 저작권 침해 합의금 분배 과정에서 일부 출판사들이 권한이 없는 저작물에 대해 대금을 청구하거나, 저자에게 100% 돌아가야 할 몫을 50%만 지급하려 한다는 주장이 제기되었습니다. 작가 단체들은 출판사들의 과도한 청구에 반발하며, 이는 기록 관리 부실이나 혼란스러운 합의 절차 때문일 수 있다고 지적했습니다. 뉴욕타임스 보도에 따르면 작가조합 CEO는 이를 출판사의 의도적인 탈취가 아닌 기록 관리 문제로 보고 있습니다.",
+          "title": "클로드 사용자 토큰 도난 사례 발생…앤트로픽, 구독 모델 오도 혐의로 피소",
+          "summary": "앤트로픽(Anthropic)의 AI 서비스 클로드(Claude)에서 사용자 토큰이 도난당하는 사례가 발생했으며, 일부 사용자는 앤트로픽이 구독 모델의 약관을 오도했다고 주장하며 집단 소송을 제기했습니다. 토큰 도난 피해자는 계정 활동이 없는데도 토큰 사용량이 증가하는 현상을 발견했으며, 앤트로픽은 세션 키 침해로 인한 무단 토큰 발행을 원인으로 지목했습니다. 소송은 맥스(Max) 플랜의 '5배' 또는 '20배' 사용량 광고가 실제와 다르다는 내용을 담고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+              "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html"
-            },
-            {
-              "name": "pluang.com",
-              "url": "https://pluang.com/en/news-feed/penulis-tolak-penerbit-dan-agen-klaim-settlement-anthropic"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
             }
           ],
           "verification": "multi",
@@ -76,24 +254,41 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "Seattle Times와 Newsday, OpenAI·Microsoft 저작권 침해로 제소",
-          "summary": "미국 뉴스 매체인 시애틀 타임스(The Seattle Times)와 뉴스데이(Newsday)가 OpenAI와 Microsoft를 상대로 저작권 침해 소송을 제기했습니다. 이들은 AI 제품인 ChatGPT와 CoPilot이 자신들의 저널리즘 콘텐츠를 무단으로 학습하여 상업적 목적을 달성했다고 주장합니다. 이번 소송은 2023년 뉴욕타임스가 제기한 소송에 이어 또 다른 주요 언론사의 AI 기업에 대한 저작권 분쟁으로 주목받고 있습니다.",
+          "title": "메타, 미성년자 성적 변형 AI 앱 광고 허용 비판받고 뒤늦게 삭제",
+          "summary": "메타(Meta)가 페이스북과 인스타그램에서 미성년자 이미지를 성적으로 변형하는 AI 앱 광고를 허용했다는 비판을 받았습니다. 테크 투명성 프로젝트(TTP) 조사에 따르면 메타는 실제 미성년자 사진을 이용한 수백 건의 AI 아동 성 착취물(CSAM) 광고를 탐지하지 못했으며, 상당수가 중국산 '누디파이(nudify)' 앱을 홍보했습니다. 메타는 뒤늦게 해당 광고들을 삭제하고 아동 착취를 용납하지 않는다는 입장을 밝혔습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/"
             },
             {
-              "name": "thurrott.com",
-              "url": "https://www.thurrott.com/a-i/341336/newsday-and-the-seattle-times-sue-openai-and-microsoft"
+              "name": "ianslive.in",
+              "url": "https://ianslive.in/meta-ran-300-ads-featuring-ai-generated-child-sexual-abuse-material-investigation-finds--20260908205045"
             },
             {
-              "name": "The Seattle Times",
-              "url": "https://www.seattletimes.com/business/local-business/seattle-times-sues-openai-microsoft-over-copyright-infringement"
+              "name": "techtransparencyproject.org",
+              "url": "https://www.techtransparencyproject.org/articles/meta-ran-hundreds-of-paid-ads-with-child-sexual-abuse-imagery"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "백악관, 인종차별적 '테트리스' 유사 게임 공개 후 비난받고 삭제",
+          "summary": "백악관이 '좀비 국경 포위 공격(Zombie Border Siege)'을 막기 위해 테트리스와 유사한 블록을 쌓는 '벽 건설(Build the Wall)'이라는 게임을 웹사이트에 공개했다가 인종차별적 내용으로 비난을 받았습니다. 이 게임은 이민 반대 메시지를 담고 있었으며, '테트리스 컴퍼니'로부터 저작권 침해 경고를 받기도 했습니다. 논란이 커지자 백악관은 해당 게임을 웹사이트에서 삭제했습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/"
             },
             {
-              "name": "unite.ai",
-              "url": "https://www.unite.ai/seattle-times-and-newsday-sue-openai-and-microsoft-over-news-content"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+            },
+            {
+              "name": "kotaku.com",
+              "url": "https://kotaku.com/tetris-clone-white-house-trump-build-wall-removed-copyright-2000732129"
             }
           ],
           "verification": "multi",
