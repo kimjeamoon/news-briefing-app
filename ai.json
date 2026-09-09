@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-09",
-  "date_str": "2026년 9월 9일 (수)",
+  "date": "2026-09-10",
+  "date_str": "2026년 9월 10일 (목)",
   "highlights": [
-    "메타, 개인 AI 에이전트 '뮤즈' 공개",
-    "OpenAI, 스케치 기능 탑재한 ChatGPT Images 2.5 출시",
-    "Google, Chrome 업데이트 주기 단축 및 AI 날씨 모델 정확도 개선",
-    "OpenAI, 90년 난제 나비에-스토크스 방정식 해법 주장…논란 가중",
-    "프랑스 AI 스타트업 미스트랄, 30억 유로 투자 유치"
+    "애플, 폴더블 아이폰 듀오 등 신제품 공개 및 AI 기능 강화",
+    "OpenAI, 밀레니엄 현상 문제 해결 주장하며 학계와 논란",
+    "매사추세츠주, 데이터센터에 새로운 청정 전력 규제 도입",
+    "미국, 중국 AI 기업의 미국 선도 모델 무단 복제에 경고",
+    "클라우드NC, AI 정밀 가공 기술 확장을 위해 2천만 달러 유치"
   ],
   "sections": [
     {
@@ -15,20 +15,24 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "메타, 개인 AI 에이전트 '뮤즈' 출시로 서비스 확장 모색",
-          "summary": "메타가 개인 AI 에이전트 '뮤즈(Muse)'를 발표하며 이메일, 캘린더, 결제 등 사용자 앱 및 서비스와 연동해 일상 업무를 돕는다고 밝혔습니다. 이 서비스는 무료로 제공되며, 사용량 증가 시 유료 구독 플랜이 도입될 예정입니다. 메타는 뮤즈를 통해 AI 경쟁에서 추격하고, 사용자 데이터 활용을 통한 서비스 확장을 시도하고 있습니다.",
+          "title": "애플, 폴더블 아이폰 듀오 및 AI 강화 신제품 공개",
+          "summary": "애플이 폴더블폰 아이폰 듀오, 아이폰 18 프로, 애플워치 시리즈 12 및 울트라 4, 에어팟 5세대를 발표했습니다. 특히 애플워치에는 '오디오 인텔리전스', '라이브 리와인드', '시리 리캡'과 같은 AI 기능이 탑재되어 소리 인식 및 대화 요약 등 사용자 편의성을 높였습니다. 아이폰 듀오의 힌지는 AI와 3D 프린팅 기술로 설계되어 내구성을 강화했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+              "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
             },
             {
-              "name": "WIRED",
-              "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+            },
+            {
+              "name": "shortlist.com",
+              "url": "https://www.shortlist.com/tech/meet-the-5-stars-of-apples-class-of-2026-from-apple-iphone-duo-and-iphone-18-pro-to-airpods-5"
             }
           ],
           "verification": "multi",
@@ -36,20 +40,24 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "OpenAI, 그림으로 이미지 생성 지시하는 '스케치' 기능 추가",
-          "summary": "OpenAI가 ChatGPT Images 2.5를 공개하며 사용자가 직접 그림을 그려 AI 이미지 생성에 활용할 수 있는 '스케치' 기능을 도입했습니다. 이와 함께 이미지 생성 속도가 최대 50% 향상되었으며, 편집 지시를 더 잘 따르고 더욱 자연스러운 조명과 풍부한 질감을 구현한다고 OpenAI는 밝혔습니다.",
+          "title": "Suno, 음반 산업 지원 받아 학습된 AI 음악 모델 v6 출시",
+          "summary": "Suno가 음반 산업의 지원을 받아 학습된 새로운 AI 음악 모델 v6를 출시했습니다. v6는 워너 뮤직 그룹, BMG, Believe 등 파트너로부터 라이선스 받은 데이터와 사용자 데이터를 포함하여 처음부터 새롭게 훈련되었습니다. 이 모델은 장르 이해도가 대폭 향상되었으며, 사용자는 자연어 프롬프트로 곡의 특정 부분을 편집하고 이미지, 비디오, 오디오를 입력으로 사용할 수 있습니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
             },
             {
-              "name": "news.futunn.com",
-              "url": "https://news.futunn.com/en/post/78970473/openai-releases-chatgpt-images-2-5-generation-speed-increased-by"
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/09/09/suno-v6-ai-music-warner-bmg"
             },
             {
-              "name": "investing.com",
-              "url": "https://www.investing.com/news/stock-market-news/openai-lunches-chatgpt-images-25-with-faster-generation-93CH-4892221"
+              "name": "musicbusinessworldwide.com",
+              "url": "https://www.musicbusinessworldwide.com/suno-v6-ai-music-models-launch-in-partnership-with-wmg-bmg-and-believe"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up"
             }
           ],
           "verification": "multi",
@@ -57,20 +65,24 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "구글 크롬, AI 보안 위협 대응 위해 업데이트 주기 2주로 단축",
-          "summary": "구글이 크롬(Chrome)의 업데이트 주기를 기존 4주에서 2주로 단축했습니다. 이는 AI 시대의 빠르게 변화하는 보안 위협에 더욱 신속하게 대응하고, AI 기반 기능들을 빠르게 적용하기 위한 전략입니다. 또한 구글은 AI 날씨 모델인 WeatherNext 3의 정확도를 개선하기 위해 위성 데이터를 활용하고, 예측 빈도를 시간 단위로 높였습니다.",
+          "title": "AI 비서 Instinct, 자체 이메일 주소 확보로 자율적 계정 관리",
+          "summary": "25억 달러 가치로 평가받는 AI 비서 Instinct가 사용자 대신 다양한 작업을 수행할 수 있도록 자체 이메일 주소를 부여받았습니다. 이를 통해 Instinct는 사용자 이메일함을 복잡하게 만들지 않고도 계정을 생성 및 관리하고, 기업과 소통하며, 비즈니스 요청을 처리하는 등의 작업을 자율적으로 수행할 수 있게 되었습니다. 사용자는 특정 정보가 필요할 때 Instinct의 이메일로 메일을 전달하여 작업을 위임할 수 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+              "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
+              "name": "digitaltoday.co.kr",
+              "url": "https://www.digitaltoday.co.kr/en/view/101851/instinct-ai-assistant-launches-dedicated-email-to-handle-sign-ups-and-inquiries-directly"
             },
             {
-              "name": "pymnts.com",
-              "url": "https://www.pymnts.com/cybersecurity/2026/google-accelerates-chrome-updates-outrun-fast-moving-ai-hackers"
+              "name": "mezha.net",
+              "url": "https://mezha.net/eng/news/f8099064_instinct_ai_assistant"
+            },
+            {
+              "name": "whalesbook.com",
+              "url": "https://www.whalesbook.com/news/English/technology/AI-Startup-Instinct-Valued-at-dollar25-Billion-Launches-Autonomous-Email/6aa1789475fe79b492e0d768"
             }
           ],
           "verification": "multi",
@@ -85,24 +97,24 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "OpenAI, 90년 난제 '나비에-스토크스' 해법 주장…표절 논란 증폭",
-          "summary": "OpenAI가 약 90년간 풀리지 않았던 나비에-스토크스(Navier-Stokes) 방정식의 해법을 자사 AI 모델을 통해 발견했다고 발표했습니다. 그러나 뉴욕대 수학 교수 트리스탄 버크마스터는 OpenAI가 자신들의 연구 진행 상황에 대한 정보를 입수하여 이를 활용해 먼저 해법을 발표한 것으로 보인다고 주장하며 논란이 일고 있습니다. OpenAI는 사용자 데이터를 사용하지 않았다고 반박하고 있습니다.",
+          "title": "OpenAI, 밀레니엄 문제 해결 주장하며 학계와 논란",
+          "summary": "OpenAI가 AI 에이전트를 통해 밀레니엄 현상 문제 중 하나인 나비에-스토크스 존재 및 매끄러움 문제를 해결했다고 발표했습니다. 하지만 OpenAI가 뉴욕대 수학자 트리스탄 버크마스터와 앤트로픽 직원 레벤트 알포게의 AI 지원 연구를 인용하지 않았다는 주장이 제기되며 학계에서 논란이 되고 있습니다. OpenAI는 이러한 의혹을 부인하고 있습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
             },
             {
-              "name": "engadget.com",
-              "url": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy"
+              "name": "qz.com",
+              "url": "https://qz.com/openai-ai-navier-stokes-millennium-prize-math-090826"
             },
             {
-              "name": "fortune.com",
-              "url": "https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament"
+              "name": "newscientist.com",
+              "url": "https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort"
             }
           ],
           "verification": "multi",
@@ -110,20 +122,24 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "MIT Technology Review, 35세 미만 혁신가 선정…AI 에이전트 등 조명",
-          "summary": "MIT Technology Review가 2026년 '35세 미만 혁신가'를 발표하며 생명공학, AI, 컴퓨팅 및 로봇공학, 기후 및 에너지 분야의 35인을 조명했습니다. 선정된 인물 중에는 에너지 재활용 칩을 개발하는 해나 얼리(Hannah Earley)와 예측 능력 AI 에이전트를 개발하는 다니야르 하프너(Danijar Hafner) 등이 포함되어 있습니다. 이들은 각자의 분야에서 중요한 기술적 진전을 이루어냈습니다.",
+          "title": "구글 AI 유전체 시스템, 인간 유전체 모든 단일 염기 변화 평가",
+          "summary": "구글이 알파게놈 아틀라스(AlphaGenome Atlas)를 발표하며 인간 유전체의 가능한 모든 단일 염기 변화의 결과를 예측하는 연구 성과를 공개했습니다. 이 시스템은 약 30억 개의 염기쌍으로 구성된 인간 유전체에서 발생할 수 있는 90억 개의 잠재적 단일 염기 치환을 평가합니다. 알파게놈은 비코딩 DNA의 잠재적 기능을 식별하도록 설계되었으며, 이는 유전 질환에 대한 이해를 높이는 데 중요한 역할을 할 수 있습니다.",
           "sources": [
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+              "name": "eu.36kr.com",
+              "url": "https://eu.36kr.com/en/p/3975775944405513"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+              "name": "cryptobriefing.com",
+              "url": "https://cryptobriefing.com/google-deepmind-alphagenome-atlas-9-billion-dna"
+            },
+            {
+              "name": "kingy.ai",
+              "url": "https://kingy.ai/news/google-alphagenome-atlas-dna-variants"
             }
           ],
           "verification": "multi",
@@ -138,24 +154,24 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "프랑스 AI 연구소 미스트랄, 30억 유로 투자 유치하며 기업가치 210억 유로 달성",
-          "summary": "프랑스 AI 연구소 미스트랄(Mistral AI)이 삼성전자, EQT 스케일업 유럽 펀드 등으로부터 30억 유로(약 35.8억 달러)의 투자를 유치하며 기업 가치 210억 유로(약 243.9억 달러)를 기록했습니다. 이는 유럽 기술 기업 역사상 최대 규모의 증자 라운드입니다. 미스트랄은 이 자금을 컴퓨팅 역량 확장, 인프라 구축, 상업적 성장 가속화 및 국제적 입지 확장에 활용할 계획입니다.",
+          "title": "클라우드NC, AI 정밀 가공 기술 확장 위해 2천만 달러 유치",
+          "summary": "CloudNC가 AI 정밀 가공 기술을 전 세계 공급망 네트워크에 확장하기 위해 2천만 달러의 투자를 유치했습니다. 이번 투자 라운드는 Nimble Ventures가 주도했으며, Lockheed Martin의 벤처 펀드인 LM Ventures 등이 참여했습니다. CloudNC는 이 자금을 활용하여 시장 진출, 기술 지원 인프라 및 국제 파트너 활동을 강화하고, AI 기반 견적 도구인 'Quote Agent'도 올해 말 출시할 예정입니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/"
             },
             {
-              "name": "forkast.news",
-              "url": "https://forkast.news/mistral-ais-e3b-series-d-makes-it-europes-sovereign-ai-champion-with-a-paradox-built-into-its-foundation"
+              "name": "eu-startups.com",
+              "url": "https://www.eu-startups.com/2026/09/london-based-cloudnc-raises-e17-2-million-to-scale-ai-powered-precision-machining"
             },
             {
-              "name": "news.crunchbase.com",
-              "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise"
+              "name": "pesmedia.com",
+              "url": "https://www.pesmedia.com/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining"
             },
             {
-              "name": "mistral.ai",
-              "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+              "name": "unite.ai",
+              "url": "https://www.unite.ai/cloudnc-raises-20-million-to-expand-ai-tools-for-precision-machining"
             }
           ],
           "verification": "multi",
@@ -163,24 +179,24 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "AI 코딩 스타트업 코그니션, 기업가치 480억 달러 달성",
-          "summary": "AI 코딩 스타트업 코그니션(Cognition)이 20억 달러를 추가 유치하며 480억 달러의 기업 가치를 달성했습니다. 이는 4개월 전 260억 달러 평가 이후 급격히 상승한 수치로, AI 코딩 시장에 대한 투자자들의 높은 기대를 보여줍니다. 코그니션은 연간 경상 수익(ARR)이 4억 9,200만 달러에서 9억 달러로 성장했다고 밝혔습니다.",
+          "title": "삼성전자, 미스트랄 AI와 협력하여 반도체 제조 공정에 AI 도입",
+          "summary": "삼성전자가 Mistral AI와 파트너십을 맺고 Mistral의 온프레미스 AI 모델을 반도체 제조 및 엔지니어링 작업에 도입합니다. 이 협력은 프랑스 파리에서 열린 한불 정상회담에서 발표되었으며, 삼성은 Mistral Large 모델을 포함한 소프트웨어 스위트를 내부 반도체 시설에 통합하여 지능형 공장 인프라를 위한 맞춤형 모델을 구축할 예정입니다. 삼성은 이 AI 모델을 자동 결함 감지 및 팹 장비 튜닝에 직접 배포할 계획입니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+              "name": "AI News",
+              "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/"
             },
             {
-              "name": "techbuzz.ai",
-              "url": "https://www.techbuzz.ai/articles/cognition-hits-48b-valuation-in-ai-coding-race"
+              "name": "koreaherald.com",
+              "url": "https://www.koreaherald.com/article/10866843"
             },
             {
-              "name": "pymnts.com",
-              "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cognition-secures-48-billion-valuation-as-demand-for-ai-coding-surges"
+              "name": "m.ajupress.com",
+              "url": "https://m.ajupress.com/amp/20260909145528663"
             },
             {
-              "name": "siliconangle.com",
-              "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m"
+              "name": "koreaittimes.com",
+              "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156940"
             }
           ],
           "verification": "multi",
@@ -188,41 +204,24 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "구글 클라우드, 액센츄어와 협력하여 기업 AI 배포 시장 경쟁력 강화",
-          "summary": "구글 클라우드(Google Cloud)가 액센츄어(Accenture)와 협력하여 공동 사업부를 설립하고, 기업들의 AI 도구 및 서비스 도입을 지원하기로 했습니다. 이 협력을 통해 구글은 최대 1,000명의 액센츄어 엔지니어를 훈련시켜 기업용 Gemini 플랫폼 기반의 맞춤형 AI 애플리케이션 구축을 돕습니다. 이는 기업 AI 배포 시장에서 경쟁 우위를 확보하고, AI 모델의 실제 활용도를 높이기 위한 전략으로 분석됩니다.",
+          "title": "OpenAI 이사회에 AI 정렬 전문가 폴 크리스티아노 합류",
+          "summary": "인공지능 시스템이 인간의 이익과 통제에 부합하도록 하는 데 주력하는 영향력 있는 AI 연구자 폴 크리스티아노가 OpenAI 재단 이사회에 합류했습니다. 크리스티아노는 AI 역량의 급격한 가속화가 치명적이고 돌이킬 수 없는 통제력 상실로 이어질 상당한 위험이 있다고 경고하며, OpenAI가 이러한 위험을 허용 가능한 수준으로 줄일 수 있다면 이사회에 합류할 것이라고 밝혔습니다. 그는 이사회 내 안전 및 보안 위원회에 참여할 예정입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+              "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
             },
             {
-              "name": "techbuzz.ai",
-              "url": "https://www.techbuzz.ai/articles/google-cloud-taps-accenture-to-fix-ai-s-deployment-gap"
+              "name": "openai.com",
+              "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
             },
             {
-              "name": "newsroom.accenture.com",
-              "url": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "주요 칩 제조업체, ASML 최신 장비 도입 및 생산성 40% 향상 합의",
-          "summary": "삼성전자와 TSMC 등 주요 칩 제조업체들이 ASML의 4억 달러 규모 최신 장비를 도입하고, 핵심 제조 공정 변화에 합의했습니다. 이들은 ASML의 최신 고개구수(high NA) EUV 노광 기술을 활용하여 차세대 AI 데이터 센터 및 소비자 전자기기용 칩 생산을 목표로 합니다. 특히, 포토마스크를 6인치에서 12인치로 확대하는 새로운 산업 이니셔티브에 참여하여 칩 생산성을 40% 향상시킬 계획입니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/"
+              "name": "pluang.com",
+              "url": "https://pluang.com/en/news-feed/openai-tambah-anggota-dewan-direksi-fokus-keamanan-ai"
             },
             {
-              "name": "qz.com",
-              "url": "https://qz.com/tsmc-samsung-asml-high-na-euv-ai-chips-090826"
-            },
-            {
-              "name": "reuters.com",
-              "url": "https://www.reuters.com/world/asia-pacific/asml-work-major-chipmakers-use-latest-tools-larger-chips-2026-09-08"
+              "name": "investing.com",
+              "url": "https://www.investing.com/news/economy-news/openai-appoints-paul-christiano-to-foundation-board-93CH-4894242"
             }
           ],
           "verification": "multi",
@@ -237,16 +236,24 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "클로드 사용자 토큰 도난 사례 발생…앤트로픽, 구독 모델 오도 혐의로 피소",
-          "summary": "앤트로픽(Anthropic)의 AI 서비스 클로드(Claude)에서 사용자 토큰이 도난당하는 사례가 발생했으며, 일부 사용자는 앤트로픽이 구독 모델의 약관을 오도했다고 주장하며 집단 소송을 제기했습니다. 토큰 도난 피해자는 계정 활동이 없는데도 토큰 사용량이 증가하는 현상을 발견했으며, 앤트로픽은 세션 키 침해로 인한 무단 토큰 발행을 원인으로 지목했습니다. 소송은 맥스(Max) 플랜의 '5배' 또는 '20배' 사용량 광고가 실제와 다르다는 내용을 담고 있습니다.",
+          "title": "매사추세츠주, 데이터센터 개발에 새로운 청정 전력 규제 도입",
+          "summary": "매사추세츠주가 데이터센터 개발에 새로운 청정 전력 규제를 도입했습니다. 모라 힐리 주지사의 행정 명령에 따라 피크 전력 수요가 25메가와트(MW)를 초과하는 데이터센터는 자체적으로 청정 전력을 조달하거나 요금 납부자 보호 기금에 기여해야 합니다. 주 정부는 데이터센터가 전력 수요의 100%를 청정 에너지로 충당하도록 요구할 것이라고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+              "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+              "name": "briefs.co",
+              "url": "https://www.briefs.co/news/massachusetts-clamps-down-on-data-centers-tells-developers-t"
+            },
+            {
+              "name": "energynow.com",
+              "url": "https://energynow.com/2026/09/massachusetts-will-require-new-data-centers-to-use-clean-energy"
+            },
+            {
+              "name": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-08/massachusetts-will-require-new-data-centers-to-use-clean-energy"
             }
           ],
           "verification": "multi",
@@ -254,20 +261,24 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "메타, 미성년자 성적 변형 AI 앱 광고 허용 비판받고 뒤늦게 삭제",
-          "summary": "메타(Meta)가 페이스북과 인스타그램에서 미성년자 이미지를 성적으로 변형하는 AI 앱 광고를 허용했다는 비판을 받았습니다. 테크 투명성 프로젝트(TTP) 조사에 따르면 메타는 실제 미성년자 사진을 이용한 수백 건의 AI 아동 성 착취물(CSAM) 광고를 탐지하지 못했으며, 상당수가 중국산 '누디파이(nudify)' 앱을 홍보했습니다. 메타는 뒤늦게 해당 광고들을 삭제하고 아동 착취를 용납하지 않는다는 입장을 밝혔습니다.",
+          "title": "미국, 중국 AI 기업의 미국 선도 모델 무단 복제에 경고",
+          "summary": "미국 정부는 중국 AI 기업들이 미국의 선도 AI 모델 역량을 '산업적 규모'로 무단 복제하고 있다고 비난했습니다. 국가안보국(NSA), 사이버보안·인프라보안국(CISA), 연방수사국(FBI)은 공동 성명을 통해 DeepSeek, Moonshot AI, Alibaba 등 6개 중국 AI 기업이 2024년 말부터 미국 모델을 공격해 역량을 추출해왔다고 주장했습니다. 미국 기관들은 이러한 행동이 중국 정부의 인지 하에 이루어졌을 가능성이 높다고 지적하며, 미국 AI 기업들이 정부 및 동맹국과 협력하여 이러한 위협에 대응할 것을 촉구했습니다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/"
+              "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
             },
             {
-              "name": "ianslive.in",
-              "url": "https://ianslive.in/meta-ran-300-ads-featuring-ai-generated-child-sexual-abuse-material-investigation-finds--20260908205045"
+              "name": "mb.ntd.com",
+              "url": "https://mb.ntd.com/us-agencies-accuse-china-based-ai-firms-of-malicious-copying-of-american-models_1171604.html"
             },
             {
-              "name": "techtransparencyproject.org",
-              "url": "https://www.techtransparencyproject.org/articles/meta-ran-hundreds-of-paid-ads-with-child-sexual-abuse-imagery"
+              "name": "straitstimes.com",
+              "url": "https://www.straitstimes.com/world/united-states/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology"
+            },
+            {
+              "name": "malaymail.com",
+              "url": "https://www.malaymail.com/amp/news/world/2026/09/09/washington-slams-chinese-ai-firms-for-systematic-theft-of-us-model-capabilities/234565"
             }
           ],
           "verification": "multi",
@@ -275,20 +286,41 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "백악관, 인종차별적 '테트리스' 유사 게임 공개 후 비난받고 삭제",
-          "summary": "백악관이 '좀비 국경 포위 공격(Zombie Border Siege)'을 막기 위해 테트리스와 유사한 블록을 쌓는 '벽 건설(Build the Wall)'이라는 게임을 웹사이트에 공개했다가 인종차별적 내용으로 비난을 받았습니다. 이 게임은 이민 반대 메시지를 담고 있었으며, '테트리스 컴퍼니'로부터 저작권 침해 경고를 받기도 했습니다. 논란이 커지자 백악관은 해당 게임을 웹사이트에서 삭제했습니다.",
+          "title": "앤트로픽 연구원 사임, 초지능 AI 위험 경고",
+          "summary": "앤트로픽(Anthropic) 연구원 제이콥 콕슨이 무제한적인 자기 개선 AI 모델 개발이 인류에게 치명적인 위험을 초래할 것이라는 우려를 표하며 사임했습니다. 그는 OpenAI와 앤트로픽이 '자기 개선 초지능'을 향해 질주하며 인류의 삶을 걸고 도박하고 있다고 비난했습니다. 콕슨의 사임은 정책 입안자와 업계 관계자들로부터 AI 개발 속도를 늦추라는 압력이 커지는 가운데 나왔습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+              "name": "qz.com",
+              "url": "https://qz.com/anthropic-researcher-quits-self-improving-ai-safety-090926"
             },
             {
-              "name": "kotaku.com",
-              "url": "https://kotaku.com/tetris-clone-white-house-trump-build-wall-removed-copyright-2000732129"
+              "name": "nbcnews.com",
+              "url": "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767"
+            },
+            {
+              "name": "pbs.org",
+              "url": "https://www.pbs.org/newshour/science/anthropic-researchers-resignation-sends-warning-about-the-dangers-of-ai-development"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "MIT, 다양한 학문 분야 AI 교육 위한 파일럿 프로그램 시작",
+          "summary": "MIT 슈워츠만 컴퓨팅 칼리지가 교육자들이 다양한 학문 분야에서 AI를 가르칠 수 있도록 돕는 'AI 교육자 파일럿' 프로그램을 시작했습니다. 이 여름 워크숍은 매사추세츠주와 사우스캐롤라이나, 웨스트버지니아, 텍사스 등 여러 지역의 교수진을 초청하여 기계 학습을 통한 모델링(Modeling with Machine Learning) 과정을 바탕으로 AI 교육 자료와 교수법을 탐구할 기회를 제공했습니다. 이 프로그램은 강사 교육에 투자하여 더 많은 학생들에게 AI 교육을 확대하는 것을 목표로 합니다.",
+          "sources": [
+            {
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909"
+            },
+            {
+              "name": "news.mit.edu",
+              "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909"
             }
           ],
           "verification": "multi",
