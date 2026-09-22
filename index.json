@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-21",
-  "date_str": "2026년 9월 21일 (월)",
+  "date": "2026-09-22",
+  "date_str": "2026년 9월 22일 (화)",
   "key5": [
-    "트럼프, D.C. 개선문을 '드론과 저격수 수용 군사 복합시설'로 만들겠다고 주장하며 논란 일어",
-    "독일 총선, 메르츠 총리 보수당 역사적 패배…개혁 추진 압박 증대",
-    "북한, 유엔총회 앞두고 단거리 탄도미사일 2발 발사…도발 지속",
-    "한국 정부, 4분기 전기요금 동결 및 추석 연휴 통행료 면제 발표",
-    "과학자들, 약 6600만년 전 티라노사우루스 렉스가 사람과 유사한 항온 동물이었음을 밝혀내"
+    "이재명 대통령, 뉴욕 도착 직후 주요 장관 임명안 재가 및 대미 투자 협상 보고 예정",
+    "K-배터리 산업 경쟁력 강화를 위해 정부, 나트륨·전고체 배터리 집중 지원 발표",
+    "유아 대상 학원 레벨테스트 다음 달부터 전면 금지, 극단적 사교육 차단 목적",
+    "트럼프 대통령의 특정 언론사 백악관 출입 금지 조치에 주요 방송사 취재 거부로 연대",
+    "데이터 센터의 전력 및 물 사용량에 대한 우려 증가로 월스트리트와 유럽에서 규제 움직임"
   ],
   "regions": [
     {
@@ -16,79 +16,67 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "민주당, 국민의힘에 개헌 논의 동참 촉구…국민의힘은 민생 우선 주장",
-          "summary": "더불어민주당 김민석 대표가 대통령의 연임 불가 선언을 근거로 국민의힘에 개헌 논의 동참을 거듭 촉구했습니다. 이에 국민의힘은 개헌 논의보다 민생을 우선해야 한다며 반대 입장을 재확인했습니다.",
+          "title": "이재명 대통령, 뉴욕 도착 직후 주요 장관 임명안 재가",
+          "summary": "유엔총회 참석을 위해 뉴욕을 방문한 이재명 대통령은 현지 시각 21일 이형일 경제부총리 겸 재정경제부 장관, 강신철 국방부 장관, 홍지선 국토교통부 장관의 임명안을 재가했습니다. 한편, 국회에서는 이소영 중소벤처기업부 장관 후보자에 대한 인사청문 경과보고서 채택을 논의할 예정입니다. 또한 정부는 오늘 대미 투자 협상 내용을 국회에 비공개로 보고하며, 텍사스 발전소 건설사업 등 대미 투자 1호 프로젝트 윤곽이 나올 가능성이 있습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260921015800001"
+              "url": "https://www.yna.co.kr/view/AKR20260922027951001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260920051700001"
+              "url": "https://www.yna.co.kr/view/AKR20260921166851001"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "K-배터리 산업, 나트륨·전고체 배터리 집중 육성 추진",
+          "summary": "정부와 배터리 업계가 중국에 내준 시장 주도권을 되찾기 위해 나트륨·전고체 배터리 기술 개발에 집중합니다. 산업통상부는 22일 주요 배터리 3사 및 소재 업체들과 함께 '배터리 산업기술 로드맵'을 발표하며, 2031년까지 약 4천억 원 규모의 연구개발(R&D)을 신설하고 민간은 2030년까지 8조 원의 R&D 및 설비 투자를 계획하고 있습니다. LG에너지솔루션은 엔비디아의 차세대 AI 팩토리 생태계 파트너로 합류하여 배터리 에너지저장장치(BESS) 분야에서 기술 신뢰성을 입증했습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260922039500003"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609210836001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "북한, 유엔총회·미중 정상회담 앞두고 단거리 탄도미사일 2발 발사",
-          "summary": "북한이 유엔총회와 미중 정상회담을 앞두고 원산 일대에서 동해상으로 단거리 탄도미사일(SRBM) 2발을 약 3시간 간격으로 발사했습니다. 각각 약 450km와 600km 이상을 비행했으며, 화성-11 계열 미사일로 추정됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260920032753504"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/20/japan/north-korea-missiles-september-20/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "정부, 4분기 전기요금 동결 및 추석 연휴 통행료 면제 발표",
-          "summary": "한국전력이 4분기(10~12월) 전기요금을 현행 수준으로 동결하고, 연료비 조정단가를 kWh당 +5원으로 유지한다고 밝혔습니다. 또한 인천시는 추석 연휴 기간 원적산터널과 만월산터널 통행료를 면제한다고 발표했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260921019100003"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260921013100065"
+              "url": "https://www.khan.co.kr/article/202609220910001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "eco",
-          "title": "국내 증권사, 추석 연휴 앞두고 시장 변동성 대비 투자 전략 제시",
-          "summary": "신한투자증권은 비우호적인 영업 환경으로 인해 증권업 이익 컨센서스 하향을 예상하며 주요 종목의 목표주가를 내렸습니다. 한국투자증권은 추석 연휴를 앞두고 코스피 대비 양호한 성과를 거둔 방산, 반도체, 화장품 등 업종에 집중할 것을 제안했습니다.",
+          "tag": "soc",
+          "title": "유아 대상 학원 레벨테스트, 10월부터 전면 금지",
+          "summary": "교육부는 다음 달 1일부터 학원이 유아를 대상으로 하는 모집·분반 목적의 '레벨테스트'를 전면 금지한다고 밝혔습니다. 필기, 구술, 실기, 면접 등 특정 능력 검증과 관련된 모든 시험·평가가 포함되며, 위반 시 최대 300만원의 과태료가 부과됩니다. 이는 '4세 고시', '7세 고시'와 같은 극단적인 영유아 사교육을 차단하고 유아가 건강하게 성장할 수 있는 환경을 조성하기 위한 조치입니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260921020400008"
-            },
+              "url": "https://www.yna.co.kr/view/AKR20260922030000530"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "국내 반도체 기업, HBM 증설로 D램 공급 부족 장기화 전망",
+          "summary": "삼성전자와 SK하이닉스가 장 초반 급등세를 보인 가운데, KB증권은 삼성전자의 고대역폭 메모리(HBM) 매출 비중이 내년 두 배로 늘어날 것으로 예상했습니다. HBM 증설에 집중하면서 범용 D램의 실질적인 공급 여력이 제약되어 범용 D램 공급 부족이 장기화될 수 있다는 전망이 나옵니다. 특히 DDR5의 리드타임은 최대 52주로 정상 시장의 8배 이상 긴 수준을 보여, 범용 D램 가격은 두 자릿수 상승하며 시장 기대치를 상회할 것으로 분석됩니다.",
+          "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260921020200008"
+              "url": "https://www.yna.co.kr/view/AKR20260922041100008"
             },
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260921011700008"
+              "url": "https://www.yna.co.kr/view/AKR20260922028200008"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -99,20 +87,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, D.C. 개선문을 '드론과 저격수 수용 군사 복합시설'로 만들겠다고 주장",
-          "summary": "도널드 트럼프 미국 대통령이 워싱턴 D.C.에 건설할 예정인 개선문을 '드론을 보관하고 저격수를 배치할 수 있는 최고 수준의 군사 복합시설'로 전환하겠다고 밝혔습니다. 이는 개선문 건설에 대한 국가 안보 명분을 강화하려는 시도로 풀이됩니다.",
+          "title": "트럼프의 언론사 백악관 출입 금지에 주요 방송사 취재 거부",
+          "summary": "도널드 트럼프 미국 대통령이 CNN, MS나우, 폴리티코 기자들의 백악관 출입을 금지하자, ABC, CBS, NBC, 폭스뉴스 등 주요 방송사들이 대통령 영상 공동취재를 중단했습니다. 이에 따라 트럼프 대통령의 공식 행사 화면과 음성이 제대로 송출되지 않는 사태가 발생했으며, 백악관은 자체 영상 채널인 ‘트럼프 티브이(TRUMP TV)’ 출범을 예고했습니다. 출입이 금지된 언론사들은 수정헌법 1조 위반이라며 소송을 제기했습니다.",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1278761.html"
+              "url": "https://www.hani.co.kr/arti/international/america/1278975.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609220738001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones"
+              "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html"
             }
           ],
           "verification": "multi",
@@ -120,50 +108,79 @@
         },
         {
           "tag": "pol",
-          "title": "미국 이민세관집행국(ICE) 요원, 오스틴에서 총격으로 1명 부상…이민 단속 비판 제기",
-          "summary": "텍사스 오스틴에서 미 이민세관집행국(ICE) 요원이 총격을 가해 한 남성이 부상당했습니다. 이 사건은 트럼프 행정부의 이민 단속 강화와 관련하여 논란이 되고 있으며, 오스틴 시장과 지역 의원들은 독립적인 조사를 요구했습니다.",
-          "sources": [
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3368181/ice-agent-shoots-and-wounds-man-austin-texas-officials-say?utm_source=rss_feed"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 행정부, 국립보건원(NIH) 자금 지원 통제 이사회 설립 추진…'진보적' 정책 제한 우려",
-          "summary": "트럼프 행정부가 국립보건원(NIH)의 연구 보조금 승인을 담당할 이사회 설립을 추진하는 것으로 알려졌습니다. 이는 트럼프 대통령의 정치적 의제에 부합하지 않는 '진보적' 이니셔티브에 대한 자금 지원을 제한하려는 시도로 해석됩니다.",
-          "sources": [
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "tec",
-          "title": "트럼프, 'AI 부대' 창설 및 'AI 차르' 임명 계획 발표…AI 개발 제한 반대",
-          "summary": "도널드 트럼프 미국 대통령이 'AI 부대'를 창설하고 인공지능 '차르'를 임명하겠다고 발표했습니다. 그는 AI 기술의 성장을 방해하지 않을 것이며, AI 개발 속도 조절에 대한 경고에 반대 입장을 표명했습니다.",
+          "title": "미중 정상회담 앞두고 AI 안전성 등 주요 의제 논의",
+          "summary": "트럼프 대통령과 시진핑 주석의 정상회담을 앞두고 미국과 중국 고위 관리들이 AI 안전성 계획에 대해 논의했습니다. 스콧 베센트 미 재무장관은 뉴욕에서 중국 허리펑 부총리와의 회담 후 AI 사건에 대한 새로운 '알림 메커니즘'을 구축하는 방안을 논의했다고 밝혔습니다. 이번 정상회담에서는 AI 외에도 무역 문제와 관세 전쟁 휴전 기한 만료 등 여러 경제적 사안들이 주요 의제로 다뤄질 예정입니다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "미 동부 주요 공항, 통신 케이블 절단으로 항공편 대규모 지연 및 취소",
+          "summary": "미국 동부의 주요 공항에서 건설 작업자들이 실수로 항공 교통 관제에 필요한 케이블을 절단하여 수백 편의 항공편이 지연되거나 취소되는 사태가 발생했습니다. 뉴욕, 펜실베이니아, 뉴저지, 매사추세츠 등의 공항에 이착륙 중단 명령이 내려졌으며, 특히 뉴어크 리버티 국제공항이 가장 큰 영향을 받았습니다. 미국 교통부 장관은 케이블 복구가 완료되어 정상 운영이 재개되었으나 지연은 지속될 것이라고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/sep/21/airports-flight-ground-stop-hacking-threat"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "텍사스 오스틴에서 ICE 요원의 이민자 총격 사건 발생, 논란 증폭",
+          "summary": "텍사스주 오스틴에서 이민세관집행국(ICE) 요원이 베네수엘라 출신 이민자 윌베르 라파엘 가르세스 페레스(28)에게 총격을 가해 중태에 빠뜨렸습니다. 페레스는 음식 배달 중 총상을 입고 병원으로 이송된 뒤 ICE 구금시설로 옮겨졌으며, 그의 변호인은 합법적으로 미국에 입국했으며 전과가 없다고 주장했습니다. 이 사건으로 ICE의 강경한 이민자 단속에 항의하는 시위가 발생했으며, 오스틴 시장은 독립적인 조사를 요구했습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609220908001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/21/us/immigration-ice-shooting-austin-texas.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "데이터 센터의 전력·물 사용량 우려 증대, 규제 강화 촉구",
+          "summary": "인공지능(AI) 데이터 센터의 급증하는 전력 및 물 사용량에 대한 우려가 커지면서 월스트리트의 데이터 센터 산업에 대한 회의론이 증가하고 있습니다. 여러 데이터 센터 관련 기업들이 기업공개(IPO)를 연기했으며, 미국 전역의 지역사회에서는 데이터 센터 건설에 대한 반발이 확산되고 있습니다. 아마존은 콜로라도강 수자원 보전 프로젝트에 2천만 달러를 투자하겠다고 발표했지만, 여전히 회사의 총 물 사용량에 대한 정보는 불완전한 상황입니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+              "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html"
             }
           ],
           "verification": "multi",
@@ -178,71 +195,71 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아 총선, 집권당 압승…우크라이나 전쟁 이후 첫 선거로 논란 지속",
-          "summary": "러시아가 우크라이나 전쟁 이후 처음 치른 총선에서 집권 통합러시아당이 압도적인 득표율로 선두를 달리고 있습니다. 다만 반전 후보 상당수가 출마하지 못하고 야권 활동이 제약받은 가운데 치러져 선거의 공정성에 대한 논란이 제기되고 있습니다.",
+          "title": "트럼프-시진핑 정상회담 앞두고 미중 관계 및 대만 문제 주목",
+          "summary": "도널드 트럼프 미국 대통령이 11년 만에 백악관을 국빈 방문하는 시진핑 중국 국가주석을 극진히 대접하며 미중 정상회담이 진행될 예정입니다. 트럼프 대통령은 직접 공항에 나가 시 주석을 영접하고, 백악관 환영 행사에는 B-2 스피릿 전략폭격기 등 최정예 공중자산이 동원됩니다. 한편, 한미일 외교장관들은 공동 성명을 통해 대만해협의 평화와 안정 유지의 중요성을 강조하고, 일방적인 현상 변경 시도에 반대 입장을 표명했습니다.",
           "sources": [
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609210831001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202609220721001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/drones-moscow-russians-polls/"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609220708001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368177/russia-vows-revenge-ukraines-election-day-attacks-poll-shows-win-ruling-party?utm_source=rss_feed"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "대만 노동부장, APEC 회의 참석 위해 중국 방문…양안 관계 개선 모색",
-          "summary": "대만 노동부장이 APEC 장관급 회의 참석을 위해 중국 난징을 방문했습니다. 이는 라이칭더 대만 총통 취임 이후 대만 고위 관료의 첫 중국 방문으로, 대만은 '상호 동등과 존엄의 원칙'에 따라 노동 문제에 대한 경험을 공유할 계획입니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/taiwans-labor-minister-visits-china/"
-            }
-          ],
-          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "중국 경제 둔화 속 홍콩, 하이테크 IPO 유치 경쟁…본토와 차별화 전략",
-          "summary": "중국 경제가 수십 년 만에 최악의 상황을 겪고 있는 가운데, 중국 본토와 홍콩은 하이테크 기업의 IPO 유치를 위해 경쟁하고 있습니다. 홍콩은 국제적인 확장을 목표로 하는 기업들에게 선호되는 반면, 본토는 높은 기업 가치 평가를 추구하는 기업들에게 유리한 환경을 제공하며 차별화된 전략을 취하고 있습니다.",
+          "title": "러시아의 외국 기업 자산 압류, 일본 기업 불안감 증폭",
+          "summary": "러시아 정부의 스위스, 프랑스 기업 자산 압류 조치로 러시아에서 사업을 계속하고 있는 200개 이상의 일본 기업들이 불안감에 휩싸였습니다. 크렘린궁은 스위스 식품 대기업 네슬레, 프랑스 소매업체 오샹, 주택 개량 체인 레마나 프로의 자산이 러시아 국영 기업인 LEV Management로 이전되었다고 발표했습니다. 이는 외교 관계 악화 속에서 '비우호 국가'에 대한 보복 조치로 해석되며, 일본 기업들에게도 유사한 조치가 취해질 가능성에 대한 우려를 낳고 있습니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/business/banking-finance/article/3368029/chinas-hi-tech-ipos-its-hong-kong-vs-mainland-how-much-does-it-matter?utm_source=rss_feed"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
+              "url": "https://www.scmp.com/week-asia/politics/article/3368248/moscows-asset-seizures-unnerve-japanese-companies-russia?utm_source=rss_feed"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "아시아 AI 도입 가속화, 일본은 산업 기계 활용 물리적 AI 데이터 수집 추진",
-          "summary": "구글 임원은 아시아 지역의 인공지능(AI) 도입 속도가 인식보다 빠르다고 밝혔습니다. 한편, 일본 정부와 주요 기계 제조업체들은 자율 로봇과 같은 물리적 AI 애플리케이션을 위한 머신러닝 데이터 수집을 위해 산업 기계에 고유 ID를 부여할 계획입니다.",
+          "title": "미중 AI 기술 경쟁 심화, 핵 안전 조치에 준하는 규제 논의 촉구",
+          "summary": "미국과 중국 간 인공지능(AI) 기술 경쟁이 심화되고 있으며, 양국 정상회담을 앞두고 핵 안전 조치에 준하는 AI 규제 논의가 촉구되고 있습니다. 미 하원 중국 특위의 로 칸나 의원은 AI 연구실에 대한 국제적 감시와 자율 개선 AI 시스템 금지를 제안하며, 트럼프 대통령과 시진핑 주석이 AI 안전 표준에 합의해야 한다고 주장했습니다. 화웨이는 100만 개 프로세서를 하나의 컴퓨터처럼 작동시키는 기술적 돌파구를 발표하며 미중 기술 전쟁의 새로운 양상을 보여주었습니다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/economy/global-economy/article/3368262/us-china-tech-war-has-evolved-last-xi-trump-summit-who-has-edge-now?utm_source=rss_feed"
             },
             {
               "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/asia-s-ai-adoption-outpaces-perception-says-google-executive"
+              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-china-ai-race-speeds-up-as-self-improving-models-advance"
             }
           ],
           "verification": "multi",
           "tag_label": "기술·과학"
+        },
+        {
+          "tag": "soc",
+          "title": "홍콩 학생 기숙사 임대료 상승에도 본토 중국 학생들에게 인기",
+          "summary": "홍콩의 학생 기숙사 임대료가 상승했음에도 불구하고 본토 중국 학생들에게 여전히 인기를 끌고 있습니다. 전용 학생 주택은 높은 임대료에도 불구하고 편의성, 보안, 예측 가능한 비용, 그리고 더 나은 생활 환경을 제공하여 학생들의 선호도가 높습니다. 한 본토 중국인 학생은 캠퍼스 내 주택 부족으로 비좁은 공간에서 1년을 보낸 후 교외 학생 기숙사로 옮겼다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/property/article/3368296/despite-higher-costs-hong-kongs-student-residences-attract-mainland-chinese-renters?utm_source=rss_feed"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
         }
       ]
     },
@@ -253,41 +270,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "독일 총선, 메르츠 총리 보수당 역사적 패배…개혁 추진 압박 증대",
-          "summary": "독일 총선에서 프리드리히 메르츠 총리가 이끄는 보수당(기독민주연합)이 두 개 주 선거에서 역사적인 패배를 기록하며, 한 주에서는 전후 최저 득표율로 주 의회 진입에 실패했습니다. 메르츠 총리는 재임 의사를 밝혔으나, 이번 패배로 경제 개혁 추진에 대한 압박이 더욱 커질 것으로 보입니다.",
+          "title": "메르츠 독일 총리, 주 선거 패배 후에도 연정 유지 약속",
+          "summary": "프리드리히 메르츠 독일 총리가 두 주 선거에서 기독민주연합(CDU)이 참패한 후에도 연립 정부를 유지하겠다고 약속하며 독일의 '민주적 미래'를 강조했습니다. 메르츠 총리는 선거 결과가 '재앙'임을 인정했지만, 자신의 사퇴설을 일축하며 연정의 안정성을 강조했습니다. 특히 메르츠 총리의 당은 메클렌부르크-포어포메른 주에서 의회 진입 기준인 5% 득표율에도 미달하는 최악의 성적을 기록했으며, 극우 '독일을 위한 대안(AfD)'당이 크게 약진했습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/21/world/politics/merz-german-state-parliament/"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/germany-elections-threat-merz/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "우크라이나, 러시아 대선 앞두고 모스크바에 대규모 드론 공격 감행",
-          "summary": "러시아 총선 마지막 날 우크라이나가 모스크바와 주변 지역에 대규모 드론 공격을 감행했습니다. 모스크바 시장은 이를 '역대 최대 규모'의 공격이라고 묘사하며 석유 정제 시설과 주거용 건물이 피해를 입었다고 밝혔습니다. 우크라이나 대통령은 러시아의 '전쟁 기계'를 약화시키기 위한 공격임을 시사했습니다.",
-          "sources": [
-            {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+              "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+              "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -295,37 +291,50 @@
         },
         {
           "tag": "pol",
-          "title": "이탈리아 멜로니 총리, 학교 내 부르카·니캅 금지 및 외국인 학생 수 제한 추진",
-          "summary": "이탈리아 조르자 멜로니 총리가 학교 내 부르카와 니캅 착용을 금지하고 외국인 학생 수를 제한하는 법안을 추진할 계획이라고 밝혔습니다. 이는 이민 정책 강화를 위한 조치로, 이탈리아에 정착하려는 이들은 이탈리아어 학습과 문화 존중이 필수적이라고 강조했습니다.",
+          "title": "러시아 총선에서 푸틴당 압승, EU는 제재 예고",
+          "summary": "러시아 총선 예비 결과, 블라디미르 푸틴 대통령이 지지하는 통합러시아당이 역대 최고 의석을 확보하며 압도적인 승리를 거두었습니다. 크렘린궁에 비판적이거나 우크라이나 전쟁에 반대하는 모든 정당은 투표에서 배제되었습니다. 유럽연합(EU)은 러시아가 점령한 우크라이나 영토에서 실시된 이번 선거를 불법으로 규탄하며, 선거를 조직하거나 출마한 인물들에게 제재를 부과할 것이라고 밝혔습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3368172/italys-meloni-plans-ban-burkas-niqabs-schools-and-cap-foreign-pupils-classrooms?utm_source=rss_feed"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/21/putins-party-wins-record-duma-majority-in-kremlin-controlled-elections-as-eu-vows-sanction"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/my-europe/2026/09/20/meloni-announces-ban-on-burqa-and-niqab-in-italian-schools-and-cap-on-foreign-students"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "22개국, AI 인간 통제 선언 및 국제 감독 체계 수립 촉구",
+          "summary": "핀란드와 노르웨이 주도로 22개국이 인공지능(AI)이 인간의 지시와 통제 하에 유지되어야 한다고 선언하고, 이를 위한 글로벌 감독 체계 수립을 제안했습니다. 이 선언문은 유엔 총회 고위급 회기를 계기로 채택되었으며, 첨단 AI 모델의 급속한 발전이 적절히 관리되지 않을 경우 안전과 안보에 심각한 위험을 초래한다고 경고했습니다. 그러나 세계 AI 연구 개발의 양대 산맥인 미국과 중국은 이 선언문 채택에 참여하지 않았습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260922035600009"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/giorgia-meloni-ban-veils-italy-schools-limit-foreign-students/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/20-countries-urge-to-strenghten-oversight-of-ai-to-keep-it-under-human-control/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "유럽 정보 당국, 러시아의 나토 대상 '결정적 행동' 수개월 내 계획 가능성 경고",
-          "summary": "유럽 정보 당국자들이 러시아가 나토에 대한 더욱 결정적인 행동을 수개월 내에 계획하고 있을 가능성이 있다고 경고했습니다. 체코 정보기관장은 제한적인 침입, 위장 도발, 대규모 영향력 캠페인 등이 포함될 수 있다고 언급했습니다. 발트해 연안국들은 침공 징후는 없지만, 러시아가 유럽에서 불안정을 확산시키려는 의도를 가지고 있을 수 있다고 분석했습니다.",
+          "tag": "eco",
+          "title": "EU, 에너지 집약 데이터 센터의 에너지·물 소비 규제 추진",
+          "summary": "유럽연합 집행위원회는 에너지 집약적인 데이터 센터의 에너지 및 물 소비량을 모니터링하기 위한 새로운 지속가능성 규정을 발표했습니다. 2027년부터 최소 성능 기준이 도입될 예정이며, 500kW 이상의 데이터 센터는 9월 21일부터 전자 지속가능성 라벨을 받게 됩니다. EU는 2035년까지 데이터 센터 용량을 세 배로 늘릴 계획이지만, 데이터 센터의 급격한 확장이 전력망과 수자원에 부담을 주고 있어 이에 대한 규제 필요성이 제기되고 있습니다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/my-europe/2026/09/21/eu-moves-to-curb-energy-and-water-for-data-centres"
             }
           ],
           "verification": "single",
-          "tag_label": "정치·외교"
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -336,16 +345,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "티라노사우루스 렉스, 6600만년 전 사람과 유사한 항온 동물이었음 밝혀져",
-          "summary": "과학자들이 약 6600만년 전 티라노사우루스 렉스의 치아를 분석하여 체온이 약 36°C였음을 밝혀냈습니다. 이는 T. 렉스가 현대 코끼리와 비슷한 체온을 유지하며 활동적인 항온 동물이었음을 직접적으로 보여주는 증거입니다.",
+          "title": "아마존, 메타 AI 에이전트 '뮤즈'의 쇼핑몰 접근 차단 조치",
+          "summary": "아마존이 메타플랫폼의 새로운 인공지능(AI) 에이전트 '뮤즈'의 자사 쇼핑몰 사이트 접근을 차단했습니다. 이는 메타가 뮤즈를 삭제해 달라는 아마존의 요청을 거부한 데 따른 조치로, 아마존은 타 기업의 쇼핑 자동화 도구 배포를 금지하는 정책을 이유로 들었습니다. 뮤즈는 심각한 보안 취약점이 발견되어 로컬 앱이나 터미널 명령이 에이전트를 완전히 제어할 수 있는 '제로데이' 문제가 보고되기도 했습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260922022900009"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
             }
           ],
           "verification": "multi",
@@ -353,12 +362,12 @@
         },
         {
           "tag": "tec",
-          "title": "구글 보안 연구원, 악명 높은 공급망 해킹 조직에 잠입 성공",
-          "summary": "구글 위협 인텔리전스 그룹의 연구원이 'TeamPCP'라는 악명 높은 공급망 해킹 조직에 잠입하여 이들의 활동을 내부에서 감시하고 피해 대상에 경고하는 데 기여했습니다. 이들의 침투는 TeamPCP가 수백 개의 오픈소스 프로그램을 악성코드로 오염시키고 천 개 이상의 기업을 침해하는 과정에서 이루어졌습니다.",
+          "title": "NASA 로만 우주 망원경의 300메가픽셀 적외선 카메라 성공적 가동",
+          "summary": "NASA의 낸시 그레이스 로만 우주 망원경이 300메가픽셀 적외선 카메라를 성공적으로 가동했습니다. 이 광시야 장비(Wide Field Instrument)는 허블 망원경과 같은 선명도로 우주의 광대한 영역을 빠르게 탐사할 수 있도록 설계되었습니다. 로만 망원경의 행성 이미징 시스템인 코로나그래프 장비도 초기 점검을 완료하여, 2027년 과학 운영 시작을 위한 중요한 단계를 밟았습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
             }
           ],
           "verification": "single",
@@ -366,19 +375,15 @@
         },
         {
           "tag": "tec",
-          "title": "일부 AI 개발자, AI의 인류 종말 가능성에 회의적…엔비디아 CEO는 '과장' 주장",
-          "summary": "주요 인공지능(AI) 기업 직원들 중 일부는 AI 기술이 인류를 위협할 것이라는 주장에 대해 회의적인 입장을 보였습니다. 엔비디아의 젠슨 황 CEO는 AI가 인류를 멸망시킬 가능성이 '0%'라며, AI에 대한 두려움이 과장되었다고 주장했습니다.",
+          "title": "신개념 바늘형 뇌 임플란트 개발, 신경 활동 기록·약물 전달 동시 가능",
+          "summary": "과학자들이 신경 활동을 기록하고, 약물을 전달하며, 여러 뇌 영역을 동시에 자극할 수 있는 유연한 바늘형 뇌 임플란트를 개발했습니다. '미세유체 축 전극(mAxialtrode)'으로 알려진 이 장치는 쥐 실험에서 성공적인 결과를 보여, 뇌 연구에 더 정밀하고 덜 침습적인 방법을 제공할 것으로 기대됩니다. 장기적으로는 간질과 같은 신경 질환 치료에도 기여할 수 있을 것으로 전망됩니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
