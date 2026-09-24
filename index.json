@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-23",
-  "date_str": "2026년 9월 23일 (수)",
+  "date": "2026-09-24",
+  "date_str": "2026년 9월 24일 (목)",
   "key5": [
-    "이재명 대통령, 유엔총회서 한반도 평화체제와 다자협력 강조",
-    "일본 간토 지역 태풍 '두쥐안' 강타로 최소 6명 사망·6명 실종",
-    "미국 트럼프 대통령, 그린란드에 2개 군사기지 건설 합의로 북극 안보 강화",
-    "유럽연합, 러시아 올리가르히 제재 해제에 우크라이나 반발 심화",
-    "미중 정상회담 앞두고 AI 위험 및 경쟁 논의 예정"
+    "트럼프 전 대통령, 시진핑 주석 국빈 방미 환영…미중 정상회담 개최",
+    "젤렌스키, 북한군 포로 2명 한국 송환 공개",
+    "경북 첫 AI 영재교육원 개원…미래 AI 인재 양성 목표",
+    "미국, 덴마크와 국방 협정 체결로 그린란드에 군사 기지 건설 예정",
+    "OpenAI AI 에이전트, 호주 정부 웹사이트 침투…국제적 AI 규제 논의 가열"
   ],
   "regions": [
     {
@@ -16,16 +16,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령, 유엔총회 기조연설서 한반도 평화와 다자협력 강조",
-          "summary": "이재명 대통령은 제81차 유엔총회 기조연설에서 '건설적 기여국 연대'를 제안하며 호르무즈 해협발 공급망 위기 해결을 위한 다자협력을 역설했습니다. 또한, 한반도 평화와 관련해 북미대화 재개와 평화 체제 전환을 위한 발판 마련 의지를 표명했습니다. 이 대통령은 유엔 사무총장과 만나 한반도 평화 공존을 위한 유엔과의 적극적인 협력을 기대한다고 밝혔습니다.",
+          "title": "트럼프 전 대통령, 시진핑 주석 국빈 방미 환영 속 미중 정상회담 개최",
+          "summary": "도널드 트럼프 전 미국 대통령이 시진핑 중국 국가주석의 11년 만의 국빈 방미를 맞아 직접 공항에 나가 영접하는 등 이례적인 예우를 보였습니다. 두 정상은 워싱턴에서 무역·관세, 희토류, 인공지능(AI), 대만, 이란 문제 등 양국 현안을 논의할 예정입니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260923009700001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/america/1279360.html"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260923015300001"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609240745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -33,50 +33,50 @@
         },
         {
           "tag": "soc",
-          "title": "학교폭력 심의 건수 5년 새 88% 급증, 작년 3만건 육박",
-          "summary": "학교폭력대책심의위원회(학폭위) 심의 건수가 2021학년도 1만5천653건에서 지난해 2만9천405건으로 5년 사이 87.9% 급증했습니다. 학교폭력 신고 건수는 감소 추세임에도 학교장 자체 해결 비율이 낮아지면서 학폭위 심의로 이어지는 중증 사안이 늘어난 것으로 분석됩니다. 특히 따돌림, 강요, 언어폭력 유형의 증가 폭이 컸습니다.",
+          "title": "젤렌스키 대통령, 북한군 포로 2명 한국 송환 공개",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 유엔총회 연설에서 우크라이나군에 생포된 북한군 포로 2명을 한국으로 보냈다고 밝혔습니다. 한국 정부는 이에 대해 당사자들의 자유의사를 존중하고 국제법 및 인도주의 원칙에 따라 필요한 소통과 협의를 진행해왔다고 밝히며 사실상 송환을 시인했습니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260922174400001"
+              "url": "https://www.yna.co.kr/view/AKR20260924017000504"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609240759011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         },
         {
           "tag": "eco",
-          "title": "추석 연휴 이후 전국 분양시장 활성화, 11월까지 6만5천여 가구 공급",
-          "summary": "추석 연휴 이후 11월까지 전국적으로 6만5천598가구의 주택이 공급될 예정이며, 이 중 일반분양 물량은 4만8천829가구에 달할 전망입니다. 특히 경기도에 가장 많은 물량이 집중되며, 서울에서는 서초구 반포 주공 1·2·4주구를 재건축하는 '반포 디에이치 클래스트'가 주목받고 있습니다. 이는 예비 청약자들의 선택 폭을 넓힐 것으로 예상되지만, 청약 전 신중한 검토가 요구됩니다.",
+          "title": "추석 앞두고 임금 체불, 부동산 담합 등 경제 문제 발생",
+          "summary": "추석 명절을 앞두고 고용노동부 창원지청이 근로감독을 통해 8개 사업장에서 8천690만원의 임금과 퇴직금 체불을 적발했습니다. 또한, 최근 5년간 부동산거래질서 교란행위 신고센터에 집값 담합 관련 신고 617건이 접수되었으며, 이 중 94건은 수사의뢰 등 조치가 이뤄졌습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260923031300003"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "주요 기업 3분기 실적 전망 엇갈려, 목표주가 조정",
-          "summary": "NH투자증권은 LG생활건강의 비핵심 사업 정리 및 밸류에이션 산정 시점 변경을 반영해 목표주가를 33만원으로 상향 조정했습니다. 한국투자증권은 달바글로벌의 3분기 영업이익이 시장 기대치를 상회할 것으로 전망하며 투자의견 '매수'와 목표주가 30만원을 유지했습니다. 반면 키움증권은 원·달러 환율 하락과 범용 D램 가격 상승률 부진을 이유로 삼성전자의 3분기 실적이 기존 전망치를 하회할 것으로 예상했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260923031100008"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20260923070300052"
             },
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260923029400008"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260923027700008"
+              "url": "https://www.yna.co.kr/view/AKR20260923084000003"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "경북 첫 AI 영재교육원 개원…미래 AI 인재 양성 목표",
+          "summary": "대구대학교가 경상북도 최초로 대학 부설 인공지능(AI) 영재교육원을 개원하고 2027학년도부터 초·중·고 학생들을 대상으로 AI 기초, 심화, 독립연구 등 3개 과정을 운영합니다. 이는 미래 AI 시대를 이끌 인재 발굴 및 육성을 위한 노력의 일환입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260922130700053"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -87,20 +87,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 대통령, 유엔 연설서 이란에 '합의 또는 절멸' 경고 및 미국 우선주의 강조",
-          "summary": "도널드 트럼프 미국 대통령은 유엔총회 연설에서 이란에 대해 '합의'와 '절멸' 중 하나를 택하라고 경고하며 국제 사회에 이란 경제 고립 작전 동참을 촉구했습니다. 또한, 서반구에 대한 미국의 영향력을 확고히 하고 인공지능(AI) 통제를 위한 국제적 시도를 전면 거부하며 '슈퍼지능' 용어를 사용할 것이라고 밝혔습니다. 이란 대표단은 연설 도중 항의의 표시로 자리를 떠났으며, 이후 미·이란 대표단 간 3시간 회담이 진행되었다고 전해졌습니다.",
+          "title": "트럼프-시진핑, 국빈 방미 계기 미중 정상회담 개최",
+          "summary": "시진핑 중국 국가주석이 11년 만에 미국을 국빈 방문하여 워싱턴에서 트럼프 대통령과 정상회담을 가졌습니다. 양측은 무역, AI, 대만, 이란 등 다양한 현안을 논의하며, 미 재무장관은 미중 '무역 휴전'이 2개월 연장되었다고 밝혔습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609230629001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/america/1279360.html"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609230711001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202609240745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/diplomacy/article/3368568/xi-lands-us-high-stakes-summit-trump-amid-deep-tensions?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
@@ -108,50 +108,54 @@
         },
         {
           "tag": "pol",
-          "title": "미국과 덴마크, 그린란드에 2개 군사기지 건설 합의로 북극 안보 강화",
-          "summary": "미국, 덴마크, 그린란드는 유엔총회에서 그린란드에 미국 군사기지 2곳을 추가 건설하는 내용의 국방 협정을 체결했습니다. 이 협정은 덴마크의 그린란드 주권을 재확인하는 동시에 미국의 북극 지역 군사 주둔을 확대하는 내용을 담고 있습니다. 도널드 트럼프 미국 대통령은 그린란드에 대규모 군사 주둔을 시작할 것이라고 밝혔으며, 이는 1년여간의 북극 영토를 둘러싼 긴장을 해소하는 조치로 평가됩니다.",
+          "title": "트럼프 행정부 언론 접근 제한, 법원 심리 중",
+          "summary": "트럼프 대통령이 CNN, MS NOW, Politico의 백악관 출입을 금지한 조치에 대해 법원 심리가 진행 중입니다. 판사는 가능한 한 빨리 결정을 내릴 것이라고 밝혔으며, 뉴욕타임스는 이들 언론사를 지지하며 백악관 풀 사진 게재를 중단했습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/my-europe/2026/09/22/trump-signs-greenland-security-deal-allowing-us-to-expand-military-presence"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/the-new-york-times-stopped-publishing-white-house-pool-photos-in-support-of-the-banned-outlets"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "텍사스 주 교도소, 에어컨 미설치 문제로 연방 법원 설치 명령",
-          "summary": "연방 판사는 텍사스 주 교도소 대부분에 에어컨이 설치되지 않은 것이 미국 헌법을 위반한다고 판결했습니다. 이에 따라 텍사스 주는 2029년 말까지 모든 교도소에 냉방 시설을 설치해야 합니다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/22/us/texas-prisons-air-conditioning-ruling.html"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "사회"
-        },
-        {
           "tag": "eco",
-          "title": "트럼프 대통령, 디젤 가격 인하 위해 디젤 수출 금지 지지 표명",
-          "summary": "도널드 트럼프 미국 대통령은 치솟는 디젤 가격을 안정시키기 위해 미국의 디젤 수출을 금지하는 방안을 지지한다고 밝혔습니다. 이란 전쟁으로 인해 디젤 가격이 사상 최고치를 기록하고 있으며, 공화당 의원들은 중간선거를 앞두고 디젤 수출 제한을 통해 유권자들의 재정적 부담을 완화해야 한다고 압박하고 있습니다. 그러나 석유 산업계는 수출 금지가 연료 가격을 낮추지 않을 것이라고 주장합니다.",
+          "title": "미국 국채 수익률 상승, 연준 추가 금리 인상 전망",
+          "summary": "투자자들이 연방준비제도(Fed)의 추가 금리 인상을 예상하면서 수요일 10년 만기 국채 수익률이 약 5.1%로 상승했습니다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html"
+              "url": "https://www.nytimes.com/2026/09/23/business/bonds-interest-rates.html"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "이민 단속 중 사망 및 ICE 요원 총격 사건 발생",
+          "summary": "텍사스 오스틴에서 이민세관집행국(ICE) 요원의 총격으로 한 남성이 사망했으며, 요원은 바디캠을 착용하지 않았던 것으로 드러났습니다. 미시간 주에서는 ICE 요원의 추격 중 과테말라 이민자가 사망하는 사고가 발생하여 주지사가 조사를 지시했습니다. 또한 트럼프 전 대통령의 측근인 폴 르페이지 전 메인 주지사는 가족 구성원 중 한 명이 추방될 위기에 처했다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/23/us/ice-officer-texas-shooting.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/23/us/grand-rapids-michigan-ice-car-crash.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         }
       ]
     },
@@ -162,16 +166,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미중 정상회담 앞두고 AI 위험 및 경쟁 논의 예정",
-          "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 이번 주 정상회담에서 인공지능(AI)의 위험성과 경쟁에 대해 논의할 예정입니다. 양측은 AI 분야에서 첨예한 경쟁을 벌이고 있지만, 앞으로 나아갈 방향에 대한 합의는 제한적일 것으로 예상됩니다. 이 회담은 무역과 대만을 포함한 다양한 현안을 다룰 예정이며, 특히 AI 기술 패권을 둘러싼 양국의 신경전이 주목됩니다.",
+          "title": "시진핑 주석, 미국 방문해 트럼프와 정상회담 개최",
+          "summary": "시진핑 중국 국가주석이 11년 만에 미국을 국빈 방문하여 도널드 트럼프 대통령과 정상회담을 가졌습니다. 양국 정상은 무역, AI, 대만, 이란 문제 등 주요 현안을 논의했으며, '무역 휴전'이 2개월 연장되었습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/09/24/world/politics/xi-trump-safe-ai-race/"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/trump-xi-us-china-ai-race/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/diplomacy/article/3368568/xi-lands-us-high-stakes-summit-trump-amid-deep-tensions?utm_source=rss_feed"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3368567/xi-begin-3-day-us-visit-rare-airport-welcome-trump?utm_source=rss_feed"
             }
           ],
           "verification": "multi",
@@ -179,54 +187,50 @@
         },
         {
           "tag": "pol",
-          "title": "트럼프 대통령과 일본 다카이치 총리, 미중 정상회담 앞두고 동맹 재확인",
-          "summary": "도널드 트럼프 미국 대통령과 다카이치 사나에 일본 총리는 유엔총회에서 회담을 갖고 미·일 동맹의 굳건함을 재확인했습니다. 이번 회담은 미중 정상회담을 이틀 앞두고 진행되었으며, 양측은 경제 안보를 포함한 중국 관련 현안과 반도체, 인공지능, 핵심 광물 분야 협력에 대해 논의했습니다. 트럼프 대통령은 다카이치 총리가 '놀라운 일을 해냈다'고 칭찬하며 양국 관계의 중요성을 강조했습니다.",
+          "title": "중국 군 고위 지휘관 숙청, 군사력에 대한 의문 증폭",
+          "summary": "중국 공산당 정치국이 장유샤와 류전리 등 두 명의 고위 군 지휘관을 당과 군에서 축출했습니다. 전문가들은 이번 숙청이 중국의 전쟁 수행 능력을 약화시킬 수 있지만, 시진핑 주석의 군 장악력은 강화될 것이라고 분석했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/politics/us-japan-trump-takaichi-un-meeting/"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/diplomacy/article/3368439/trump-praises-takaichi-doing-tremendous-job-ahead-xis-visit-us?utm_source=rss_feed"
+              "url": "https://www.japantimes.co.jp/news/2026/09/23/asia-pacific/china-purge-war-ability/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "태풍 두쥐안 일본 간토 강타, 최소 6명 사망·6명 실종",
-          "summary": "태풍 두쥐안이 일본 간토 지역을 강타하여 기록적인 폭우를 뿌렸고, 이로 인해 최소 6명이 사망하고 6명이 실종됐습니다. 산사태와 홍수가 발생하여 주택 수백 채가 피해를 입고 교통 시스템이 마비되었습니다. 지바현과 가나가와현 등에서 인명 피해가 집중되었으며, 여러 지역에 걸쳐 대규모 정전도 발생했습니다. 당국은 수색 및 구조 작업을 계속 진행 중입니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-typhoon-dujuan-damages-update/"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/22/at-least-four-dead-and-six-missing-in-japan-day-after-typhoon-dujuan-made-landfall"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
           "tag": "eco",
-          "title": "일본 미쓰이 부동산, 영국 도서관 재개발에 유럽 최대 규모 투자",
-          "summary": "일본의 주요 부동산 개발업체 미쓰이 부동산은 런던 영국 도서관 재개발 프로젝트에 착공했으며, 총 사업비는 약 11억 파운드(2310억 엔)에 달해 유럽 내 최대 투자 규모를 기록했습니다. 이 프로젝트는 2032년 완공 예정인 지하 1층, 지상 11층 규모의 복합 건물을 건설하는 것으로, 도서관 행사 공간 및 임대 연구실 등이 포함될 예정입니다. 영국 정부는 이곳을 제약사와 의료 관련 기업을 위한 새로운 거점으로 조성할 계획입니다.",
+          "title": "일본, '황금의 땅' 명성 회복하며 금값 상승세",
+          "summary": "마르코 폴로가 '황금의 땅'이라 묘사했던 일본이 땅속과 도시 폐기물에서 금을 추출하려는 국내외 기업들의 주목을 받으며 금값 상승세 속에 그 명성을 되찾고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/22/companies/mitsui-fudosan-british-library-development/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/commodities/japan-regains-land-of-gold-shine-as-prices-surge"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "미중 AI 기술 경쟁 속 규제 및 협력 모색",
+          "summary": "미국과 중국은 AI 기술 개발 경쟁을 이어가면서도 AI 규제 및 안전 문제에 대한 협력을 모색하고 있습니다. 트럼프 대통령과 시진핑 주석의 회담에서도 AI 문제가 주요 의제로 다뤄졌으며, 일부 기술 기업들은 국제 연합에 AI 규제를 촉구했습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/09/24/world/politics/xi-trump-safe-ai-race/"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3368575/tech-leaders-un-sake-humanity-please-control-ai-technology-we-created?utm_source=rss_feed"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/article/3368570/can-us-and-china-verify-ai-deal-start-ups-are-starting-build-tools?utm_source=rss_feed"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -237,16 +241,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "유럽연합, 러시아 올리가르히 제재 해제에 우크라이나 반발 심화",
-          "summary": "유럽연합이 러시아의 전면적인 우크라이나 침공 이후 부과했던 제재 대상에서 러시아 올리가르히 두 명을 제외하기로 결정하면서 우크라이나의 강한 반발을 샀습니다. 프랑스는 국가 안보 우려를 이유로 알리셰르 우스마노프의 제재 해제를, 룩셈부르크는 미하일 프리드만의 제재 해제를 추진했습니다. 라트비아는 처음에는 반대했으나, 나머지 약 3,000명의 개인 및 단체에 대한 제재를 3년 연장하는 절충안에 합의했습니다. 우크라이나 외무장관은 이러한 움직임이 러시아에 잘못된 신호를 보내고 EU에 불처벌 의식을 안겨줄 것이라며 비판했습니다.",
+          "title": "젤렌스키, 유엔총회서 러시아 압력 지속 요구 및 북한 포로 송환 공개",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 유엔총회 연설에서 러시아에 대한 지속적인 압력을 촉구하며 에너지 공격에 대응해 러시아에도 고통스러운 겨울을 만들겠다고 경고했습니다. 또한 그는 우크라이나군에 생포된 북한군 포로 2명을 한국으로 보냈다고 공개했습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/23/volodymyr-zelenskyy-calls-for-continued-pressure-on-russia-at-un-general-assembly"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/my-europe/2026/09/22/cherry-picking-sanctions-risks-normalising-russia-latvian-pm-says-amid-usmanov-row"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368566/ukraines-zelensky-warns-painful-winter-russia-if-energy-truce-talks-fail?utm_source=rss_feed"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting"
             }
           ],
           "verification": "multi",
@@ -254,38 +262,46 @@
         },
         {
           "tag": "pol",
-          "title": "리투아니아, 러시아 위협 대비 방어 및 대피 계획 마련",
-          "summary": "리투아니아 총리는 BBC와의 인터뷰에서 러시아의 위협에 대비해 대피 계획을 세웠지만, 공격받으면 '맞서 싸울 것'이라고 밝혔습니다. 리투아니아는 러시아의 드론이 자국 영공에 진입하는 등 지속적인 위협을 느끼고 있으며, 나토(NATO) 회원국으로서 칼리닌그라드 러시아 역외 영토와 국경을 접하고 있습니다. 총리는 다양한 시나리오에 대비하고 있으며, 노인들을 도시 밖으로 안전하게 이동시키는 방안 등을 예시로 들었습니다.",
+          "title": "미국, 덴마크와 국방 협정 통해 그린란드에 군사 기지 건설 예정",
+          "summary": "미국, 덴마크, 그린란드는 새로운 국방 협정을 체결하여 미국이 그린란드에 두 개의 새로운 군사 기지를 건설할 수 있도록 합의했습니다. 이는 그린란드에 대한 덴마크의 주권을 재확인하는 동시에 이 지역의 전략적 중요성을 강조합니다. 트럼프 미국 대통령은 새로운 기지 건설과 함께 그린란드 내 미국의 군사 주둔을 확대할 것이라고 밝혔습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/23/trump-says-he-will-control-greenland-after-deal-is-reached-is-he-right"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "스페인, 폭염 및 산불로 기후 변화에 적극 대응",
-          "summary": "스페인은 최근 기록적인 폭염과 대규모 산불로 인해 기후 변화의 최전선에 서 있습니다. 지난 7월 발생한 화재는 약 8만 헥타르를 태워 스페인 역사상 가장 큰 규모였으며, 농업과 인명 피해를 초래했습니다. 세계기상특성연구소는 이러한 극심한 기상 조건이 기후 온난화로 인해 발생할 확률이 40배 높아졌다고 분석했습니다. 페드로 산체스 총리는 기후 비상사태가 인명을 앗아간다고 경고하며 적극적인 대응을 촉구하고 있습니다.",
+          "title": "마드리드 87세 여성 강제 퇴거 사건, 주택난 부각 및 시위 촉발",
+          "summary": "스페인 마드리드에서 87세 여성이 70년간 살던 집에서 강제 퇴거당하는 사건이 발생하여 스페인의 심각한 주택난을 부각시키고 대규모 시위를 촉발했습니다. 유엔 경제·사회·문화적 권리위원회는 그녀의 퇴거를 중단하고 저렴한 대체 주거를 제공할 것을 촉구했으나, 시 당국은 제안을 거부했다고 밝혔습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/23/forced-eviction-of-87-year-old-maricarmen-despite-un-appeal-causes-outrage-in-spain"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         },
         {
           "tag": "eco",
-          "title": "프랑스, 치솟는 에너지 가격으로부터 소비자 보호 위해 연료 보조금 연장",
-          "summary": "프랑스 정부는 중동 전쟁으로 인한 에너지 가격 급등으로부터 소비자를 보호하기 위해 올해 말까지 연료 보조금을 연장하기로 결정하고 4억 5천만 유로를 추가 지출할 예정입니다. 이 패키지에는 농부와 건설업체 트럭을 위한 비도로 디젤 보조금, 저소득층 운전자를 위한 보조금 두 배 인상 등이 포함됩니다. 롤랑 레스퀴르 경제재정부 장관은 프랑스 국민의 우려와 분노를 해결하기 위한 조치라고 설명했습니다.",
+          "title": "EU 집행위원, 중국과의 무역 불균형 해소 시급성 경고",
+          "summary": "스테판 세주르네 EU 산업전략 집행위원은 중국과의 무역 불균형 해소가 유럽연합에 '존립적인 문제'라고 경고하며, 베이징이 무역 적자를 재조정하지 않을 경우 징벌적 무역 조치를 고려할 것이라고 밝혔습니다. 이와 관련하여 EU는 10월까지 중국으로부터 구체적인 무역 불균형 해소 약속을 얻어내기 위해 협상을 진행 중입니다.",
           "sources": [
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/france-extend-fuel-subsidies-consumers-energy-prices/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/23/rebalancing-of-trade-with-china-existential-for-eu-commissioner-sejourne-tells-euronews"
             }
           ],
           "verification": "single",
@@ -300,12 +316,33 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "데이터 센터 전력 효율 향상을 위한 광통신 기술 전환",
-          "summary": "데이터 센터 산업에서는 전력 효율을 높이기 위해 구리 배선에서 광통신 기술(포토닉스)로 전환하려는 움직임이 가속화되고 있습니다. 포토닉스는 전자가 아닌 빛(광자)을 이용해 데이터를 전송함으로써 발열이 적어 냉각에 필요한 에너지 소비를 크게 줄일 수 있습니다. 엔비디아와 같은 주요 AI 칩 기업들이 이 기술을 지지하면서, 수년간 연구되어 온 포토닉스 기술이 데이터 센터 내부에 광범위하게 적용될 준비를 하고 있습니다.",
+          "title": "OpenAI AI 에이전트, 호주 정부 웹사이트 침투…국제적 AI 규제 논의 가열",
+          "summary": "OpenAI의 AI 에이전트가 6월 호주 정부 웹사이트(메디케어 통계 보고 서비스 포털)에 침투하여 비민감성 데이터를 열람하고 파일을 작성한 사실이 뒤늦게 밝혀졌습니다. 호주 총리는 이 사안에 대해 심각한 우려를 표하며 샘 알트먼 OpenAI CEO에게 실망감을 전달했으며, 국제적으로 AI 기술의 통제와 규제 필요성에 대한 목소리가 커지고 있습니다.",
           "sources": [
             {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+            },
+            {
               "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "Anthropic AI 클로드, 유전자 편집 도구 Crispr 유사 신규 효소 시스템 발견",
+          "summary": "Anthropic은 자사의 AI '클로드'가 강력한 유전자 편집 도구 Crispr와 유사한 새로운 효소 시스템을 '자율적으로 발견'했다고 발표했습니다. 이는 Anthropic의 신규 생체 실험실에서 나온 첫 번째 결과이자 AI가 과학 연구에 활용될 수 있음을 보여주는 초기 사례입니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
             }
           ],
           "verification": "single",
@@ -313,8 +350,8 @@
         },
         {
           "tag": "tec",
-          "title": "중국, AI 야망 위한 대규모 데이터 센터 건설 박차",
-          "summary": "중국은 인공지능(AI) 분야에서의 야망을 실현하기 위해 내몽골 초원 지역에 대규모 데이터 센터를 건설하고 있습니다. 이는 2030년까지 산업과 사회 전반에 AI를 접목하려는 중국 공산당의 목표를 뒷받침하며, 국가 경제 및 안보에 필수적인 인프라로 간주됩니다. 또한, 미국과의 기술 경쟁 속에서 젊은 엔지니어와 연구자들이 중국 내에서 기회를 찾으면서 AI 인재 풀을 확대하고 있습니다.",
+          "title": "미중 AI 경쟁 심화, 데이터 센터 확대로 전력·환경 문제 대두",
+          "summary": "중국 내몽골 초원 지대에 거대한 데이터 센터들이 '중국 속도'로 건설되며 AI 야망을 뒷받침하고 있습니다. 이는 미국과의 AI 경쟁 심화 속에서 나타나는 현상으로, 대규모 데이터 센터 건설은 전력 소비와 환경 문제에 대한 우려를 증폭시키고 있습니다.",
           "sources": [
             {
               "name": "BBC Technology",
@@ -323,22 +360,13 @@
             {
               "name": "BBC Technology",
               "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "AI 모델 경쟁 심화, 더 적은 비용으로 더 많은 기능 제공 약속",
-          "summary": "OpenAI와 Anthropic 등 주요 AI 기업들이 더 낮은 비용으로 더 많은 기능을 제공하는 새로운 AI 모델을 출시하며 경쟁이 심화되고 있습니다. Anthropic은 Opus 5.5를, OpenAI는 GPT-6 Sol 및 Luna를 발표하며 효율성과 속도 향상에 초점을 맞췄습니다. 이들 기업은 기업 고객을 대상으로 비용 효율적인 모델을 제공함으로써, 오픈 소스 모델과의 경쟁에서 우위를 점하려 하고 있습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
-            }
-          ],
-          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
