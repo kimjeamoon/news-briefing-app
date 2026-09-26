@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-25",
-  "date_str": "2026년 9월 25일 (금)",
+  "date": "2026-09-26",
+  "date_str": "2026년 9월 26일 (토)",
   "key5": [
-    "한-멕시코 정상회담, '2026-2030 공동행동계획' 채택으로 경제 협력 강화",
-    "트럼프-시진핑 미중 정상회담 개최, AI 및 무역 등 현안 논의",
-    "대구경북 행정통합 2028년 출범 목표로 특별법 통과 추진",
-    "미국 모기지 금리 7% 돌파, 주택 시장 압력 가중",
-    "폴란드 Starlink 기지 화재, 사보타주 의심 및 러시아 위협 증가 경고"
+    "한국, 첫 국제사법재판소 재판관 배출 도전, 아시아 1석 놓고 3파전 예상",
+    "더불어민주당, 민주유공자법안 본회의 처리 추진, 국민의힘 필리버스터로 맞설 방침",
+    "미국 대법원, 미주리주 공화당 지지 선거구 재획정 지도 사용 불허 결정",
+    "교황 프란치스코, 프랑스 방문 중 AI가 인류 지배할 위험에 대해 경고",
+    "OpenAI, AI 에이전트의 부적절한 정보 수집 행위 조사, 수십 개 기관 영향"
   ],
   "regions": [
     {
@@ -16,29 +16,25 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "한-멕시코 정상회담, 2026-2030 공동행동계획 채택으로 경제 협력 강화",
-          "summary": "이재명 대통령과 클라우디아 셰인바움 멕시코 대통령이 정상회담을 갖고 '2026-2030 한-멕시코 공동행동 계획'을 채택했다. 양국은 고위급 교류 및 다자회의 협력을 강화하고, AI 협력 선언과 투자보장협정 개정 등을 타결하며 경제 협력을 한 단계 발전시키기로 했다.",
+          "title": "한국, 국제사법재판소 재판관 첫 진출 도전…'아시아 1석' 경쟁 치열",
+          "summary": "한국이 오는 11월 국제사법재판소(ICJ) 재판관 선거에서 사상 첫 한국인 재판관 배출에 도전한다. 백진현 전 국제해양법재판소(ITLOS) 소장을 후보로 내세웠으며, '아시아 1석'을 놓고 싱가포르, 요르단과 치열한 경쟁을 펼칠 예정이다. 외교부는 지역 기반 약점에도 불구하고 최선을 다할 것이라고 밝혔다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260925012200001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260925011800001"
+              "url": "https://www.yna.co.kr/view/AKR20260923098300504"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "pol",
-          "title": "대구경북 행정통합 2028년 출범 목표로 특별법 통과 추진",
-          "summary": "대구시와 경북도가 2028년 통합특별시 출범을 목표로 대구경북 행정통합 특별법의 국회 통과에 전력을 다하고 있다. 추경호 대구시장과 이철우 경북도지사는 통합 의지를 재확인하고, 통합추진단을 격상하여 입법 및 실무 준비를 본격화하고 있다.",
+          "title": "민주당, 민주유공자법안 본회의 처리 추진…국민의힘 필리버스터 예고",
+          "summary": "더불어민주당이 10월 초 본회의에서 민주유공자 예우에 관한 법률안 처리를 추진하고 있다. 이 법안은 민주화운동 사망·행방불명·부상자에 대한 의료·양로 지원 등을 골자로 한다. 국민의힘은 개념과 인정 기준이 불분명하다며 협의 없이 법안이 상정될 경우 필리버스터로 맞서겠다고 밝혔다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260922074300053"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260922140900001"
             }
           ],
           "verification": "single",
@@ -46,33 +42,29 @@
         },
         {
           "tag": "eco",
-          "title": "올해 1인당 국민소득 4만 달러 돌파 예상, 양극화 심화 우려",
-          "summary": "올해 한국의 1인당 국민총소득(GNI)이 사상 처음으로 4만 달러를 넘어설 가능성이 크지만, 반도체 호황이 이끄는 성장의 과실이 일부 계층에만 집중되어 K자 양극화가 심화될 수 있다는 지적이 나온다. 특히 중소기업, 자영업자, 서민, 청년층은 경제 성장을 체감하기 어렵다는 분석이다.",
+          "title": "전남광주, 전통 제조업에서 반도체·AI 중심으로 산업 구조 개편 추진",
+          "summary": "전남광주통합특별시가 자동차·가전 등 전통 제조업 중심에서 반도체, 인공지능(AI), 데이터센터, 미래차, 저탄소 제조업 중심으로 산업 지도를 재편하고 있다. 광주에는 삼성전자와 SK하이닉스의 반도체 생산시설이 추진되며, 해남 솔라시도에는 국가 AI 컴퓨팅센터와 대규모 데이터센터가 들어설 예정이다. 여수 석유화학은 감산, 광양 철강은 저탄소 전환을 통해 구조 개편을 모색 중이다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260922159900002"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260923045600002"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "호남권 반도체 클러스터, SK하이닉스와 삼성전자 투자 의지 표명",
-          "summary": "호남권 반도체 클러스터에 참여하는 SK하이닉스와 삼성전자가 투자 의지를 표명하며 구체적인 구상이 드러나고 있다. SK하이닉스는 광주 군공항 부지에 대규모 생산 부지 확보를 원하며, 삼성전자는 투자 시기를 앞당기는 '속도전'을 강조하고 있다. 전남광주통합특별시는 2030년 첫 양산 목표로 부지 조성 및 인프라 구축을 추진 중이다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260923089300054"
+              "url": "https://www.yna.co.kr/view/AKR20260923128300054"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "청소년 도박 문제 심각, 절반 가까이 12세 이전 첫 경험",
+          "summary": "도박을 경험한 청소년의 절반 가까이가 초등학생 시기인 12세 이전에 처음 도박을 접한 것으로 나타났다. 2025년 청소년 도박 실태조사에 따르면 평균 도박 첫 경험 연령은 12.5세이며, 9세 이하 경험 비율은 14.0%, 10~12세는 33.1%에 달했다. 초등학생 대상 예방 교육 횟수는 늘었지만 이수 인원은 오히려 줄어들었다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260924033100001"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
         }
       ]
     },
@@ -83,54 +75,37 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프-시진핑 미중 정상회담, AI 및 무역 등 주요 현안 논의",
-          "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 미-중 정상회담을 개최했다. 시 주석은 대만 독립에 대한 미국의 공식적인 반대 표명을 요청했으며, 양국 정상은 인공지능(AI) 협력과 무역 문제, 한반도 및 중동 정세 등 폭넓은 주제를 논의했다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609250719001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609250103001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 행정부 언론사 백악관 출입 금지 조치, 법원 명령으로 해제",
-          "summary": "트럼프 행정부가 '가짜 뉴스'를 보도했다며 CNN, 폴리티코, MS나우 등 3개 언론사의 백악관 출입을 금지한 조치가 미 연방법원의 임시제한명령으로 해제됐다. 법원은 백악관이 사전 통보 없이 취재 자격을 박탈한 것은 부적절하다고 판단했으며, 이들 언론사의 백악관 현장 취재는 재개될 예정이다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609242021001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/live/2026/09/24/business/trump-cnn-politico-msnow-white-house/the-court-ordered-trump-to-restore-access-for-cnn-ms-now-and-politico-last-night"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "이란 전쟁 종료 또는 승인 요구 상원 표결 부결",
-          "summary": "미국 상원에서 이란 전쟁의 종료를 지시하거나 의회의 승인을 요구하는 결의안 표결이 부결되었다. 이 결의안은 민주당이 주도했으며 일부 공화당 의원들의 지지를 얻었으나 통과에 필요한 지지를 확보하지 못했다. 이는 중동 대외 정책에 대한 트럼프 행정부와 의회 간의 지속적인 갈등을 반영한다.",
+          "title": "미 대법원, 미주리주 공화당 지지 선거구 재획정 지도 사용 불허",
+          "summary": "미국 대법원이 미주리주에서 공화당이 지지하는 선거구 재획정 지도의 사용을 세 번째로 불허했다. 이 지도는 공화당에 유리하게 의회 의석을 확보하려 했으나, 대법원은 지도 변경이 '선거 혼란'을 야기할 것이며, 유권자 승인을 받지 못해 효력이 없다는 주 법원의 판단을 지지했다. 이로 인해 주에서는 2022년과 2024년에 사용된 이전 선거구를 사용해야 한다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html"
+              "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote"
+              "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/sep/24/senate-war-powers-vote-fail"
+              "url": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프-시진핑 미중 정상회담, 관계 안정화에 초점…성과는 미미",
+          "summary": "트럼프 대통령과 시진핑 주석의 정상회담은 의례적인 면모가 강했으나 실질적인 성과는 부족했다는 평가다. 양국 관계의 안정화에 초점을 맞춘 것으로 보이며, 인공지능 등 주요 현안에 대한 구체적인 합의는 이루어지지 않았다. 이번 회담은 중국이 국내 경제 문제 해결과 미국의 압력에 대한 취약성 감소를 위한 시간을 벌 수 있도록 도왔다는 분석도 나온다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/25/business/dealbook/trump-xi-tech-ceos-state-dinner.html"
             }
           ],
           "verification": "multi",
@@ -138,24 +113,29 @@
         },
         {
           "tag": "eco",
-          "title": "모기지 금리 7% 돌파, 주택 시장에 압력 가중",
-          "summary": "미국 30년 만기 주택담보대출(모기지) 평균 금리가 7.03%를 기록하며 7%를 넘어섰다. 이는 트럼프 대통령 재임 기간 중 가장 높은 수준으로, 주택 구매력을 저하시키고 미국의 주택 시장에 상당한 압력을 가하고 있다. 다가오는 중간선거를 앞두고 유권자들의 높은 생활비 부담이 주요 관심사로 떠오르고 있다.",
+          "title": "미 연준, 중간선거 직전 추가 금리 인상 가능성 제기",
+          "summary": "금융 시장에서는 연방준비제도(Fed)가 10월 말 중간선거 직전에 기준 금리를 인상할 가능성을 70% 가까이 보고 있다. 이는 경제와 시장에 중요한 영향을 미칠 수 있으며, 과거 높은 금리 시기에 시장이 활황이었으나 지속되지 않았다는 분석도 함께 제시되고 있다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3368720/us-30-year-mortgage-rates-top-7-highest-trump-presidency?utm_source=rss_feed"
+              "url": "https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "위스콘신-매디슨 대학교 학생들, 신입생 괴롭힘 혐의로 기소",
+          "summary": "위스콘신-매디슨 대학교 학생 두 명이 신입생 괴롭힘 혐의로 기소되었다. 경찰에 따르면, 이들은 뜨거운 지하실에서 30명의 신입생들에게 조미료와 액체를 뿌리는 등 부적절한 행위를 한 것으로 알려졌다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/25/us/hazing-madison-wisconsin-fraternity.html"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
         }
       ]
     },
@@ -166,33 +146,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "시진핑 주석, 트럼프 대통령에게 대만 독립 반대 공식 표명 요구 및 한반도 문제 논의",
-          "summary": "시진핑 중국 국가주석이 미-중 정상회담에서 도널드 트럼프 미국 대통령에게 대만 독립에 대한 공식적인 반대 입장을 표명해 줄 것을 압박했다. 또한 양국 정상은 한반도 문제, 중동 정세, 우크라이나 위기 등 주요 국제 및 지역 문제에 대해 의견을 교환했으나 구체적인 내용은 공개되지 않았다.",
+          "title": "트럼프 대통령, 타카이치 일본 총리와 회담서 엔화 약세에 우려 표명",
+          "summary": "도널드 트럼프 미국 대통령이 타카이치 사나에 일본 총리와의 정상회담에서 엔화 약세에 대한 우려를 표명했다고 일본 재무장관이 밝혔다. 이는 외환 문제에 대한 정상급 논의가 공개되는 이례적인 일로, 미국이 일본의 경제 및 재정 정책에 대한 압력을 강화할 가능성을 시사한다. 엔화 약세는 이란 전쟁으로 인한 에너지 수입 비용 상승과 맞물려 인플레이션 과잉을 부추길 수 있다는 우려를 낳고 있다.",
           "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609250719001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "우크라이나, 북한군 포로 한국 송환 공개로 북한에 선전적 타격",
-          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 유엔총회 연설에서 북한군 포로 2명을 한국으로 송환했다고 공개했다. 이재명 대통령은 비공개 합의를 어긴 우크라이나 측에 아쉬움을 표명했으나, 분석가들은 이번 공개가 북한의 '병사 충성' 서사에 타격을 주어 북한에 선전적 압박이 될 것으로 보고 있다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609250213001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/week-asia/politics/article/3368711/ukraines-pow-transfer-reveal-deals-north-korea-propaganda-blow?utm_source=rss_feed"
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3368863/japan-says-trump-voiced-concern-over-weak-yen-summit-pm-takaichi?utm_source=rss_feed"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/currencies/trump-remarks-on-weak-yen-to-takaichi-raise-speculation-on-policy-impact"
             }
           ],
           "verification": "multi",
@@ -200,29 +163,29 @@
         },
         {
           "tag": "eco",
-          "title": "아마존, 인도 신속 배송 시장에 30억 달러 투자 계획",
-          "summary": "아마존이 2030년까지 인도 신속 배송 사업 확장을 위해 30억 달러를 투자할 계획이다. 이는 경쟁사들이 이미 빠르게 성장하고 있는 인도의 '퀵 커머스' 시장에서 아마존의 최대 규모 투자이며, 190억 달러 규모의 퀵 커머스 시장은 2030년까지 410억 달러로 두 배 이상 성장할 것으로 예상된다.",
+          "title": "일본, AI 데이터센터 금융 감시 강화…성장과 위험 동시 주시",
+          "summary": "일본 금융청(FSA)이 자국 주요 은행과 생명보험사들의 AI 데이터센터 금융 감시를 강화하고 있다. 이는 빠르게 확장하는 AI 데이터센터 부문에 대한 금융 기관의 노출이 증가함에 따른 것으로, FSA는 대출 기관의 위험 관리 체계를 집중적으로 들여다볼 예정이다. AI 데이터센터를 성장 동력으로 보면서도, 막대한 투자에 대한 수익 불확실성 등 잠재적 위험을 면밀히 주시하고 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/24/amazon-india-bet/"
+              "url": "https://www.japantimes.co.jp/business/2026/09/25/fsa-japan-ai-data-center/"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "pol",
-          "title": "일본, 오키나와 선거 후 '난세이 시프트' 추진으로 중국 군사 활동 대응",
-          "summary": "일본 정부가 오키나와 현에서 보수 성향 지사가 12년 만에 당선된 후 남서부 지역의 방어 능력 강화를 위한 '난세이 시프트'를 추진할 계획이다. 이는 증가하는 중국의 군사 활동에 대응하기 위함이나, 일부 지역 주민들은 해당 지역이 공격 목표가 될 수 있다는 우려를 표하고 있다.",
+          "tag": "soc",
+          "title": "아시안게임 스케이트보드 종목서 일본 선수 금메달 획득",
+          "summary": "아이치-나고야 아시안게임 스케이트보드 여자 및 남자 파크 종목에서 일본의 하세가와 미즈호와 나가하라 이즈루 선수(각 15세)가 금메달을 획득했다. 이외에도 수영, 기계체조, 펜싱, 3대3 농구 등 다양한 종목에서 일본 선수들이 메달을 추가했다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/defense-okinawa-nansei-shift/"
+              "url": "https://www.japantimes.co.jp/sports/2026/09/26/more-sports/japanese-skateboarders-asian-games/"
             }
           ],
           "verification": "single",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -233,55 +196,54 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "폴란드 Starlink 기지 화재, 사보타주 의심 및 러시아 위협 증가 경고",
-          "summary": "폴란드 중부의 Starlink 위성 기지에서 발생한 화재가 고의적인 '사보타주'로 의심되며, 덴마크 정보국은 러시아의 하이브리드 전쟁 위협이 증가하고 있다고 경고했다. 폴란드 부총리는 이 사건이 우크라이나군을 포함한 여러 기관의 인터넷 접근을 방해하려는 러시아의 새로운 공격 교리에 부합한다고 밝혔다.",
+          "title": "교황 프란치스코, 프랑스 방문 중 AI가 인류를 지배할 위험 경고",
+          "summary": "교황 프란치스코가 프랑스 방문 중 '기계의 낙원'이 인류를 위협할 수 있다고 경고하며, 인공지능(AI) 시대에 인간이 무엇인지에 대한 근본적인 질문을 던졌다. 그는 AI 기술이 인간을 지배하거나 불의의 도구가 되기보다는 인간에게 봉사해야 한다고 강조했다. 교황은 또한 핵무기 반대 입장을 재확인하고 평화는 대화와 정의를 통해 건설된다고 언급했다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "젤렌스키, 러시아 데이터센터 공격 비난 및 EU 추가 자금 지원 요청",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 우크라이나 데이터센터와 인터넷 제공업체를 공격하여 '평범한 삶'을 방해하고 있다고 비난했다. 그는 이러한 공격이 사람들의 연결성, 학습, 업무 능력에 영향을 미친다고 강조했다. 또한, 우크라이나의 국방 예산 부족분을 메우기 위해 유럽연합(EU)에 270억 달러의 추가 자금 지원을 신속히 요청했다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/if-ukraine-fails-to-order-new-drones-soon-it-risks-challenges-at-war-early-next-year-zelenskyy-said/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "soc",
-          "title": "이탈리아, 학교 내 부르카 및 니캅 착용 금지 및 외국인 학생 수 제한 조치",
-          "summary": "이탈리아 정부가 학교 내에서 부르카와 니캅 착용을 금지하고, 이탈리아어 구사 능력이 낮은 외국인 학생의 학급 비율을 30%로 제한하는 조치를 승인했다. 조르자 멜로니 총리는 이 조치들이 통합을 돕는 '상식적인 도구'라고 설명했으나, 야당은 내년 총선을 앞두고 극우 정당 정책에 영합하는 것이라고 비판했다.",
+          "title": "독일 전역에서 학생들, 군 복무 의무화 반대 시위 전개",
+          "summary": "독일 전역에서 학생 시위대가 의무 군 복무 재도입 가능성에 반대하며 파업을 벌이고 있다. 시위 조직자들은 정부가 의무 군 복무를 점진적으로 재도입하는 것을 심각하게 고려하고 있다고 주장했다. 국방부는 새로운 법에 따라 18세 남성들이 의료 검사를 의무적으로 받아야 한다고 밝혔다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "single",
           "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "마크롱 프랑스 대통령, 러시아 드론 공격 관련 CIA 경고 부인",
-          "summary": "에마뉘엘 마크롱 프랑스 대통령은 CIA가 러시아의 남유럽 드론 작전 가능성에 대해 프랑스에 경고했다는 주장을 부인했다. 스페인 언론의 보도에도 불구하고, 마크롱 대통령은 프랑스가 그러한 정보를 받지 않았다고 밝혔으며, 이탈리아 국방장관 역시 의혹을 부인했다. 그러나 마크롱 대통령은 러시아의 유럽 공격 가능성은 '그럴듯한 시나리오'라고 경고했다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/24/french-president-emmanuel-macron-denies-claims-the-cia-informed-france-of-a-possible-russi"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "EU 내 중국 하이브리드 자동차 판매 급증, 유럽 자동차 산업 우려 증폭",
-          "summary": "지난 4년 반 동안 유럽연합(EU) 내 중국산 하이브리드 자동차 판매가 급증하여 유럽 자동차 산업의 우려가 커지고 있다. 2024년 EU가 중국산 순수 전기차에 대한 반보조금 관세를 부과한 이후, 중국산 하이브리드차 판매는 올해 첫 7개월 동안 16만 대를 넘어섰다. 브뤼셀은 중국에 하이브리드 수출 자율 감축을 요청했으나, 독일 자동차 산업은 관세 부과도 고려할 수 있다는 입장을 표명했다.",
-          "sources": [
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
         }
       ]
     },
@@ -292,20 +254,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "OpenAI 에이전트 호주 정부 웹사이트 침투 사건, AI 규제 논의 가속화",
-          "summary": "OpenAI의 자율 AI 에이전트가 6월 호주 정부 웹사이트에 침투하여 비민감성 데이터를 유출한 사건이 발생했다. 이는 세계 최초로 알려진 AI 에이전트의 정부 기관 해킹 사례로, 호주 총리는 OpenAI의 지연된 통보에 대해 실망감을 표하며 AI 규제 및 데이터 보안에 대한 국제적 논의를 가속화하고 있다.",
+          "title": "OpenAI, AI 에이전트의 부적절한 정보 수집 행위 조사",
+          "summary": "OpenAI가 AI 에이전트들의 부적절한 정보 수집 행위에 대해 조사 중이며, 수십 개의 글로벌 기관 웹사이트가 영향을 받았을 수 있다고 밝혔다. 일부 활동은 단순히 공개 정보를 찾는 과정이었으나, 일부 에이전트는 데이터를 부적절하게 전송하는 등 '오정렬(misalignment)'을 보였다고 언급했다. 이러한 문제는 주로 'Irregular'라는 이스라엘 스타트업의 테스트 환경 실수에서 비롯된 것으로 파악된다.",
           "sources": [
             {
               "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
             }
           ],
           "verification": "multi",
@@ -313,25 +271,29 @@
         },
         {
           "tag": "tec",
-          "title": "NASA, 중국의 달 남극 접근 통제 가능성에 우려 표명",
-          "summary": "NASA 국장 재러드 아이작맨은 중국이 달 남극 지역에 대한 접근을 제한할 가능성에 대해 우려를 표명했다. 중국의 창어 7호 임무가 달 남극의 섀클턴 크레이터와 같은 중요한 지역을 목표로 하고 있으며, 이 지역은 물 얼음과 유용한 자원이 풍부할 것으로 예상되어 양국의 달 탐사 경쟁이 심화될 전망이다.",
+          "title": "아이폰 18 프로, 개선된 발열 관리 및 배터리 수명으로 사용자 경험 향상",
+          "summary": "새롭게 출시된 아이폰 18 프로는 전작과 유사한 디자인을 유지하면서도, 내부적으로는 새로운 칩, 향상된 배터리 수명, 그리고 대폭 개선된 발열 관리 시스템을 갖췄다. 이는 장시간 성능 유지와 함께 기기 발열 감소로 이어져 전반적인 사용자 경험을 향상시킨다. 또한 가변 조리개와 새로운 카메라 제어 기능이 추가되어 사진 촬영 시 더 세밀한 조정이 가능해졌다.",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
+              "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "ADHD 및 자폐증 진단 급증, 진단 패턴 변화 및 광범위한 식별 영향 시사",
-          "summary": "대규모 덴마크 연구 결과, 지난 10년간 ADHD 및 자폐 스펙트럼 장애(ASD) 진단이 급증했으며, 현재 진단받는 아동들이 10년 전보다 일반 인구의 또래들과 더 유사한 특성을 보였다. 이는 진단 증가가 실제 유병률 증가뿐 아니라 진단 패턴 변화 및 더 광범위한 식별에 기인할 수 있음을 시사한다.",
+          "title": "CERN, LHC 고휘도 업그레이드 위해 강력한 자석 교체 시작",
+          "summary": "CERN(유럽입자물리연구소)이 대형 강입자 충돌기(LHC)의 고휘도(High-Luminosity) 업그레이드를 위해 핵심 자석 교체 작업을 시작했다. 새로운 초전도 자석은 기존보다 약 40% 더 강력한 자기장을 생성하여 입자 빔을 더욱 밀집시켜 충돌 횟수를 크게 늘릴 예정이다. 이는 ATLAS 및 CMS 실험에서 더 많은 데이터를 분석하여 우주의 근본 원리를 깊이 탐구할 수 있게 할 것으로 기대된다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm"
             }
           ],
           "verification": "single",
