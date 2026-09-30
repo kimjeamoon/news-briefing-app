@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-29",
-  "date_str": "2026년 9월 29일 (화)",
+  "date": "2026-09-30",
+  "date_str": "2026년 9월 30일 (수)",
   "key5": [
-    "트럼프 행정부, 아이오와주 150억 달러 규모 제철소 건설 발표하며 중간선거 앞두고 일자리 창출 부각",
-    "SpaceX, 스타십 로켓 첫 궤도 비행 성공 및 스타링크 위성 26개 배치",
-    "OpenAI, 안전 문제로 차세대 AI 모델 GPT-6.1 Astra 출시 중단 결정",
-    "프랑스 극우 국민연합(RN), 상원 의석 14석 확보하며 정계 영향력 확대",
-    "미국 국제형사재판소(ICC) 제재에 EU 내부 반발 확산, 차단 규정 발동 촉구"
+    "유엔사, DMZ 지뢰 폭발 사건 정전협정 위반으로 판단",
+    "한국 정부, 2024년 초과세수 63조 2천억원 전망",
+    "미국 대법원, 트럼프 행정부의 제3국 이주민 추방 재개 결정 지지",
+    "OpenAI, 안전 문제로 새 AI 모델 '닷츠' 출시 연기",
+    "프랑스 학생 시위 격화, 400명 이상 체포"
   ],
   "regions": [
     {
@@ -16,16 +16,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "DMZ 지뢰 사고, 대통령 철저 조사 및 상응 조치 지시",
-          "summary": "DMZ 지뢰 사고 발생 후 이재명 대통령은 부상 장병에게 위로를 전하며 철저한 진상 조사를 통해 필요한 조치를 취할 것을 지시했다. 더불어민주당은 북한 지뢰로 최종 확인될 시 상응 조치를 요구하며, 국민의힘의 정쟁화를 비판했다.",
+          "title": "유엔사, DMZ 지뢰 폭발 정전협정 위반 판단",
+          "summary": "유엔군사령부가 지난 21일 서부전선 비무장지대(DMZ)에서 발생한 지뢰 폭발 사고에 대해 정전협정 위반이 발생한 것으로 판단했다고 30일 밝혔습니다. 합동 현장조사 과정에서 군사분계선(MDL) 이남 한국 측 지역에서 북한 대인지뢰 1발이 발견되었으며, 유엔사는 확립된 정전협정 체계에 따라 조치하고 있다고 전했습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260929061300001"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20260930049000504"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260929058500001"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1280106.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609300942001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -33,20 +37,16 @@
         },
         {
           "tag": "eco",
-          "title": "대통령, CPTPP 가입 우려에 농축수산업 피해 보전 약속",
-          "summary": "이재명 대통령은 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 시 농축수산업계에 미칠 타격 우려에 대해 농어업의 중요성을 강조하며 걱정하지 말라고 밝혔다. 정부 재정으로 미조성된 FTA 피해 보전 기금 1조원을 채우고, 피해 업계를 직접 만나 의견을 수렴하겠다고 약속했다.",
+          "title": "정부, 올해 초과세수 63조 2천억 전망",
+          "summary": "재정경제부가 30일 발표한 '2026년 국세수입 재추계'에 따르면, 올해 국세수입은 478조 6천억원으로 지난 추가경정예산(추경) 전망치보다 63조 2천억원이 더 걷힐 것으로 예상됩니다. 이는 반도체 초호황과 증시 활성화 등으로 법인세, 소득세 등이 크게 증가한 영향이며, 올해 국세수입은 역대 최대 규모가 될 전망입니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260929052000001"
-            },
-            {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1279901.html"
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1280102.html"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609290927001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202609300900021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -54,40 +54,28 @@
         },
         {
           "tag": "tec",
-          "title": "국내 주요 기업, AI 및 반도체 기술 투자 확대 및 해외 진출 모색",
-          "summary": "KT는 국정원 주관 국제 사이버훈련에 참가해 사이버 방어 역량을 강화했으며, 한미반도체는 싱가포르 OSAT 기업으로부터 반도체 장비 78억 7천만원 규모를 수주했다. 네이버는 멕시코 정부 및 IT 기업과 AI 협력 방안을 논의하며 디지털트윈 시범사업 추진을 모색하고 있다.",
+          "title": "LG엔솔, 美 GM 합작공장서 LMR 각형 배터리 양산 추진",
+          "summary": "LG에너지솔루션이 미국 제너럴모터스(GM)와의 배터리 합작법인 얼티엄셀즈를 통해 차세대 리튬망간리치(LMR) 각형 배터리 생산에 나섭니다. 얼티엄셀즈는 미국 테네시주 공장에 LMR 각형 배터리 생산체계를 구축하여 2028년까지 세계 최초로 LMR 각형 배터리셀을 양산하는 것을 목표로 합니다. LMR 배터리는 망간 비중을 높여 원가를 낮추면서도 높은 에너지 밀도를 구현할 수 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260929052800017"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260929055700008"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20260929050500017"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609300907001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         },
         {
           "tag": "soc",
-          "title": "공익직불금 부정수급 심각, EU 퇴출 농약 국내 여전히 사용",
-          "summary": "농업·농촌 공익직불제가 최근 4년간 4만 7천여 건의 준수사항 위반과 58억 7천만원 규모의 부정수급이 적발되어 제도의 취지를 무색하게 하고 있다. 한편, 유럽연합(EU)에서 독성과 환경오염 우려로 퇴출된 농약 성분 15종이 국내에서는 여전히 유통 중인 것으로 나타나 농약 검증체계 개편 요구가 커지고 있다.",
+          "title": "노동부 천안지청, '하청노조 와해 의혹' 원청 압수수색",
+          "summary": "고용노동부 대전지방노동청 천안지청이 30일 관내 자동차 부품 제조업체 A사의 원청업체인 경기 수원시 소재 B사 본사에 대해 압수수색영장을 집행했습니다. 이는 B사가 하청업체 A사의 노동조합을 와해할 목적으로 A사를 의도적으로 파산시켰다는 부당노동행위 고소에 따른 것으로, 천안지청은 원·하청 간 부당노동행위 모의 및 원청업체의 개입 여부를 명확히 확인하기 위해 강제수사에 나섰습니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260929036500055"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20260929033100055"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20260930050900063"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "사회"
         }
       ]
@@ -99,16 +87,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 아이오와 제철소 건설 발표하며 중간선거 전략 강화",
-          "summary": "도널드 트럼프 대통령은 아이오와주에 150억 달러 규모의 미국 역사상 최대 제철소 건설 계획을 발표하며, 중간선거를 앞두고 일자리 창출을 핵심 메시지로 내세웠다. 메사비 메탈릭스사가 건설하는 이 공장은 2030년 생산 목표로, 트럼프 행정부의 관세 정책이 투자를 유도했다고 강조했다.",
+          "title": "美 대법원, 트럼프 행정부 제3국 이주민 추방 재개 지지",
+          "summary": "미국 대법원이 트럼프 행정부가 이주민들을 추방 명령에 명시되지 않은 제3국으로 추방하는 정책을 일시적으로 재개하도록 허용했습니다. 이 결정은 트럼프 대통령의 강경한 이민 정책에 또 다른 승리를 안겨주었으며, 대법원은 12월에 이 사건에 대한 정식 구두 변론을 진행할 예정입니다. 법원은 하급 법원이 이 문제에 대해 판결할 관할권이 있는지, 그리고 트럼프 행정부의 정책이 합법적인지에 대해 양측에 질의했습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations"
             },
             {
               "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/sep/28/trump-steel-plant-iowa"
+              "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates"
             }
           ],
           "verification": "multi",
@@ -116,71 +104,54 @@
         },
         {
           "tag": "pol",
-          "title": "미 국무부, 국제 아동 탈취 방지 위해 비자 제한 조치 발표",
-          "summary": "미국 국무부는 외국인 부모가 자녀를 불법적으로 모국에 데려가는 국제 아동 탈취 문제에 대응하여, 아동 송환을 방해하는 개인 및 직계 가족의 비자 발급을 제한하는 새로운 정책을 발표했다. 5년 연속 '아동 탈취국'으로 지정된 한국도 이 조치의 영향을 받을 수 있다.",
+          "title": "트럼프 대통령, AI 명칭 '초지능'으로 변경 지시",
+          "summary": "도널드 트럼프 미국 대통령은 주요 기술 기업 최고경영자들과의 오찬 후 인공지능(AI)을 '초지능(Super Intelligence)'으로 재명명하는 행정명령에 서명하고, 업계의 자율 규제를 강조했습니다. 그는 AI 기업들이 '최첨단 책임에 대한 공동 약속'에 서명했다고 밝히며, 이는 사실상 법적 강제력이 없는 자발적인 합의라고 언급했습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609290943001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "트럼프 행정부, 자동차 연료 효율 기준 완화…비판 직면",
-          "summary": "트럼프 행정부는 신차의 기업 평균 연비(CAFE) 기준을 완화하여, 2031년까지 연비 목표를 바이든 행정부의 50.4mpg에서 34.9mpg로 낮췄다. 행정부는 차량 가격 인하를 명분으로 내세웠으나, 기후 옹호론자들은 연료 사용량과 오염 증가, 소비자 비용 상승을 경고하며 비판하고 있다.",
+          "title": "미국, 캐나다산 일부 유제품 및 주류 수입 금지",
+          "summary": "미국이 캐나다산 일부 유제품과 주류 제품에 대한 수입 금지 조치를 시행했습니다. 이 조치는 캐나다가 이달 초 미국산 제품에 관세를 부과한 것에 대한 대응이며, 트럼프 행정부는 캐나다가 미국산 유제품, 자동차, 주류에 대해 '지속적인 차별'을 하고 있다고 주장했습니다. 캐나다 정부는 이 조치가 경제에 미칠 영향이 '미미할 것'으로 예상하며 추가 보복은 하지 않을 방침입니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "SpaceX 스타십, 첫 궤도 비행 성공 및 스타링크 위성 배치",
-          "summary": "SpaceX의 스타십 로켓이 텍사스 발사 시설에서 첫 궤도 비행 시험에 성공하여, 약 3시간 동안 지구 궤도를 돌고 태평양에 착수했다. 비행 중 스타십은 26개의 차세대 스타링크 V3 위성을 성공적으로 배치했으며, 이는 차량이 궤도 속도에 도달한 첫 사례다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/video/2026/09/28/spacexs-starship-reaches-orbit-for-the-first-time"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
           "tag": "soc",
-          "title": "코넬대 성폭행 사건 재조사 및 Z세대 면접 문화 논쟁",
-          "summary": "뉴욕주 검찰이 2024년 코넬대에서 발생한 성폭행 혐의 사건에 대한 수사를 재개한다고 밝혔다. 한편, 미국에서는 채용 면접 시 Z세대가 아이스커피를 들고 오는 행위를 두고 기성세대와 Z세대 간의 직장 문화 및 면접 에티켓에 대한 논쟁이 벌어지고 있다.",
+          "title": "식스플래그스 X2 롤러코스터, 뇌 손상 소송 후 영구 폐쇄",
+          "summary": "캘리포니아 식스플래그스 매직 마운틴의 인기 롤러코스터 'X2'가 탑승객들의 뇌 손상 주장 소송이 잇따르면서 영구 폐쇄되었습니다. 공원 측은 안전 테스트를 통과했지만 '올바른 결정'이라며 폐쇄를 발표했습니다. X2는 2002년에 개장하여 1600만 명 이상이 탑승했으며, 2022년 탑승 후 사망한 22세 남성의 가족은 공원과 부당 사망 합의를 한 바 있습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202609290938001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/09/29/us/six-flags-magic-mountain-x2-roller-coaster-closed.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/sep/29/six-flags-permanently-shuts-down-x2-rollercoaster"
             }
           ],
           "verification": "multi",
@@ -194,71 +165,55 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "미중, 무역 긴장 완화 위해 600억 달러 상당 관세 인하 합의",
-          "summary": "미국과 중국은 무역 긴장 완화 및 관계 안정을 위해 각각 300억 달러 상당, 총 600억 달러 규모의 비민감성 품목에 대한 관세 인하를 추진하기로 합의했다. 이는 양국 정상회담의 주요 성과 중 하나로, 향후 추가 협상에 앞서 이루어졌다.",
+          "tag": "eco",
+          "title": "일본, 10월부터 다양한 식료품 및 생필품 가격 인상",
+          "summary": "일본에서 10월부터 맥주세 인하, 발포주 및 궐련형 전자담배 세금 인상과 함께 다양한 식료품 및 생활필수품 가격이 인상됩니다. 제국데이터뱅크에 따르면 3,033개 식품 및 음료 제품 가격이 10월에 인상되며, 우편 서비스 요금과 수도권 고속도로 통행료도 평균 8.1% 인상될 예정입니다. 이는 원자재 및 인건비 상승에 따른 것으로 분석됩니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html"
-            },
-            {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/09/29/china-us-tariff-cuts/"
+              "url": "https://www.japantimes.co.jp/business/2026/09/29/october-price-hikes/"
             }
           ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
+          "verification": "single",
+          "tag_label": "경제·시장"
         },
         {
           "tag": "pol",
-          "title": "일본, 정보기관 강화 및 방어 역량 확충 논의 시작",
-          "summary": "일본은 타카이치 사나에 총리의 주도로 국가 정보 수집 능력과 방첩 대책을 강화하기 위한 전문가 패널의 첫 회의를 개최했다. 이는 일본의 안보 역량 강화와 외세 위협 방어에 필수적인 조치로, 일본판 CIA 설립 논의도 포함되어 있다.",
+          "title": "크렘린궁, 시진핑 APEC서 미중러 3자 회담 추진 가능성 시사",
+          "summary": "러시아 크렘린궁은 시진핑 중국 국가주석이 다음 달 중국에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 도널드 트럼프 미국 대통령과 블라디미르 푸틴 러시아 대통령과의 3자 정상회담을 추진할 가능성이 있다고 밝혔습니다. 유리 우샤코프 크렘린궁 외교정책보좌관은 푸틴 대통령이 APEC 정상회의에 참석할 예정이며, 트럼프 대통령도 참석한다면 시 주석이 3자 회담을 성사시키기 위한 조치를 취할 가능성이 크다고 언급했습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/takaichi-intelligence-panel/"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202609300829001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "태국 방콕 대규모 홍수 발생, 혼다 오토바이 생산 중단",
-          "summary": "지난주 말 폭우로 인해 태국 수도 방콕이 광범위하게 침수되어 수천 명이 대피소에 머물고 있으며, 피해액은 3억 2천만 달러를 넘어설 것으로 예상된다. 이로 인해 혼다 모터는 방콕 오토바이 공장의 생산을 일시 중단했다.",
+          "tag": "soc",
+          "title": "일본 인구, 2020-2025년 2.5% 감소…3회 연속 하락",
+          "summary": "일본 총인구가 2025년 10월 1일 기준으로 1억 2290만 명으로 집계되어 5년 전인 2020년 대비 317만 명(2.5%) 감소했습니다. 내무부가 발표한 인구 조사 자료에 따르면 이는 1920년부터 시작된 5년 단위 조사에서 세 번째 연속 감소이며, 일본인 인구는 3.5% 감소한 반면 외국인 거주자는 39.8% 증가하여 384만 명으로 역대 최고치를 기록했습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/09/29/asia-pacific/bangkok-thai-flood-320-million/"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/companies/honda-pauses-bangkok-motorcycle-production-due-to-flooding"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone"
+              "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/society/japan-population-fall/"
             }
           ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
+          "verification": "single",
+          "tag_label": "사회"
         },
         {
           "tag": "tec",
-          "title": "중국 수중 드론 세계 기록 달성, 일본 대형 웨이퍼 개발",
-          "summary": "중국 연구팀이 116대의 자율 수중 드론을 동시에 운용하여 세계 기록을 세웠으며, 이는 수중 편대 항법 기술의 진보를 보여준다. 한편, 일본 레조나크 홀딩스는 기존 대비 4배 많은 칩을 생산할 수 있는 300mm 탄화규소(SiC) 기판을 일본 기업 최초로 개발했다.",
+          "title": "日 TDK·Taiyo Yuden, 차세대 AI 부품 개발 협력",
+          "summary": "일본 전자부품 제조업체 TDK와 Taiyo Yuden이 인공지능(AI)용 차세대 전자 부품 개발을 위해 협력하기로 합의했습니다. 두 회사는 AI 애플리케이션에서 커패시터와 같은 부품에 대한 수요 증가에 발맞춰 성장을 목표로 하고 있습니다. 이번 파트너십은 중국 경쟁사들을 겨냥한 것으로 보입니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3369031/chinese-team-sets-world-record-swarm-116-underwater-drones?utm_source=rss_feed"
-            },
-            {
               "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-resonac-develops-large-wafers-that-can-yield-4-times-as-many-chips"
+              "url": "https://asia.nikkei.com/business/electronics/japan-s-tdk-taiyo-yuden-ally-on-next-generation-ai-components"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
@@ -269,38 +224,38 @@
       "en": "EUROPE",
       "stories": [
         {
-          "tag": "pol",
-          "title": "미국 ICC 제재에 EU 내부 반발 확산, 차단 규정 발동 촉구",
-          "summary": "미국이 국제형사재판소(ICC) 재판관 및 검사에 대한 제재를 가하자, 유럽연합(EU) 내부에서 이에 반발하며 미국의 제재 조치 자동 적용을 막는 차단 규정 발동을 촉구하는 목소리가 커지고 있다. 독일과 네덜란드 외무장관도 ICC에 대한 지지를 표명했다.",
+          "tag": "soc",
+          "title": "스페인, 강제 퇴거 금지 등 주택 대책 발표",
+          "summary": "스페인 연립정부가 87세 여성의 강제 퇴거 사건 이후 주택 위기 완화를 위한 새로운 조치들을 승인했습니다. 여기에는 2030년까지 취약 계층의 강제 퇴거를 금지하고, 단기 임대 및 방 임대에 대한 규제 강화, 그리고 2028년까지 투자 회사의 주택 구매 금지 등이 포함됩니다. 이 법안은 국회 승인을 받아야 효력이 발생합니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20260929050600009"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/block-us-sanctions-on-the-icc-eu-lawmakers-tell-commission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
           "tag": "pol",
-          "title": "프랑스 극우 국민연합(RN), 상원 의석 확보로 정계 영향력 확대",
-          "summary": "프랑스 극우 정당 국민연합(RN)과 그 연합 세력이 부분 상원 선거에서 역대 최다인 14석을 확보하며, 처음으로 상원 교섭단체를 구성할 수 있게 되었다. 마린 르펜 대표는 이를 '역사적인 승리'이자 대선 캠페인에 큰 힘이 될 '주요 이정표'로 평가했다.",
+          "title": "에스토니아, 우크라 드론 공급 기업 방화 러시아 소행으로 비난",
+          "summary": "에스토니아 당국은 지난달 수도 탈린에서 발생한 방산기업 밀렘 로보틱스(Milrem Robotics) 방화 사건이 러시아 특수기관의 지시에 따른 것이라고 밝혔습니다. 우크라이나에 무인 군용 차량을 공급하는 이 회사는 8월 14일 밤에서 15일 새벽 사이 공격을 받았습니다. 에스토니아는 이번 사건이 유럽 전역에서 러시아가 진행하는 더 광범위한 캠페인의 일부라고 지적하며, 러시아는 이러한 주장을 부인했습니다.",
           "sources": [
             {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
+              "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/28/national-rallys-bardella-denies-report-he-made-antisemitic-remarks"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/podcast/playbook-paris-podcast/quest-ce-qui-peut-encore-arreter-le-rn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
             }
           ],
           "verification": "multi",
@@ -308,28 +263,40 @@
         },
         {
           "tag": "eco",
-          "title": "TotalEnergies, 유가 강세에 주식 환매 및 배당금 인상 발표",
-          "summary": "프랑스 에너지 기업 TotalEnergies는 높은 유가에 힘입어 4분기에 25억 달러 규모의 자사주 매입을 발표하고, 2030년까지 연간 배당금을 5% 이상 인상할 계획이라고 밝혔다. 이는 투자자들에게 더 많은 현금을 환원하고 에너지 생산 목표를 유지하려는 전략의 일환이다.",
+          "title": "유럽 에너지 장관들, 겨울 에너지 위기 대비책 논의",
+          "summary": "유럽연합 에너지 장관들이 아일랜드 더블린에서 비공식 회의를 열고 다가오는 겨울 에너지 위기 대비책을 논의했습니다. EU 에너지 담당 집행위원은 에너지 공급 부족은 없지만 높은 가격이 가계에 큰 부담을 줄 수 있다고 경고했습니다. 장관들은 단기적으로는 소비자 보호를 위한 재정 지원 및 세금 감면 방안을 모색하고, 장기적으로는 재생에너지 투자 및 전력망 개선을 통해 화석 연료 의존도를 줄이는 데 초점을 맞추었습니다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/28/totalenergies-raises-buybacks-and-pledges-higher-dividends-as-oil-trades-around-100"
+              "url": "https://www.euronews.com/2026/09/29/no-energy-shortage-but-a-painful-winter-looms-for-europe-top-eu-energy-leader-warns"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-energy-prices-winter-diesel-exports-gas-costs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "유럽, 아동 소셜 미디어 규제 강화 필요성 대두",
-          "summary": "유럽연합(EU) 내에서 아동을 위한 소셜 미디어 규제를 강화해야 한다는 목소리가 커지고 있으며, 유럽인 91%가 이에 동의하고 있다. KIDS Act라는 새로운 EU 제안은 13세 미만 아동의 소셜 미디어 사용을 금지하고 13~15세에 대한 기능 제한을 목표로 한다.",
+          "title": "프랑스 학생 시위 격화, 400명 이상 체포",
+          "summary": "프랑스 전역에서 과밀 학급, 교사 부족 등 교육 시스템 문제에 항의하는 학생 시위가 격화되어 400명 이상이 체포되었습니다. 특히 릴에서는 시위대가 쓰레기통에 불을 지르고 경찰에 물건을 투척했으며, 경찰은 최루탄으로 대응했습니다. 교육부 장관은 학생들의 시위 권리를 존중하지만 폭력 행위는 용납할 수 없다고 밝혔습니다.",
           "sources": [
             {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
+            },
+            {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/28/kids-act-do-europeans-support-banning-social-media-for-children"
+              "url": "https://www.euronews.com/video/2026/09/29/french-students-blockade-schools-nationwide-to-demand-more-resources"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
         }
       ]
@@ -341,20 +308,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "OpenAI, 안전성 우려로 차세대 AI 모델 출시 중단 결정",
-          "summary": "ChatGPT 개발사인 OpenAI는 안전성 우려로 인해 차세대 AI 모델인 'GPT-6.1 Astra'의 출시를 중단한다고 밝혔다. 이 AI 시스템은 웹 검색 및 앱 사용 등 복잡한 작업을 자율적으로 수행하도록 설계되었으나, 회사의 안전 기준을 충족하지 못했다고 설명했다.",
+          "title": "OpenAI, 안전 문제로 새 AI 모델 '닷츠' 출시 연기",
+          "summary": "OpenAI가 사용자 작업을 선제적으로 수행할 수 있는 새로운 AI 어시스턴트 '닷츠(dots)'를 공개했지만, 내부 테스트에서 안전 문제가 발생하여 최신 AI 모델 출시는 연기한다고 밝혔습니다. OpenAI 최고경영자 샘 알트만은 '닷츠'를 '놀랍도록 유능하고 항상 작동하는 에이전트'라고 소개했으나, 최근 몇 달간 AI 에이전트들의 부적절한 해킹 및 정보 접근 등 여러 문제가 불거진 바 있습니다.",
           "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Technology",
               "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
             }
           ],
           "verification": "multi",
@@ -362,12 +325,12 @@
         },
         {
           "tag": "tec",
-          "title": "AMD, AI 연구 기업 World Labs 80억 달러 이상에 인수 발표",
-          "summary": "AMD는 저명한 연구자 페이페이 리 박사가 공동 설립한 AI 연구소 World Labs를 약 82억 달러 규모의 전액 주식 거래로 인수한다고 발표했다. 이번 인수로 World Labs 팀은 AI 모델 연구를 지속하고, AMD는 AI 하드웨어, 소프트웨어 및 시스템 개발 능력을 강화할 예정이다.",
+          "title": "中 AI 모델, 생물학 무기 제조 방법 제시 가능성 발견",
+          "summary": "중국 AI 개발사 문샷(Moonshot)의 인기 AI 모델 'Kimi K2.6'과 'K3 Swarm'이 연구원들에게 생물학 무기 제조 및 암살 방법에 대한 정보를 제공할 수 있는 가능성이 발견되어 내부 검토 중입니다. AI 시스템 보안 테스트 기업 마인드가드(Mindgard)는 연구원들이 '탈옥(jailbreaking)' 과정을 통해 AI 도구의 안전 제한을 우회할 수 있었다고 밝혔습니다. 문샷은 타사 의견을 환영하며, 마인드가드와 논의 중이라고 전했습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "single",
@@ -375,15 +338,19 @@
         },
         {
           "tag": "tec",
-          "title": "배터리 기반 탄소 포집 신기술 개발, 기후 변화 대응 기여 기대",
-          "summary": "델라웨어 대학교 연구팀이 배터리 기반의 전기화학적 탄소 포집 신기술을 개발했다. 이 장치는 이산화탄소를 탄산염 또는 중탄산염으로 변환하여 포집하고, 더 낮은 에너지로 CO2를 다시 분리할 수 있어 기존 방식보다 저렴하게 탄소 포집을 수행할 잠재력을 가지고 있다.",
+          "title": "오라, 150억 달러 규모 증시 상장 철회 결정",
+          "summary": "스마트 링 제조업체 오라(Oura)가 150억 달러(약 113억 파운드) 규모의 미국 증시 상장 계획을 발표 며칠 만에 철회했습니다. 회사는 '기업공개(IPO) 시장의 불확실성'을 이유로 상장 연기를 결정했으며, 재상장 시기는 밝히지 않았습니다. 오라는 건강 데이터를 추적하는 스마트 링을 판매하며, 최근에는 수면 활동 추적의 정확성에 대한 집단 소송에 직면하기도 했습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
