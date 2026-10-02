@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-01",
-  "date_str": "2026년 10월 1일 (목)",
+  "date": "2026-10-02",
+  "date_str": "2026년 10월 2일 (금)",
   "key5": [
-    "한국 정부, 엘리엇 ISDS 환송중재 패소로 658억원 배상 판정",
-    "트럼프, 알래스카 LNG 투자 확정 발언…한국 정부는 '검토 중' 입장",
-    "영국 MI5, 중국 학계 통한 AI 등 기술 연구 스파이 활동 경고",
-    "미국 국방장관, 군 고위 장성 20% 해고 및 군대 문화 변화 추진",
-    "플라이두바이, 조종실 흉기 난동 사건으로 이스라엘 운항 전면 중단"
+    "한국마즈, 서울 양재동에 반려동물 정원 '댕댕파크' 개장",
+    "美 국채 수익률 2002년 이후 최고치, 소비자와 기업 대출 압박",
+    "OpenAI, 민감 정보 처리 부실로 직원 3명 해고",
+    "푸틴, 러시아 영토 공격 시 '모든 무기' 사용 경고",
+    "경기도, 전국 최초 온실가스 관측위성 '경기기후위성 2호기' 발사 성공"
   ],
   "regions": [
     {
@@ -15,68 +15,76 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "정부, 엘리엇 ISDS 환송중재 패소…658억원 배상 판정",
-          "summary": "한국 정부가 미국계 사모펀드 엘리엇과의 국제투자분쟁(ISDS) 환송중재에서 패소하여 약 658억원과 지연이자를 배상하게 되었다. 중재판정부는 2015년 삼성물산·제일모직 합병 당시 정부의 부당한 개입과 엘리엇의 손해 사이 인과관계를 인정했다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1280338.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610010935001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 알래스카 LNG 투자 확정 발언…한국 정부는 '검토 중' 입장",
-          "summary": "도널드 트럼프 미국 대통령이 한국이 알래스카 액화천연가스(LNG) 개발 사업에 500억 달러 이상을 투자할 것이라고 발표했으나, 더불어민주당 한정애 사무총장은 확정된 것이 아니며 상업적 합리성을 원칙으로 검토 후 결정할 것이라고 밝혔다. 한미 공동 팩트시트에도 '검토 착수'로 명시되어 양국 간 입장 차이가 드러났다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261001040200001"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610010843001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261001040300003"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "민형배 시장, 군공항 이전 가속화로 반도체 팹 공기 확보 기대",
-          "summary": "민형배 전남광주통합특별시장은 대통령의 군공항 임시 이전 시기 앞당기라는 지시에 대해 전남광주 반도체 팹의 공사 기간을 충분히 확보할 수 있을 것이라고 평가했다. 이를 통해 2030년 6월 첫 양산 시간표를 안정적으로 가져갈 수 있을 것으로 기대했다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261001047100054"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "고령농 농작업 재해 급증…열사병 사망자 대부분 70대 이상",
-          "summary": "최근 5년간 농작업 재해가 고령농에게 집중되고 있으며, 80대 재해자는 70% 증가했다. 특히 폭염에 따른 열사병 재해자가 급증하여 5년간 열사병 사망자 50명 중 82%가 70대 이상인 것으로 나타나 고령농 맞춤형 예방체계 강화가 요구된다.",
+          "title": "한국마즈, 서울에 반려동물 정원 '댕댕파크' 개장",
+          "summary": "한국마즈가 서울시와 협력하여 서울 서초구 양재동 매헌시민의숲에 서울 첫 반려동물 정원 '댕댕파크'를 공식 개장했습니다. 이 정원은 반려견의 후각과 탐색을 고려한 체험형 공간으로 조성되었으며, '기다려 주기' 문화를 제안합니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261001054600063"
+              "url": "https://www.yna.co.kr/view/AKR20261002049600030"
             }
           ],
           "verification": "single",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "9월 소비자물가 5개월 연속 3%대 상승",
+          "summary": "충북 지역의 9월 소비자물가가 전년 동월 대비 3.2% 상승하며 5개월 연속 3%대 상승세를 기록했습니다. 반도체 가격 상승으로 컴퓨터 물가가 가장 많이 올랐으며, 등유, 경유, 휘발유 등 석유류도 상승세를 이어갔습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261002053000064"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/news/economic-indicators/south-korea-cpi-inflation-eases-slightly-in-september-4928671"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-01/s-korea-inflation-stays-sticky-backing-bok-s-tightening-bias"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "정동영 통일부 장관, DMZ 지뢰 사고 관련 남북 대화 제안",
+          "summary": "정동영 통일부 장관이 서부전선 DMZ 지뢰 폭발 사고와 관련하여, 휴전선 및 군사분계선 불일치를 핵심 원인으로 지적하며 북한에 남북 대화를 제의했습니다. 그는 군사분계선 확정을 위한 소통 시작을 촉구하며, '강 대 강' 대치보다 평화공존 모색이 중요하다고 강조했습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610021000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10890624"
+            },
+            {
+              "name": "koreajoongangdaily.com",
+              "url": "https://www.koreajoongangdaily.com/korea/unification-minister-urges-peace-focus-after-north-korea-mine-blast/12899968"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "tec",
+          "title": "경기도, 전국 최초 온실가스 관측위성 발사 성공",
+          "summary": "경기도가 자체 기후위성 사업의 두 번째 위성이자 전국 최초의 온실가스 관측용 위성인 '경기기후위성 2호기' 발사에 성공했습니다. 이 위성은 대기 중 메탄 배출원을 탐지하고 농도를 측정하며, 산업단지 등 주요 배출 지역을 집중 관측하여 탄소중립 정책 수립에 활용될 예정입니다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/capital/1280578.html"
+            },
+            {
+              "name": "asiae.co.kr",
+              "url": "https://www.asiae.co.kr/en/article/region/2026100209260782620"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -86,76 +94,75 @@
       "en": "UNITED STATES",
       "stories": [
         {
-          "tag": "pol",
-          "title": "베세라, 캘리포니아 주지사 여론조사서 힐턴에 큰 격차로 선두",
-          "summary": "민주당 하비에르 베세라 후보가 캘리포니아 주지사 선거 여론조사에서 공화당 스티브 힐턴 후보를 15%포인트 이상 앞서며 선두를 유지하고 있다. 최근 UC 버클리 여론조사에서는 무당파 유권자들 사이에서도 베세라 후보가 크게 우세하여 격차를 25%포인트로 벌렸다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/30/us/elections/xavier-becerra-polling-california-governor.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/live/2026/09/30/us/california-governor-debate/california-governor-candidates-affordable-housing"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "국방장관 헤그세스, 군 고위 장성 20% 해고 및 군대 문화 변화 추진",
-          "summary": "피트 헤그세스 미국 국방장관이 군 고위 장성 20%를 해고하고 군대 내 '전사 정신' 강화를 강조했다. 그는 성 소수자, 과체중자, 수염을 기른 사람들을 군에서 원치 않는다고 발언하며 새로운 자율전쟁사령부 설립 등 여러 군 개혁 방안을 발표했다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프, 히스패닉 유권자 유세 중 폭스뉴스까지 비난",
-          "summary": "도널드 트럼프 전 미국 대통령이 히스패닉 유산의 달 행사에서 자신의 치적을 언론이 보도하지 않고 폭스뉴스마저 민주당 인사를 출연시켜 자신을 비난한다고 불만을 표출했다. 그는 자신의 소셜 미디어를 통해 직접 홍보하는 수밖에 없다고 주장하며 언론과의 갈등을 이어갔다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1280328.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-hispanic-heritage-month.html"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-midterms-oklahoma-alabama-nebraska.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "soc",
-          "title": "매사추세츠 가톨릭 성직자들, 수십년간 아동 성학대 보고서 발표",
-          "summary": "매사추세츠주에서 수십 년간 가톨릭 성직자들이 아동을 성학대한 사건에 대한 보고서가 발표되었다. 주 법무장관의 조사에 따르면 지난 100년간 3개 교구에서 약 1,000명에 가까운 아동이 성학대를 당했다.",
+          "title": "테네시주 사형수 사형 실패 논란, 주지사 진상 조사 지시",
+          "summary": "테네시주에서 사형수 크리스타 파이크의 사형 집행이 실패하여 논란이 일었으며, 주지사는 진상 조사를 지시했습니다. 이는 몇 달 만에 발생한 두 번째 사형 집행 실패 사례로, 주 사형 집행 절차에 대한 우려가 커지고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/09/30/us/catholic-priests-sexual-abuse-massachusetts.html"
+              "url": "https://www.nytimes.com/2026/10/01/us/christa-pike-condition.html"
+            },
+            {
+              "name": "nashvillebanner.com",
+              "url": "https://nashvillebanner.com/2026/09/30/christa-pike-failed-execution-tennessee-pentobarbital"
+            },
+            {
+              "name": "wkrn.com",
+              "url": "https://www.wkrn.com/news/tennessee-news/christa-pike-timeline-of-botched-tn-execution"
+            },
+            {
+              "name": "pbs.org",
+              "url": "https://www.pbs.org/newshour/nation/what-to-know-about-christa-gail-pikes-case-and-tennessees-previously-botched-executions"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "미국 국채 수익률 2002년 이후 최고치 기록",
+          "summary": "미국 국채 수익률이 2002년 이후 최고치를 기록하며 소비자와 기업의 대출 비용에 압력을 가하고 있습니다. 이러한 높은 수익률은 주식 시장 일부에도 영향을 미치고 있으며, 전문가들은 당분간 이러한 추세가 지속될 것으로 예상합니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html"
+            },
+            {
+              "name": "wsj.com",
+              "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f"
+            },
+            {
+              "name": "cnbc.com",
+              "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html"
+            },
+            {
+              "name": "cnn.com",
+              "url": "https://www.cnn.com/2026/10/01/business/bond-market-treasury-yields"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "DNC, 해외 유권자 투표 용지 양식 변경에 국방부 소송",
+          "summary": "민주당 전국위원회(DNC)가 국방부가 해외 유권자 투표 용지 양식을 변경하여 투표를 어렵게 만들었다며 소송을 제기했습니다. DNC는 이 변경이 법을 위반했으며, 특히 해외 거주 미국 시민의 투표권 행사에 혼란을 줄 수 있다고 주장하고 있습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/live/2026/10/01/us/midterms-elections/dnc-sues-the-defense-department-over-changes-to-a-form-for-overseas-voters"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/01/dnc-lawsuit-trump-changes-overseas-voter-citizens"
+            },
+            {
+              "name": "democracydocket.com",
+              "url": "https://www.democracydocket.com/news-alerts/trump-administration-removes-resources-to-help-us-citizens-born-abroad-vote"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -166,20 +173,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "영국 MI5, 중국 학계를 통한 AI 등 기술 연구 스파이 활동 경고",
-          "summary": "영국 MI5가 중국 기관이 중국 국가안전부를 대신하여 학술 연구, 특히 AI와 같은 기술 분야에서 스파이 활동을 벌이고 있다고 경고하는 전례 없는 경보를 발령했다. 100명 이상의 영국 학자들이 중국 일반기술연구소(CGTRI)가 자금을 지원하는 프로젝트에 참여했으며, 이 연구가 MSS의 스파이 기술 능력을 직접 향상시키는 데 목적이 있다고 MI5는 밝혔다.",
+          "title": "일본 자민당, 투기성 아파트 거래 제한 제안",
+          "summary": "일본 자민당은 투기성 아파트 거래를 제한하기 위한 조치들을 다카이치 사나에 총리에게 제안했습니다. 이는 주로 외국인에 의한 단기 거래 증가가 최근 아파트 가격 급등의 원인으로 지목되면서, 주거용 부동산이 투기 목적으로 매매되는 것에 대한 우려를 해소하기 위한 것입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/uk-china-academics-spy-ai-research/"
+              "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/politics/ldp-condo-speculative-trading/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3369391/uk-accuses-china-using-academics-spy-ai-and-other-tech-research?utm_source=rss_feed"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing"
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026100101024"
             }
           ],
           "verification": "multi",
@@ -187,33 +190,41 @@
         },
         {
           "tag": "eco",
-          "title": "미국, G20서 중국의 과잉 철강 생산 능력 문제 제기",
-          "summary": "재미슨 그리어 미국 무역대표부(USTR) 대표가 주요 20개국(G20) 무역장관 회의에서 중국의 과잉 철강 생산 능력 문제를 제기하며 새로운 글로벌 프레임워크를 제안했다. 이는 중국 시진핑 주석의 국빈 방문 직후 나온 것으로, 각국이 철강 수입에 대한 무역 장벽을 강화하도록 장려하는 것을 목표로 한다.",
+          "title": "미국, 유럽 동맹국에 디젤 전략 비축유 방출 요청",
+          "summary": "미국이 유럽 동맹국들에게 디젤 가격 인하를 위해 전략 비축유를 즉시 방출하도록 요청했습니다. 이는 높은 에너지 비용이 미국의 선거에 악영향을 미칠 수 있다는 우려와 함께, 미국 재무장관이 유럽 파트너들에게 기존 약속 이행 가속화와 추가 공급 확보를 촉구하면서 나온 조치입니다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3369393/us-targets-chinas-steel-capacity-g20-days-after-xis-state-visit?utm_source=rss_feed"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "일본, 영주권 규칙 공식 개정 및 소득·언어 요건 강화",
-          "summary": "일본 정부가 영주권 가이드라인을 공식적으로 개정하여 소득 및 연금 기준을 강화하고 일본어 요건을 새로 도입했다. 새 기준은 2027년 4월부터 접수되는 대부분의 신청에 적용되며, 최소 소득 요건은 올해 4월부터 제출된 신청에도 소급 적용된다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/permanent-residency-guidelines-revision/"
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3369488/us-tells-european-allies-act-immediately-lower-diesel-prices?utm_source=rss_feed"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/spotlight/immigration/japan-hikes-foreign-residency-fees-tightens-rules-5-things-to-know"
+              "name": "dailysabah.com",
+              "url": "https://www.dailysabah.com/business/economy/us-tells-european-allies-to-release-diesel-stocks-immediately"
+            },
+            {
+              "name": "france24.com",
+              "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "일본, AI 확산 위한 실행 계획 정부 수립 예정",
+          "summary": "일본 다카이치 사나에 과학기술정책 담당 장관은 정부가 AI 확산을 위한 실행 계획을 연말까지 수립할 것이라고 밝혔습니다. 그녀는 고성능 AI의 사회적 구현이 경제 성장을 위해 필수적이라고 강조하며, 규제 및 제도 개혁을 포함한 구체적인 비전을 지시했습니다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/politics/takaichi-ai-promote/"
+            },
+            {
+              "name": "facebook.com",
+              "url": "https://www.facebook.com/TaiwanNewsEN/posts/mission-success-for-me-is-not-to-fight-and-win-a-war-its-to-provide-a-deterrent-/1538667358300967"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -224,41 +235,24 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아, 우크라이나 에너지 인프라에 대규모 공격 감행",
-          "summary": "러시아가 올봄 이후 최대 규모로 우크라이나 에너지 인프라에 공격을 감행하여 최소 5명이 사망하고 전력 공급이 중단되는 피해가 발생했다. 특히 키이우와 주변 지역이 주요 표적이 되었으며, 우크라이나 총리는 러시아가 국가 경제를 마비시키려는 의도로 보인다 밝혔다.",
+          "title": "푸틴, 러시아 영토 공격 시 '모든 무기' 사용 경고",
+          "summary": "러시아 푸틴 대통령은 러시아 영토가 공격받을 경우 arsenal 내의 '모든 무기'를 사용할 준비가 되어 있다고 서방에 경고했습니다. 특히 발트해 연안의 칼리닌그라드 방어를 위해 핵무기 사용도 불사할 것이라고 강조하며, 서방이 긴장을 고조시키고 있다고 비난했습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/09/30/the-war-in-the-sky-kyiv-braces-for-another-winter-of-russian-attacks"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369487/putin-warns-russia-will-use-all-weapons-arsenal-if-any-its-territory-attacked?utm_source=rss_feed"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "플라이두바이, 조종실 흉기 난동 사건으로 이스라엘 운항 중단",
-          "summary": "플라이두바이 항공이 조종실 흉기 난동 사건으로 인해 이스라엘 왕복 항공편 운항을 전면 중단한다고 밝혔다. 두바이에서 텔아비브로 향하던 항공기에서 부조종사가 인도인 조종사를 공격하여 비행기가 급강하하는 아찔한 상황이 발생했으며, 이스라엘 정부는 이를 테러 시도로 규정했다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261001039800009"
+              "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610010920001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel"
+              "name": "abc.net.au",
+              "url": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366"
             }
           ],
           "verification": "multi",
@@ -266,20 +260,66 @@
         },
         {
           "tag": "soc",
-          "title": "프랑스 학생들, 학교 환경 및 자원 부족 항의 시위 확산",
-          "summary": "프랑스 전역에서 과밀 학급과 교사 부족 등 학교 환경에 항의하는 학생 시위가 확산되어 수백 명이 체포되고 수십 명이 부상을 입었다. 파리에서 시작된 시위는 디종, 리옹, 스트라스부르 등으로 번졌으며, 일부 학교는 학생들이 며칠간 봉쇄하기도 했다.",
+          "title": "프랑스 학생 시위 '도시 폭력' 확산, 과밀 학급·교사 부족 항의",
+          "summary": "프랑스에서 과밀 학급, 교사 부족, 노후 시설 등에 항의하는 학생 시위가 격화되어 '도시 폭력'으로 확산되고 있습니다. 파리에서 시작된 시위는 디종, 리옹, 스트라스부르 등 여러 도시로 퍼졌으며, 경찰과 시위대 간의 충돌로 수백 명이 체포되고 수십 명이 부상당했습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/01/french-protests-over-school-conditions-spread-as-students-set-fires-and-put-up-blockades"
+            },
+            {
+              "name": "scmp.com",
+              "url": "https://www.scmp.com/news/world/europe/article/3369482/french-school-protests-spread-fires-blockades-deepen-unrest"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "기후 변화로 이탈리아 시칠리아에서 커피 재배 성공",
+          "summary": "기후 변화로 인해 이탈리아 시칠리아 팔레르모 외곽의 농장에서 아라비카 커피 재배 및 수확이 처음으로 성공했습니다. 이는 지구 온난화로 남부 이탈리아의 기온이 열대 지역과 유사해지면서 나타난 현상으로, 전 세계 농업 방식의 변화 가능성을 보여줍니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/01/palermo-first-coffee-grown-and-harvested-in-italy-warmer-climate-is-changing-farming"
+            },
+            {
+              "name": "sg.news.yahoo.com",
+              "url": "https://sg.news.yahoo.com/palermo-first-coffee-grown-harvested-170420282.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "EU, 새로운 비상 이주 대책 모색…그리스 망명 일시 중단 제안",
+          "summary": "유럽연합(EU) 장관들이 새로운 비상 이주 대책을 논의하고 있으며, 그리스는 대규모 이주 발생 시 망명 신청을 일시적으로 중단하는 방안을 제안했습니다. 지난여름 스페인 세우타에 7만 명 이상의 이주민이 갑자기 유입된 사례를 들며, 기존 규정으로는 대규모 위기 대응이 불충분하다고 주장하고 있습니다.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-ministers-new-emergency-migration-measures-ceuta-spain-morocco/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/eu-ministers-new-emergency-migration-measures-ceuta-spain-morocco"
+            },
+            {
+              "name": "globalbankingandfinance.com",
+              "url": "https://www.globalbankingandfinance.com/greece-proposes-suspending-asylum-requests-emergencies"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -290,20 +330,24 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "AI 규제 및 안전 우려 속 새로운 AI 모델 개발 및 출시 논의",
-          "summary": "앤드류 베일리 영국 중앙은행 총재는 AI 규제보다는 취약점 테스트 및 위험 관리 강화를 우선해야 한다고 주장했다. OpenAI는 안전 문제로 최신 AI 모델 출시를 연기했지만, 동시에 사용자의 작업을 능동적으로 수행하는 AI 비서 '닷츠'를 공개하며 개발 속도와 안전성 간의 균형에 대한 논의가 계속되고 있다.",
+          "title": "구글, 우주 AI 데이터센터 시험위성 발사 성공",
+          "summary": "구글이 AI 연산을 지구 궤도에서 수행하는 '우주데이터센터' 구상을 현실화하기 위한 첫 시험위성 '프로젝트 선캐처'의 MVP를 발사했습니다. 이 위성은 구글 자체 개발 AI 전용 반도체 칩(TPU) 4개를 탑재하고 있으며, 태양광 에너지를 활용하여 우주 환경에서 AI 칩의 작동을 검증하는 것이 목표입니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/science/technology/1280571.html"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
+              "name": "scientificamerican.com",
+              "url": "https://www.scientificamerican.com/article/google-tests-plan-for-ai-data-centers-in-space-project-suncatcher"
+            },
+            {
+              "name": "mashable.com",
+              "url": "https://mashable.com/tech/google-sending-ai-data-center-satellite-to-space"
             }
           ],
           "verification": "multi",
@@ -311,16 +355,20 @@
         },
         {
           "tag": "tec",
-          "title": "화성 로버, 화성 지질 및 물의 복잡한 역사 탐사 성과 공개",
-          "summary": "NASA의 큐리오시티 로버가 화성 탐사 5,000일째를 맞아 화성 풍경의 멋진 파노라마를 전송했다. 퍼서비어런스 로버는 예제로 크레이터에서 고대 호수, 지하수, 수열 활동 등 예상보다 복잡한 화성의 물 역사를 발견하여 초기 화성의 환경에 대한 새로운 통찰력을 제공했다.",
+          "title": "OpenAI, 민감 정보 처리 부실로 직원 3명 해고",
+          "summary": "OpenAI가 민감 정보를 부적절하게 처리한 혐의로 연구원 3명을 해고했습니다. 이번 해고는 AI 모델을 분석하는 외부 기관과 정보를 공유하는 과정에서 회사 정책을 위반하고 신뢰를 저버린 것으로 알려졌습니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm"
+              "name": "digitaltoday.co.kr",
+              "url": "https://www.digitaltoday.co.kr/en/view/110033/openai-fires-three-safety-team-researchers-over-alleged-leak-of-confidential-information"
+            },
+            {
+              "name": "commondreams.org",
+              "url": "https://www.commondreams.org/news/openai-firing-whistleblowers"
             }
           ],
           "verification": "multi",
@@ -328,15 +376,44 @@
         },
         {
           "tag": "tec",
-          "title": "AI 기반 도구, 의료 기록 개인 정보 보호 위협 노출",
-          "summary": "의료 기록 관리 업체 에픽(Epic)의 엔지니어들이 앤트로픽(Anthropic)의 AI 도구를 사용하여 수백만 건의 환자 기록에 대한 무단 접근을 허용할 수 있는 보안 취약점을 발견했다. 이는 환자 개인 정보 보호에 대한 우려를 증폭시키며 의료 기록 보안 강화의 필요성을 강조한다.",
+          "title": "BOE 총재 \"AI 붐, 어떤 시점에 자산 가격 조정 올 것\"",
+          "summary": "잉글랜드은행(BOE) 앤드루 베일리 총재가 인공지능(AI) 붐 이후 금융 시장에 조정이 발생할 수 있으며 이에 대비해야 한다고 경고했습니다. 그는 AI 부문으로 자금이 쏟아져 들어가는 상황을 주시하고 있으며, 모든 기업이 승자가 될 것처럼 가격이 반영되어 있지만 과거를 보면 그렇지 않았다고 지적했습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261002017100009"
+            },
+            {
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/e3583761-ffa1-4457-b848-ffbde03e7a22"
+            },
+            {
+              "name": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-01/boe-governor-warns-ai-boom-could-trigger-market-shocks-bbc"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "초유체 양자 컴퓨터, 큐비트 오류율 100배 감소 기대",
+          "summary": "서리 대학교 연구진이 초유체 헬륨을 이용한 새로운 큐비트 설계를 제안했습니다. 이 '초유체 헬륨 발진기 양자(SHOQ) 장치'는 전자기 노이즈로부터 양자 정보를 보호하여 기존 초전도 큐비트보다 오류율을 약 100배 줄일 수 있을 것으로 예상됩니다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
+            },
+            {
+              "name": "nanowerk.com",
+              "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70315.php"
+            }
+          ],
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
