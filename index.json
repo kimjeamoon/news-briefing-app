@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-04",
-  "date_str": "2026년 10월 4일 (일)",
+  "date": "2026-10-05",
+  "date_str": "2026년 10월 5일 (월)",
   "key5": [
-    "북한, 김정은 참관 하에 극초음속 미사일 발사 훈련 실시, 핵억제력 고도화 주장",
-    "국내 샤인머스캣 공급 과잉 및 품질 저하로 재배 면적 감소",
-    "누리호 5차 발사 15기 위성 탑재 예정, 발사 성공률 80% 달성 기대",
-    "한국 남자축구, 아시안게임 한일전 승리로 4연패 달성",
-    "앨라배마주 사형수 사형 집행 실패 후 교정국장 사임, 전 주 사형 집행 중단"
+    "이재명 대통령, 국정수행 지지율 소폭 하락 속 '무극파' 경계 촉구",
+    "제주 차귀도 해상 어선 전복, 선장 포함 2명 실종…수색 작업 계속",
+    "트럼프, '슈퍼지능 부대' 발족 및 'AI 차르' 임명으로 AI 분야 미국 선두 유지 강조",
+    "스페인, 주택 위기 정부 대응 실패에 수만 명 항의 시위",
+    "영국 자동차 산업, 중국산 전기차 관세 및 EU 시장 사이 '어려운 선택' 직면"
   ],
   "regions": [
     {
@@ -16,20 +16,33 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "김정은, 극초음속 미사일 발사 훈련 참관…핵억제력 고도화 강조",
-          "summary": "김정은 북한 국무위원장이 중거리 전략미사일 발사 훈련을 참관하며 무기체계 검증을 통한 핵억제력 고도화 노선을 재확인했습니다. 조선중앙통신은 이번 훈련이 '극초음속전략무기체계' 운용 능력 숙련 및 전쟁억제력 평가의 일환이었다고 보도했습니다.",
+          "title": "이재명 대통령 지지율 소폭 하락, '무극파' 경계 촉구",
+          "summary": "이재명 대통령의 국정수행 지지도가 3주 만에 37.4%로 소폭 하락했으며, 이 대통령은 \"거짓에 기초하거나 최소한의 근거도 없이 혹세무민하는 무책임한 극단주의자, 일명 '무극파'들의 선동이 유행처럼 번지고 있다\"고 지적하며 경계를 당부했습니다. 이는 김지용 중대범죄수사청장 인선 문제를 둘러싼 범여권 강성 지지층의 반발을 염두에 둔 발언으로 해석됩니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261004004351504"
+              "url": "https://www.yna.co.kr/view/AKR20261005012300001"
             },
             {
-              "name": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-10-03/north-korea-s-kim-oversaw-hypersonic-missile-drill-kcna-says?srnd=phx-politics"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1280906.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "제주 차귀도 해상 어선 전복, 2명 실종",
+          "summary": "5일 오전 3시 4분께 제주 차귀도 북서쪽 약 65㎞ 해상에서 경남 사천 선적 29t급 근해연승어선 A호가 전복되는 사고가 발생했습니다. 승선원 11명 중 9명은 구조되었으나, 한국인 선장을 포함한 2명이 실종되어 해양경찰청과 해양수산부는 가용 장비·인력을 총동원하여 인명 구조 및 수색 작업을 진행 중입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261005007900001"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/asia/east-asia/article/3369665/north-korea-test-fires-intermediate-range-missile-amid-mine-blast-tensions?utm_source=rss_feed"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/jeju/1280904.html"
             }
           ],
           "verification": "multi",
@@ -37,58 +50,33 @@
         },
         {
           "tag": "eco",
-          "title": "샤인머스캣, 공급과잉·품질저하로 재배 면적 감소 및 가격 하락",
-          "summary": "한때 고급 포도로 불리던 샤인머스캣의 가격이 5년 만에 약 71% 하락하고, 재배면적 또한 2024년 정점 이후 감소세로 전환되었습니다. 이는 재배면적 급증에 따른 공급 과잉과 함께 당도 등 품질 저하에 대한 소비자 불만이 커진 것이 주요 원인으로 분석됩니다.",
+          "title": "경기도 산후조리비 사업 유지 전망, 시군에 접수 재개 공문",
+          "summary": "경기도가 도민들의 반발과 추미애 지사 사퇴 청원까지 불러왔던 산후조리비 사업을 유지할 전망입니다. 지난달 30일 경기도는 31개 시군에 공문을 보내 민원인 불편이 없도록 기존대로 산후조리비 신청을 접수하도록 조치했으며, 이는 도의회와 추경안 협상에서 예산 복원이 어느 정도 합의된 것을 전제로 한 것입니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261003020600030"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261002156600061"
             },
             {
-              "name": "youtube.com",
-              "url": "https://www.youtube.com/watch?v=nZNtMYjcmvE"
+              "name": "The Herald Business",
+              "url": "https://mbiz.heraldcorp.com/article/10889559"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "누리호 5차 발사 15기 위성 탑재, 발사 성공률 80% 기대",
-          "summary": "한국형 발사체 누리호의 5번째 발사가 오는 7일 전남 고흥 나로우주센터에서 예정되어 있습니다. 이번 발사에는 역대 최다인 15기의 위성(주탑재위성 5기 '네온샛', 큐브 위성 10기)이 탑재되며, 발사가 성공할 경우 누리호의 성공률은 75%에서 80%로 높아질 전망입니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610040800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "asiae.co.kr",
-              "url": "https://www.asiae.co.kr/en/article/2026100200571428916"
-            },
-            {
-              "name": "dongascience.com",
-              "url": "https://www.dongascience.com/en/news/80123"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
           "tag": "soc",
-          "title": "한국 남자축구, 아시안게임 한일전 결승 승리로 4연패 달성",
-          "summary": "한국 남자축구 대표팀이 일본 아이치현 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 남자축구 결승전에서 일본을 1-0으로 꺾고 금메달을 차지했습니다. 이로써 한국은 2014년 인천 대회부터 4회 연속 우승을 기록했습니다.",
+          "title": "경북 예천 한우농가 구제역 추가 발생, 긴급 방역 강화",
+          "summary": "경북 예천군 한우농가에서 구제역이 추가로 확인됨에 따라 경북도는 긴급 방역 조치에 들어갔습니다. 이 농장은 지난달 2일 구제역이 발생한 농가에서 2.3km 떨어진 곳으로, 도는 해당 농장에 이동 제한 및 출입 통제 조치를 하고 구제역 발생 개체를 신속히 처분할 계획입니다. 또한 방역대 3km 안 우제류 농가 148호에 대한 임상 예찰을 강화합니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610040759001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261005015100053"
             },
             {
-              "name": "koreatimes.co.kr",
-              "url": "https://www.koreatimes.co.kr/sports/20261003/asian-games-s-korea-beat-japan-for-4th-straight-mens-football-gold"
-            },
-            {
-              "name": "olympics.com",
-              "url": "https://www.olympics.com/en/news/asian-games-2026-republic-of-korea-win-fourth-consecutive-mens-football-gold"
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/national-en/2026/10/03/HHTXAYIBGNEMDGO3BVEZFJZD3M"
             }
           ],
           "verification": "multi",
@@ -103,20 +91,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 서머타임 영구화 법안 통과 촉구 위해 상원의원 전화번호 공개",
-          "summary": "도널드 트럼프 전 대통령이 서머타임을 영구화하는 '선샤인 보호법' 통과를 촉구하며 톰 코튼 상원의원의 개인 휴대전화 번호를 소셜 미디어에 공개했습니다. 그는 코튼 의원이 법안 통과를 막고 있다고 비난하며 유권자들에게 연락하여 법안 통과를 압박하도록 요청했습니다.",
+          "title": "트럼프, '슈퍼지능 부대' 발족 및 'AI 차르' 임명",
+          "summary": "도널드 트럼프 전 미국 대통령이 인공지능(AI) 분야에서 미국의 선두를 유지하기 위해 AI 태스크포스(TF)인 '슈퍼지능 부대'를 발족하고, 제이 클레이턴 국가정보국장을 'AI 차르'로 임명한다고 발표했습니다. 트럼프 대통령은 '인공'이라는 단어 대신 '슈퍼'라는 용어를 선호하며, 이 부대가 모든 미국인의 이익을 보호하고 삶의 질을 향상하는 임무를 맡게 될 것이라고 밝혔습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/america/1280905.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610050742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "washingtonpost.com",
-              "url": "https://www.washingtonpost.com/politics/2026/10/03/trump-reveals-gop-senators-phone-number-battle-over-daylight-saving-time"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
             }
           ],
           "verification": "multi",
@@ -124,50 +112,50 @@
         },
         {
           "tag": "pol",
-          "title": "앨라배마주 사형수 사형 집행 실패 후 교정국장 사임, 전 주 사형 집행 중단",
-          "summary": "앨라배마주에서 사형수 크리스타 파이크의 사형 집행이 실패로 끝나자, 주 교정국장 프랭크 스트라다가 사임했습니다. 빌 리 주지사는 이 사건에 대한 독립적인 조사를 명령하고 올해 모든 사형 집행을 중단시켰습니다.",
+          "title": "미국 대선 캠페인 속 트럼프 유세와 중도층 불만 부상",
+          "summary": "미국 대선 캠페인이 진행되는 가운데 도널드 트럼프 전 대통령은 오하이오 등 경합주에서 공화당 후보들을 위해 유세를 이어가고 있으며, 다가오는 중간선거에서 공화당이 예상을 뛰어넘는 '큰 이변'을 일으킬 것이라고 예측했습니다. 한편, 캔자스 주 상원 선거에서 경제적 어려움과 트럼프 대통령에 대한 불만이 민주당에 유리하게 작용하며 경합주로 부상하는 등 중도층 유권자들의 불만이 미국 정치 지형에 영향을 미치고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html"
+              "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "washingtonpost.com",
-              "url": "https://www.washingtonpost.com/nation/2026/10/03/tennessee-prisons-chief-resigns-after-failed-christa-pike-execution-gov-says"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "AI 에이전트 쇼핑 확산에 브랜드 마케팅 전략 변화",
-          "summary": "인공지능(AI) 에이전트가 고객 대신 쇼핑하는 시대가 도래함에 따라, 브랜드들은 전통적인 마케팅 전략을 바꾸고 있습니다. 인간의 감정보다 논리와 데이터를 기반으로 구매 결정을 내리는 AI 에이전트를 설득하기 위해 마케터들은 새로운 접근 방식을 모색하고 있습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html"
-            },
-            {
-              "name": "circana.com",
-              "url": "https://www.circana.com/post/ai-measured-the-shift-and-strategies-that-win"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "미국 시애틀 난터켓 해안에서 의료기 탑재 비행기 실종, 수색 진행 중",
-          "summary": "버뮤다에서 보스턴으로 향하던 캐나다 의료용 비행기가 매사추세츠주 난터켓 해안에서 실종되어 미국 당국이 수색 작업을 벌이고 있습니다. 이 비행기에는 승무원 4명과 버뮤다에서 탑승한 환자 및 보호자 2명 등 총 6명이 타고 있었으며, 비행 중 관제탑과 연락이 끊기기 전 급격한 고도 하락을 보였습니다.",
+          "title": "영국 미군기지 폭격기, 테러 위협으로 본국 철수",
+          "summary": "영국 공군기지 RAF 페어포드에 배치되어 있던 미군 폭격기들이 기지를 겨냥한 이란 기반의 테러 위협 의혹으로 인해 본국으로 급히 재배치되었습니다. 이는 지난 9월 27일 기지 인근에서 수상한 차량 3대가 발견되고 테러 혐의로 5명의 남성이 체포된 사건 이후 내려진 조치입니다. 영국 정부는 이번 철수가 군사적 결정이라고 밝혔습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/03/us/medical-plane-missing-bermuda-boston.html"
+              "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "soc",
+          "title": "메사추세츠 연안 의료 수송기 실종, 잔해 발견 후 수색 중",
+          "summary": "지난 토요일 버뮤다에서 보스턴으로 향하던 의료 수송기 걸프스트림 G100이 메사추세츠주 낸터킷 연안에서 실종되었으며, 미 해안경비대는 사고 해역에서 잔해를 발견했습니다. 이 항공기에는 캐나다 국적 4명과 버뮤다 국적 2명 등 총 6명이 탑승하고 있었으며, 해안경비대는 66시간 동안의 수색 후 생존자 수색을 중단하고 가족들에게 깊은 애도를 표했습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/04/us/missing-medical-plane-nantucket-what-to-know.html"
             },
             {
               "name": "BBC US & Canada",
@@ -190,20 +178,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국, 대만 근접 일본 섬에 NMESIS 대함 시스템 첫 배치",
-          "summary": "미국은 대만에서 약 110km 떨어진 일본 요나구니섬에 해군-해병대 원정 함선 요격 시스템(NMESIS)을 처음으로 배치할 예정입니다. 이는 이달 중 진행될 미일 연합 훈련의 일환으로, 중국과 일본 간의 긴장이 고조되는 가운데 이루어지는 전례 없는 움직임입니다.",
+          "title": "일본 거주 베트남인 사회, 반이민 허위 정보 확산에 동요",
+          "summary": "일본에 거주하는 베트남인들 사이에서 반이민 허위 정보가 확산되면서 이민자들에 대한 인식이 변화하고 있습니다. 이는 2014년 일본에 왔을 때와 달리 외국인과 일본인 간의 태도가 정치적으로 변했으며, 일부는 일본에서의 미래에 대해 의문을 제기하게 만들고 있습니다. 베트남인들은 일본 전체 외국인 거주자의 15.9%를 차지하며, 이민 정책 변화에 대한 지원 요청이 증가하고 있습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3369666/us-deploy-nmesis-anti-ship-system-japanese-island-closest-taiwan-first-time?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/community/2026/10/04/issues/vietnamese-community-disinformation/"
             },
             {
-              "name": "ua.news",
-              "url": "https://ua.news/en/world/ssha-vperwe-rozmistiat-nmesis-bilia-taivaniu-bloomberg"
-            },
-            {
-              "name": "globaltimes.cn",
-              "url": "https://www.globaltimes.cn/page/202610/1371655.shtml"
+              "name": "japantoday.com",
+              "url": "https://japantoday.com/category/crime/false-claims-alleging-theft-by-foreigners-in-japan-spread-on-social-media"
             }
           ],
           "verification": "multi",
@@ -211,20 +195,16 @@
         },
         {
           "tag": "eco",
-          "title": "중국, 연료 수출 규제 재개로 글로벌 에너지 시장 긴축 우려 증폭",
-          "summary": "중국이 디젤, 항공유, 휘발유 등 정제유 수출 규제를 다시 시작하면서 글로벌 에너지 시장의 긴장이 고조되고 있습니다. 중국 내 원유 및 정제유 재고 감소가 주요 원인으로 꼽히며, 이는 이미 공급 부족에 시달리는 세계 에너지 시장에 추가적인 압박을 가할 것으로 예상됩니다.",
+          "title": "BYD, 일본 시장 겨냥 미니 전기차 해외 판매 확대",
+          "summary": "중국 자동차 제조업체 BYD가 일본 시장을 겨냥해 개발한 미니 전기차 '라코(Racco)'를 다른 시장에서도 판매할 계획을 밝혔습니다. 초기에는 스리랑카와 마카오에서 판매를 시작할 예정이며, 라코는 일본의 미니카 규격에 맞춰 설계된 모델입니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-to-sell-mini-ev-meant-for-japan-in-other-markets"
             },
             {
-              "name": "moderndiplomacy.eu",
-              "url": "https://moderndiplomacy.eu/2026/10/01/china-fuel-export-halt-energy-security-geopolitical-leverage"
-            },
-            {
-              "name": "cnbc.com",
-              "url": "https://www.cnbc.com/2026/10/02/oil-rises-slightly-as-market-weighs-mixed-supply-signals.html"
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/cbbc43ab-be01-4b3c-9ad8-ea15eec661ab"
             }
           ],
           "verification": "multi",
@@ -232,20 +212,16 @@
         },
         {
           "tag": "tec",
-          "title": "AI, 막대한 투자 유치하며 세상 변화 위한 경쟁 심화",
-          "summary": "인공지능(AI) 기술에 전례 없는 규모의 자금이 유입되며, 철도나 인터넷 혁명 당시를 능가하는 투자가 이루어지고 있습니다. 앤트로픽과 같은 주요 AI 기업들은 향후 수년간 수천억 달러를 투자하여 AI가 증기기관 발명보다 더 큰 변혁을 가져올 것이라고 주장하며 기술 경쟁을 가속화하고 있습니다.",
+          "title": "일본 라피더스, 17개사와 협력해 고객사 칩 설계 지원",
+          "summary": "일본의 차세대 반도체 위탁 생산업체 라피더스가 17개 첨단 반도체 설계 회사와 협력하여 고객사를 위한 자체 브랜드 칩 설계를 지원할 예정입니다. 라피더스는 이를 통해 잠재 고객 기반을 확대하고 첨단 반도체 공급 능력을 강화할 것으로 기대하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/03/tech/ai-transform-world-money/"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
             },
             {
-              "name": "devdiscourse.com",
-              "url": "https://www.devdiscourse.com/article/international/3986091-analysis-ais-race-to-transform-the-world-before-the-money-runs-out?amp="
-            },
-            {
-              "name": "reuters.com",
-              "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03"
+              "name": "sphericalinsights.com",
+              "url": "https://www.sphericalinsights.com/blogs/why-global-innovators-are-choosing-japan-the-rise-of-a-new-innovation-hub"
             }
           ],
           "verification": "multi",
@@ -260,62 +236,87 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "러시아, 우크라이나 수도 키이우의 두 번째 주요 다리 공격",
-          "summary": "러시아가 우크라이나 수도 키이우의 두 번째 주요 다리인 피브니치니(북부) 다리를 공격했습니다. 이 공격으로 도로와 트롤리버스 전선이 손상되었으며, 러시아는 드론으로 우크라이나군의 병력과 군수품 수송에 사용되는 다리를 타격했다고 주장하며 키이우 내 외국인들에게 철수를 촉구했습니다.",
+          "title": "독일 메르츠 총리 키이우 방문, 우크라이나 추가 지원 약속",
+          "summary": "프리드리히 메르츠 독일 총리가 우크라이나 수도 키이우를 전격 방문하여 러시아의 계속되는 전면 침공에 맞서는 지지 의사를 표명했습니다. 메르츠 총리는 카타리나 라이히 경제장관 및 독일 방위·에너지 기업 대표단과 동행하며 우크라이나에 대한 추가 군사 및 재정 지원을 약속했습니다. 이는 러시아의 기반 시설 공격이 강화되는 가운데 이루어졌습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/04/merz-makes-surprise-visit-to-kyiv-germany-pledges-further-aid-to-ukraine"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "name": "abcnews.com",
-              "url": "https://abcnews.com/International/wireStory/russia-strikes-kyivs-northern-bridge-new-tactic-disrupt-136969028"
+              "url": "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
+          "tag": "pol",
+          "title": "프랑스 교육 개혁 반대 학생 시위 격화, 수백 개 학교 폐쇄",
+          "summary": "프랑스 전역에서 교육 개혁에 반대하는 학생 시위가 격화되면서 월요일에 수백 개의 학교가 전면 또는 부분적으로 폐쇄될 예정입니다. 교육부 장관은 대규모 시위가 예정된 화요일에 앞서 주로 보안상의 이유로 폐쇄 조치가 이루어졌다고 밝혔습니다. 학생들은 높은 교사 결근율, 과도하게 긴 수업 시간, 낙후된 시설 등 교육 환경 개선을 요구하고 있습니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/04/student-protests-in-france-400500-schools-fully-or-partially-closed-monday"
+            },
+            {
+              "name": "dw.com",
+              "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "영국 자동차 산업, 중국·EU 시장 사이 어려운 선택 직면",
+          "summary": "영국 자동차 산업이 저렴한 중국산 전기차 수입에 대한 관세 부과 여부와 EU 시장 접근 사이에서 '어려운 선택'에 직면했습니다. EU는 영국에 중국 차량에 대한 관세 부과를 요구하며, 그렇지 않을 경우 영국산 수출품에 '메이드 인 유럽' 장벽을 부과하겠다고 경고했습니다. 영국 정부는 관세 부과 시 중국과의 무역에 부정적인 영향을 미 미칠 것을 우려하고 있습니다.",
+          "sources": [
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws"
+            },
+            {
+              "name": "electrive.com",
+              "url": "https://www.electrive.com/2026/09/28/eu-reportedly-urges-uk-to-raise-tariffs-on-chinese-electric-vehicles"
+            },
+            {
+              "name": "scmp.com",
+              "url": "https://www.scmp.com/opinion/world-opinion/article/3369331/can-britain-really-afford-diverge-eu-tariffs-chinese-evs"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
           "tag": "soc",
-          "title": "스페인 주택 위기 해결 촉구 시위, 수만 명 마드리드 거리 행진",
-          "summary": "스페인 마드리드를 비롯한 여러 도시에서 수만 명의 시민들이 주택 위기 해결을 촉구하는 시위를 벌였습니다. 정부가 임대 보호 관련 긴급 법안 통과에 실패한 후 발생한 이번 시위는 임대료 인상과 강제 퇴거에 대한 대중의 분노를 표출하며, 일부 지역에서는 경찰과 시위대 간의 충돌도 발생했습니다.",
+          "title": "스페인 주택 위기 항의 시위, 수만 명 거리로",
+          "summary": "스페인에서 정부의 주택 위기 대응 실패에 항의하며 수만 명이 마드리드, 발렌시아, 바르셀로나 등 주요 도시에서 시위를 벌였습니다. 지난달 87세 여성의 강제 퇴거 사건으로 촉발된 이번 시위는 임대료 인하, 강제 퇴거 중단, 투자 펀드의 부동산 매입 금지 등을 요구하고 있습니다. 시위대와 경찰 간의 충돌도 발생하여 9명의 경찰관이 부상하고 5명이 체포되었습니다.",
           "sources": [
             {
               "name": "BBC Europe",
               "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/04/sanchez-in-talks-with-coalition-partners-on-reflection-day-will-he-call-elections-in-spain"
             },
             {
-              "name": "euronews.com",
-              "url": "https://www.euronews.com/2026/10/03/nearly-500000-people-protest-in-madrid-over-spains-housing-crisis"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "리비아 통합 정부, 하프타르 아들 연료 시설 드론 공격 연루 혐의로 평화 회담 중단",
-          "summary": "리비아 통합 정부(GNU)가 칼리파 하프타르 군벌의 아들 사담 하프타르가 서부 리비아 연료 시설에 대한 드론 공격에 연루되었다는 의혹 제기 후, 하프타르와의 협력을 중단할 계획입니다. 이 의혹은 리비아의 안보 및 정치 통합 계획에 큰 차질을 초래하고 있습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
-            },
-            {
-              "name": "turkiyetoday.com",
-              "url": "https://www.turkiyetoday.com/world/us-backed-libya-unity-effort-in-doubt-after-haftar-son-linked-to-drone-attacks-report-3229526"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
         }
       ]
     },
@@ -326,16 +327,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "NASA 아폴로 13호 구조 기여 비행 책임자 밀트 윈들러 별세",
-          "summary": "1970년 아폴로 13호 승무원들을 안전하게 지구로 귀환시키는 데 중요한 역할을 한 NASA 비행 책임자 밀트 윈들러가 94세의 나이로 별세했습니다. 그는 머큐리, 제미니 프로그램을 비롯해 아폴로 8호, 10호, 12호, 14호, 15호 및 스카이랩 임무에서도 비행 책임자를 맡았습니다.",
+          "title": "빅뱅 직후 미세 자기장, 우주 팽창 속도 불일치 단서",
+          "summary": "빅뱅 직후 생성된 미세 자기장이 우주의 팽창 속도 불일치인 '허블 장력'을 설명할 단서가 될 수 있다는 연구 결과가 나왔습니다. 상세한 시뮬레이션 결과, 이러한 원시 자기장이 초기 우주의 수소 형성 과정을 변화시켜 우주 마이크로파 배경과 그로부터 추론된 팽창률에 영향을 미칠 수 있음을 보여주었습니다. 이는 현재 우주론의 주요 문제 중 하나인 허블 장력의 미스터리를 푸는 데 기여할 수 있습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
             },
             {
-              "name": "collectspace.com",
-              "url": "http://www.collectspace.com/news/news-100326a-milton-windler-apollo-flight-director-obituary.html"
+              "name": "UA.NEWS",
+              "url": "https://ua.news/en/technologies/pervinni-magnitni-polia-mozhut-poslabiti-naprugu-gabbla-sciencedaily"
             }
           ],
           "verification": "multi",
@@ -343,20 +344,16 @@
         },
         {
           "tag": "tec",
-          "title": "ESA 주스 탐사선, 지구 중력 활용해 목성 향하는 경로 변경",
-          "summary": "유럽우주국(ESA)의 주스(Juice) 탐사선이 지난 9월 28일 지구 근접 비행을 통해 지구 중력을 활용하여 목성으로 향하는 경로를 변경했습니다. 이 중력 도움 기동으로 탐사선의 방향은 20도 바뀌고 속도는 초당 3.5km 증가했으며, 연료 소모를 최소화하면서 과학 장비를 시험하는 기회가 되었습니다.",
+          "title": "새로운 빛 활성화 물질, 물에서 효율적 수소 생산 가능성",
+          "summary": "오리건 주립대학교 연구진이 값비싼 금속 촉매 없이도 물에서 효율적으로 수소를 생산할 수 있는 새로운 빛 활성화 물질을 개발했습니다. 이 물질은 특이한 황 기반 화학 반응을 통해 빛을 흡수하여 에너지를 수소 생산에 필요한 화학 반응으로 전환합니다. 이는 온실가스 배출량을 줄이고 기후 변화에 대응하는 데 기여할 수 있는 저렴하고 실용적인 청정 연료 생산 방법을 제시합니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm"
             },
             {
-              "name": "qazinform.com",
-              "url": "https://qazinform.com/news/earths-gravity-boosts-juice-spacecraft-on-journey-to-jupiter-da941a"
-            },
-            {
-              "name": "moneycontrol.com",
-              "url": "https://www.moneycontrol.com/science/why-did-esa-s-juice-spacecraft-fly-8-640-km-above-earth-stunning-images-reveal-its-journey-to-jupiter-article-14040796.html"
+              "name": "UA.NEWS",
+              "url": "https://ua.news/en/technologies/v-oregoni-stvorili-fotokatalizator-dlia-dobuvannia-vodniu-z-vodi-sciencedaily"
             }
           ],
           "verification": "multi",
@@ -364,20 +361,20 @@
         },
         {
           "tag": "tec",
-          "title": "창어 6호 달 토양에서 이전에 알려지지 않은 자성 광물 발견",
-          "summary": "중국 창어 6호가 가져온 달 토양 샘플 분석 결과, 이전에 알려지지 않은 형태의 금속 철인 감마-철(γ-Fe)이라는 자성 광물이 발견되었습니다. 이 나노 스케일 철은 작은 충격 유리 입자 내에서 안정적인 자기 신호를 보존할 수 있어, 달의 오래된 자기장 기록으로서 중요한 역할을 할 수 있습니다.",
+          "title": "Fitbit Edge 정보 유출, 미드레인지 Charge 후속 모델",
+          "summary": "구글의 새로운 미드레인지 피트니스 트래커 'Fitbit Edge'의 정보가 유출되었습니다. 이 제품은 기존 Charge 라인의 후속 모델로 보이며, Pixel Watch와 Fitbit Air의 중간 형태인 작은 화면을 가지고 있습니다. 7일 배터리 수명, 내장 GPS 및 고도계 기능을 갖추고 구글 지도 및 유튜브 뮤직과 같은 제한적인 앱을 지원할 것으로 예상됩니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
             },
             {
-              "name": "phys.org",
-              "url": "https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html"
+              "name": "firstpost.com",
+              "url": "https://www.firstpost.com/tech/fitbit-edge-leaks-ahead-of-launch-heres-what-the-new-tracker-may-offer-14050341.html"
             },
             {
-              "name": "thebrighterside.news",
-              "url": "https://www.thebrighterside.news/post/change-6-samples-reveal-a-form-of-magnetic-iron-never-before-found-on-the-moon"
+              "name": "9to5google.com",
+              "url": "https://9to5google.com/2026/10/04/google-fitbit-edge-leak"
             }
           ],
           "verification": "multi",
