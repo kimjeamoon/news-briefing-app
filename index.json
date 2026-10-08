@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-05",
-  "date_str": "2026년 10월 5일 (월)",
+  "date": "2026-10-08",
+  "date_str": "2026년 10월 8일 (목)",
   "key5": [
-    "이재명 대통령, 국정수행 지지율 소폭 하락 속 '무극파' 경계 촉구",
-    "제주 차귀도 해상 어선 전복, 선장 포함 2명 실종…수색 작업 계속",
-    "트럼프, '슈퍼지능 부대' 발족 및 'AI 차르' 임명으로 AI 분야 미국 선두 유지 강조",
-    "스페인, 주택 위기 정부 대응 실패에 수만 명 항의 시위",
-    "영국 자동차 산업, 중국산 전기차 관세 및 EU 시장 사이 '어려운 선택' 직면"
+    "인천 정신병원, 6개월간 환자 4명 사망 후 보건당국 합동 점검 예고",
+    "서울시, 투기성 거래 방지 위해 서울 전역 '도로' 토지거래허가구역 지정",
+    "프랑스, 학생 시위 중 실명 사고 후 섬광 수류탄 사용 중단 및 정부 대책 발표",
+    "IMF, 일본과 미국 장기 금리 급등에 우려 표명하며 정책 대응 촉구",
+    "재규어, 첫 전기 스포츠카 'Type 01EV' 공개하며 EV 시장 경쟁 심화"
   ],
   "regions": [
     {
@@ -16,16 +16,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이재명 대통령 지지율 소폭 하락, '무극파' 경계 촉구",
-          "summary": "이재명 대통령의 국정수행 지지도가 3주 만에 37.4%로 소폭 하락했으며, 이 대통령은 \"거짓에 기초하거나 최소한의 근거도 없이 혹세무민하는 무책임한 극단주의자, 일명 '무극파'들의 선동이 유행처럼 번지고 있다\"고 지적하며 경계를 당부했습니다. 이는 김지용 중대범죄수사청장 인선 문제를 둘러싼 범여권 강성 지지층의 반발을 염두에 둔 발언으로 해석됩니다.",
+          "title": "이재명 대통령, 이집트 국빈 방문한 알시시 대통령 환대",
+          "summary": "이재명 대통령은 한국을 국빈 방문한 압델 파타 알시시 이집트 대통령에게 '프리미엄 로드 자전거'를 선물하고, FA-50 영공 호위 및 환영 영상 송출 등 최고 수준의 예우를 제공했다. 양국 정상회담에서는 경제협력 확대 방안이 논의될 예정이다. 국빈 오찬에는 양국 식재료를 활용한 요리와 국악 공연이 마련되었다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261005012300001"
+              "url": "https://www.yna.co.kr/view/AKR20261008052400001"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1280906.html"
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1281441.html"
+            },
+            {
+              "name": "Yonhap News Agency",
+              "url": "https://en.yna.co.kr/view/AEN20261008001200315?section=national%2Fpolitics"
             }
           ],
           "verification": "multi",
@@ -33,16 +37,16 @@
         },
         {
           "tag": "pol",
-          "title": "제주 차귀도 해상 어선 전복, 2명 실종",
-          "summary": "5일 오전 3시 4분께 제주 차귀도 북서쪽 약 65㎞ 해상에서 경남 사천 선적 29t급 근해연승어선 A호가 전복되는 사고가 발생했습니다. 승선원 11명 중 9명은 구조되었으나, 한국인 선장을 포함한 2명이 실종되어 해양경찰청과 해양수산부는 가용 장비·인력을 총동원하여 인명 구조 및 수색 작업을 진행 중입니다.",
+          "title": "민간 우주항공기업도 방위산업공제조합 가입 가능해져",
+          "summary": "8일부터 '방위산업 발전 및 지원에 관한 법률' 개정에 따라 민간 우주항공기업과 전력지원체계 납품기업도 방위산업공제조합에 가입할 수 있게 되었다. 이는 과거 이들 기업이 민간 보증·보험 상품을 이용해야 했던 부담을 덜고, 민군 동반 성장의 시너지 효과를 높이기 위한 조치이다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261005007900001"
+              "url": "https://www.yna.co.kr/view/AKR20261008056100504"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/area/jeju/1280904.html"
+              "name": "en.sedaily.com",
+              "url": "https://en.sedaily.com/news/2026/10/02/police-mutual-aid-weighs-more-pef-commitments-as"
             }
           ],
           "verification": "multi",
@@ -50,16 +54,16 @@
         },
         {
           "tag": "eco",
-          "title": "경기도 산후조리비 사업 유지 전망, 시군에 접수 재개 공문",
-          "summary": "경기도가 도민들의 반발과 추미애 지사 사퇴 청원까지 불러왔던 산후조리비 사업을 유지할 전망입니다. 지난달 30일 경기도는 31개 시군에 공문을 보내 민원인 불편이 없도록 기존대로 산후조리비 신청을 접수하도록 조치했으며, 이는 도의회와 추경안 협상에서 예산 복원이 어느 정도 합의된 것을 전제로 한 것입니다.",
+          "title": "서울 전역 '도로' 토지거래허가구역 지정, 투기성 거래 차단",
+          "summary": "서울시가 17일부터 1년간 서울 전역의 지목이 '도로'인 토지를 토지거래허가구역으로 신규 지정한다. 이는 도로 지분 쪼개기 등 투기성 거래를 선제적으로 차단하고 시민 피해를 예방하기 위한 조치로, 실수요 거래는 허가를 통해 가능하게 된다. 기존 신속통합기획 구역 3곳의 토허구역 경계도 일부 조정된다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261002156600061"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610081000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "The Herald Business",
-              "url": "https://mbiz.heraldcorp.com/article/10889559"
+              "name": "en.sedaily.com",
+              "url": "https://en.sedaily.com/finance/2026/10/05/suspected-gap-investment-deals-in-seoul-plunge-68-percent"
             }
           ],
           "verification": "multi",
@@ -67,16 +71,20 @@
         },
         {
           "tag": "soc",
-          "title": "경북 예천 한우농가 구제역 추가 발생, 긴급 방역 강화",
-          "summary": "경북 예천군 한우농가에서 구제역이 추가로 확인됨에 따라 경북도는 긴급 방역 조치에 들어갔습니다. 이 농장은 지난달 2일 구제역이 발생한 농가에서 2.3km 떨어진 곳으로, 도는 해당 농장에 이동 제한 및 출입 통제 조치를 하고 구제역 발생 개체를 신속히 처분할 계획입니다. 또한 방역대 3km 안 우제류 농가 148호에 대한 임상 예찰을 강화합니다.",
+          "title": "인천 정신병원 환자 잇단 사망, 보건당국 합동 점검 예고",
+          "summary": "인천의 한 정신의료기관에서 지난 6개월간 환자 4명이 사망한 사건이 발생해 보건복지부, 인천시, 미추홀구보건소가 다음 주 합동 현장 점검에 나선다. 국가인권위원회는 병원장을 업무상 과실치사 혐의로 고발했으며, 경찰도 압수수색을 진행하고 있다. 복지부는 이번 점검을 통해 정신의료기관 전반의 인권 보호 체계를 정비할 계획이다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261005015100053"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/area/capital/1281442.html"
             },
             {
-              "name": "chosun.com",
-              "url": "https://www.chosun.com/english/national-en/2026/10/03/HHTXAYIBGNEMDGO3BVEZFJZD3M"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610080952001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "biz.chosun.com",
+              "url": "https://biz.chosun.com/en/en-science/2026/10/08/QNCHIWTXRRBBXKLQG2QHEUO4LU"
             }
           ],
           "verification": "multi",
@@ -91,20 +99,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, '슈퍼지능 부대' 발족 및 'AI 차르' 임명",
-          "summary": "도널드 트럼프 전 미국 대통령이 인공지능(AI) 분야에서 미국의 선두를 유지하기 위해 AI 태스크포스(TF)인 '슈퍼지능 부대'를 발족하고, 제이 클레이턴 국가정보국장을 'AI 차르'로 임명한다고 발표했습니다. 트럼프 대통령은 '인공'이라는 단어 대신 '슈퍼'라는 용어를 선호하며, 이 부대가 모든 미국인의 이익을 보호하고 삶의 질을 향상하는 임무를 맡게 될 것이라고 밝혔습니다.",
+          "title": "미국 일부 주, 사형 집행 방식 논란 및 집행 연기",
+          "summary": "테네시주에서 사형 집행이 실패한 후 크리스타 파이크의 변호인들이 추가 집행 시도를 반대하며 논란이 가중되고 있다. 개빈 뉴섬 캘리포니아 주지사는 563명의 사형수 사형 종결을 고려 중이며, 육군은 2009년 포트 후드 총기 난사 사건의 주범에 대해 1945년 이후 첫 총살형을 12월 3일로 예정하고 있다. 이는 사형 방식과 인도적 처우에 대한 광범위한 논쟁을 다시 불러일으키고 있다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1280905.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610050742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/07/us/newsom-death-row-prisoners-california.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
+              "name": "aa.com.tr",
+              "url": "https://www.aa.com.tr/en/americas/explainer-botched-tennessee-execution-reignites-us-death-penalty-debate/4076557"
             }
           ],
           "verification": "multi",
@@ -112,58 +120,62 @@
         },
         {
           "tag": "pol",
-          "title": "미국 대선 캠페인 속 트럼프 유세와 중도층 불만 부상",
-          "summary": "미국 대선 캠페인이 진행되는 가운데 도널드 트럼프 전 대통령은 오하이오 등 경합주에서 공화당 후보들을 위해 유세를 이어가고 있으며, 다가오는 중간선거에서 공화당이 예상을 뛰어넘는 '큰 이변'을 일으킬 것이라고 예측했습니다. 한편, 캔자스 주 상원 선거에서 경제적 어려움과 트럼프 대통령에 대한 불만이 민주당에 유리하게 작용하며 경합주로 부상하는 등 중도층 유권자들의 불만이 미국 정치 지형에 영향을 미치고 있습니다.",
+          "title": "트럼프, 친러시아 정부 자문한 측근들과 거리두기",
+          "summary": "도널드 트럼프 대통령은 두 명의 핵심 고문인 크리스 라시비타와 제임스 블레어가 발칸 지역의 친러시아 정부를 도왔다는 보도에 대해, 이들이 '외부 컨설턴트'이며 자신의 지시에 따른 것이 아니라고 밝혔다. 트럼프는 갈등의 여지가 있다면 즉시 해고할 것이라고 언급하며, 중간선거를 앞두고 정치적 압박이 커지는 상황에서 측근들과 거리를 두는 모습을 보였다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio"
+              "name": "yahoo.com",
+              "url": "https://www.yahoo.com/news/politics/articles/trump-floats-firing-top-political-164136885.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/07/us/trump-russia-blair-lacivita.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "영국 미군기지 폭격기, 테러 위협으로 본국 철수",
-          "summary": "영국 공군기지 RAF 페어포드에 배치되어 있던 미군 폭격기들이 기지를 겨냥한 이란 기반의 테러 위협 의혹으로 인해 본국으로 급히 재배치되었습니다. 이는 지난 9월 27일 기지 인근에서 수상한 차량 3대가 발견되고 테러 혐의로 5명의 남성이 체포된 사건 이후 내려진 조치입니다. 영국 정부는 이번 철수가 군사적 결정이라고 밝혔습니다.",
+          "tag": "eco",
+          "title": "연준, 인플레이션 억제 위해 추가 금리 인상 필요성 논의",
+          "summary": "미국 연방준비제도(Fed) 관계자들은 9월 회의에서 인플레이션을 억제하기 위해 최소 한 차례 이상의 금리 인상이 필요하다는 데 대부분 동의했다. 정책 입안자들은 인플레이션 위험에 대한 우려를 표명하며, 높은 금리가 위험 관리 차원에서 신중하며 인플레이션이 2% 목표를 상회하는 상황에 대비한 보험 역할을 할 것이라고 평가했다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+              "url": "https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+              "name": "usnews.com",
+              "url": "https://www.usnews.com/news/business/articles/2026-10-07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot"
+              "name": "forbes.com",
+              "url": "https://www.forbes.com/advisor/credit-cards/fed-meeting-minutes-hike-likely-necessary-lmandp5"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "메사추세츠 연안 의료 수송기 실종, 잔해 발견 후 수색 중",
-          "summary": "지난 토요일 버뮤다에서 보스턴으로 향하던 의료 수송기 걸프스트림 G100이 메사추세츠주 낸터킷 연안에서 실종되었으며, 미 해안경비대는 사고 해역에서 잔해를 발견했습니다. 이 항공기에는 캐나다 국적 4명과 버뮤다 국적 2명 등 총 6명이 탑승하고 있었으며, 해안경비대는 66시간 동안의 수색 후 생존자 수색을 중단하고 가족들에게 깊은 애도를 표했습니다.",
+          "title": "9/11 테러 소송, 피고인 자백 증거 불인정 및 사우디 소송 진행",
+          "summary": "관타나모에서 진행 중인 9/11 테러 사건의 마지막 피고인 자백이 법원에서 증거로 인정되지 않아 정부의 기소 노력이 난관에 봉착했다. 한편, 뉴욕 항소법원에서는 9/11 희생자 가족들이 사우디아라비아 정부를 상대로 제기한 소송에 대한 변론이 진행 중이며, 사우디 정부는 외교 주권 면제를 주장하고 있다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/04/us/missing-medical-plane-nantucket-what-to-know.html"
+              "url": "https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+              "name": "facebook.com",
+              "url": "https://www.facebook.com/sjdailystar/posts/-international-newsjudge-throws-out-another-confession-in-sept-11-caseby-carol-r/2075739840045847"
             }
           ],
           "verification": "multi",
@@ -178,16 +190,41 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "일본 거주 베트남인 사회, 반이민 허위 정보 확산에 동요",
-          "summary": "일본에 거주하는 베트남인들 사이에서 반이민 허위 정보가 확산되면서 이민자들에 대한 인식이 변화하고 있습니다. 이는 2014년 일본에 왔을 때와 달리 외국인과 일본인 간의 태도가 정치적으로 변했으며, 일부는 일본에서의 미래에 대해 의문을 제기하게 만들고 있습니다. 베트남인들은 일본 전체 외국인 거주자의 15.9%를 차지하며, 이민 정책 변화에 대한 지원 요청이 증가하고 있습니다.",
+          "title": "일본, 핵 잠수함 보유 검토로 지역 안보 경쟁 심화 우려",
+          "summary": "일본이 국가안보전략 등 주요 안보 문서 개정을 통해 핵 잠수함 보유를 검토할 가능성이 제기되었다. 이는 자체 핵 추진 잠수함 개발에 대한 초기 연구를 허용하는 조치로, 일본 내 일부 반발이 예상되지만, 지역 경쟁 심화에 대한 인식이 커지면서 안보 강화를 위한 움직임으로 풀이된다. 이로 인해 동아시아 군사 균형에 변화가 생기고 역내 군비 경쟁을 촉발할 수 있다는 우려도 나온다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/community/2026/10/04/issues/vietnamese-community-disinformation/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/week-asia/politics/article/3370099/japan-explores-ownership-nuclear-submarines-regional-rivalries-worsen?utm_source=rss_feed"
             },
             {
-              "name": "japantoday.com",
-              "url": "https://japantoday.com/category/crime/false-claims-alleging-theft-by-foreigners-in-japan-spread-on-social-media"
+              "name": "globaltimes.cn",
+              "url": "https://www.globaltimes.cn/page/202610/1371793.shtml"
+            },
+            {
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026100700981"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프, 시진핑에 일본 수출 제한 완화 및 정상 회담 요청",
+          "summary": "도널드 트럼프 미국 대통령은 지난달 시진핑 중국 국가주석과의 회담에서 중국이 일본에 대한 희토류 등 수출 제한 조치를 철회하고, 중국과 일본 정상이 직접 대화할 것을 촉구했다. 트럼프는 이러한 중국의 조치가 일본 공급업체에 의존하는 미국 산업에도 위협이 된다고 주장했으나, 시진핑 주석은 일본 군국주의의 위험성을 경고하며 냉담한 반응을 보인 것으로 알려졌다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3370064/trump-urged-xi-talk-takaichi-and-lift-export-curbs-japan-sources-say?utm_source=rss_feed"
+            },
+            {
+              "name": "toda.org",
+              "url": "https://toda.org/global-outlooks/chinas-export-controls-on-japan-salami-slicing-or-strategic-signalling"
+            },
+            {
+              "name": "cnbc.com",
+              "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html"
             }
           ],
           "verification": "multi",
@@ -195,16 +232,20 @@
         },
         {
           "tag": "eco",
-          "title": "BYD, 일본 시장 겨냥 미니 전기차 해외 판매 확대",
-          "summary": "중국 자동차 제조업체 BYD가 일본 시장을 겨냥해 개발한 미니 전기차 '라코(Racco)'를 다른 시장에서도 판매할 계획을 밝혔습니다. 초기에는 스리랑카와 마카오에서 판매를 시작할 예정이며, 라코는 일본의 미니카 규격에 맞춰 설계된 모델입니다.",
+          "title": "IMF, 일본과 미국 장기 금리 상승에 우려 표명",
+          "summary": "크리스탈리나 게오르기에바 국제통화기금(IMF) 총재는 싱가포르 연설에서 일본과 미국의 장기 금리 급등에 대해 우려를 표명했다. 일본의 10년 만기 국채 수익률이 30년 만에, 미국의 10년 만기 국채 수익률이 19년 만에 최고치를 기록하며 계속 상승하는 상황을 지적하며, 이는 악화되는 재정 상태와 증가하는 공공 부채가 세계 경제에 영향을 미칠 수 있다고 경고했다. 그녀는 많은 국가의 통화 정책에 '신중한 매파적 편향'이 필요할 때일 수 있다고 말했다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-to-sell-mini-ev-meant-for-japan-in-other-markets"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/07/imf-chief-concern-rates/"
             },
             {
-              "name": "finance.biggo.com",
-              "url": "https://finance.biggo.com/news/cbbc43ab-be01-4b3c-9ad8-ea15eec661ab"
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026100700696"
+            },
+            {
+              "name": "streamlinefeed.co.ke",
+              "url": "https://streamlinefeed.co.ke/news/imf-chief-warns-of-soaring-long-term-bond-yields-in-japan-and-united-states"
             }
           ],
           "verification": "multi",
@@ -212,16 +253,20 @@
         },
         {
           "tag": "tec",
-          "title": "일본 라피더스, 17개사와 협력해 고객사 칩 설계 지원",
-          "summary": "일본의 차세대 반도체 위탁 생산업체 라피더스가 17개 첨단 반도체 설계 회사와 협력하여 고객사를 위한 자체 브랜드 칩 설계를 지원할 예정입니다. 라피더스는 이를 통해 잠재 고객 기반을 확대하고 첨단 반도체 공급 능력을 강화할 것으로 기대하고 있습니다.",
+          "title": "앤트로픽의 대량 도서 구매, 일본 출판계 반발 촉발",
+          "summary": "일본의 도서 도매상인 닛판그룹홀딩스가 미국 인공지능(AI) 기업 앤트로픽에 대량의 도서를 판매했음을 확인하면서 일본 출판계의 반발이 커지고 있다. 닛판은 도서 구매 목적이 AI 학습용임을 인지하지 못했다고 밝혔으나, 해당 거래가 AI 학습 데이터 구축을 위한 '프로젝트 파나마'의 일환이었음이 미국 소송 문서에서 드러나 논란이 되고 있다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/07/book-firm-anthropic/"
             },
             {
-              "name": "sphericalinsights.com",
-              "url": "https://www.sphericalinsights.com/blogs/why-global-innovators-are-choosing-japan-the-rise-of-a-new-innovation-hub"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-s-mass-book-buying-in-japan-stirs-publisher-backlash"
+            },
+            {
+              "name": "automaton-media.com",
+              "url": "https://automaton-media.com/en/news/japanese-publishers-reportedly-outraged-after-domestic-company-admits-to-selling-large-volumes-of-books-to-ai-developer-anthropic"
             }
           ],
           "verification": "multi",
@@ -236,20 +281,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "독일 메르츠 총리 키이우 방문, 우크라이나 추가 지원 약속",
-          "summary": "프리드리히 메르츠 독일 총리가 우크라이나 수도 키이우를 전격 방문하여 러시아의 계속되는 전면 침공에 맞서는 지지 의사를 표명했습니다. 메르츠 총리는 카타리나 라이히 경제장관 및 독일 방위·에너지 기업 대표단과 동행하며 우크라이나에 대한 추가 군사 및 재정 지원을 약속했습니다. 이는 러시아의 기반 시설 공격이 강화되는 가운데 이루어졌습니다.",
+          "title": "프랑스, 학생 시위 중 섬광 수류탄 사용 중단 및 정부 대책 발표",
+          "summary": "프랑스 정부는 학생 시위 중 15세 소년의 손이 절단되는 사고가 발생하자 섬광 수류탄 사용을 잠정 중단한다고 밝혔다. 세바스티앙 르코르뉘 총리는 TV 연설에서 학생들의 분노를 인정하며 건물 개조, 교사 충원 등 제안을 10월 말까지 발표하겠다고 약속하고, 연료 가격 안정을 위해 디젤 비축유를 방출할 것이라고 덧붙였다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/04/merz-makes-surprise-visit-to-kyiv-germany-pledges-further-aid-to-ukraine"
+              "url": "https://www.euronews.com/2026/10/07/french-prime-minister-says-government-not-indifferent-to-students-concerns-in-tv-address"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/france-prime-minister-sebastien-lecornu-schools-fuel-agriculture-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -257,62 +302,41 @@
         },
         {
           "tag": "pol",
-          "title": "프랑스 교육 개혁 반대 학생 시위 격화, 수백 개 학교 폐쇄",
-          "summary": "프랑스 전역에서 교육 개혁에 반대하는 학생 시위가 격화되면서 월요일에 수백 개의 학교가 전면 또는 부분적으로 폐쇄될 예정입니다. 교육부 장관은 대규모 시위가 예정된 화요일에 앞서 주로 보안상의 이유로 폐쇄 조치가 이루어졌다고 밝혔습니다. 학생들은 높은 교사 결근율, 과도하게 긴 수업 시간, 낙후된 시설 등 교육 환경 개선을 요구하고 있습니다.",
+          "title": "러시아 미사일, 우크라이나 아파트 공격으로 19명 사망",
+          "summary": "러시아 미사일이 우크라이나 북부 프리루키의 아파트 단지를 공격하여 어린이 5명을 포함해 19명이 사망하고 30채의 아파트가 파괴되었다. 우크라이나 대통령은 이를 러시아의 '가장 비열한 공격'이라고 비난하며, 러시아가 군사 산업 시설을 겨냥한 '대규모 공격'이었다고 주장한 것과 대비된다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/04/student-protests-in-france-400500-schools-fully-or-partially-closed-monday"
+              "name": "rferl.org",
+              "url": "https://www.rferl.org/amp/ukraine-russia-zelenskyy-putin-war/33871985.html"
             },
             {
-              "name": "dw.com",
-              "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732"
+              "name": "ukrinform.net",
+              "url": "https://www.ukrinform.net/amp/rubric-ato/4171836-death-toll-from-russian-missile-strike-on-pryluky-rises-to-five-25-injured.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "영국 자동차 산업, 중국·EU 시장 사이 어려운 선택 직면",
-          "summary": "영국 자동차 산업이 저렴한 중국산 전기차 수입에 대한 관세 부과 여부와 EU 시장 접근 사이에서 '어려운 선택'에 직면했습니다. EU는 영국에 중국 차량에 대한 관세 부과를 요구하며, 그렇지 않을 경우 영국산 수출품에 '메이드 인 유럽' 장벽을 부과하겠다고 경고했습니다. 영국 정부는 관세 부과 시 중국과의 무역에 부정적인 영향을 미 미칠 것을 우려하고 있습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws"
-            },
-            {
-              "name": "electrive.com",
-              "url": "https://www.electrive.com/2026/09/28/eu-reportedly-urges-uk-to-raise-tariffs-on-chinese-electric-vehicles"
-            },
-            {
-              "name": "scmp.com",
-              "url": "https://www.scmp.com/opinion/world-opinion/article/3369331/can-britain-really-afford-diverge-eu-tariffs-chinese-evs"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "스페인 주택 위기 항의 시위, 수만 명 거리로",
-          "summary": "스페인에서 정부의 주택 위기 대응 실패에 항의하며 수만 명이 마드리드, 발렌시아, 바르셀로나 등 주요 도시에서 시위를 벌였습니다. 지난달 87세 여성의 강제 퇴거 사건으로 촉발된 이번 시위는 임대료 인하, 강제 퇴거 중단, 투자 펀드의 부동산 매입 금지 등을 요구하고 있습니다. 시위대와 경찰 간의 충돌도 발생하여 9명의 경찰관이 부상하고 5명이 체포되었습니다.",
+          "title": "스페인 세입자 퇴거 반대 시위의 상징 마리 카르멘 사망",
+          "summary": "마리 카르멘 아바스칼(87세) 할머니가 임대료 인상으로 강제 퇴거당한 후 사망하면서 스페인 전역의 주택 위기 시위가 격화되고 있다. 그녀의 퇴거는 전국적인 시위를 촉발하고 조기 총선으로 이어지는 정치적 논쟁을 일으켰으며, 마드리드 세입자 연합은 그녀의 죽음이 '이 나라 역사에 전환점'이 되었다고 성명했다. 마드리드 푸에르타 델 솔 광장에서는 추모 시위가 이어지고 있다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/04/sanchez-in-talks-with-coalition-partners-on-reflection-day-will-he-call-elections-in-spain"
+              "url": "https://www.euronews.com/2026/10/07/maricarmen-symbol-of-spains-housing-protests-dies"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms"
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/world/evicted-spanish-octogenarian-maricarmen-abascal-heart-spains-housing-protests-2026-10-07"
             }
           ],
           "verification": "multi",
@@ -327,16 +351,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "빅뱅 직후 미세 자기장, 우주 팽창 속도 불일치 단서",
-          "summary": "빅뱅 직후 생성된 미세 자기장이 우주의 팽창 속도 불일치인 '허블 장력'을 설명할 단서가 될 수 있다는 연구 결과가 나왔습니다. 상세한 시뮬레이션 결과, 이러한 원시 자기장이 초기 우주의 수소 형성 과정을 변화시켜 우주 마이크로파 배경과 그로부터 추론된 팽창률에 영향을 미칠 수 있음을 보여주었습니다. 이는 현재 우주론의 주요 문제 중 하나인 허블 장력의 미스터리를 푸는 데 기여할 수 있습니다.",
+          "title": "AI, 세금 낭비 감지 및 산업 전반 적용 확대",
+          "summary": "개혁신당과 이준석 의원은 인공지능(AI)과 데이터 분석 기술을 활용하여 조달청 나라장터 데이터에서 5천628억 원 이상의 혈세 낭비 정황을 적발했다. 이는 AI가 고가 계약, 불필요한 연장 계약 등을 찾아내는 데 활용될 수 있음을 보여준다. 한편, 미국은 AI의 국가 안보 및 시민 자유 위협에 대응하기 위한 태스크 포스를 구성하고 있으며, 유럽에서는 AI 발전이 경제 성장을 가속화할 잠재력과 함께 산업 전반에 걸쳐 적용이 확대되고 있다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261007178300001"
             },
             {
-              "name": "UA.NEWS",
-              "url": "https://ua.news/en/technologies/pervinni-magnitni-polia-mozhut-poslabiti-naprugu-gabbla-sciencedaily"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/super-intelligence-force-ce-que-la-maison-blanche-attend-de-cette-task-force-sur-lia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "forbes.com",
+              "url": "https://www.forbes.com/sites/quickerbettertech/2026/10/01/new-ai-technology-is-powering-the-ag-industry-here-are-some-examples"
             }
           ],
           "verification": "multi",
@@ -344,16 +372,20 @@
         },
         {
           "tag": "tec",
-          "title": "새로운 빛 활성화 물질, 물에서 효율적 수소 생산 가능성",
-          "summary": "오리건 주립대학교 연구진이 값비싼 금속 촉매 없이도 물에서 효율적으로 수소를 생산할 수 있는 새로운 빛 활성화 물질을 개발했습니다. 이 물질은 특이한 황 기반 화학 반응을 통해 빛을 흡수하여 에너지를 수소 생산에 필요한 화학 반응으로 전환합니다. 이는 온실가스 배출량을 줄이고 기후 변화에 대응하는 데 기여할 수 있는 저렴하고 실용적인 청정 연료 생산 방법을 제시합니다.",
+          "title": "제임스 웹 망원경, 외계 행성 충돌 흔적 및 용암 행성 대기 발견",
+          "summary": "제임스 웹 우주 망원경이 화성 크기의 행성들이 충돌하는 흔적과 뜨거운 용암 행성 HD 3167 b에서 대기의 강력한 증거를 발견했다. 이 연구는 우리 태양계 형성 과정의 격렬한 충돌을 이해하는 데 도움을 주며, 용암 행성의 대기 발견은 암석 행성이 어떻게 대기를 유지하는지 밝히는 데 기여할 것으로 기대된다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
             },
             {
-              "name": "UA.NEWS",
-              "url": "https://ua.news/en/technologies/v-oregoni-stvorili-fotokatalizator-dlia-dobuvannia-vodniu-z-vodi-sciencedaily"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm"
+            },
+            {
+              "name": "space.com",
+              "url": "https://www.space.com/astronomy/exoplanets/worlds-collide-james-webb-space-telescope-investigates-what-happens-when-planets-crash-together"
             }
           ],
           "verification": "multi",
@@ -361,20 +393,20 @@
         },
         {
           "tag": "tec",
-          "title": "Fitbit Edge 정보 유출, 미드레인지 Charge 후속 모델",
-          "summary": "구글의 새로운 미드레인지 피트니스 트래커 'Fitbit Edge'의 정보가 유출되었습니다. 이 제품은 기존 Charge 라인의 후속 모델로 보이며, Pixel Watch와 Fitbit Air의 중간 형태인 작은 화면을 가지고 있습니다. 7일 배터리 수명, 내장 GPS 및 고도계 기능을 갖추고 구글 지도 및 유튜브 뮤직과 같은 제한적인 앱을 지원할 것으로 예상됩니다.",
+          "title": "재규어, 첫 전기 스포츠카 'Type 01EV' 공개하며 EV 시장 경쟁 심화",
+          "summary": "재규어가 논란의 리브랜딩 이후 첫 전기 스포츠카 'Type 01EV'를 공개하며 전기차(EV) 시장에 본격적으로 진출했다. 이 모델은 재규어 역사상 가장 기술적으로 진보하고 강력하다고 평가받으며, 젊고 부유한 미국 고객층을 공략할 예정이다. BMW는 iX4 SUV를 출시하여 중국의 EV 시장 장악에 대한 방어 전략을 펼치고 있으며, 전 세계적으로 EV 시장 경쟁이 심화되고 신규 모델 출시가 이어지고 있다.",
           "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/07/rebranded-jaguar-unveils-its-first-electric-sportscar-the-type-01ev"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
+            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
-            },
-            {
-              "name": "firstpost.com",
-              "url": "https://www.firstpost.com/tech/fitbit-edge-leaks-ahead-of-launch-heres-what-the-new-tracker-may-offer-14050341.html"
-            },
-            {
-              "name": "9to5google.com",
-              "url": "https://9to5google.com/2026/10/04/google-fitbit-edge-leak"
+              "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china"
             }
           ],
           "verification": "multi",
