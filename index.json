@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-13",
-  "date_str": "2026년 10월 13일 (화)",
+  "date": "2026-10-14",
+  "date_str": "2026년 10월 14일 (수)",
   "key5": [
-    "IMF, 중동 전쟁의 부정적 영향에도 불구하고 반도체 수출 호조에 힘입어 한국의 올해 경제 성장률 전망치를 3.3%로 상향 조정했습니다.",
-    "카카오는 AI 비서 '카나나 스페이스'와 AI 에이전트 플랫폼 '칸바스'를 공개하며 개인화된 AI 서비스 경쟁에 본격적으로 뛰어들었습니다.",
-    "미국 국토안보수사국(HSI) 요원들이 중간선거를 앞두고 일한 오마르 하원의원의 자택을 수색하여 트럼프 행정부의 정치적 탄압이라는 논란이 일었습니다.",
-    "유럽연합이 중국산 하이브리드 자동차 수입을 연간 35만 대로 제한하는 협정을 체결했으며, 이는 급증하는 중국산 차량에 대한 유럽 산업 보호 조치입니다.",
-    "프랑스에서 학교 총기 난사 사건과 슈퍼마켓 냉장고를 목표로 한 사이버 공격이 발생하여 사회적 불안감이 고조되고 있습니다."
+    "이화영 전 부지사, 쌍방울 대북송금 사건 2심 판결 불복 재심 청구 예정",
+    "한미 국방장관, 전작권 전환 조건 충족 여부 이견 속 이달 말 첫 대면 추진",
+    "미국 상원, 트럼프 대통령에게 러시아 디젤 연료 수출 제재 완화 결정 철회 촉구",
+    "코넬 대학교, 캠퍼스 내 성폭행 의혹으로 모든 학생 사교 클럽 파티 중단",
+    "NASA 퍼시비런스 로버, 화성 45.2km 주행하며 외계 행성 주행 신기록 달성"
   ],
   "regions": [
     {
@@ -16,20 +16,54 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "국회, DMZ 지뢰 폭발 규탄 결의안 및 KTX·SRT 통합 놓고 여야 공방",
-          "summary": "여야는 국회 국방위원회에서 비무장지대(DMZ) 지뢰 폭발과 관련한 북한 규탄 결의문 채택 문제를 두고 문구 수정을 요구하는 국민의힘과 조속한 채택을 주장하는 더불어민주당 간에 충돌했습니다. 한편, 국토교통위원회 국정감사에서는 KTX·SRT 고속철도 통합 운행을 놓고 여당은 국민 편의 증대를 성과로 내세운 반면, 야당은 졸속·밀실 추진이라며 절차적 정당성 결여를 비판했습니다.",
+          "title": "이화영 변호인단, 대북송금 2심 판결 불복 재심 청구",
+          "summary": "이화영 전 경기도 평화부지사 변호인단이 쌍방울 대북송금 사건 2심 판결에 불복, 내주 중 수원고법에 재심 청구서를 제출할 예정이다. 이 전 부지사는 해당 사건으로 징역 7년 8개월이 확정돼 수감 중이며, 최근 대북송금 수사·재판 절차상 위법 의혹 등을 제기하며 가석방을 요구해왔다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261013084600001"
+              "url": "https://www.yna.co.kr/view/AKR20261014040200061"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261013086300001"
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/opinion-en/2026/10/13/WDUFFDSTAJBAJKK7HARCJNVTZQ"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "전작권 조건 이견 속 한미 국방장관 이달 말 첫 대면 추진",
+          "summary": "전시작전통제권(전작권) 전환 조건 충족 여부를 놓고 한미 간 이견이 있는 가운데, 이달 말 아세안 확대 국방장관회의(ADMM+)를 계기로 강신철 국방부 장관과 피트 헤그세스 미 국방장관의 첫 대면이 추진 중이다. 양국은 SCM에서 미래연합군사령부 완전운용능력(FOC) 검증 완료를 목표로 했으나, 검증 조건 충족에 대한 공감대에 아직 이르지 못한 것으로 알려졌다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261014039900504"
             },
             {
-              "name": "The Korea Herald",
-              "url": "https://www.koreaherald.com/article/10896112"
+              "name": "koreajoongangdaily.com",
+              "url": "https://www.koreajoongangdaily.com/korea/korea-us-at-odds-over-foc-assessment-as-opcon-transfer-talks-stall/12918223"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "정부, 외교·통일·국방부 세종 이전 발표에 논란",
+          "summary": "정부가 외교·통일·국방부 등 중앙행정기관을 내년부터 단계적으로 세종시로 이전하겠다고 밝혀 논란이 일고 있다. 국민의힘 안철수 의원은 이를 '북한에 수도를 헌납하는 위험한 결정'이라며 재고를 촉구했다. 해당 부처들의 세종 이전은 헌법재판소가 행정도시 특별법에 대해 합헌 결정을 내릴 때 전제 조건이었던 '핵심 부처의 서울 잔류'를 무너뜨리는 행위라는 비판도 제기됐다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610140824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "donga.com",
+              "url": "https://www.donga.com/en/article/all/20261014/6418336/1"
+            },
+            {
+              "name": "en.yna.co.kr",
+              "url": "https://en.yna.co.kr/view/AEN20261013006951315"
             }
           ],
           "verification": "multi",
@@ -37,20 +71,16 @@
         },
         {
           "tag": "eco",
-          "title": "IMF, 한국 성장률 전망치 상향 조정…국내 주식 시장 급락",
-          "summary": "국제통화기금(IMF)이 중동 전쟁의 부정적 영향에도 불구하고 반도체 수출 호조에 힘입어 올해 한국 경제 성장률 전망치를 2.6%에서 3.3%로 0.7%p 상향 조정했습니다. 이와는 별개로 13일 국내 주식 시장에서는 반도체 관련 종목 약세와 외국인 매도세로 인해 코스피가 장중 6%대 급락하며 6천선 아래로 떨어졌고, 매도 사이드카가 발동되기도 했습니다.",
+          "title": "삼성전자·SK하이닉스, 전날 급락 후 2~3%대 상승",
+          "summary": "삼성전자와 SK하이닉스 주가가 전날 급락세를 딛고 14일 장 초반 2~3%대의 상승률을 보이며 회복세를 나타냈다. 이는 낙폭이 과대했다는 인식에 따른 반발 매수 유입과 간밤 뉴욕증시에서 인공지능(AI) 반도체 관련주가 상승한 영향으로 풀이된다. 외국인 투자자들은 유가증권시장에서 순매수 기조를 보였다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261013066000002"
+              "url": "https://www.yna.co.kr/view/AKR20261014041200008"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/economy_general/1282096.html"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261013085200008"
+              "name": "en.bloomingbit.io",
+              "url": "https://en.bloomingbit.io/feed/news/122169"
             }
           ],
           "verification": "multi",
@@ -58,45 +88,20 @@
         },
         {
           "tag": "soc",
-          "title": "청소년 자살 감소 대책 촉구 및 공공산후조리원 이용 확대",
-          "summary": "이재명 대통령은 국무회의에서 청소년 자살률이 증가한 것에 우려를 표하며 학업 경쟁, 왕따 문제 등에 대한 강력하고 새로운 대책 마련을 촉구했습니다. 한편, 충북 제천시는 공공산후조리원 이용 대상을 올해부터 충북 도내 타 시군 산모까지 확대하여, 제천 시민은 50%, 타 시군 주민은 15% 감면된 비용으로 이용할 수 있도록 했습니다.",
+          "title": "LH 공공임대주택 7년간 1천여 건 화재, 사망자 절반은 영구임대",
+          "summary": "한국토지주택공사(LH) 공공임대주택에서 최근 7년간 1천142건의 화재가 발생해 258명의 사상자가 나왔으며, 특히 영구임대주택에서 전체 사망자 26명 중 절반에 가까운 12명이 발생했다. 이는 피난 약자 밀집 거주와 노후화된 소방 설비가 주요 원인으로 지적되며, 구형 감지기 사용으로 발화 지점 파악이 어려운 문제도 확인되었다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261013082700001"
+              "url": "https://www.yna.co.kr/view/AKR20261013187900001"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261013085800064"
-            },
-            {
-              "name": "koreajoongangdaily.com",
-              "url": "https://www.koreajoongangdaily.com/korea/korea-to-grade-regional-governments-on-suicide-prevention-offer-financial-incentives/12916194"
+              "name": "mk.co.kr",
+              "url": "https://www.mk.co.kr/en/realestate/12174274"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
-        },
-        {
-          "tag": "tec",
-          "title": "카카오, AI 비서 '카나나 스페이스' 공개 및 인천 AI 자율주행버스 도입",
-          "summary": "카카오는 연례 개발자 행사 '이프카카오 2026'에서 카카오톡 기반 AI 비서 '카나나 스페이스'를 공개하며 AI 에이전트 서비스 확대를 발표했습니다. '카나나 스페이스'는 메시지 전송, 일정 관리, 웹 검색 등의 기능을 제공하며, 향후 주문 및 예약 기능도 추가될 예정입니다. 또한 인천시는 내년부터 청라, 영종, 송도 지역에 AI 기반 자율주행버스 도입을 시작하여 대중교통 서비스 혁신을 추진할 계획입니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610131100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610131055001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "digitaltoday.co.kr",
-              "url": "https://www.digitaltoday.co.kr/en/view/113773/kakao-unveils-kanana-space-kanvas-to-turn-kakaotalk-into-ai-launchpad"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -107,20 +112,70 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 중간선거 앞두고 일한 오마르 의원 자택 수색 논란",
-          "summary": "미국 국토안보수사국(HSI) 요원들이 중간선거를 22일 앞두고 민주당 일한 오마르 하원의원의 워싱턴 D.C. 자택을 수색했습니다. 이번 수색은 오마르 의원의 부친이 제출한 이민 서류와 관련된 형사 수사의 일환으로 알려졌으나, 법무부의 선거 관련 수사 자제 방침과 선거를 앞둔 시점에 이루어져 트럼프 행정부의 정치적 보복이라는 비판이 제기되고 있습니다.",
+          "title": "미 상원의원, 트럼프에 러시아 디젤 제재 완화 철회 촉구",
+          "summary": "미국 상원의원 12명(공화당 6명, 민주당 6명)이 트럼프 대통령에게 러시아 디젤 연료 수출 제재 완화 결정을 철회할 것을 촉구했다. 의원들은 이 합의가 우크라이나 전쟁 자금 조달에 도움을 주며, 미국과 동맹국에 대한 배신 행위라고 비판했다. 트럼프 대통령은 이 거래가 국제 시장의 고유가 문제 해소를 위한 것이라고 설명했다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
             },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response"
+            },
+            {
+              "name": "murkowski.senate.gov",
+              "url": "https://www.murkowski.senate.gov/press/release/murkowski-colleagues-urge-president-to-reverse-russian-diesel-deal-enforce-sanctions"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "엘론 머스크, 중간선거 공화당 지원 최대 기부자로 부상",
+          "summary": "엘론 머스크가 2026년 미국 중간선거에서 2억 5천만 달러 이상을 공화당에 기부하며 최대 정치 기부자로 떠올랐다. 그는 7월 이후에만 2억 7천6백만 달러 이상을 쏟아부었으며, 이는 미국 정치 역사상 가장 빠른 정치 지출 중 하나로 꼽힌다. 기부금은 주로 공화당 상원 후보들을 지원하는 슈퍼팩인 상원 리더십 기금에 전달되었다.",
+          "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
+              "url": "https://www.nytimes.com/2026/10/13/us/politics/elon-musk-republicans-spending.html"
             },
             {
-              "name": "democracydocket.com",
-              "url": "https://www.democracydocket.com/news-alerts/federal-agents-raid-democratic-congressmembers-home-weeks-before-election-day"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections"
+            },
+            {
+              "name": "cnbc.com",
+              "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html"
+            },
+            {
+              "name": "apnews.com",
+              "url": "https://apnews.com/article/elon-musk-midterms-republicans-donors-c06efc774a2e7c5d345e0d46641eb510"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "주그리스 미국 대사, 비위 의혹으로 사임",
+          "summary": "도널드 트럼프 미국 대통령의 장남과 약혼했던 킴벌리 길포일 주그리스 미국 대사가 비위 의혹에 휩싸여 사임했다. 백악관은 그녀에게 사퇴를 요구했으며, 길포일 대사는 혐의가 거짓이라고 주장하며 명예를 지키겠다고 밝혔다. 그녀는 과거 트럼프 후원자에게 신용카드 대금 송금을 요청하고 그리스 재벌로부터 편의를 제공받았다는 의혹을 받았다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610140844001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "axios.com",
+              "url": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump"
+            },
+            {
+              "name": "nbcnews.com",
+              "url": "https://www.nbcnews.com/politics/trump-administration/trump-kimberly-guilfoyle-resign-ambassador-greece-rcna603034"
             }
           ],
           "verification": "multi",
@@ -128,20 +183,20 @@
         },
         {
           "tag": "eco",
-          "title": "IMF, 중동 전쟁으로 인한 빈부 격차 심화 경고 및 노벨 경제학상 발표",
-          "summary": "국제통화기금(IMF)은 중동 전쟁의 장기화, 높은 에너지 비용, 기술적 격변으로 인해 글로벌 경제 성장이 둔화하고 물가가 상승할 것이며, 빈부 국가 간 격차가 심화될 것이라고 경고했습니다. 한편, 스탠퍼드 대학의 로버트 홀 교수와 컬럼비아 대학의 마이클 우드퍼드 교수가 경제의 경기 변동 주기 완화 및 인플레이션과 실업률 억제 연구로 노벨 경제학상을 공동 수상했습니다.",
+          "title": "뱅크오브아메리카, 자금세탁 방지 감독 소홀로 18억 달러 벌금",
+          "summary": "뱅크오브아메리카(BoA)가 자금세탁 방지 감독을 소홀히 한 혐의로 18억 달러(약 2조 4천억 원)의 벌금을 부과받았다. 미 재무부는 BoA가 중국 자금세탁 네트워크를 포함한 '국가 안보 위험'을 적절히 완화하고 보고하지 못했다고 밝혔다. 이는 재무부 역사상 세 번째로 큰 벌금 규모이며, 은행은 의도적인 은행비밀법 위반을 시인했다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3370791/us-fines-bank-america-us12-billion-says-it-violated-money-laundering-sanctions-laws?utm_source=rss_feed"
             },
             {
-              "name": "hindustantimes.com",
-              "url": "https://www.hindustantimes.com/world-news/us-news/nobel-economics-prize-2026-who-are-robert-hall-and-michael-woodford-and-how-can-they-help-control-economic-shocks-101791802491451.html"
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13"
             }
           ],
           "verification": "multi",
@@ -149,20 +204,24 @@
         },
         {
           "tag": "soc",
-          "title": "조지아 놀이공원 롤러코스터 사고 사망 및 배우 셀마 블레어 체포",
-          "summary": "조지아주의 식스 플래그스 오버 조지아 놀이공원에서 롤러코스터 사고로 1명이 사망하고 여러 명이 부상을 입었습니다. 경찰은 사망 원인을 조사 중이며, 목격자들은 남성이 롤러코스터에서 튕겨 나갔다고 진술했습니다. 한편, 배우 셀마 블레어가 뉴욕 JFK 공항에 착륙한 비행기 안에서 승무원들을 폭행한 혐의로 체포되었으며, 경찰은 '신체적 학대 행위'에 대한 신고를 받고 출동했습니다.",
+          "title": "코넬 대학교, 성폭행 의혹으로 학생 사교 클럽 파티 금지",
+          "summary": "코넬 대학교가 2년 전 캠퍼스 내 성폭행 의혹에 대한 대응 미흡으로 비난을 받자, 모든 학생 사교 클럽 파티를 학기 말까지 금지했다. 이는 전 학생이 제기한 집단 성폭행 소송에 대한 후속 조치로, 총장은 피해자에게 깊은 사과를 표명하며 캠퍼스 내 성폭력 방지를 위한 의미 있는 조치를 약속했다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties"
             },
             {
-              "name": "nbcnews.com",
-              "url": "https://www.nbcnews.com/nightly-news/video/one-dead-at-six-flags-park-in-georgia-271468101719"
+              "name": "nytimes.com",
+              "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"
+            },
+            {
+              "name": "aljazeera.com",
+              "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case"
             }
           ],
           "verification": "multi",
@@ -177,20 +236,37 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "필리핀 하원, 미성년자 소셜 미디어 접근 제한 법안 승인",
-          "summary": "필리핀 하원이 13세 미만 미성년자의 소셜 미디어 이용을 금지하는 법안을 압도적인 찬성으로 통과시켰습니다. 이는 최근 학교에서 잇따른 총기 사건으로 인해 미성년자의 소셜 미디어 접근에 대한 우려가 커지면서 추진된 것으로, 상원에서는 18세 미만 미성년자의 계정 생성을 금지하는 더 엄격한 법안을 승인한 바 있습니다. 양원 법안 조율 후 대통령 승인을 거쳐 최종 확정될 예정입니다.",
+          "title": "일본 공명당 신임 대표, 정치 개편 모색 시사",
+          "summary": "일본 공명당의 새로 선출된 오카모토 미츠나리 대표가 정치 개편의 구심점이 되겠다는 목표를 밝히며, 가치관을 공유하는 정치 세력과의 정책 지향적 협력을 강조했다. 그는 타카이치 사나에 총리의 강력한 리더십과 높은 대중적 기대에 비해 리더로서 일부 단점도 있다고 평가했다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261013087900104"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/politics/komeito-leader-interview/"
             },
+            {
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026101100223"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "오키나와 살인 사건 후 미일, 주둔 미군 외출 규정 재검토",
+          "summary": "일본 외무장관은 오키나와에서 발생한 미 해병대원의 여성 살해 혐의 사건 이후 주둔 미군의 기지 밖 행동수칙을 재검토할 것이라고 밝혔다. 이번 검토에서는 순찰 및 통행금지 관리 등 기존 규정의 실효성 여부가 논의될 예정이며, 이는 미군 범죄에 대한 오키나와의 오랜 항의에 따른 조치이다.",
+          "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/philippines-social-media-access/"
+              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/"
             },
             {
-              "name": "reuters.com",
-              "url": "https://www.reuters.com/world/asia-pacific/philippine-lower-house-approves-bill-restricting-minors-social-media-access-2026-10-12"
+              "name": "straitstimes.com",
+              "url": "https://www.straitstimes.com/asia/east-asia/japan-us-review-troops-off-duty-rules-after-okinawa-killing"
+            },
+            {
+              "name": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/okinawa-us-troops-off-duty-behavior-rules-japan-review-womans-killing"
             }
           ],
           "verification": "multi",
@@ -198,45 +274,41 @@
         },
         {
           "tag": "eco",
-          "title": "홍콩, APEC 재무장관 회의 개최…중국 모바일, AI 인프라 확충",
-          "summary": "홍콩이 10월 20일부터 21일까지 첫 APEC 재무장관 회의를 개최하며 약 500명의 방문객이 예상됩니다. 한편, 중국 국영 통신사 차이나 모바일은 내몽골에 위치한 최대 지능형 컴퓨팅 허브의 용량을 3배로 늘려 총 20,100페타플롭스의 처리 용량을 확보했습니다. 이는 중국의 인공지능 야망을 뒷받침하기 위한 디지털 인프라 강화 노력의 일환입니다.",
+          "title": "일본은행, 10월 연속 금리 인상에 신중한 입장",
+          "summary": "일본은행(BOJ) 관계자들이 이달 연속적인 금리 인상에는 신중한 태도를 보이며, 12월 정책 회의에서 추가 인상 가능성을 주시하고 있다고 관계자들이 전했다. 이는 물가상승 위험이 급격히 증가할 조짐이 없는 한 연속 인상의 필요성이 적다고 판단하기 때문으로, BOJ는 경제 데이터를 면밀히 검토하여 추가 인상 여부를 결정할 방침이다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370399/apec-chance-hong-kong-earn-its-place-chinas-tourism-boom?utm_source=rss_feed"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/13/economy/boj-lean-against-october-rate-hike/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push?utm_source=rss_feed"
-            },
-            {
-              "name": "thestandard.com.hk",
-              "url": "https://www.thestandard.com.hk/finance/article/345133/HK-set-to-showcase-4-key-priorities-of-APEC-finance-ministers-meeting-Paul-Chan"
+              "name": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "일본 NTT, Anthropic 데이터 센터 건설 및 오므론, 미국 OnLogic 인수",
-          "summary": "NTT 데이터 그룹이 미국 AI 기업 Anthropic을 위해 일본 서부 오사카에 데이터 센터를 건설할 예정이며, 이 시설은 일본 내 최대 처리 용량을 갖출 것으로 보입니다. 또한 일본 전자제품 제조업체 오므론은 산업용 컴퓨터 제조업체인 미국 OnLogic을 약 6억 7,500만 달러에 인수할 계획이라고 발표했습니다. 이는 오므론의 물리적 AI 역량 강화 및 미주 시장 확장을 위한 전략입니다.",
+          "tag": "soc",
+          "title": "일본 내 외국인 비율 5% 초과 지자체 두 배 이상 증가",
+          "summary": "2025년 인구조사 결과, 일본 내 외국인 주민 비율이 전체 인구의 5%를 초과하는 지자체가 2020년 53곳에서 132곳으로 2.5배 증가했다. 외국인 인구는 주요 도시뿐만 아니라 관광 및 농업 분야가 발달한 농촌 지역에서도 증가했으며, 이는 심각한 노동력 부족 속에서 외국인 노동자 고용이 늘어난 것을 반영한다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/society/foreign-population-up/"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/business-deals/japan-s-omron-to-buy-us-based-onlogic-for-675m-in-physical-ai-push"
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026101300604"
             },
             {
-              "name": "tipranks.com",
-              "url": "https://www.tipranks.com/news/company-announcements/omron-buys-u-s-industrial-pc-maker-onlogic-in-675m-push-into-physical-ai"
+              "name": "ua.news",
+              "url": "https://ua.news/en/world/lider-komeito-zaklikav-do-politichnogo-peregrupuvannia-the-japan-times"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "사회"
         }
       ]
     },
@@ -247,20 +319,45 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 '러시아 경유 거래' 파문 속 우크라이나 에너지 시설 피격 지속 및 유럽 지지 결집",
-          "summary": "도널드 트럼프 미국 대통령이 러시아산 경유를 세계 시장에 풀겠다는 이른바 '러시아 경유딜'을 발표한 이후 미국과 우크라이나 간 갈등이 심화되고 있습니다. 우크라이나 측은 러시아 정유시설 공격을 지속하고 있으며, 이에 대해 미국 측은 무기 및 정보 지원 중단 가능성을 경고했습니다. 한편, 볼로디미르 젤렌스키 우크라이나 대통령은 러시아의 우크라이나 전력망 공격이 계속될 경우 보복을 다짐했으며, 유럽 지도자들은 우크라이나에 대한 지지를 재확인하며 러시아의 공격을 규탄했습니다.",
+          "title": "불가리아, 흑해 드론 공격 후 러시아 대사 소환",
+          "summary": "흑해에서 드론 공격으로 상선 2척이 피격되고 1척이 침몰하여 10여 명이 실종된 사건 이후, 불가리아 총리가 러시아 대사를 소환했다. 불가리아 국방부 장관은 공격 드론이 러시아 소행일 가능성이 높다고 보고 있으며, 불가리아는 NATO 회원국으로서 NATO 사무총장과도 상황을 논의했다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261013057900009"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid"
+              "name": "themoscowtimes.com",
+              "url": "https://www.themoscowtimes.com/2026/10/13/bulgaria-summons-russian-ambassador-after-drone-attack-sinks-ship-leaving-11-missing-a93963"
             },
             {
-              "name": "rferl.org",
-              "url": "https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html"
+              "name": "kyivpost.com",
+              "url": "https://www.kyivpost.com/post/86896"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "MI5 국장, 러시아·이란·AI로부터 영국 위협 경고",
+          "summary": "MI5 국장은 지난 10년간 해외 적대 세력의 위협이 4배 증가했다고 밝히며, 러시아를 '제1의 공격자'로 지목했다. 또한 이란 관련 위협과 인공지능(AI)을 활용한 사이버 보안 위협 증가에 대해 경고했다. 그는 MI5가 테러 대응과 국가 위협 대응에 동등한 규모의 자원을 투입하고 있다고 덧붙였다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "sana.sy",
+              "url": "https://sana.sy/en/international/2350564"
+            },
+            {
+              "name": "wionews.com",
+              "url": "https://www.wionews.com/world/mi5-chief-warns-russia-is-uk-s-aggressor-number-one-as-iran-and-ai-threats-grow-1791919111395"
+            },
+            {
+              "name": "bbntimes.com",
+              "url": "https://www.bbntimes.com/politics/mi5-chief-warns-of-threats-to-uk-from-russia-iran-and-ai-we-have-entered-a-new-era-of-national-security"
             }
           ],
           "verification": "multi",
@@ -268,20 +365,20 @@
         },
         {
           "tag": "eco",
-          "title": "EU, 중국산 하이브리드차 수입 제한 및 영국 자동차 산업 보호 지지",
-          "summary": "유럽연합 집행위원회가 중국산 하이브리드 전기차 수입을 연간 35만 대로 제한하는 4개년 협정을 확정했습니다. 이 할당량은 12월부터 발효될 예정이며, 급증하는 중국산 차량으로부터 유럽 산업을 보호하려는 조치입니다. 또한 스텔란티스와 르노는 유럽 산업 보호를 위한 '메이드 인 유럽' 법안에 영국 자동차 산업을 포함해야 한다고 주장하며, 영국 정부에 중국산 자동차 수입 제한을 고려할 것을 촉구했습니다.",
+          "title": "러시아, 2027년 국방 예산 대폭 증액 및 사회 지출 삭감",
+          "summary": "러시아가 2027년 예산 초안을 공개하며 국방 및 안보 지출에 연방 예산의 44%를 할당, 기록적인 비중을 보였다. 이는 우크라이나 전쟁 5년차에 접어들면서 군사 비용이 급증한 결과로, 사회 정책 지출은 7% 감소할 예정이다. 특히 일부 지역에서는 전쟁 관련 비용 충당을 위해 보육 및 사회 취약 계층 지원 예산을 전용하는 사례도 나타났다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending"
             },
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html"
+              "name": "en.defence-ua.com",
+              "url": "https://en.defence-ua.com/news/uk_defence_intelligence_russia_plans_to_spend_35_of_its_2027_federal_budget_on_defense-20048.html"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china"
+              "name": "united24media.com",
+              "url": "https://united24media.com/war-in-ukraine/putins-2027-budget-sends-russias-domestic-market-into-a-panic-23212"
             }
           ],
           "verification": "multi",
@@ -289,20 +386,20 @@
         },
         {
           "tag": "soc",
-          "title": "프랑스 학교 총기 난사 사건 및 슈퍼마켓 냉장고 사이버 공격",
-          "summary": "프랑스 남부의 한 중학교에서 14세 학생이 총기를 난사하여 교장과 교사 1명에게 부상을 입힌 후 체포되었습니다. 학생들은 무사했으며, 경찰은 용의 학생의 부모도 체포하고 가족의 자택에서 무기를 발견했습니다. 한편, 프랑스 전역의 수백 개 슈퍼마켓에서 사이버 공격으로 냉장고 및 냉동고 온도가 섭씨 50도까지 올라가 화재가 발생하고 수백만 유로 상당의 식품이 부패하는 사건이 발생했습니다.",
+          "title": "프랑스 학생 시위 격화, 수만 명 거리로 나와 경찰과 충돌",
+          "summary": "프랑스에서 교육 환경 개선과 예산 증액을 요구하는 학생 시위가 격화되면서 수만 명이 거리로 나와 경찰과 충돌했다. 파리에서는 시위대와 경찰 간 폭력 사태가 발생하여 11명의 경찰관이 병원에 입원했으며, 경찰은 물대포와 최루탄을 사용해 시위대를 해산했다. 시위는 교사 부족, 시설 노후화, 과밀 학급 등 다양한 불만을 제기하고 있다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/13/violence-in-paris-as-tens-of-thousands-turn-out-for-student-protests-across-france"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+              "name": "apnews.com",
+              "url": "https://apnews.com/article/france-school-protests-what-to-know-4e3bea86a5be39904c90f15ee96e3a24"
             },
             {
-              "name": "japantimes.co.jp",
-              "url": "https://www.japantimes.co.jp/business/2026/10/13/french-supermarket-cyberattack/"
+              "name": "abcnews.com",
+              "url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
             }
           ],
           "verification": "multi",
@@ -317,20 +414,24 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "카카오, 개인화된 AI 비서 '카나나 스페이스' 공개 및 메타, 새로운 AI 모델 '뮤즈 원더' 발표",
-          "summary": "카카오는 연례 개발자 행사 '이프카카오 2026'에서 카카오톡을 통해 호출할 수 있는 AI 비서 '카나나 스페이스'를 공개하며 개인화된 AI 에이전트 서비스 전략을 발표했습니다. 이와 동시에 메타는 자사의 새로운 AI 모델인 '뮤즈 원더'와 '뮤즈 원더 풀'을 발표하며, 이 모델들이 OpenAI의 GPT-6 아스트라 및 Anthropic의 클로드 오푸스 5.5 등 업계 최고 모델들과 경쟁할 수 있다고 주장했습니다. 메타는 향후 '뮤즈' AI 에이전트에도 이 모델들을 적용할 계획입니다.",
+          "title": "퍼시비런스 로버, 화성 45.2km 주행 외계 행성 신기록 수립",
+          "summary": "미국항공우주국(NASA)의 화성 탐사 로버 퍼시비런스가 화성 표면 45.22km를 주행하며 지구 외 천체에서 가장 멀리 이동한 탐사차 기록을 새로 세웠다. 이는 이전 기록인 오퍼튜니티의 45.16km를 넘어선 것으로, 정교한 자율주행 기술 덕분에 5년 8개월 만에 달성한 성과이다. 퍼시비런스는 현재 고대 열수계의 흔적을 찾기 위한 탐사 활동을 이어가고 있다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610131100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/science/technology/1282282.html"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/13/world/science-health/nasa-rover-breaks-record-mars/"
             },
             {
-              "name": "venturebeat.com",
-              "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api"
+              "name": "interestingengineering.com",
+              "url": "https://interestingengineering.com/space/nasa-perseverance-mars-driving-record"
+            },
+            {
+              "name": "space.com",
+              "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
             }
           ],
           "verification": "multi",
@@ -338,20 +439,20 @@
         },
         {
           "tag": "tec",
-          "title": "영국 AI 장관, 사이버 방어 침해 가능성 경고 및 마이크로소프트 사장, AI 규제 촉구",
-          "summary": "영국 AI 장관 카니스카 나라얀은 영국의 사이버 방어가 AI로 인해 침해될 가능성이 '높다'며, 정부 시스템의 취약점을 해결하기 위해 AI를 활용할 계획을 밝혔습니다. 그는 또한 강력한 AI 시스템 개발 기업들에게 위험 통제가 어렵다면 시스템을 출시하지 말 것을 경고했습니다. 한편, 브래드 스미스 마이크로소프트 사장은 AI가 우유나 세탁기보다 덜 규제되고 있다고 지적하며, 전 세계적인 AI 안전 규제 마련을 촉구했습니다.",
+          "title": "제임스 웹 망원경, 거대한 우주 구조 발견…우주 이해에 도전",
+          "summary": "제임스 웹 우주 망원경(JWST)이 예상보다 훨씬 이른 시기에 형성된 것으로 보이는 거대한 은하단 XLSSC 122를 발견했다. 이 은하단은 암흑물질이 비정상적으로 밀집되어 있어, 현재의 우주 진화 모델에 도전하는 관측 결과로 평가된다. 이 발견은 초기 우주가 기존 이론보다 빠르게 구조를 발전시켰을 가능성을 제시하며, 강한 중력 렌즈 현상을 통해 암흑물질의 질량 분포를 정밀하게 측정하는 데 기여했다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss"
+              "name": "news.ssbcrack.com",
+              "url": "https://news.ssbcrack.com/massive-ancient-galaxy-cluster-xlssc-122-challenges-cosmological-models"
             },
             {
-              "name": "finance.biggo.com",
-              "url": "https://finance.biggo.com/news/dcfa873a-fe06-4d8a-8097-fb1197f246aa"
+              "name": "nacionale.com",
+              "url": "https://www.nacionale.com/en/articles/james-webb-uncovers-cosmic-structure-challenging-universe-theories"
             }
           ],
           "verification": "multi",
@@ -359,20 +460,24 @@
         },
         {
           "tag": "tec",
-          "title": "No Man's Sky, 아이폰 및 아이패드 출시 확정",
-          "summary": "우주 탐험 및 생존 제작 게임 'No Man's Sky'가 출시 10여 년 만에 아이폰과 아이패드로 출시됩니다. 10월 28일 출시 예정인 이 모바일 버전은 기존 게임의 모든 콘텐츠와 업데이트를 포함하며, 아이폰 11 및 3세대 아이패드 에어 이상 기기에서 플레이 가능합니다. 다만 멀티플레이어와 행성 정착촌 건설 기능은 일부 최신 아이폰 모델에서만 지원되거나 제공되지 않습니다.",
+          "title": "OpenAI 직원, 회의실 녹음 장치 설치 혐의로 체포",
+          "summary": "OpenAI의 한 엔지니어가 회사 회의실에 정교한 녹음 장치를 설치한 혐의로 체포되었다. 이 직원은 사우디아라비아 국적의 압둘라만 알포잔으로 확인되었으며, 구두 통신을 가로채기 위한 장치 사용 혐의를 받고 있다. OpenAI는 AI 모델을 활용해 장치 설치자를 특정했으며, 내부자 위험으로부터 기술과 데이터를 보호하는 중요성을 강조했다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
             },
             {
-              "name": "mobilegamer.biz",
-              "url": "https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28"
+              "name": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+            },
+            {
+              "name": "politico.com",
+              "url": "https://www.politico.com/news/2026/10/13/openai-employee-arrested-and-charged-over-hidden-recording-01117275"
             }
           ],
           "verification": "multi",
