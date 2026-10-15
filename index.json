@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-14",
-  "date_str": "2026년 10월 14일 (수)",
+  "date": "2026-10-15",
+  "date_str": "2026년 10월 15일 (목)",
   "key5": [
-    "이화영 전 부지사, 쌍방울 대북송금 사건 2심 판결 불복 재심 청구 예정",
-    "한미 국방장관, 전작권 전환 조건 충족 여부 이견 속 이달 말 첫 대면 추진",
-    "미국 상원, 트럼프 대통령에게 러시아 디젤 연료 수출 제재 완화 결정 철회 촉구",
-    "코넬 대학교, 캠퍼스 내 성폭행 의혹으로 모든 학생 사교 클럽 파티 중단",
-    "NASA 퍼시비런스 로버, 화성 45.2km 주행하며 외계 행성 주행 신기록 달성"
+    "북한, 동해상으로 잠수함발사 전략순항미사일 2종 시험 발사 발표",
+    "미국 9월 소비자물가지수 예상치 상회, 인플레이션 우려 고조로 중간선거 공방 심화",
+    "우크라이나, 스타링크 속도 제한으로 전력 작전 차질; 미국 정부 개입 가능성 제기",
+    "일본 농업부 장관, 스캔들로 사임 의사 표명, 기시다 총리 행정부 타격",
+    "OpenAI 엔지니어, 회사 사무실에 도청 장치 설치 혐의로 체포"
   ],
   "regions": [
     {
@@ -16,54 +16,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "이화영 변호인단, 대북송금 2심 판결 불복 재심 청구",
-          "summary": "이화영 전 경기도 평화부지사 변호인단이 쌍방울 대북송금 사건 2심 판결에 불복, 내주 중 수원고법에 재심 청구서를 제출할 예정이다. 이 전 부지사는 해당 사건으로 징역 7년 8개월이 확정돼 수감 중이며, 최근 대북송금 수사·재판 절차상 위법 의혹 등을 제기하며 가석방을 요구해왔다.",
+          "title": "북한, 동해상으로 잠수함발사 전략순항미사일 2종 시험 발사",
+          "summary": "북한은 14일 동해상에서 2종의 잠수함발사 전략순항미사일을 시험 발사했다고 15일 조선중앙통신을 통해 발표했다. 이번 시험 발사는 수중 전투 체계 동원 태세 검열 및 해군의 전략적 임무 수행 능력 숙련에 기여했다고 주장했다. 한편, 최근 한국은 자체 개발한 극초음속 무기 시험 발사를 진행한 바 있다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261014040200061"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261015008400504"
             },
             {
-              "name": "chosun.com",
-              "url": "https://www.chosun.com/english/opinion-en/2026/10/13/WDUFFDSTAJBAJKK7HARCJNVTZQ"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "전작권 조건 이견 속 한미 국방장관 이달 말 첫 대면 추진",
-          "summary": "전시작전통제권(전작권) 전환 조건 충족 여부를 놓고 한미 간 이견이 있는 가운데, 이달 말 아세안 확대 국방장관회의(ADMM+)를 계기로 강신철 국방부 장관과 피트 헤그세스 미 국방장관의 첫 대면이 추진 중이다. 양국은 SCM에서 미래연합군사령부 완전운용능력(FOC) 검증 완료를 목표로 했으나, 검증 조건 충족에 대한 공감대에 아직 이르지 못한 것으로 알려졌다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261014039900504"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1282469.html"
             },
-            {
-              "name": "koreajoongangdaily.com",
-              "url": "https://www.koreajoongangdaily.com/korea/korea-us-at-odds-over-foc-assessment-as-opcon-transfer-talks-stall/12918223"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "정부, 외교·통일·국방부 세종 이전 발표에 논란",
-          "summary": "정부가 외교·통일·국방부 등 중앙행정기관을 내년부터 단계적으로 세종시로 이전하겠다고 밝혀 논란이 일고 있다. 국민의힘 안철수 의원은 이를 '북한에 수도를 헌납하는 위험한 결정'이라며 재고를 촉구했다. 해당 부처들의 세종 이전은 헌법재판소가 행정도시 특별법에 대해 합헌 결정을 내릴 때 전제 조건이었던 '핵심 부처의 서울 잔류'를 무너뜨리는 행위라는 비판도 제기됐다.",
-          "sources": [
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610140824001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "donga.com",
-              "url": "https://www.donga.com/en/article/all/20261014/6418336/1"
-            },
-            {
-              "name": "en.yna.co.kr",
-              "url": "https://en.yna.co.kr/view/AEN20261013006951315"
+              "url": "https://www.khan.co.kr/article/202610150741001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -71,16 +37,20 @@
         },
         {
           "tag": "eco",
-          "title": "삼성전자·SK하이닉스, 전날 급락 후 2~3%대 상승",
-          "summary": "삼성전자와 SK하이닉스 주가가 전날 급락세를 딛고 14일 장 초반 2~3%대의 상승률을 보이며 회복세를 나타냈다. 이는 낙폭이 과대했다는 인식에 따른 반발 매수 유입과 간밤 뉴욕증시에서 인공지능(AI) 반도체 관련주가 상승한 영향으로 풀이된다. 외국인 투자자들은 유가증권시장에서 순매수 기조를 보였다.",
+          "title": "미국발 인플레 우려 및 유가 상승에 코스피·코스닥 급락",
+          "summary": "미국발 인플레이션 우려와 국제유가 상승의 영향으로 국내 증시가 큰 폭으로 하락했다. 15일 개장과 함께 코스피는 5.59% 급락한 5,673.01을 기록했고, 코스닥 역시 4.79% 내린 784.45를 기록했다. 이는 한국 기업들의 3분기 실적 전망에도 부정적인 영향을 미칠 것으로 예상된다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261014041200008"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261015032800008"
             },
             {
-              "name": "en.bloomingbit.io",
-              "url": "https://en.bloomingbit.io/feed/news/122169"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261015032400008"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/analysis/south-koreas-kospi-falls-below-6000-on-tech-stocks-selloff-200689476"
             }
           ],
           "verification": "multi",
@@ -88,16 +58,20 @@
         },
         {
           "tag": "soc",
-          "title": "LH 공공임대주택 7년간 1천여 건 화재, 사망자 절반은 영구임대",
-          "summary": "한국토지주택공사(LH) 공공임대주택에서 최근 7년간 1천142건의 화재가 발생해 258명의 사상자가 나왔으며, 특히 영구임대주택에서 전체 사망자 26명 중 절반에 가까운 12명이 발생했다. 이는 피난 약자 밀집 거주와 노후화된 소방 설비가 주요 원인으로 지적되며, 구형 감지기 사용으로 발화 지점 파악이 어려운 문제도 확인되었다.",
+          "title": "울산 야음동 흐린 수돗물 민원 속출, 전국 임대차 분쟁 증가",
+          "summary": "울산 남구 야음동 일대에서 13일 오후부터 흐린 수돗물 민원이 잇따라 접수되어 울산시가 병입수 및 급수차를 지원하고 원인 조사에 나섰다. 수압 급변이 원인으로 추정되며, 상수도 관망 확대 및 노후시설 개선이 검토 중이다. 한편, 전국적으로 주택·상가 임대차 분쟁 조정 접수 건수가 5년 만에 2.3배 증가한 것으로 나타났다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261013187900001"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261014181100057"
             },
             {
-              "name": "mk.co.kr",
-              "url": "https://www.mk.co.kr/en/realestate/12174274"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610150723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "Seoul Economic Daily",
+              "url": "https://en.sedaily.com/society/2026/10/10/ulsan-to-suspend-tap-water-overnight-in-parts-of-three"
             }
           ],
           "verification": "multi",
@@ -112,20 +86,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미 상원의원, 트럼프에 러시아 디젤 제재 완화 철회 촉구",
-          "summary": "미국 상원의원 12명(공화당 6명, 민주당 6명)이 트럼프 대통령에게 러시아 디젤 연료 수출 제재 완화 결정을 철회할 것을 촉구했다. 의원들은 이 합의가 우크라이나 전쟁 자금 조달에 도움을 주며, 미국과 동맹국에 대한 배신 행위라고 비판했다. 트럼프 대통령은 이 거래가 국제 시장의 고유가 문제 해소를 위한 것이라고 설명했다.",
+          "title": "미국 9월 CPI 예상치 상회, 인플레이션 우려로 중간선거 공방 심화",
+          "summary": "미국의 9월 소비자물가지수(CPI)가 예상치를 웃돌아 인플레이션 우려가 고조되면서 11월 중간선거를 앞두고 정치권의 공방이 심화되고 있다. 공화당은 인플레이션을 트럼프 대통령 행정부의 정책 실패로 규정하며 비판하고 있으며, 에너지 가격 상승이 주요 원인으로 지목되고 있다. 이로 인해 트럼프 대통령과 공화당은 경제 정책에 대한 유권자들의 불만에 직면해 있다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html"
+              "url": "https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/donald-trump-suffers-inflation-nightmare-just-weeks-before-midterms-12565361"
             },
             {
-              "name": "murkowski.senate.gov",
-              "url": "https://www.murkowski.senate.gov/press/release/murkowski-colleagues-urge-president-to-reverse-russian-diesel-deal-enforce-sanctions"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
             }
           ],
           "verification": "multi",
@@ -133,99 +107,66 @@
         },
         {
           "tag": "pol",
-          "title": "엘론 머스크, 중간선거 공화당 지원 최대 기부자로 부상",
-          "summary": "엘론 머스크가 2026년 미국 중간선거에서 2억 5천만 달러 이상을 공화당에 기부하며 최대 정치 기부자로 떠올랐다. 그는 7월 이후에만 2억 7천6백만 달러 이상을 쏟아부었으며, 이는 미국 정치 역사상 가장 빠른 정치 지출 중 하나로 꼽힌다. 기부금은 주로 공화당 상원 후보들을 지원하는 슈퍼팩인 상원 리더십 기금에 전달되었다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/13/us/politics/elon-musk-republicans-spending.html"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections"
-            },
-            {
-              "name": "cnbc.com",
-              "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html"
-            },
-            {
-              "name": "apnews.com",
-              "url": "https://apnews.com/article/elon-musk-midterms-republicans-donors-c06efc774a2e7c5d345e0d46641eb510"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "주그리스 미국 대사, 비위 의혹으로 사임",
-          "summary": "도널드 트럼프 미국 대통령의 장남과 약혼했던 킴벌리 길포일 주그리스 미국 대사가 비위 의혹에 휩싸여 사임했다. 백악관은 그녀에게 사퇴를 요구했으며, 길포일 대사는 혐의가 거짓이라고 주장하며 명예를 지키겠다고 밝혔다. 그녀는 과거 트럼프 후원자에게 신용카드 대금 송금을 요청하고 그리스 재벌로부터 편의를 제공받았다는 의혹을 받았다.",
+          "title": "우크라이나, 스타링크 속도 제한으로 작전 차질…美 정부 개입 가능성",
+          "summary": "우크라이나가 스페이스X의 스타링크 위성 인터넷 서비스에 부과된 이동 속도 제한으로 전력 작전에 차질을 겪고 있다고 주장했다. 군용 서비스 '스타실드'에 시속 160km 속도 제한이 걸리면서 드론 작전 등이 방해받고 있다는 설명이다. 일론 머스크 스페이스X CEO는 스타실드 시스템은 미국 정부가 소유하고 통제하며, 속도 및 사용 제한은 미군 당국과 궁극적으로 미국 대통령이 결정한다고 해명해 미국 정부 개입 가능성이 제기되었다.",
           "sources": [
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610140844001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202610150725001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
+              "name": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo"
             },
             {
-              "name": "axios.com",
-              "url": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump"
-            },
-            {
-              "name": "nbcnews.com",
-              "url": "https://www.nbcnews.com/politics/trump-administration/trump-kimberly-guilfoyle-resign-ambassador-greece-rcna603034"
+              "name": "Via Satellite",
+              "url": "https://www.satellitetoday.com/connectivity/2026/10/14/musk-says-u-s-government-is-in-control-of-starlink-speeds-for-ukraines-military"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "뱅크오브아메리카, 자금세탁 방지 감독 소홀로 18억 달러 벌금",
-          "summary": "뱅크오브아메리카(BoA)가 자금세탁 방지 감독을 소홀히 한 혐의로 18억 달러(약 2조 4천억 원)의 벌금을 부과받았다. 미 재무부는 BoA가 중국 자금세탁 네트워크를 포함한 '국가 안보 위험'을 적절히 완화하고 보고하지 못했다고 밝혔다. 이는 재무부 역사상 세 번째로 큰 벌금 규모이며, 은행은 의도적인 은행비밀법 위반을 시인했다.",
-          "sources": [
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/united-states-canada/article/3370791/us-fines-bank-america-us12-billion-says-it-violated-money-laundering-sanctions-laws?utm_source=rss_feed"
-            },
-            {
-              "name": "reuters.com",
-              "url": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "코넬 대학교, 성폭행 의혹으로 학생 사교 클럽 파티 금지",
-          "summary": "코넬 대학교가 2년 전 캠퍼스 내 성폭행 의혹에 대한 대응 미흡으로 비난을 받자, 모든 학생 사교 클럽 파티를 학기 말까지 금지했다. 이는 전 학생이 제기한 집단 성폭행 소송에 대한 후속 조치로, 총장은 피해자에게 깊은 사과를 표명하며 캠퍼스 내 성폭력 방지를 위한 의미 있는 조치를 약속했다.",
+          "title": "코넬대 성폭행 의혹 확산, 파티 금지 등 대학가 사회 문제 심화",
+          "summary": "미국 코넬대학교를 비롯한 여러 대학에서 성폭행 의혹이 불거지며 학생 사회 문제가 심화되고 있다. 코넬대는 2년 전 발생한 성폭행 혐의 처리 논란으로 인해 모든 프래터니티 파티를 금지하는 조치를 내렸다. 시카고대 인근 프래터니티 하우스에서도 성폭행 신고가 접수되었으며, 뉴욕주 검찰은 코넬대 사건에 대한 재수사에 착수하는 등 전국적으로 대학 내 성폭력 문제에 대한 비판과 조치가 강화되고 있다.",
           "sources": [
             {
               "name": "BBC US & Canada",
               "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago"
             },
             {
-              "name": "nytimes.com",
-              "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"
-            },
-            {
-              "name": "aljazeera.com",
-              "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case"
+              "name": "ABC News",
+              "url": "https://abcnews.com/US/wireStory/gang-rape-allegation-cornell-highlights-title-ix-guides-137266120"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "넷플릭스 성장 둔화로 전 세계 인력 6% 감축, 주가 하락세 지속",
+          "summary": "넷플릭스가 성장 둔화에 직면하여 전 세계 인력의 약 6%에 해당하는 1,000명 규모의 감축을 발표했다. 이는 2022년 이후 가장 큰 규모의 정리 해고이다. 경쟁 심화와 고객 참여도 정체로 인해 넷플릭스의 주가는 지난 1년간 40% 이상 하락했으며, 회사는 수익 다각화를 위한 새로운 방안을 모색하고 있다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Desk",
+              "url": "https://thedesk.net/2026/10/netflix-cuts-1000-jobs-as-slowing-growth-raises-concerns-about-streaming-business"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -236,79 +177,66 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "일본 공명당 신임 대표, 정치 개편 모색 시사",
-          "summary": "일본 공명당의 새로 선출된 오카모토 미츠나리 대표가 정치 개편의 구심점이 되겠다는 목표를 밝히며, 가치관을 공유하는 정치 세력과의 정책 지향적 협력을 강조했다. 그는 타카이치 사나에 총리의 강력한 리더십과 높은 대중적 기대에 비해 리더로서 일부 단점도 있다고 평가했다.",
+          "title": "일본 농업부 장관, 스캔들로 사임 의사 표명, 기시다 행정부 타격",
+          "summary": "일본 야나 가즈오 농업부 장관이 연이은 스캔들로 인해 사임 의사를 밝혔다. 취임 한 달 만의 갑작스러운 사임은 기시다 후미오 총리 행정부에 큰 타격을 주고 있다. 야나 장관은 국회 심의에 더 이상 문제를 일으키지 않기 위해 사임했다고 밝히면서, 총선 기간 중 후원자들에게 무료 셔틀버스를 제공했다는 의혹과 예산 관련 발언 등으로 비판을 받아왔다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/politics/komeito-leader-interview/"
+              "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/politics/takaichi-cabinet-yana-parliament-resigns/"
             },
             {
               "name": "nippon.com",
-              "url": "https://www.nippon.com/en/news/yjj2026101100223"
+              "url": "https://www.nippon.com/en/news/yjj2026101400736/embattled-japan-agriculture-min-yana-resigns.html"
+            },
+            {
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/news/yjj2026101401069/embattled-japan-agriculture-min-yana-offers-to-resign.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "오키나와 살인 사건 후 미일, 주둔 미군 외출 규정 재검토",
-          "summary": "일본 외무장관은 오키나와에서 발생한 미 해병대원의 여성 살해 혐의 사건 이후 주둔 미군의 기지 밖 행동수칙을 재검토할 것이라고 밝혔다. 이번 검토에서는 순찰 및 통행금지 관리 등 기존 규정의 실효성 여부가 논의될 예정이며, 이는 미군 범죄에 대한 오키나와의 오랜 항의에 따른 조치이다.",
+          "tag": "tec",
+          "title": "AI 기반 해킹 공격으로 일본 기업 수백만 고객 기록 노출",
+          "summary": "일본 기업들이 AI 기반 해킹 공격에 직면하여 최근 몇 주간 수백만 고객 기록이 유출되었다. 요미우리 신문에 따르면 올해 10월까지 500건 이상의 기업 시스템 침해 사례가 보고되었으며, 이는 2025년 전체 수치를 넘어선다. JR 동일본, 북오프 등이 피해를 입었으며, AI가 언어 장벽을 허물어 해킹에 악용되는 사례가 증가하고 있어 기업들의 보안 강화가 시급하다는 경고가 나온다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/week-asia/economics/article/3370875/ai-armed-hackers-tear-through-corporate-japans-neglected-defences?utm_source=rss_feed"
             },
             {
-              "name": "straitstimes.com",
-              "url": "https://www.straitstimes.com/asia/east-asia/japan-us-review-troops-off-duty-rules-after-okinawa-killing"
+              "name": "Tech Insider",
+              "url": "https://tech-insider.org/japan-ai-cyberattacks-600-incidents-2026"
             },
             {
-              "name": "cbsnews.com",
-              "url": "https://www.cbsnews.com/news/okinawa-us-troops-off-duty-behavior-rules-japan-review-womans-killing"
+              "name": "News On Japan",
+              "url": "https://newsonjapan.com/article/151027.php"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "기술·과학"
         },
         {
           "tag": "eco",
-          "title": "일본은행, 10월 연속 금리 인상에 신중한 입장",
-          "summary": "일본은행(BOJ) 관계자들이 이달 연속적인 금리 인상에는 신중한 태도를 보이며, 12월 정책 회의에서 추가 인상 가능성을 주시하고 있다고 관계자들이 전했다. 이는 물가상승 위험이 급격히 증가할 조짐이 없는 한 연속 인상의 필요성이 적다고 판단하기 때문으로, BOJ는 경제 데이터를 면밀히 검토하여 추가 인상 여부를 결정할 방침이다.",
+          "title": "중국 AI 기업들, 해외 위안화 채권 발행으로 자금 조달 우위 확보",
+          "summary": "텐센트를 비롯한 중국 AI 기업들이 해외 위안화 채권을 활용하여 인공지능 인프라 구축을 위한 자금을 조달하고 있다. 텐센트는 최근 57억 달러 규모의 채권을 발행했으며, 이 중 260억 위안(약 39억 달러) 상당의 역외 위안화 채권(딤섬본드)은 낮은 차입 비용으로 발행되어 글로벌 경쟁사 대비 자금 확보에 유리한 입지를 점하고 있다. 이는 중국 기술 기업들이 AI 투자에 필요한 자금을 효율적으로 확보하는 새로운 전략으로 분석된다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/13/economy/boj-lean-against-october-rate-hike/"
+              "url": "https://www.japantimes.co.jp/business/2026/10/14/companies/cheap-yuan-china-ai-funding/"
             },
             {
-              "name": "bloomberg.com",
-              "url": "https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october"
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-14/cheaper-yuan-debt-gives-tencent-an-ai-funding-advantage"
+            },
+            {
+              "name": "Binance",
+              "url": "https://www.binance.com/en/square/post/377105079849354"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "일본 내 외국인 비율 5% 초과 지자체 두 배 이상 증가",
-          "summary": "2025년 인구조사 결과, 일본 내 외국인 주민 비율이 전체 인구의 5%를 초과하는 지자체가 2020년 53곳에서 132곳으로 2.5배 증가했다. 외국인 인구는 주요 도시뿐만 아니라 관광 및 농업 분야가 발달한 농촌 지역에서도 증가했으며, 이는 심각한 노동력 부족 속에서 외국인 노동자 고용이 늘어난 것을 반영한다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/society/foreign-population-up/"
-            },
-            {
-              "name": "nippon.com",
-              "url": "https://www.nippon.com/en/news/yjj2026101300604"
-            },
-            {
-              "name": "ua.news",
-              "url": "https://ua.news/en/world/lider-komeito-zaklikav-do-politichnogo-peregrupuvannia-the-japan-times"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
         }
       ]
     },
@@ -319,20 +247,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "불가리아, 흑해 드론 공격 후 러시아 대사 소환",
-          "summary": "흑해에서 드론 공격으로 상선 2척이 피격되고 1척이 침몰하여 10여 명이 실종된 사건 이후, 불가리아 총리가 러시아 대사를 소환했다. 불가리아 국방부 장관은 공격 드론이 러시아 소행일 가능성이 높다고 보고 있으며, 불가리아는 NATO 회원국으로서 NATO 사무총장과도 상황을 논의했다.",
+          "title": "우크라이나, 스타링크 위성 인터넷 접근 제한에 정치적 우려 표명",
+          "summary": "우크라이나 대통령실 세르히 베스크레스트노우 기술고문역은 스페이스X가 제공하는 스타링크 위성 인터넷 서비스의 이동 속도 제한 조치가 우크라이나군 작전에 차질을 빚고 있으며, 이는 현재의 정치적 상황과 연관되어 있다고 주장했다. 제한 조치에 대한 사전 통보가 없었으며, 특히 요격 드론 등 방어 수단에 활용되는 스타링크의 역할이 중요하다고 강조했다. 이 조치는 도널드 트럼프 미국 대통령과 볼로디미르 젤렌스키 우크라이나 대통령 간의 러시아 정유 시설 타격 문제로 인한 마찰 이후에 발생했다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "themoscowtimes.com",
-              "url": "https://www.themoscowtimes.com/2026/10/13/bulgaria-summons-russian-ambassador-after-drone-attack-sinks-ship-leaving-11-missing-a93963"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/ukraine-starlink-restrictions-disrupt-drone-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "kyivpost.com",
-              "url": "https://www.kyivpost.com/post/86896"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
             }
           ],
           "verification": "multi",
@@ -340,70 +268,66 @@
         },
         {
           "tag": "pol",
-          "title": "MI5 국장, 러시아·이란·AI로부터 영국 위협 경고",
-          "summary": "MI5 국장은 지난 10년간 해외 적대 세력의 위협이 4배 증가했다고 밝히며, 러시아를 '제1의 공격자'로 지목했다. 또한 이란 관련 위협과 인공지능(AI)을 활용한 사이버 보안 위협 증가에 대해 경고했다. 그는 MI5가 테러 대응과 국가 위협 대응에 동등한 규모의 자원을 투입하고 있다고 덧붙였다.",
+          "title": "르펜, EU 예산 기여금 삭감 공약하며 EU 권한 축소 주장",
+          "summary": "프랑스 극우 국민연합 대표 마린 르펜이 유럽연합(EU) 예산에 대한 프랑스의 기여금을 연간 50억 유로로 제한하고, EU 집행위원회의 권한을 축소하겠다고 공약했다. 그녀는 EU가 보건, 안보, 국제 외교 등 그 범위를 넘어선 정책 영역에 개입해서는 안 된다고 주장하며, 브뤼셀에서 EU 집행위원회를 강하게 비판했다. 이러한 발언은 내년 프랑스 대선을 앞두고 EU와의 갈등을 예고하고 있다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/14/le-pen-lands-in-brussels-lashing-out-at-the-european-commission"
             },
             {
-              "name": "sana.sy",
-              "url": "https://sana.sy/en/international/2350564"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/le-pen-downsize-eu-contribution-cut-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "wionews.com",
-              "url": "https://www.wionews.com/world/mi5-chief-warns-russia-is-uk-s-aggressor-number-one-as-iran-and-ai-threats-grow-1791919111395"
-            },
-            {
-              "name": "bbntimes.com",
-              "url": "https://www.bbntimes.com/politics/mi5-chief-warns-of-threats-to-uk-from-russia-iran-and-ai-we-have-entered-a-new-era-of-national-security"
+              "name": "POLITICO.eu",
+              "url": "https://www.politico.eu/article/le-pen-downsize-eu-contribution-cut-brussels"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "러시아, 2027년 국방 예산 대폭 증액 및 사회 지출 삭감",
-          "summary": "러시아가 2027년 예산 초안을 공개하며 국방 및 안보 지출에 연방 예산의 44%를 할당, 기록적인 비중을 보였다. 이는 우크라이나 전쟁 5년차에 접어들면서 군사 비용이 급증한 결과로, 사회 정책 지출은 7% 감소할 예정이다. 특히 일부 지역에서는 전쟁 관련 비용 충당을 위해 보육 및 사회 취약 계층 지원 예산을 전용하는 사례도 나타났다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending"
-            },
-            {
-              "name": "en.defence-ua.com",
-              "url": "https://en.defence-ua.com/news/uk_defence_intelligence_russia_plans_to_spend_35_of_its_2027_federal_budget_on_defense-20048.html"
-            },
-            {
-              "name": "united24media.com",
-              "url": "https://united24media.com/war-in-ukraine/putins-2027-budget-sends-russias-domestic-market-into-a-panic-23212"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "프랑스 학생 시위 격화, 수만 명 거리로 나와 경찰과 충돌",
-          "summary": "프랑스에서 교육 환경 개선과 예산 증액을 요구하는 학생 시위가 격화되면서 수만 명이 거리로 나와 경찰과 충돌했다. 파리에서는 시위대와 경찰 간 폭력 사태가 발생하여 11명의 경찰관이 병원에 입원했으며, 경찰은 물대포와 최루탄을 사용해 시위대를 해산했다. 시위는 교사 부족, 시설 노후화, 과밀 학급 등 다양한 불만을 제기하고 있다.",
+          "title": "프랑스 학생 시위 격화, 주말 전국적 추가 시위 예고",
+          "summary": "프랑스 여러 도시에서 고등학생 시위가 격화되고 있으며, 주말 전국적인 추가 시위가 예고되어 사회적 불안감이 고조되고 있다. 학생 노조는 오는 17일 토요일 전국적인 행동의 날을 촉구하고 있다. 에마뉘엘 마크롱 대통령은 학생들이 정당한 불안감을 표출하고 있지만, 이러한 불안감이 정치적으로 이용되어 용납할 수 없는 도시 폭력으로 변질되고 있다고 경고했다. 정부는 진정책으로 3,000명의 대체 교사 배치 등을 발표했으나, 학생들은 이를 불충분하다고 평가하고 있다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/13/violence-in-paris-as-tens-of-thousands-turn-out-for-student-protests-across-france"
+              "url": "https://www.euronews.com/2026/10/14/macron-warns-student-anger-is-being-exploited-as-france-braces-for-more-protests"
             },
             {
-              "name": "apnews.com",
-              "url": "https://apnews.com/article/france-school-protests-what-to-know-4e3bea86a5be39904c90f15ee96e3a24"
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/videos/ckg5jqg1npd7o"
             },
             {
-              "name": "abcnews.com",
-              "url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
+              "name": "FRANCE 24 English",
+              "url": "https://www.youtube.com/watch?v=wbm5rDapPuw"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "독일, 노르드스트림 가스관 폭파 사건 우크라이나인 용의자 재판 시작",
+          "summary": "독일 함부르크에서 러시아-독일 노르드스트림 가스관 폭파 사건의 우크라이나인 용의자 세르히 쿠즈네초프에 대한 재판이 시작되었다. 그는 군사 작전을 통해 민간 기반 시설을 공격한 전쟁 범죄 혐의를 받고 있으나, 혐의를 부인하고 있다. 이번 재판은 2022년 9월 발생한 폭파 사건의 주범으로 지목된 인물에 대한 것으로, 우크라이나의 가장 가까운 동맹국 중 하나인 독일에서 진행되어 국제적인 관심이 집중되고 있다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/nord-stream-pipeline-sabotage-suspect-on-trial-germany-hamburg/a-79647617"
+            },
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/germany-nord-stream-pipelines-explosions-trial-ukraine-gas-fdbddfa8c362df5a9f81e617e546b287"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -414,70 +338,58 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "퍼시비런스 로버, 화성 45.2km 주행 외계 행성 신기록 수립",
-          "summary": "미국항공우주국(NASA)의 화성 탐사 로버 퍼시비런스가 화성 표면 45.22km를 주행하며 지구 외 천체에서 가장 멀리 이동한 탐사차 기록을 새로 세웠다. 이는 이전 기록인 오퍼튜니티의 45.16km를 넘어선 것으로, 정교한 자율주행 기술 덕분에 5년 8개월 만에 달성한 성과이다. 퍼시비런스는 현재 고대 열수계의 흔적을 찾기 위한 탐사 활동을 이어가고 있다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/science/technology/1282282.html"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/13/world/science-health/nasa-rover-breaks-record-mars/"
-            },
-            {
-              "name": "interestingengineering.com",
-              "url": "https://interestingengineering.com/space/nasa-perseverance-mars-driving-record"
-            },
-            {
-              "name": "space.com",
-              "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "제임스 웹 망원경, 거대한 우주 구조 발견…우주 이해에 도전",
-          "summary": "제임스 웹 우주 망원경(JWST)이 예상보다 훨씬 이른 시기에 형성된 것으로 보이는 거대한 은하단 XLSSC 122를 발견했다. 이 은하단은 암흑물질이 비정상적으로 밀집되어 있어, 현재의 우주 진화 모델에 도전하는 관측 결과로 평가된다. 이 발견은 초기 우주가 기존 이론보다 빠르게 구조를 발전시켰을 가능성을 제시하며, 강한 중력 렌즈 현상을 통해 암흑물질의 질량 분포를 정밀하게 측정하는 데 기여했다.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
-            },
-            {
-              "name": "news.ssbcrack.com",
-              "url": "https://news.ssbcrack.com/massive-ancient-galaxy-cluster-xlssc-122-challenges-cosmological-models"
-            },
-            {
-              "name": "nacionale.com",
-              "url": "https://www.nacionale.com/en/articles/james-webb-uncovers-cosmic-structure-challenging-universe-theories"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "OpenAI 직원, 회의실 녹음 장치 설치 혐의로 체포",
-          "summary": "OpenAI의 한 엔지니어가 회사 회의실에 정교한 녹음 장치를 설치한 혐의로 체포되었다. 이 직원은 사우디아라비아 국적의 압둘라만 알포잔으로 확인되었으며, 구두 통신을 가로채기 위한 장치 사용 혐의를 받고 있다. OpenAI는 AI 모델을 활용해 장치 설치자를 특정했으며, 내부자 위험으로부터 기술과 데이터를 보호하는 중요성을 강조했다.",
+          "title": "OpenAI 엔지니어, 사무실에 도청 장치 설치 혐의로 체포",
+          "summary": "OpenAI의 엔지니어 압둘라만 알포잔(35세, 사우디 국적)이 회사 사무실 회의실 TV 뒤에 비밀 녹음 장치를 설치하려 한 혐의로 FBI에 체포되어 기소되었다. 그는 AI 챗봇을 이용해 녹음 장치 설치 방법 등을 검색한 것으로 알려졌다. OpenAI는 자사의 AI 모델을 활용해 장치의 출처와 설치자를 파악했으며, 해당 직원은 해고되었다. 이번 사건은 AI 기업 내부의 보안 및 국가 안보 문제로 확대될 가능성을 보여준다.",
           "sources": [
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "name": "The San Francisco Standard",
+              "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "AI, 탄소에서 연료 생산하는 화학적 지름길 발견",
+          "summary": "인도 과학 연구소(IISc) 연구진이 인공지능(AI)과 컴퓨터 시뮬레이션을 활용하여 이산화탄소(CO2)를 연료 및 화학 물질로 전환하는 과정에서 수천 가지의 새로운 화학 반응을 발견했다. 구리 촉매에서 발생하는 9,389개의 개별 반응을 식별하여 기존 모델이 놓쳤던 중요한 경로를 밝혀냈으며, 이는 CO2 전환 예측을 획기적으로 향상시키고 효율적인 촉매 개발에 기여할 것으로 기대된다. 특히 수소가 반응에 참여하는 예상치 못한 방식도 발견되어 기존의 가설에 도전하고 있다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm"
+            },
+            {
+              "name": "SSBCrack News",
+              "url": "https://news.ssbcrack.com/ai-uncovers-thousands-of-overlooked-reactions-to-enhance-co2-conversion-into-fuels-and-chemicals"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "맥킨지, 신입 컨설턴트 채용에 AI 고객 시뮬레이션 도입",
+          "summary": "글로벌 컨설팅 기업 맥킨지앤컴퍼니가 신입 컨설턴트 채용 과정에 인공지능(AI) 기반 고객 시뮬레이션 대화 시험을 도입한다. 지원자들은 10분 동안 AI가 시뮬레이션하는 고객과 대화하며 문제 해결 능력을 평가받게 된다. 이 AI 시뮬레이션은 실제 업무 시나리오의 80%를 반영하도록 설계되었으며, 올해 가을 북미 일부 사무소에서 비즈니스 애널리스트 직무 지원자 수백 명을 대상으로 시범 운영될 예정이다. 이는 AI가 채용 방식에 미치는 변화를 예고한다.",
+          "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+              "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
             },
             {
-              "name": "bloomberg.com",
-              "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+              "name": "The Tech Buzz",
+              "url": "https://www.techbuzz.ai/articles/mckinsey-tests-ai-client-simulations-in-job-interviews"
             },
             {
-              "name": "politico.com",
-              "url": "https://www.politico.com/news/2026/10/13/openai-employee-arrested-and-charged-over-hidden-recording-01117275"
+              "name": "WSJ",
+              "url": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e"
             }
           ],
           "verification": "multi",
