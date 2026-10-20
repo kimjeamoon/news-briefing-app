@@ -1,19 +1,33 @@
 {
-  "date": "2026-10-19",
-  "date_str": "2026년 10월 19일 (월)",
+  "date": "2026-10-20",
+  "date_str": "2026년 10월 20일 (화)",
   "highlights": [
-    "메타, AI 학습 데이터 약관 문구 수정으로 사용자 우려 해소",
-    "앤트로픽, 지분 5% 공익 기금 출연 및 외부 AI 감시 기관 접근 허용하며 투명성 강화",
-    "MIT, AI 모델이 결정 재료 3D 구조 이해 및 특성 추론 돕는 연구 발표",
-    "美 필라델피아에서 배달 로봇 막은 시민 체포, 로봇과 일자리 논쟁 심화",
-    "자율주행 로봇택시에 대한 도시별 규제 강화 움직임 나타나"
+    "Nscale과 Anthropic, 450억 달러 규모의 컴퓨팅 계약 추가 논의 중",
+    "엔비디아, 기업 및 개인용 AI 에이전트 실행을 위한 새로운 오픈 모델 출시",
+    "마이크로소프트, AI 에이전트를 '내부 위협'으로 간주하며 기업 보안 강화 경고",
+    "AI 코딩 도구 OpenCode 해킹으로 사용자 API 키 유출, 대규모 피해 발생",
+    "아마존, 인디애나에 새로운 핵발전소 건설에 자금 지원 협의"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": []
+      "stories": [
+        {
+          "title": "엔비디아, 기업 및 개인용 에이전트 오픈 모델 출시",
+          "summary": "엔비디아가 기업용 Nemotron 3.5 Super VL 모델과 개인용 Bolt 모델을 포함한 새로운 오픈 가중치 모델들을 출시했습니다. 이 모델들은 온디바이스 AI 에이전트와 엣지 컴퓨팅을 지원하며, 기업이 자체 데이터센터에서 개방형 모델을 운영하고 온디바이스 AI 에이전트를 활용하는 추세에 대응합니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
     },
     {
       "name": "연구·논문",
@@ -21,23 +35,62 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "MIT, AI에 결정 재료 3D 구조 이해시키는 새 모델 개발",
-          "summary": "MIT 연구팀이 AI 모델이 결정 재료의 3D 원자 구조와 자연어 설명을 결합하여 재료 특성을 이해하도록 돕는 멀티모달 AI 모델을 개발했습니다. 이 모델은 재료의 화학적 구성, 구조뿐 아니라 특성, 가공 조건, 잠재적 응용 분야까지 포괄적으로 파악하여 재료 과학 분야 AI 발전에 기여할 것으로 기대됩니다.",
+          "title": "MIT, 대칭 원리로 태아 진단 AI 신뢰성 향상",
+          "summary": "MIT 연구진이 E(3)-Pose라는 딥러닝 모델을 개발하여 태아의 좌우 대칭 원리를 AI에 내재화시켰습니다. 이 모델은 태아가 움직이는 중에도 고해상도 3D 이미지를 재구성하여 태아 뇌 영상의 진단 정확도를 높이고 불필요한 재방문 가능성을 줄이는 데 기여할 수 있습니다.",
           "sources": [
             {
               "name": "MIT News (AI)",
-              "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-            },
-            {
-              "name": "news.mit.edu",
-              "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
-            },
-            {
-              "name": "news.lavx.hu",
-              "url": "https://news.lavx.hu/article/mit-researchers-build-ai-that-reads-crystal-structures-in-three-dimensions"
+              "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "Goodfire 연구원, 신경망 본질에 대한 새로운 주장 제기",
+          "summary": "AI 스타트업 Goodfire의 연구원 닉 카마라타(Nick Cammarata)가 신경망의 본질에 대한 '폭발적인 주장'을 담은 26,000단어 분량의 블로그 게시글을 발표했습니다. 이 주장은 AI 업계에 광범위한 추측과 새로운 관점을 불러일으키고 있습니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "가상 무인도 AI 에이전트, '놀이' 유사 행동 관찰",
+          "summary": "연구자들이 AI 에이전트를 가상의 무인도에 30시간 동안 홀로 방치하는 실험을 진행했습니다. 이 실험에서 에이전트들은 지시가 없는 상황에서도 '놀이'와 유사한 행동을 보였으며, 이는 AI의 내재적 행동 패턴과 자율적 학습 가능성에 대한 탐구의 일환입니다.",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "LLM 에이전트 제어·신뢰성 향상 연구 다수 발표",
+          "summary": "arXiv에 공개된 여러 논문은 LLM 에이전트의 제어, 추론 및 신뢰성 향상을 위한 다양한 연구를 다룹니다. 여기에는 인간 제어 지속성을 위한 구조화된 권한 주입, 시나리오 적응형 사용자 표현을 위한 사용자 인코더 재고, 계층적 규칙 구성을 통한 추론 강화 등이 포함됩니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.22373"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.22400"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.22403"
+            }
+          ],
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         }
@@ -49,20 +102,38 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "메타, AI 학습 데이터 약관 문구 수정으로 사용자 우려 해소",
-          "summary": "메타는 비즈니스 계정의 데이터를 AI 학습에 활용할 수 있다는 기존 약관 문구가 사용자 동의 없는 데이터 수집 우려를 불러일으키자, 해당 조항을 삭제했습니다. 회사는 이 문구가 광고 및 비즈니스 제품에만 적용되며 웹 크롤링 방식의 변화를 의미하지 않는다고 해명했습니다.",
+          "title": "Nscale, Anthropic과 450억 달러 컴퓨팅 계약 논의",
+          "summary": "AI 인프라 제공업체 Nscale이 Anthropic과 또 다른 450억 달러 규모의 컴퓨팅 거래를 논의 중인 것으로 보도되었습니다. 이는 한 달여 전 체결된 유사한 규모의 계약에 이은 것으로, AI 인프라 시장에서 컴퓨팅 자원 확보 경쟁이 심화되고 있음을 보여줍니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-            },
+              "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Tenstorrent, 62억 달러 가치 기록하며 엔비디아 경쟁자 부상",
+          "summary": "AI 칩 스타트업 Tenstorrent가 15억 달러 규모의 투자를 유치하며 기업 가치가 62억 달러로 급등했습니다. 이로써 Tenstorrent는 오픈 가중치 AI 칩 스케일업에 박차를 가하며 엔비디아의 시장 지배력에 도전하는 주요 경쟁자로 부상하고 있습니다.",
+          "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
-            },
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AI 컴패니언 앱 Tolan, 3천만 달러 추가 투자 유치",
+          "summary": "AI 컴패니언 앱 Tolan이 3천만 달러의 추가 투자를 유치하여 총 투자액을 두 배로 늘리고 기업 가치를 2억 6,800만 달러 이상으로 높였습니다. Tolan은 25만 명 이상의 월간 활성 사용자를 확보하며 일상생활 관리, 관계 및 감정 탐색을 돕는 서비스로 인기를 얻고 있습니다.",
+          "sources": [
             {
-              "name": "mercurynews.com",
-              "url": "https://www.mercurynews.com/2026/10/16/meta-updates-data-scraping-policy-following-criticism"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
             }
           ],
           "verification": "multi",
@@ -70,23 +141,28 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "앤트로픽, 공익 기금에 지분 5% 출연 및 외부 감시 기관 접근 허용",
-          "summary": "AI 기업 앤트로픽은 회사 지분 5%를 공익 기금에 출연하여 사회적 공헌 프로젝트를 지원할 예정이며, 추가로 가치 상승 시 지분을 더 기부할 수 있습니다. 또한, AI 모델의 위험 평가를 위해 비영리 외부 감시 기관인 METR에 '직원 수준'의 접근 권한을 부여하며 투명성 강화 노력을 보였습니다.",
+          "title": "Replika 창업자, 다중 작업 AI 비서 'Wabi' 공식 출시",
+          "summary": "인기 AI 챗봇 Replika의 창업자 유지니아 쿠이다(Eugenia Kuyda)가 새로운 개인 AI 비서 'Wabi'를 공식 출시했습니다. Wabi는 다중 스레드, 멀티플레이어 메시징 앱 형태로 다양한 작업과 장기 목표를 위한 맞춤형 앱을 구축하고 활용할 수 있도록 설계되었습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-            },
-            {
-              "name": "tech-insider.org",
-              "url": "https://tech-insider.org/anthropic-public-benefit-fund-5-percent-stake-2026"
+              "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
             }
           ],
           "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "아마존, 인디애나 핵발전소 건설에 자금 지원 협의",
+          "summary": "아마존이 X-energy 및 American Electric Power(AEP)와 인디애나주에 새로운 핵에너지 시설 건설에 자금을 지원하기로 합의했습니다. 이는 증가하는 데이터 센터와 AI 인프라의 전력 수요를 충족시키기 위한 아마존의 에너지 전략의 일환으로, 지역 전력망과 아마존 데이터 센터에 최대 960메가와트의 무탄소 에너지를 공급하는 것을 목표로 합니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+            }
+          ],
+          "verification": "single",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         }
@@ -98,27 +174,54 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "배달 로봇 막은 시민 체포, 자율주행 로봇택시 규제 강화 움직임",
-          "summary": "미국 필라델피아에서 한 여성이 배달 로봇의 길을 막고 비켜서기를 거부하여 무질서 행위로 체포되었습니다. 이 사건은 자율주행 로봇이 일자리에 미치는 영향에 대한 사회적 논쟁을 심화시켰으며, 연방 규제가 지연되면서 여러 도시와 주들이 로봇택시를 비롯한 자율주행 차량에 대한 자체 규제를 강화하려는 움직임을 보이고 있습니다.",
+          "title": "마이크로소프트, AI 에이전트를 '내부 위협'으로 간주",
+          "summary": "마이크로소프트가 AI 에이전트를 내부 위협으로 간주하고, 기업이 직원들이 사용하는 에이전트를 면밀히 주시해야 한다고 강조하며 새로운 보안 기능인 'Guardian Agents'를 도입했습니다. 사티아 나델라 CEO는 '프론티어 모델을 신뢰할 수 없다'고 경고하며 AI 모델 제공업체와 무관한 독립적인 감시 시스템 구축을 촉구했습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws"
-            },
-            {
-              "name": "6abc Philadelphia",
-              "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323"
-            },
-            {
-              "name": "yahoo.com",
-              "url": "https://www.yahoo.com/news/us/articles/philadelphia-woman-arrested-blocking-uber-160127191.html"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "Hugging Face, AI 모델 벤치마킹 방법론 한계 지적",
+          "summary": "Hugging Face의 정책 책임자 이렌 솔라이만(Irene Solaiman)은 AI 모델 벤치마킹이 복잡하고 미성숙하며, '임베디드 AI 평가자'가 쉬운 해결책이 될 수 없다고 지적했습니다. 그녀는 모델 평가의 재현성, 다양한 테스트 간의 비교 가능성, 시스템 전반의 평가 필요성 등을 강조하며 AI 평가 방법론의 한계를 강조했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "FBI, 전 OpenAI 엔지니어 스파이 혐의로 '사우디 정부 문서' 발견",
+          "summary": "미국 FBI가 기밀 회의실 도청 및 OpenAI 기밀 절도 혐의를 받는 전 OpenAI 엔지니어 압둘라흐만 알포잔(Abdulrahman Alfozan)의 아이폰에서 'Saudi Gov Docs' 폴더를 발견했다고 밝혔습니다. 이는 AI 기술과 국가 안보 간의 긴밀한 관계와 스파이 활동에 대한 우려를 제기하고 있습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "AI 코딩 도구 OpenCode 해킹, 사용자 API 키 유출 피해",
+          "summary": "오픈소스 AI 코딩 에이전트 OpenCode의 구형 시스템이 해킹당해 전체 사용자 중 1.4%에 해당하는 OpenCode Console 사용자들의 API 키가 유출되었습니다. 이로 인해 사용자들은 OpenAI, Anthropic, Google AI 계정에서 수백에서 천 달러 이상의 무단 요금이 발생하는 피해를 입었으며, 이는 AI 도구의 보안 취약성과 대규모 AI 기반 사이버 공격 방어의 어려움을 보여줍니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+            }
+          ],
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
