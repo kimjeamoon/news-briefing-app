@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-20",
-  "date_str": "2026년 10월 20일 (화)",
+  "date": "2026-10-22",
+  "date_str": "2026년 10월 22일 (목)",
   "key5": [
-    "트럼프 대통령, 우크라이나 배제한 미·중·러 3자 회담 가능성 언급",
-    "프랑스, 생활비 상승 및 공공 서비스 악화 항의 시위 폭력 사태로 확산, 일부 지역 야간 통행금지령 발동",
-    "미 국방장관, 이스라엘 비공개 방문하여 대이란 공격 재개 가능성 논의",
-    "미국, 중국 AI 모델 DeepSeek의 정부 사용 금지 발표",
-    "생후 2개월 딸 살해 혐의 친부, 아동학대살해 혐의로 공소청 송치"
+    "메타, 사용자 데이터 개인정보 보호 소송서 250억 달러 벌금 부과",
+    "AI, PHP 프로그래밍 언어 취약점 발견…전 세계 웹사이트 비상",
+    "삼성E&A, 3분기 호실적 기록하며 주가 15% 강세",
+    "러시아, 키이우 주택가 미사일 공격…3자 평화회담 동의 속 이중 행보",
+    "캔자스주 상원 선거, 예상치 못한 민주당 승리 가능성으로 격전지 부상"
   ],
   "regions": [
     {
@@ -15,106 +15,72 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "이재명 대통령, 규제 합리화 위원회 주재 및 메가프로젝트 지원 논의",
-          "summary": "이재명 대통령은 오는 23일 규제합리화위원회 제2차 전체회의를 주재하여 첨단산업 육성과 지방주도 성장, 국가창업시대 전환을 위한 규제 합리화 방안을 논의합니다. 회의에서는 메가프로젝트 및 5극3특 성장엔진 지원과 로봇, 반도체, AI 데이터센터, 자율주행차, 바이오 관련 산업 현장의 규제 해소 방안이 발표될 예정입니다.",
+          "tag": "soc",
+          "title": "역삼동 연쇄 방화 피의자 정신질환 여부 경찰 조사 착수",
+          "summary": "경찰이 서울 역삼동 연쇄 방화 사건 피의자 A씨의 정신병력 여부를 조사하기 위해 의무기록 확보를 시도하고 있다. A씨는 범행을 시인했으나 2차 조사에서 묵비권을 행사했으며, 과거에도 같은 건물에서 방화를 시도한 전력이 있는 것으로 알려졌다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261020047400001"
-            },
-            {
-              "name": "Seoul Economic Daily",
-              "url": "https://en.sedaily.com/politics/2026/10/20/lee-to-lead-second-regulatory-reform-meeting-on-advanced"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "민주당 김민석 대표, 추미애·부승찬 발언 논란 사과",
-          "summary": "더불어민주당 김민석 대표는 부승찬 의원의 '소방 재정 빨대' 발언 논란에 대해 사과하고 당 전체의 신중한 언행을 당부했습니다. 김 대표는 부 의원에게 엄중 경고하고 윤리감찰단에 직권조사를 지시했다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261020019200001"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/assembly/1283173.html"
-            },
-            {
-              "name": "CHOSUNBIZ",
-              "url": "https://biz.chosun.com/en/en-policy/2026/10/20/REASQIICS5DR7GDAFRI6U6BEOE"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "전시작전통제권 전환, 한미 상호합의 조건 충족 필요",
-          "summary": "미국 전쟁부는 이재명 대통령의 전시작전통제권 조기 환수 의지 표명에 대해 한미 양국이 상호 합의한 조건들이 충족되어야 한다는 입장을 재확인했습니다. 이는 전작권 전환이 정치적 일정보다 합의된 조건 충족을 기준으로 판단되어야 한다는 기존 원칙을 강조한 것으로 해석됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261020020100504"
-            },
-            {
-              "name": "The Korea Herald",
-              "url": "https://www.koreaherald.com/article/10903907"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "코스피 장 초반 2%대 급락, 외인·기관 매도세 심화",
-          "summary": "20일 코스피가 장 초반 2% 넘게 급락하며 5,640선을 나타냈습니다. 외국인과 기관이 각각 1,900억원, 1,800억원 순매도를 기록했으며, 삼성전자와 SK하이닉스 등 시가총액 상위주도 동반 하락했습니다. 프랑스 소요 사태와 미국 국채금리 상승 등이 투자심리에 부정적 영향을 미 미친 것으로 분석됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261020046800008"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261020043000008"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "한국투자공사, 올해 1~8월 6.31% 수익률 기록",
-          "summary": "한국투자공사(KIC)가 올해 1월부터 8월 말까지 6.31%의 수익률을 기록했으며, 운용자산 규모는 작년 말 대비 146억 달러 증가한 2,466억 달러로 나타났습니다. 전통자산 중 주식 수익률이 12.76%에 달했고, 대체자산 중에서는 헤지펀드 수익률이 8.33%로 가장 높았습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261020038600002"
+              "url": "https://www.yna.co.kr/view/AKR20261022037500004"
             }
           ],
           "verification": "single",
-          "tag_label": "경제·시장"
+          "tag_label": "사회"
         },
         {
-          "tag": "soc",
-          "title": "생후 2개월 딸 살해 혐의 친부, 아동학대살해로 송치",
-          "summary": "생후 2개월 된 딸을 폭행해 숨지게 한 40대 친부가 아동학대살해 혐의로 구속 송치되었습니다. 경찰은 피의자가 범행 직후 원격 삭제한 자택 내부 홈캠 영상을 디지털 포렌식을 통해 복원하여 혐의를 입증했습니다.",
+          "tag": "eco",
+          "title": "국토부 장관, 전월세 상승 원인으로 입주 물량 감소 지목",
+          "summary": "홍지선 국토교통부 장관은 전월세 상승의 주된 원인이 착공 부진에 따른 입주 물량 감소라며, 공급 확대가 근본적인 해결책임을 강조했다. 그는 내년 말까지 수도권 공적주택 약 10만 가구를 입주시키고 장기 민간임대 및 보편형 공공임대를 확대할 계획이라고 밝혔다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261020045800061"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261022034300003"
             },
             {
-              "name": "SBS 뉴스",
-              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008805015"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261022030500003"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "김여정 \"국경선 새 대응 수단 임무 대기, 확성기도 수일 내 준비\"",
+          "summary": "김여정 북한 노동당 총무부장은 군사분계선 월선에 대한 한국군의 경고 사격에 반발하며 전 국경선에 '새로운 대응 수단'이 임무 대기 태세에 들어갔고, 대남 확성기도 수일 내 대기 상태에 들어갈 것이라고 밝혔다. 또한, 한국 국방정책특별보좌관을 향해 거친 비난을 쏟아냈다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261022011451504"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1283571.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610220858001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "삼성E&A, 3분기 영업이익 5천6억원 기록하며 주가 강세",
+          "summary": "삼성E&A가 올해 3분기 영업이익 5천6억원을 기록하며 지난해 동기 대비 183.6% 증가한 호실적을 달성했다. 이는 시장 전망치를 크게 상회하는 수치이며, 삼성E&A는 약 7천800억원 규모의 자사주 취득 및 소각 계획도 발표했다. 이에 힘입어 주가는 15% 이상 강세를 보였다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261022026251527"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261022039500008"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -125,117 +91,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프, 우크라 제외 미·중·러 3자 회담 가능성 언급",
-          "summary": "도널드 트럼프 미국 대통령이 우크라이나 종전 협상에서 볼로디미르 젤렌스키 우크라이나 대통령 대신 다른 인물이 협상해야 한다고 주장했습니다. 또한, 우크라이나를 제외한 미국, 중국, 러시아 3자 회담 제의에 응할 용의가 있다고 밝혔으며, 핵무기 및 비핵화 문제를 논의할 것이지만 우크라이나 문제도 다룰 가능성을 열어뒀습니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610200801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
-            },
-            {
-              "name": "Wall Street Journal",
-              "url": "https://newscord.org/article/putin-proposes-trilateral-summit-with-trump-and-xi-to-end-ukraine-war-without-ze--Story_20261019_PutinproponeaTrumpyX25873e38"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 행정부, 중간선거 앞두고 유권자 사기 단속 강화",
-          "summary": "트럼프 행정부가 중간선거를 앞두고 캘리포니아주 거주자 28명을 유권자 사기 관련 혐의로 기소하며 유권자 사기 단속을 강화했습니다. 이 중 11명은 이미 구금되었으며, 법무부는 캘리포니아 주정부와 유권자 명부 문제로 갈등을 겪고 있습니다.",
+          "title": "캔자스주 상원 선거, 민주당 후보 약진으로 격전지 부상",
+          "summary": "캔자스주 상원 선거가 공화당 텃밭임에도 불구하고 민주당 후보의 약진으로 예상치 못한 격전지로 부상했다. 정치 신인인 민주당 후보가 거의 1세기 만에 주를 대표하는 민주당 상원의원이 될 가능성을 노리고 있다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/19/us/politics/doj-california-voting-crimes-trump-midterms.html"
+              "url": "https://www.nytimes.com/2026/10/21/us/5-things-to-know-about-roger-marshall.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj"
-            },
-            {
-              "name": "Sacramento Bee",
-              "url": "https://www.sacbee.com/news/california/article317685125.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/21/us/adam-hamilton-kansas-senate.html"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 대통령 지지율 하락 및 공적 직위 사적 이익 추구 여론 확산",
-          "summary": "최근 여론조사 결과, 도널드 트럼프 미국 대통령의 지지율이 31%로 최저치를 기록했습니다. 대다수 미국인(66%)은 트럼프 대통령이 공적 직위를 사적인 이익을 위해 사용한다고 생각하는 것으로 나타났습니다. 이러한 인식은 중간선거를 앞두고 공화당에 부담으로 작용할 수 있습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll"
-            },
-            {
-              "name": "Reuters/Ipsos",
-              "url": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "미국 경제, 흑인 실업률 상승으로 시장 약화 우려",
-          "summary": "9월 미국 흑인 실업률이 1%포인트 상승하여 7%에 달했으며, 이는 백인 노동자 실업률의 거의 두 배에 해당합니다. 전문가들은 흑인 실업률 상승과 비즈니스 서비스 부문의 저조한 고용률이 전체 실업률(4.2%)이 시사하는 것보다 노동 시장이 더 나쁜 상태임을 나타내는 초기 신호일 수 있다고 경고했습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html"
-            },
-            {
-              "name": "The Dallas Examiner",
-              "url": "https://www.dallasexaminer.com/business/black-unemployment-just-rose-at-its-fastest-pace-since-covid-21fb6880"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "미국 정부, 중국 AI 모델 DeepSeek의 정부 사용 금지 발표",
-          "summary": "미국 국토안보부(DHS)는 중국 기업 DeepSeek의 모든 인공지능(AI) 기술과 해당 AI 모델로 구축된 기술을 대부분의 정부 시스템에서 제거하도록 명령했습니다. DHS는 DeepSeek 사용 시 민감한 데이터가 중국으로 이전될 수 있고, 모델 자체에 악성코드나 보안 취약점이 포함될 가능성을 우려했습니다.",
+          "title": "엘론 머스크, 테슬라와 스페이스X 합병 검토 중 언급",
+          "summary": "엘론 머스크는 테슬라와 스페이스X의 합병을 고려 중이라고 밝혔다. 스페이스X의 호실적은 AI 관련 주식 상승에 기여했으며, 합병이 성사될 경우 머스크의 로켓, 자동차, AI 사업이 3조 달러 이상의 가치를 가진 단일 회사로 통합될 것으로 예상된다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks?utm_source=rss_feed"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/21/business/spacex-musk-tesla.html"
             },
             {
-              "name": "Koreadaily",
-              "url": "https://en.koreadaily.com/deepseek-us-government-ban-federal-it-systems"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
             }
           ],
           "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
-          "tag": "soc",
-          "title": "캐나다 앨버타주, 캐나다 잔류 또는 독립 투표 진행",
-          "summary": "캐나다 앨버타주 주민들이 캐나다에 잔류할지, 아니면 분리 독립을 위한 구속력 있는 주민투표를 추진할지 결정하는 투표를 진행했습니다. 앨버타 주 총리는 통일된 캐나다를 지지하지만, 최근 몇 년간 석유 부유한 이 지역에서 분리주의 정서가 고조되어 왔습니다.",
+          "tag": "pol",
+          "title": "트럼프, 중간선거 앞두고 투표 시스템 무결성 공격 및 선거 개입 우려 제기",
+          "summary": "도널드 트럼프 전 대통령이 중간선거를 앞두고 투표 시스템의 무결성에 대한 공격과 선거 개입 우려를 제기했다. 그는 비시민권자 및 사망자의 유권자 등록, 우편 투표의 위조 가능성 등을 주장하며 선거 결과에 대한 불신을 조장하고 있다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-whistle-blower.html"
             },
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote"
+              "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump"
             },
             {
-              "name": "Fox News",
-              "url": "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "메타, 사용자 데이터 개인정보 보호 소송에서 250억 달러 벌금 부과",
+          "summary": "메타(Meta)가 뉴멕시코주에서 사용자 데이터 개인정보 보호 관련 소송에 휘말려 250억 달러(약 33조 7천억원)의 벌금을 부과받았다. 법원은 메타가 페이스북 사용자 데이터 처리 방식에 대해 수년간 대중을 속였다고 판단했으며, 이는 케임브리지 애널리티카 스캔들로부터 시작되었다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261022029600009"
             }
           ],
           "verification": "multi",
@@ -250,37 +178,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "일본, 화성 위성 포보스 표본 회수 탐사선 발사",
-          "summary": "일본 우주항공연구개발기구(JAXA)가 20일 화성 위성 포보스에서 암석과 흙을 채취해 지구로 가져올 탐사선 MMX를 발사했습니다. 이 임무가 성공할 경우 달을 제외한 위성 표본 회수로는 사상 첫 기록이 됩니다. 탐사선은 2027년 8월 화성에 도착해 2031년 말 지구로 돌아올 예정입니다.",
+          "title": "러시아, 미국 시민 석방하며 트럼프 특사와의 우크라이나 평화 회담 개최",
+          "summary": "러시아가 우크라이나에서 싸웠다는 혐의로 수감된 74세 미국 시민 스티븐 허바드를 석방했다. 이는 블라디미르 푸틴 대통령이 도널드 트럼프 대통령의 특사 스티브 윗코프와 우크라이나 평화 회담을 위해 상트페테르부르크에서 만난 가운데 이뤄졌다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/science/science_general/1283172.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
             },
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/"
-            },
-            {
-              "name": "Astronomy.com",
-              "url": "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "중국, 첨단 핵잠수함 이용 미사일 시험 발사 공개",
-          "summary": "중국은 올해 초 태평양에서 가장 진보된 핵잠수함을 이용해 대륙간탄도미사일(ICBM)을 시험 발사했다고 밝혔습니다. 이는 중국의 핵심 국방 기술 발전을 강조하는 것으로, 해상 기반 핵 전력의 중요한 진전을 의미합니다. 이 발사는 지역 국가들로부터 비판을 받았습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/"
-            },
-            {
-              "name": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-reveals-advanced-nuclear-sub-was-used-to-test-fire-missile"
+              "url": "https://www.japantimes.co.jp/news/2026/10/22/world/putin-us-hostage-release/"
             }
           ],
           "verification": "multi",
@@ -288,20 +199,16 @@
         },
         {
           "tag": "eco",
-          "title": "중국 경제, AI 붐에 힘입어 예상보다 빠른 성장 기록",
-          "summary": "중국 경제가 올해 3분기 동안 전년 대비 4.5% 성장하여 예상보다 빠른 성장세를 보였습니다. 이는 인공지능(AI) 관련 장비 등 수출 호조에 힘입은 것으로 분석됩니다. 산업 생산은 증가했으나, 소매 판매와 고정 자산 투자는 여전히 부진한 모습을 보였습니다.",
+          "title": "일본, 관광객 지출 증가 속 면세 쇼핑 제도 개편 준비",
+          "summary": "일본의 외국인 관광객 지출이 방문객 수 감소에도 불구하고 3분기에 3.2% 증가했다. 특히 1인당 지출은 6.1% 증가했으며, 이에 따라 일본 소매업체들은 국내 재판매 방지를 위한 면세 관광 쇼핑 제도의 개편을 준비하고 있다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/foreign-visitors-spending/"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://m.economictimes.com/news/international/world-news/chinas-economy-grows-4-5-pc-in-q3-as-ai-driven-exports-offset-weak-domestic-demand/articleshow/135047982.cms"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping"
             }
           ],
           "verification": "multi",
@@ -309,24 +216,37 @@
         },
         {
           "tag": "tec",
-          "title": "미국, 전 구글 엔지니어의 AI 영업비밀 절도 관련 중국 기업 제재",
-          "summary": "미국 국무부는 전 구글 소프트웨어 엔지니어 딩린웨이(Ding Linwei)의 AI 영업비밀 절도 혐의와 관련하여 중국 기업 5곳에 제재를 부과했습니다. 제재 대상에는 딩린웨이가 설립한 상하이 즈쑤안 테크놀로지(Shanghai Zhisuan Technology)와 벤처 캐피털 회사인 미라클플러스(MiraclePlus) 등이 포함됩니다.",
+          "title": "중국 기업, 공격자 무력화 및 자동차 들어 올리는 '수호자 로봇' 공개",
+          "summary": "중국의 유니트리 로보틱스(Unitree Robotics)가 공격자를 무력화하고 자동차를 들어 올릴 수 있는 '수호자 로봇' H2-X 모델을 공개했다. 이는 중국 로봇 산업이 실용적이고 상업적인 활용에 집중하려는 전략적 변화를 보여준다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft?utm_source=rss_feed"
+              "url": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "pol",
+          "title": "미국, 반도체 수출 제한으로 중국에 대한 AI 기술 우위 유지 강조",
+          "summary": "미국 하원 정보위원회 최고 민주당원 짐 하임스는 미국이 반도체 및 AI 기술 분야에서 중국에 대한 우위를 유지하기 위해 반도체 수출 제한이 핵심적인 수단이라고 강조했다. 그는 첨단 칩의 중국 유입을 늦추는 것이 전 세계 기술 경쟁에서 워싱턴에 필수적이라고 언급했다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3371692/top-democrat-says-chip-restrictions-are-key-lever-us-ai-edge-over-china"
             },
             {
-              "name": "The Hawk",
-              "url": "https://www.thehawk.in/news/world/us-sanctions-five-chinese-firms-over-ai-theft"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/article/3371690/us-colleges-scale-back-cooperation-chinese-institutions-after-pentagons-push"
             },
             {
-              "name": "Wall Street Journal",
-              "url": "https://www.wsj.com/article/u-s-sanctions-chinese-ai-startup-founded-by-ex-google-employee-7ce7204d"
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -337,79 +257,79 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "프랑스, 폭력 시위 확산에 일부 지역 야간 통행금지령 발동",
-          "summary": "프랑스에서 생활비 상승과 공공 서비스 악화에 항의하는 대규모 시위가 폭력 사태로 번지자 정부가 파리, 릴, 니스 등 일부 도시에 야간 통행금지령을 내렸습니다. 세바스티앵 르코르뉘 총리는 비상사태 선포도 배제하지 않고 있으며, 질서 회복에 대한 강력한 의지를 표명했습니다.",
+          "title": "러시아, 키이우 주택가 미사일 공격…3자 평화회담 동의 속 이중 행보",
+          "summary": "러시아군이 키이우 주택가를 미사일로 공격하여 6명이 부상했다. 이번 공격은 블라디미르 푸틴 러시아 대통령이 스티브 윗코프 미국 대통령 특사와 만나 미국·러시아·우크라이나 3자 종전 협상 재개에 원칙적으로 동의한 지 몇 시간 만에 발생했다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261022035000009"
+            },
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/europe/1283570.html"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "마크롱 대통령, 자국 소요 사태 정치적 이용하는 외국 지도자 비난",
+          "summary": "에마뉘엘 마크롱 프랑스 대통령이 자국 내 소요 사태에 대한 외국 지도자들의 '어리석은 발언'을 비난하며 정치적 이용에 대한 우려를 표명했다. 그는 물가 급등과 공공서비스 부족으로 인한 프랑스 사회의 불만이 극좌·극우 분열과 맞물려 표출되었다고 분석했다.",
           "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1283169.html"
+              "url": "https://www.hani.co.kr/arti/international/international_general/1283569.html"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610200858001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/france-riots-protests-macron-vows-order-pm-urges-curfews"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         },
         {
           "tag": "pol",
-          "title": "미 국방장관, 이스라엘 비공개 방문 및 대이란 공격 재개 논의",
-          "summary": "피트 헤그세스 미국 국방장관이 이스라엘을 비공개 방문하여 베냐민 네타냐후 이스라엘 총리와 회동했습니다. 이 회동은 미국과 이스라엘이 이란에 대한 대규모 군사작전 재개 가능성을 논의하는 과정에서 이루어진 것으로 보도되었으며, 양국 당국은 방문에 대한 확인을 거부했습니다.",
+          "title": "교황 레오 14세, 폐암 수술 후 추가 치료 불필요 진단",
+          "summary": "최근 폐암 수술을 받은 교황 레오 14세가 암 전이가 없어 추가 치료가 필요 없다는 진단을 받았다. 의료진은 교황의 폐암이 초기 단계였으며, 다음 달 예정된 남미 순방에도 의학적 장애가 없다고 밝혔다.",
           "sources": [
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610200822001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202610220829001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Axios (Ynetnews)",
-              "url": "https://www.ynetnews.com/article/bkvng7vnmg"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3371691/pope-leo-doesnt-need-further-treatment-lung-cancer-doctors-say"
             },
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/middle-east/hegseth-meets-netanyahu-unannounced-visit-israel-reports-axios-2026-10-19"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "교황 레오 14세, 젤렌스키와 통화해 휴전 및 인도적 지원 논의",
-          "summary": "교황 레오 14세가 볼로디미르 젤렌스키 우크라이나 대통령과 통화하여 러시아군 포위 도시인 올레쉬키의 심각한 상황에 대한 인도주의적 휴전과 인도적 지원 방안을 논의했습니다. 교황은 식량 및 의료 지원 도착과 민간인 안전 대피를 위한 양측의 협력을 희망한다고 밝혔습니다.",
+          "tag": "tec",
+          "title": "유럽 의회, 메타의 AI 약관에 대한 규제 준수 및 기업 책임 강화 요구",
+          "summary": "유럽 의회는 메타(Meta)가 새로 도입할 AI 약관에 대해 규제 준수 및 기업의 책임 강화를 요구하고 있다. 유럽의 주요 미디어 회사들은 메타가 자사 웹사이트 콘텐츠를 AI 학습에 사용하도록 하는 새로운 약관을 오는 10월 30일 이전에 중단하도록 규제 당국에 요청했다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/19/pope-leo-xiv-holds-call-with-zelenskyy-vatican-says"
-            },
-            {
-              "name": "Ukrainska Pravda",
-              "url": "https://www.pravda.com.ua/eng/news/2026/10/19/8058814"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "엔비디아 CEO, 독일 AI 경쟁력 저하 경고 및 AI 협정 발표",
-          "summary": "젠슨 황 엔비디아 CEO는 독일이 인공지능(AI) 경쟁에서 뒤처지고 있다고 경고하며, 정책 입안자들이 AI를 더 신속하게 실천해야 한다고 촉구했습니다. 이에 독일 정부는 엔비디아와 협력하여 독일 산업 전반에 AI 제품 통합을 가속화하기 위한 공동 AI 협정을 발표할 예정입니다.",
-          "sources": [
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race"
-            },
-            {
-              "name": "Handelsblatt (Ground News)",
-              "url": "https://ground.news/article/artificial-intelligence-merz-closes-ai-pact-with-nvidia"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
+          "verification": "single",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -420,20 +340,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "OpenAI 전 직원, 사우디아라비아 지원 받아 기밀 유출 혐의",
-          "summary": "OpenAI 전 직원이 회의실에 녹음 장치를 설치하려 한 혐의로 기소되었으며, 사우디 정부로부터 상당한 지원을 받았다는 주장이 법원 서류에서 제기되었습니다. 미 검찰은 피고인이 사우디 왕실 구성원과 자주 소통했으며, 체포 후 사우디 군 관계자가 그의 가족 항공료를 지불했다고 주장했습니다.",
+          "title": "AI, PHP 프로그래밍 언어 취약점 발견…전 세계 웹사이트 비상",
+          "summary": "인공지능(AI)이 전 세계 웹사이트의 약 75%에서 사용되는 프로그래밍 언어 PHP에서 치명적인 보안 취약점 두 건을 발견했다. 이 취약점은 해커가 원격에서 시스템을 장악할 수 있게 하여 유럽 일부 정부 기관들은 웹사이트 운영을 중단하는 등 전 세계적으로 비상이 걸렸다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610220819001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/article/3371694/websites-go-dark-worldwide-ai-exposes-critical-security-flaws"
             },
             {
-              "name": "The Economic Times",
-              "url": "https://m.economictimes.com/tech/artificial-intelligence/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing/articleshow/135054947.cms"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -441,29 +361,25 @@
         },
         {
           "tag": "tec",
-          "title": "일론 머스크와 Anthropic, 대중에게 주식 기부 계획 발표",
-          "summary": "일론 머스크의 스페이스X와 인공지능 기업 Anthropic이 대중을 위한 대규모 주식 기부 계획을 발표했습니다. 머스크는 내년에 스페이스X 주식 1주를 모든 미국 어린이에게 기부하겠다고 밝혔으며, Anthropic은 회사 주식의 5%를 공공 복리 기금에 기부할 예정입니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "하루 3천 보 걷기, 알츠하이머 뇌 변화 지연 효과 발견",
-          "summary": "새로운 연구에 따르면 하루에 3천 보만 걸어도 알츠하이머 관련 뇌 변화를 늦추는 데 도움이 될 수 있습니다. 신체 활동은 해로운 타우 단백질 축적을 줄이고 인지 및 기능 저하를 거의 절반으로 감소시키는 것과 관련이 있었으며, 이러한 효과는 질병 초기 징후가 있는 사람들에게서도 나타났습니다.",
+          "title": "화성 탐사 로버 퍼서비어런스, 자율 주행으로 역대 최장 거리 이동",
+          "summary": "NASA의 화성 탐사 로버 퍼서비어런스가 5년 반 만에 45.22km를 이동하며 역대 가장 먼 외계 행성 주행 기록을 경신했다. 이는 과거 오퍼튜니티 로버가 15년 가까이 걸려 달성한 기록을 크게 앞지른 것으로, 퍼서비어런스의 첨단 자율 주행 시스템인 AutoNav 덕분이다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "과학자들, 인간 세포 노화 60년 이상 역전시키는 재생 혁신 달성",
+          "summary": "독일 과학자들이 80세 노인의 혈액 세포를 20세 미만의 신경 줄기세포로 변환시키며, 인간 세포의 노화를 60년 이상 되돌리는 획기적인 재생 기술을 개발했다. 이 발견은 세포 노화 역전 메커니즘을 밝히고 알츠하이머와 같은 노화 관련 질병 연구에 새로운 가능성을 제시한다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
             }
           ],
           "verification": "single",

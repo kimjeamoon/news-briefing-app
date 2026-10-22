@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-20",
-  "date_str": "2026년 10월 20일 (화)",
+  "date": "2026-10-22",
+  "date_str": "2026년 10월 22일 (목)",
   "highlights": [
-    "Nscale과 Anthropic, 450억 달러 규모의 컴퓨팅 계약 추가 논의 중",
-    "엔비디아, 기업 및 개인용 AI 에이전트 실행을 위한 새로운 오픈 모델 출시",
-    "마이크로소프트, AI 에이전트를 '내부 위협'으로 간주하며 기업 보안 강화 경고",
-    "AI 코딩 도구 OpenCode 해킹으로 사용자 API 키 유출, 대규모 피해 발생",
-    "아마존, 인디애나에 새로운 핵발전소 건설에 자금 지원 협의"
+    "Meta의 AI 앱 'Muse' 사용자 1천만 명 돌파, 쇼핑이 주요 활동으로 부상",
+    "Recursive, AI가 자체 개발한 노트북용 코딩 모델 'Flint' 출시",
+    "OpenAI의 최신 AI 모델, Google Cloud 및 Antigravity에 도입 예정",
+    "블랙스톤, AI 인프라 구축 부채 우려 과장되었다고 언급",
+    "PHP의 20년 묵은 취약점, AI로 발견되어 인터넷에 혼란 야기"
   ],
   "sections": [
     {
@@ -15,12 +15,38 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "엔비디아, 기업 및 개인용 에이전트 오픈 모델 출시",
-          "summary": "엔비디아가 기업용 Nemotron 3.5 Super VL 모델과 개인용 Bolt 모델을 포함한 새로운 오픈 가중치 모델들을 출시했습니다. 이 모델들은 온디바이스 AI 에이전트와 엣지 컴퓨팅을 지원하며, 기업이 자체 데이터센터에서 개방형 모델을 운영하고 온디바이스 AI 에이전트를 활용하는 추세에 대응합니다.",
+          "title": "Meta의 AI 앱 'Muse' 사용자 1천만 명 돌파, 쇼핑이 주요 활동",
+          "summary": "Meta는 AI 앱 Muse가 1천만 명 이상의 사용자를 확보했으며, 쇼핑이 주요 활동 중 하나라고 발표했습니다. CEO 마크 저커버그는 Muse 사용자 중 약 25%가 매일 앱을 사용하고 있으며, 쇼핑을 통한 평균 구매액은 200달러를 초과한다고 밝혔습니다. Meta는 Muse가 앞으로 자사 다른 앱보다 사용자당 더 많은 수익을 창출할 것으로 예상하고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+              "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Recursive, AI가 개발한 노트북용 코딩 모델 'Flint' 공개",
+          "summary": "AI 스타트업 Recursive는 AI가 대부분 구축한 노트북용 코딩 모델 'Flint'를 출시했습니다. 이 모델은 Recursive의 자동화된 연구 시스템인 '유레카 머신'의 도움을 받아 4개월 이내에 개발되었으며, 사용자의 컴퓨터에서 실행되어 오프라인 사용과 코드 프라이버시 유지를 가능하게 합니다. Flint는 400억 개의 매개변수 중 25억 개만 사용하여 일반 노트북에서도 가볍게 작동하도록 설계되었습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "OpenAI 최신 AI 모델, Google Cloud 및 Antigravity 출시 예정",
+          "summary": "OpenAI의 최신 AI 모델인 GPT 6.1 Astra, Sol, Luna가 Google Cloud 및 Google의 에이전트 기반 코딩 도구 Antigravity에서 제공될 예정입니다. 이로써 Google Cloud는 세 가지 주요 폐쇄형 LLM(Google의 Gemini, Anthropic의 Claude, OpenAI의 GPT) 모두에 대한 액세스를 제공하는 유일한 대규모 클라우드 공급자가 됩니다. 기업 고객들은 Google Cloud Marketplace를 통해 OpenAI 모델을 Google 인프라에서 실행할 수 있게 됩니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
             }
           ],
           "verification": "single",
@@ -35,12 +61,12 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "MIT, 대칭 원리로 태아 진단 AI 신뢰성 향상",
-          "summary": "MIT 연구진이 E(3)-Pose라는 딥러닝 모델을 개발하여 태아의 좌우 대칭 원리를 AI에 내재화시켰습니다. 이 모델은 태아가 움직이는 중에도 고해상도 3D 이미지를 재구성하여 태아 뇌 영상의 진단 정확도를 높이고 불필요한 재방문 가능성을 줄이는 데 기여할 수 있습니다.",
+          "title": "LLM 에이전트 자율 계획 및 도구 사용 능력 향상 연구 'Navalia'",
+          "summary": "대규모 언어 모델(LLM) 에이전트의 자율 계획 및 도구 사용 능력을 향상시키는 'Navalia' 연구가 발표되었습니다. Navalia는 검증 가능한 작업 합성과 장기 후학습을 결합한 프레임워크로, 기업 재무 보고서를 데이터 소스로 활용하여 추적 가능한 증거와 실제 데이터 종속성을 가진 분석 작업을 생성합니다. 이를 통해 OfficeQA Pro, FinSearchComp 등 5개 벤치마크에서 기준 모델 대비 일관된 성능 향상을 달성했습니다.",
           "sources": [
             {
-              "name": "MIT News (AI)",
-              "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.26887"
             }
           ],
           "verification": "single",
@@ -48,12 +74,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "Goodfire 연구원, 신경망 본질에 대한 새로운 주장 제기",
-          "summary": "AI 스타트업 Goodfire의 연구원 닉 카마라타(Nick Cammarata)가 신경망의 본질에 대한 '폭발적인 주장'을 담은 26,000단어 분량의 블로그 게시글을 발표했습니다. 이 주장은 AI 업계에 광범위한 추측과 새로운 관점을 불러일으키고 있습니다.",
+          "title": "LLM 활용 다목적 강화 학습으로 RTL 코드 생성 최적화 연구",
+          "summary": "LLM을 활용한 다목적 강화 학습을 통해 RTL(Register-Transfer Level) 코드 생성을 최적화하는 연구가 발표되었습니다. 이 방법은 회로 PPA(전력, 성능, 면적) 최적화를 위해 여러 목표를 단일 보상으로 통합하는 기존 방식의 한계를 극복하고, 다양한 파레토 최적 해를 생성합니다. RTLLM v2 벤치마크 평가에서 PPA 최적화 없는 기준선 대비 Hypervolume을 13.3%p 향상시키고, 단일 목적 강화 학습 방법 대비 14.4%p 향상시켰으며 회로 다양성에서도 우수함을 보였습니다.",
           "sources": [
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.26904"
             }
           ],
           "verification": "single",
@@ -61,12 +87,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "가상 무인도 AI 에이전트, '놀이' 유사 행동 관찰",
-          "summary": "연구자들이 AI 에이전트를 가상의 무인도에 30시간 동안 홀로 방치하는 실험을 진행했습니다. 이 실험에서 에이전트들은 지시가 없는 상황에서도 '놀이'와 유사한 행동을 보였으며, 이는 AI의 내재적 행동 패턴과 자율적 학습 가능성에 대한 탐구의 일환입니다.",
+          "title": "방사선 보고서 구조화를 위한 엣지 배포 AI 'MedPAO-Assist' 연구",
+          "summary": "방사선 보고서 구조화를 위한 엣지 배포 가능하고 모달리티 인식 에이전트 AI인 'MedPAO-Assist' 연구가 소개되었습니다. 이 프레임워크는 방사선 전문의의 구술 및 음성 명령을 통해 구조화된 방사선 보고서를 생성하며, 약 3.3GB의 최대 RAM과 31초의 평균 종단 간 지연 시간으로 표준 노트북 CPU에서 실행 가능합니다. Chest X-ray, Chest CT, Abdomen CT, Brain MRI 등 네 가지 주요 이미징 모달리티를 지원하며, 0.6B 매개변수 범위의 SLM(Small Language Model)으로 전체 파이프라인을 실행하는 초기 에이전트 시스템 중 하나입니다.",
           "sources": [
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.26913"
             }
           ],
           "verification": "single",
@@ -74,20 +100,12 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "LLM 에이전트 제어·신뢰성 향상 연구 다수 발표",
-          "summary": "arXiv에 공개된 여러 논문은 LLM 에이전트의 제어, 추론 및 신뢰성 향상을 위한 다양한 연구를 다룹니다. 여기에는 인간 제어 지속성을 위한 구조화된 권한 주입, 시나리오 적응형 사용자 표현을 위한 사용자 인코더 재고, 계층적 규칙 구성을 통한 추론 강화 등이 포함됩니다.",
+          "title": "스마트 제조 위한 LLM 기반 차세대 에이전트 'Industrial Agentic AI' 연구",
+          "summary": "스마트 제조를 위한 LLM 기반 차세대 에이전트인 'Industrial Agentic AI' 연구가 발표되었습니다. 이 연구는 LLM이 사전에 정의된 워크플로우를 넘어 자율적인 계획 및 실행을 가능하게 하여 스마트 제조에 새로운 기회를 제공한다고 설명합니다. 동적인 환경, 복잡한 물리적 제약, 엄격한 신뢰성 요구 사항 등 산업 환경의 핵심 과제를 분석하고, 산업 에이전트의 개념, 특성, 분류 체계, 시스템 아키텍처 및 응용 사례를 제시합니다.",
           "sources": [
             {
               "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.22373"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.22400"
-            },
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.22403"
+              "url": "https://arxiv.org/abs/2610.26941"
             }
           ],
           "verification": "single",
@@ -102,12 +120,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "Nscale, Anthropic과 450억 달러 컴퓨팅 계약 논의",
-          "summary": "AI 인프라 제공업체 Nscale이 Anthropic과 또 다른 450억 달러 규모의 컴퓨팅 거래를 논의 중인 것으로 보도되었습니다. 이는 한 달여 전 체결된 유사한 규모의 계약에 이은 것으로, AI 인프라 시장에서 컴퓨팅 자원 확보 경쟁이 심화되고 있음을 보여줍니다.",
+          "title": "블랙스톤 AI 책임자, AI 인프라 구축 부채 우려 과장됐다 언급",
+          "summary": "사모펀드 블랙스톤의 AI 책임자 Jas Khaira는 AI 인프라 구축 부채에 대한 우려가 과장되었다고 밝혔습니다. Khaira는 블랙스톤이 데이터 센터에 대규모 대출을 제공하고 최첨단 AI 모델 및 애플리케이션에 투자하는 등 AI 붐의 핵심에 있다고 강조했습니다. 블랙스톤은 컴퓨팅 자금 조달에 중점을 두고 유연한 자본 구조를 제공하며, 하이퍼스케일러를 제외한 가장 큰 컴퓨팅 자산 소유자라고 설명했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+              "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
             }
           ],
           "verification": "single",
@@ -115,12 +133,12 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Tenstorrent, 62억 달러 가치 기록하며 엔비디아 경쟁자 부상",
-          "summary": "AI 칩 스타트업 Tenstorrent가 15억 달러 규모의 투자를 유치하며 기업 가치가 62억 달러로 급등했습니다. 이로써 Tenstorrent는 오픈 가중치 AI 칩 스케일업에 박차를 가하며 엔비디아의 시장 지배력에 도전하는 주요 경쟁자로 부상하고 있습니다.",
+          "title": "Blacksmith, AI 코드 구축 및 테스트 플랫폼으로 유니콘 등극",
+          "summary": "AI 코드를 포함한 소프트웨어 구축 및 테스트 플랫폼 Blacksmith가 Sequoia로부터 6,600만 달러의 시리즈 C 투자를 유치하며 10억 달러의 기업 가치를 달성, 유니콘 기업이 되었습니다. Blacksmith는 지속적 통합(CI) 과정을 효율화하여 AI가 작성하는 코드의 신뢰성을 높이는 데 주력하고 있습니다. 회사는 연간 반복 매출이 17배 성장했으며 9천만 건 이상의 CI 작업을 수행했다고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+              "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
             }
           ],
           "verification": "single",
@@ -128,38 +146,25 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "AI 컴패니언 앱 Tolan, 3천만 달러 추가 투자 유치",
-          "summary": "AI 컴패니언 앱 Tolan이 3천만 달러의 추가 투자를 유치하여 총 투자액을 두 배로 늘리고 기업 가치를 2억 6,800만 달러 이상으로 높였습니다. Tolan은 25만 명 이상의 월간 활성 사용자를 확보하며 일상생활 관리, 관계 및 감정 탐색을 돕는 서비스로 인기를 얻고 있습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Replika 창업자, 다중 작업 AI 비서 'Wabi' 공식 출시",
-          "summary": "인기 AI 챗봇 Replika의 창업자 유지니아 쿠이다(Eugenia Kuyda)가 새로운 개인 AI 비서 'Wabi'를 공식 출시했습니다. Wabi는 다중 스레드, 멀티플레이어 메시징 앱 형태로 다양한 작업과 장기 목표를 위한 맞춤형 앱을 구축하고 활용할 수 있도록 설계되었습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "아마존, 인디애나 핵발전소 건설에 자금 지원 협의",
-          "summary": "아마존이 X-energy 및 American Electric Power(AEP)와 인디애나주에 새로운 핵에너지 시설 건설에 자금을 지원하기로 합의했습니다. 이는 증가하는 데이터 센터와 AI 인프라의 전력 수요를 충족시키기 위한 아마존의 에너지 전략의 일환으로, 지역 전력망과 아마존 데이터 센터에 최대 960메가와트의 무탄소 에너지를 공급하는 것을 목표로 합니다.",
+          "title": "Meta, AI 이니셔티브 자금 조달 위해 새로운 종류의 주식 발행 예정",
+          "summary": "Meta는 AI 이니셔티브 자금 조달을 위해 새로운 종류의 의결권 없는 주식을 발행할 예정이라고 발표했습니다. 이 주식은 잠재적 인수 및 직원 보상에도 사용될 예정이며, 2027년부터 거래가 시작됩니다. Meta는 AI 전환 시대에 경쟁하고 성장을 유지하며 인프라를 확장하는 데 필요한 투자가 상당하다고 설명하며, 올해 자본 지출이 1,350억 달러에서 1,450억 달러에 이를 것으로 예상하고 있습니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+              "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
+            }
+          ],
+          "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "데이터 센터 급증으로 텍사스 대기 질 악화 우려 제기",
+          "summary": "생성형 AI의 물리적 인프라 중심지인 텍사스에서 데이터 센터의 급증으로 인해 대기 오염이 2000년대 수준으로 악화될 수 있다는 우려가 제기되었습니다. Houston Advanced Research Center(HARC)의 보고서에 따르면, 모든 계획된 데이터 센터 프로젝트가 텍사스 전력망에 연결될 경우 5년 내 미세먼지 및 스모그 유발 오염물질이 급증하여 수십 년간의 대기 질 개선 노력이 사라질 수 있습니다. 개발자가 전력 수요를 가스 터빈으로 충당할 경우 오염 수준은 더욱 심각해질 수 있습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
             }
           ],
           "verification": "single",
@@ -174,12 +179,12 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "마이크로소프트, AI 에이전트를 '내부 위협'으로 간주",
-          "summary": "마이크로소프트가 AI 에이전트를 내부 위협으로 간주하고, 기업이 직원들이 사용하는 에이전트를 면밀히 주시해야 한다고 강조하며 새로운 보안 기능인 'Guardian Agents'를 도입했습니다. 사티아 나델라 CEO는 '프론티어 모델을 신뢰할 수 없다'고 경고하며 AI 모델 제공업체와 무관한 독립적인 감시 시스템 구축을 촉구했습니다.",
+          "title": "Anthropic, AI 모델이 대규모 인명 피해 유발 시 차단하는 법안 제안",
+          "summary": "Anthropic은 AI 모델이 50명 이상의 사망자 또는 10억 달러 이상의 재산 피해를 초래할 수 있는 '예측 가능한 임박한 위험'이 발생할 경우 모델 배포를 차단할 수 있는 AI 안전 법안 초안을 제안했습니다. 이 법안은 독립적인 평가자가 모델의 잠재적 재난 가능성을 평가하고, 위험이 감지되면 상무부에 통보하여 모델 출시 중단을 요청하는 내용을 담고 있습니다. 해당 위험은 생물학 무기 생성, 모델의 개발자 통제 회피, 사이버 공격 등으로 인한 것일 수 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+              "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
             }
           ],
           "verification": "single",
@@ -187,38 +192,29 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "Hugging Face, AI 모델 벤치마킹 방법론 한계 지적",
-          "summary": "Hugging Face의 정책 책임자 이렌 솔라이만(Irene Solaiman)은 AI 모델 벤치마킹이 복잡하고 미성숙하며, '임베디드 AI 평가자'가 쉬운 해결책이 될 수 없다고 지적했습니다. 그녀는 모델 평가의 재현성, 다양한 테스트 간의 비교 가능성, 시스템 전반의 평가 필요성 등을 강조하며 AI 평가 방법론의 한계를 강조했습니다.",
+          "title": "AI가 발견한 PHP 취약점으로 인터넷 혼란, 높은 보안 위험 경고",
+          "summary": "OpenAI와 Google의 Wiz가 AI를 활용하여 PHP에서 20년 이상 된 두 가지 심각한 취약점을 발견했으며, 이로 인해 인터넷 웹사이트의 약 70%가 영향을 받을 수 있다는 경고가 나왔습니다. NSA는 즉시 패치할 수 없는 웹사이트는 오프라인으로 전환할 것을 권고했으며, 취약점은 공격자가 서버 파일 시스템이나 데이터베이스에 침투할 수 있도록 합니다. 과거에는 복잡하여 악용하기 어려웠던 이 취약점들이 AI 덕분에 쉽게 악용될 수 있게 되어 높은 위험으로 간주됩니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+              "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "FBI, 전 OpenAI 엔지니어 스파이 혐의로 '사우디 정부 문서' 발견",
-          "summary": "미국 FBI가 기밀 회의실 도청 및 OpenAI 기밀 절도 혐의를 받는 전 OpenAI 엔지니어 압둘라흐만 알포잔(Abdulrahman Alfozan)의 아이폰에서 'Saudi Gov Docs' 폴더를 발견했다고 밝혔습니다. 이는 AI 기술과 국가 안보 간의 긴밀한 관계와 스파이 활동에 대한 우려를 제기하고 있습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "AI 코딩 도구 OpenCode 해킹, 사용자 API 키 유출 피해",
-          "summary": "오픈소스 AI 코딩 에이전트 OpenCode의 구형 시스템이 해킹당해 전체 사용자 중 1.4%에 해당하는 OpenCode Console 사용자들의 API 키가 유출되었습니다. 이로 인해 사용자들은 OpenAI, Anthropic, Google AI 계정에서 수백에서 천 달러 이상의 무단 요금이 발생하는 피해를 입었으며, 이는 AI 도구의 보안 취약성과 대규모 AI 기반 사이버 공격 방어의 어려움을 보여줍니다.",
+          "title": "Amazon은 AI 쇼핑 에이전트 차단, Walmart는 허용하며 상반된 정책",
+          "summary": "Amazon이 AI 에이전트의 구매 활동을 차단하는 반면, Walmart는 AI 에이전트가 고객을 대신하여 구매할 수 있도록 허용하는 상반된 정책을 발표했습니다. Walmart는 AI 에이전트 전용 게이트웨이를 출시하고, 고객이 에이전트 프로필을 통해 구매 내역을 구분하고 지출 한도를 설정할 수 있는 기능을 제공할 예정입니다. 이는 Walmart가 Meta의 Muse와 같은 주요 AI 에이전트와의 협력 및 ChatGPT, Gemini 등 인기 AI 앱과의 통합을 확장하는 노력의 일환입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+              "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
             }
           ],
           "verification": "single",
