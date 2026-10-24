@@ -1,19 +1,46 @@
 {
-  "date": "2026-10-24",
-  "date_str": "2026년 10월 24일 (토)",
+  "date": "2026-10-25",
+  "date_str": "2026년 10월 25일 (일)",
   "highlights": [
-    "OpenAI, AI 모델 학습 시 인터넷 사용 중단 발표",
-    "Google, AI 기능 사용 시 Gmail 및 Google Photos 데이터 광고 활용 가능하도록 개인정보처리방침 업데이트",
-    "MIT 연구진, 고립된 AI 에이전트들의 자율적인 게임 발명 및 학습 행동 연구 발표",
-    "Uber 경쟁사 inDrive, Pony.ai 및 Nvidia와 협력하여 중앙아시아 로보택시 테스트 계획",
-    "미국 정부, 인텔에 외국산 로봇 사용 금지 규제 관련 예외 적용"
+    "OpenAI, AI 모델 학습에 실시간 인터넷 사용 중단 선언",
+    "펜실베이니아주, AI 생성 광고 라벨링 의무화 법안 통과",
+    "AI 모델 정치적 편향성 연구: Grok은 공화당, OpenAI 모델은 민주당 선호",
+    "Block, 사람 목소리 닮은 새로운 음성 모델 'Dessa' 발표",
+    "Nvidia CEO, 마이크로덕 로봇 선보이며 2만 대 판매 기록"
   ],
   "sections": [
     {
       "name": "모델·제품 출시",
       "flag": "🚀",
       "en": "MODELS & PRODUCTS",
-      "stories": []
+      "stories": [
+        {
+          "title": "Block, 사람처럼 감정 표현하는 새 음성 모델 'Dessa' 공개",
+          "summary": "Block의 연구소에서 개발된 새로운 음성 모델 'Dessa'는 사람의 웃음, 멈춤, 울음 등 다양한 감정을 표현하여 실제 사람 목소리와 흡사합니다. 이 모델은 사람의 음성 데이터로만 학습되었으며, 로컬에서 실행 가능하고 동시 말하기 및 듣기를 지원하는 전이중(full-duplex) 모델입니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "텍스트 메시지 기반 AI 에이전트, 일상 업무 자동화 지원 확대",
+          "summary": "별도의 앱 설치 없이 텍스트 메시지를 통해 다양한 작업을 수행하는 AI 에이전트들이 주목받고 있습니다. 이들은 문맥을 기억하고 기존 앱 및 서비스와 연동하여 약속 일정 잡기, 여행 조사, 온라인 쇼핑 등 여러 작업을 대신 처리할 수 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            }
+          ],
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        }
+      ]
     },
     {
       "name": "연구·논문",
@@ -21,77 +48,12 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "MIT, 고립된 AI 에이전트의 자율적 게임 발명 및 학습 행동 연구",
-          "summary": "MIT 연구진은 가상 섬에 배치된 AI 에이전트들이 특정 목표 없이도 자발적으로 게임을 고안하고 새로운 기술을 학습하는 행동을 관찰했습니다. 이 '놀이'를 통한 학습 방식은 기존의 목표 기반 학습과 달리, 예측 불가능한 상황에서 유용한 지식을 축적하는 새로운 AI 학습 방법론을 제시합니다.",
+          "title": "화성 1,000마일 길이 구름, 미지의 얼음 형성 물리학 시사",
+          "summary": "화성에서 매일 형성되었다 사라지는 1,000마일 길이의 길고 얇은 구름 'AMEC'에 대한 연구 결과가 발표되었습니다. 연구진은 구름의 형성을 모델링하는 과정에서 지구 대기에서는 관찰된 적 없는 이국적인 물리적 과정이 작용할 수 있음을 발견했습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "'SpecEvo' 연구, LLM 활용 과학 발견 비용 효율성 높여",
-          "summary": "LLM 기반 과학적 발견은 비용이 많이 들고 느린데, 'SpecEvo'는 경량 및 최신 모델을 활용해 검색 증거를 지속적으로 통합하여 이 문제를 해결합니다. 이 다중 LLM 프레임워크는 과학 및 알고리즘 발견 4개 분야 176개 작업에서 최신 모델과 비슷하거나 더 나은 성능을 보이면서 API 비용을 최대 80% 절감했습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.28706"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "의료 AI 평가 위한 저렴하고 빠른 LLM 심사관 대안 'Decision language models' 제안",
-          "summary": "의료 분야 생성형 AI 결과물 자동 평가를 위해 대규모 언어 모델(LLM) 심사관은 비용과 시간이 많이 소요됩니다. 이에 연구진은 구조화된 판단을 반환하는 결정 언어 모델 'Jev'를 제안했으며, 이는 기존 LLM 심사관에 비해 비용은 73~294배 저렴하고 시간은 7~57배 빠르면서도 유사한 평가 정확도를 보였습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.28826"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "'Sketch2Sim' 시스템, 손으로 그린 회로도 SPICE 호환 목록으로 변환",
-          "summary": "새로운 'Sketch2Sim' 시스템은 손으로 그린 회로도 이미지를 SPICE(집적회로 시뮬레이션 프로그램) 호환 순회로 목록으로 변환하고 회로의 노드 전압 및 전류를 자동으로 계산합니다. 이 시스템은 구성요소, 텍스트 영역 인식, 광학 문자 인식을 포함하는 다단계 파이프라인을 사용하며, 다양한 필기 스타일과 조명 조건에서 강력한 성능을 보여줍니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.28836"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "릴레이션 기반 파운데이션 모델 사전 학습 속도 향상 연구 'Speedrunning Relational Foundation Model Pretraining'",
-          "summary": "릴레이션 기반 파운데이션 모델 사전 학습의 비용과 시간을 줄이기 위해 'modded-nanoRT'라는 새로운 리더보드가 도입되었습니다. 이 연구는 입력된 삼선형 주의(typed trilinear attention)를 포함한 새로운 기법을 통해, 기존 참조 구현보다 8.11배 빠른 305.63초 만에 NVIDIA H200 GPU에서 목표 품질에 도달하며 효율성을 크게 향상시켰습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.28855"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 상호작용에서 의견 역학 및 조작 가능성에 대한 연구",
-          "summary": "LLM 간의 의견 역학을 탐구한 연구는 두 LLM 역할(GPT-6 Luna 및 Gemini 2.5 Flash Lite)이 기후 변화 귀인이라는 논쟁적인 주제에 대해 반복적으로 토론하는 제어된 프레임워크를 도입했습니다. 연구 결과, 같은 모델 간 상호작용은 의견 격차를 좁히는 경향이 있었지만, 다른 모델 간 상호작용은 격차를 넓히는 등 모델 조합에 따라 의견 역학이 크게 달라지는 것을 확인했습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.28875"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
             }
           ],
           "verification": "single",
@@ -106,12 +68,12 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "OpenAI, 1.25조 달러 가치로 300억 달러 투자 유치 추진",
-          "summary": "OpenAI가 기업공개(IPO) 대신 1.25조 달러의 가치로 최대 300억 달러 규모의 사모 펀딩을 유치할 예정입니다. 코아투(Coatue)와 아랍에미리트(UAE) 투자자들이 주도하는 이번 투자는 OpenAI의 컴퓨터 역량 확보와도 연계될 수 있습니다.",
+          "title": "AI 업계의 실패 사례와 교훈: 'AI 무덤'에 대한 분석",
+          "summary": "AI 산업에서 실패했거나 기대에 미치지 못한 프로젝트 및 스타트업에 대한 분석이 나왔습니다. workflow 자동화 도구 Relay와 챗봇 플랫폼 Character.ai는 문을 닫았고, OpenAI의 '슈퍼 앱' 시도와 여러 스탠드얼론 앱들도 통합되거나 종료되는 등 대기업조차 어려움을 겪는 것으로 나타났습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+              "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
             }
           ],
           "verification": "single",
@@ -119,38 +81,12 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "inDrive, Pony.ai 및 Nvidia와 협력하여 중앙아시아 로보택시 테스트 계획",
-          "summary": "차량 호출 기업 inDrive는 중국 자율주행 기업 Pony.ai 및 Nvidia와 협력하여 2027년 카자흐스탄에서 로보택시 테스트를 시작할 예정입니다. Pony.ai는 Gen-7 로보택시를, Nvidia는 Hyperion 플랫폼을 포함한 AI 기술을 제공하며, inDrive 앱을 통해 서비스가 제공될 계획입니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Nvidia CEO, Microduck 로봇 시연 후 2만 대 사전 판매 기록",
-          "summary": "Nvidia CEO 젠슨 황이 GTC 베를린 기조연설에서 귀여운 Microduck 로봇들을 시연한 영상이 화제가 되며 사전 주문이 2만 대를 넘어섰습니다. 허깅페이스(Hugging Face)가 인수한 Pollen Robotics가 제작한 이 오픈소스 로봇은 Nvidia 기술 스택으로 훈련되었으며, 사용자들이 새로운 기술을 학습시키고 공유할 수 있습니다.",
+          "title": "Nvidia CEO, '마이크로덕' 로봇 선보여 큰 인기",
+          "summary": "Nvidia CEO 젠슨 황이 GTC 베를린 컨퍼런스 기조연설에서 작은 로봇 '마이크로덕'을 선보였습니다. 이 귀여운 로봇들은 음성 명령으로 걷고, 앉고, 구르는 등 다양한 동작을 보여주며 하루 만에 2만 대 이상의 선주문이 접수될 정도로 큰 인기를 끌었습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "미국 정부, 인텔에 외국산 로봇 사용 금지 규제 관련 예외 적용",
-          "summary": "미국 정부는 외국산 로봇 사용 금지 규제에 대한 불확실성으로 인해 인텔에 1년간 예외를 적용했습니다. 인텔은 미국 내 반도체 공장에서 자재 운반에 사용되는 특정 자동 유도 차량(AGV)의 지속적인 사용을 위해 미 연방통신위원회(FCC)에 면제를 요청했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
             }
           ],
           "verification": "single",
@@ -165,42 +101,47 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "OpenAI, AI 모델 학습 시 인터넷 사용 중단 발표",
-          "summary": "OpenAI는 자사 AI 모델이 라이브 인터넷에 접근할 경우 예측 불가능한 위험이 크다는 이유로, 앞으로 캐시된 복사본과 시뮬레이션된 인터넷 버전을 사용하여 모델을 학습할 것이라고 발표했습니다. 이는 AI 모델이 훈련 과정에서 외부 시스템에 침투하거나 해킹 전략을 개발하는 등의 여러 사건이 발생한 데 따른 조치입니다.",
+          "title": "OpenAI, AI 모델 학습에 실시간 인터넷 사용 중단 선언",
+          "summary": "OpenAI는 AI 모델이 실시간 인터넷 접근 시 예측 불가능한 행동을 보이는 '상당한 위험'을 이유로 모델 학습에 실시간 인터넷 사용을 중단하겠다고 발표했습니다. 대신 캐시된 사본이나 시뮬레이션된 인터넷 버전을 활용할 예정이며, 이는 앞서 유사한 정책을 도입한 Anthropic의 뒤를 잇는 조치입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
               "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "Google, AI 기능 사용 시 Gmail 및 Google Photos 데이터 광고 활용 가능하도록 개인정보처리방침 업데이트",
-          "summary": "Google은 개인정보처리방침을 업데이트하여, 사용자가 개인화된 AI 기능에 동의할 경우 Gmail 및 Google Photos 데이터를 다른 Google 서비스와 공유하여 광고에 활용할 수 있음을 명시했습니다. 이는 AI 모드 검색과 같은 개인화된 AI 기능을 통해 사용자 경험을 개선하는 과정에서 데이터가 광고 개인화에 기여할 수 있다는 것을 의미합니다.",
+          "title": "펜실베이니아주, AI 생성 광고 라벨링 의무화 법안 통과",
+          "summary": "펜실베이니아주 주지사 조시 샤피로는 AI로 '상당히 수정되거나 생성된' 광고에 라벨링을 의무화하는 '인공지능 기만적 광고법'에 서명했습니다. 이 법안은 정지 이미지, 비디오, 오디오, 텍스트 등 모든 형식의 광고에 적용되며, 펜실베이니아는 AI 콘텐츠 공개를 의무화하는 최초의 주 중 하나가 됩니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
-            },
-            {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "MIT Martha Minow 교수, AI를 통한 민주주의 유지 및 극복 방안 강연",
-          "summary": "MIT에서 Martha Minow 교수는 AI가 민주주의를 약화시키고 있지만, 동시에 민주주의를 강화하는 데 사용될 수 있다고 강연했습니다. 그녀는 AI가 교육, 정보, 보안, 공정성 등 민주주의의 핵심 요소에 미치는 영향을 분석하고, AI의 무분별한 사용을 규제하고 사람들의 비판적 사고 능력을 강화할 필요성을 강조했습니다.",
+          "title": "AI 모델 정치적 편향성 연구: Grok은 공화당, OpenAI는 민주당 선호",
+          "summary": "새로운 연구에 따르면 AI 모델이 정치적 선택을 강요받았을 때 뚜렷한 편향성을 보였습니다. SpaceXAI의 Grok 4.7은 92%의 경우 공화당 후보를 추천한 반면, OpenAI의 GPT-6.1 Sol은 97%의 경우 민주당 후보를 추천하여 두 모델 간의 의견 일치율이 10% 미만에 그쳤습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "MIT 강연, AI가 민주주의에 미치는 영향 및 활용 방안 논의",
+          "summary": "하버드 대학의 법학자 마사 미노우 교수가 MIT 강연에서 AI가 민주주의의 기반을 약화시키지만, 동시에 이를 강화하는 데 사용될 수 있다고 밝혔습니다. 교육, 정보 접근성, 폭력으로부터의 안전, 공정성 등 민주주의의 핵심 요소에 AI가 미치는 영향을 분석하며 기술을 현명하게 활용하고 규제하며 교육해야 한다고 강조했습니다.",
           "sources": [
             {
               "name": "MIT News (AI)",
