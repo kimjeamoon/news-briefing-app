@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-25",
-  "date_str": "2026년 10월 25일 (일)",
+  "date": "2026-10-26",
+  "date_str": "2026년 10월 26일 (월)",
   "key5": [
-    "민주당, 법무장관 후보 박균택·양부남 2인 압축…국감 종료 후 특검법 처리 등 추진",
-    "AI 해킹 위협 증가 속 국내 중소기업 보안 취약…K-방산, 중국발 기술 유출 경계령",
-    "미국 중간선거 임박, 민주당 상원 탈환 '신중론'…트럼프, 공화당 지지층 결집 유세 확대",
-    "김정은 북한 국무위원장, 중국 방문해 왕후닝과 회담…북중 관계 강화 및 경제 협력 논의",
-    "NASA, 소행성 베누 샘플 분석으로 태양계 형성 비밀 규명…목성의 역할 주목"
+    "이재명 대통령 지지율 35.3%로 하락, 리얼미터 조사에서 부정 평가 62.3% 기록",
+    "세르비아 알렉산다르 부치치 대통령, 학생 주도 시위 운동에 총선 패배 인정",
+    "자산 상·하위 20% 가구 주택 가격 격차 290배로 사상 최대 기록",
+    "아우디, 미국 조지아주에 40억 달러 규모 SUV 공장 건설 계획 발표",
+    "트럼프 전 대통령, 중간선거 유세에 가톨릭 주교단 정치적 이용 논란"
   ],
   "regions": [
     {
@@ -16,20 +16,50 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "민주당, 법무장관 후보 압축 및 국감 후 특검법 처리 추진",
-          "summary": "더불어민주당은 두 달째 공석인 법무부 장관 후보로 박균택, 양부남 두 검찰 출신 의원을 압축했으며, 조만간 인선이 이뤄질 전망입니다. 한편, 민주당은 국정감사가 끝나는 대로 조작기소 특검법안 처리를 우선 추진하고, 조희대 대법원장 탄핵 문제에 대해서도 연내 국정조사를 목표로 하고 있습니다.",
+          "title": "이재명 대통령 지지율 35.3%로 하락, 30% 중반대 기록",
+          "summary": "이재명 대통령의 국정 지지율이 한 주 만에 2.0%포인트 하락한 35.3%를 기록했으며, 부정 평가는 62.3%로 집계되었다. 리얼미터의 조사 결과에 따르면, 증시 급락, 국민연금 논란, 전세난 등 경제적 요인과 북한 위협, 대통령 SNS 발언 등 정쟁이 복합적으로 작용하여 진보층과 수도권 지지층 이탈이 발생한 것으로 분석된다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261024053200001"
+              "url": "https://www.yna.co.kr/view/AKR20261026019400001"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610260817001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "자산 상·하위 20% 가구 주택 가격 격차 290배로 사상 최대",
+          "summary": "국가데이터처 통계에 따르면 지난해 자산 상위 20% 가구의 거주 주택 평균 가격은 6억 9341만원으로, 하위 20% 가구의 239만원과 비교해 290.1배의 격차를 보였다. 이는 2017년 집계 이래 최대치이며, 거주 주택을 포함한 총자산 격차도 68.6배로 역대 최고를 기록했다. 한국 가계 자산의 약 70%가 부동산에 집중되어 있어 자산 불평등이 심화되고 있다는 분석이다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261026010200011"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610260805001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "국정감사 막바지, 대법관 재제청·소방 예산·북한 DMZ 쟁점 부상",
+          "summary": "국정감사가 마지막 주에 접어들면서 조희대 대법원장 재제청 거부 및 업무추진비 의혹, 소방 예산 국비 지원 문제, 북한의 비무장지대(DMZ) 지뢰 도발 대응 등이 주요 쟁점으로 떠올랐다. 법제사법위원회, 국방위원회, 행정안전위원회 등 4개 위원회에서 종합감사를 진행하며 여야 간의 막판 공방이 예상된다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261025030300001"
             },
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261024040400001"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261024050200001"
+              "url": "https://www.yna.co.kr/view/AKR20261025022400001"
             }
           ],
           "verification": "multi",
@@ -37,54 +67,24 @@
         },
         {
           "tag": "eco",
-          "title": "AI 해킹 위협 증가 및 K-방산 기술 유출 보안 경고",
-          "summary": "인공지능(AI)을 활용한 해킹 기술이 발전하면서 국내 중소기업과 영세 사업장의 사이버 보안 대응 역량에 대한 우려가 커지고 있습니다. 특히 K-방산업계는 중국의 출입국 관리 규정 강화와 방산자료 유출 증가에 따라 기술 유출을 막기 위한 보안 단속을 강화하고 있습니다.",
+          "title": "주요 증권사, 기업 3분기 실적 따라 목표 주가 조정",
+          "summary": "국내 주요 증권사들이 기업들의 3분기 실적 전망에 따라 목표 주가를 조정하고 있다. 삼성증권은 하나금융지주의 견조한 이익 성장과 주주환원 강화를 이유로 최선호주로 유지하며 목표 주가를 16만 5천원으로 제시했다. 신한투자증권은 IPARK현대산업개발의 호실적과 안정적 주가 흐름을 기대하며 목표 주가를 3만원으로 상향 조정했으며, 유진투자증권은 넥센타이어의 3분기 실적이 기대치를 하회할 것으로 예상하며 목표 주가를 8천5백원으로 하향했다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261023137200017"
+              "url": "https://www.yna.co.kr/view/AKR20261026020900008"
             },
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261024047900003"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261026020600008"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261026020800008"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "이태원 참사 4주기 추모 물결…재외국민 해외세관 문제 증가",
-          "summary": "이태원 참사 4주기를 맞아 서울광장에서 희생자들을 추모하는 행사가 열렸으며, 한성숙 총리는 희생자들에게 깊이 사과하고 필요한 지원을 다하겠다고 밝혔습니다. 한편, 최근 3년간 해외 세관에서 문제가 발생하여 영사 조력을 요청한 재외국민이 263명에 달하는 것으로 집계되었으며, 전자담배·드론 소지, 외화 밀반출, 마약 적발 등이 주요 원인이었습니다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1283966.html"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1283962.html"
-            },
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261024049700001"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "tec",
-          "title": "호남 반도체 국가산단 조성 가속화, 그린벨트 예외 절차 정비",
-          "summary": "호남 반도체 국가산업단지 조성에 속도를 내기 위해 개발제한구역(그린벨트) 해제총량 예외 적용과 관련한 광역도시계획 변경 절차가 정비됩니다. 이는 호남반도체 국가산단이 정부로부터 총량 예외를 인정받을 경우, 도시계획 변경 절차를 거치지 않고 신속하게 사업을 추진하기 위함입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261023080500054"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -95,16 +95,50 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미 중간선거 임박, 민주당 상원 탈환 신중론…트럼프, 지지층 결집 유세 확대",
-          "summary": "다음 달 3일 치러지는 미국 중간선거를 일주일여 앞두고 민주당이 하원에 이어 상원 다수당까지 탈환할 수 있을지에 대한 신중론이 제기되고 있습니다. 도널드 트럼프 전 대통령은 공화당 지지층 결집을 위해 유세 일정을 확대했으며, 자신이 2024년 대선에서 승리했던 주들을 중심으로 방문하고 있습니다.",
+          "title": "트럼프 전 대통령, 중간선거 유세에 가톨릭 주교단 이용 논란",
+          "summary": "도널드 트럼프 전 미국 대통령이 중간선거 캠페인에 가톨릭 주교단을 정치적으로 이용했다는 논란이 불거졌다. 백악관이 주교들과의 비공개 회동 사진과 영상을 주교들의 동의 없이 홍보에 활용하자, 일부 주교들이 '신성한 기도가 조작당했다'며 공개적으로 사과하는 성명을 발표했다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/america/1283973.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261026021900009"
             },
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html"
+              "url": "https://www.nytimes.com/2026/10/25/us/trump-catholic-bishops-meeting-apology.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프-오바마, 중간선거 앞두고 상반된 방식으로 유세 집중",
+          "summary": "미국 중간선거를 앞두고 도널드 트럼프 전 대통령과 버락 오바마 전 대통령이 각기 다른 유세 방식으로 지지층 결집에 나섰다. 오바마 전 대통령은 민주당 후보들을 위해 트럼프 행정부의 경제 정책과 혼란을 비판하며 지지를 호소했고, 트럼프 전 대통령은 자신의 이민 정책과 관세 정책을 홍보하며 '미국의 황금기'를 주장했다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
+            },
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "미 법무부, 알래스카 상원의원 선거 결과 인증 막는 소송 옹호 논란",
+          "summary": "미국 법무부가 알래스카 상원의원 선거에서 공화당 현직 의원이 패배할 경우 결과 인증을 중단시키려 하는 소송을 옹호하며 논란이 커지고 있다. 토드 블랑쉬 법무부 장관은 후보자 이름 혼동 가능성을 이유로 들었으나, 민주당 측에서는 트럼프 행정부가 민주주의 절차에 개입하려는 시도라고 비판하고 있다. 이 소송은 트럼프 대통령이 선거 결과를 조작하려 한다는 의혹을 낳고 있다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses"
             }
           ],
           "verification": "multi",
@@ -112,58 +146,20 @@
         },
         {
           "tag": "eco",
-          "title": "AI 기술 도입에 따른 노동시장 변화와 일자리 안정화 논의",
-          "summary": "인공지능(AI) 기술 도입이 확산되면서 노동시장에 미칠 영향과 일자리 안정화 방안에 대한 논의가 활발합니다. 설문조사 결과 AI 도입에 대해 최고경영자(CEO)들은 긍정적이나 직원들은 다르게 느끼고 있으며, 의회에서는 대규모 AI 해고를 우려하며 실업보험 프로그램 강화 법안을 검토하고 있습니다.",
+          "title": "아우디, 미국 조지아주에 40억 달러 규모 공장 건설 계획",
+          "summary": "아우디가 미국 조지아주 메이컨에 40억 달러(약 5조 4천억원) 규모의 첫 번째 미국 공장을 건설하고 4,500개의 일자리를 창출할 계획이다. 이는 트럼프 행정부의 관세 정책과 중국 자동차 제조업체와의 경쟁, 전기차 전환 등의 요인 속에서 이루어지는 투자다. 해당 공장에서는 Q7, Q8, Q9 SUV 모델을 생산할 예정이다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html"
+              "url": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
             },
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "soc",
-          "title": "식스플래그스 롤러코스터 사고 후 안전 강화 조치 발표",
-          "summary": "식스플래그스가 롤러코스터 사고로 탑승객이 사망한 후, 모든 롤러코스터에 안전벨트를 추가하는 등의 안전 강화 조치를 발표했습니다. 이 회사는 모든 놀이기구에 대한 안전 검토를 진행하고 독립적인 엔지니어와 검사 전문가를 고용하여 안전 절차를 검토할 예정입니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/24/business/six-flags-death-roller-coaster-seat-belt.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c60rl9r59g0do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "트럼프 행정부의 환경 규제 완화 정책에 대한 비판 제기",
-          "summary": "도널드 트럼프 행정부의 환경 규제 완화 정책에 대한 비판과 분석이 나왔습니다. 뉴욕타임스 조사에 따르면 트럼프는 발암성 가스를 배출하는 산업 시설에 대한 대기오염 규제를 일시적으로 면제했으며, 이후 그의 임명자들이 해당 규제를 약화시키기 위해 노력한 것으로 드러났습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
         }
       ]
     },
@@ -173,72 +169,56 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "김정은, 중국 방문해 왕후닝과 회담…북중 관계 강화",
-          "summary": "김정은 북한 국무위원장이 24일 중국 랴오닝성 단둥을 방문해 왕후닝 중국 전국인민정치협상회의 주석과 만났습니다. 회담에서 왕 주석은 북중 교류 및 경제·무역 협력 확대를 제안했으며, 김 위원장은 북한이 중국과 역사적 우의를 계승하고 실질적 혜택을 가져다주기를 희망한다고 화답했습니다. 이번 방문은 북중 혈맹 관계를 강조하고 경제적 협력 관계를 부각하려는 목적으로 풀이됩니다.",
-          "sources": [
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/defense/1283965.html"
-            },
-            {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/defense/1283963.html"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610242024001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "중국 공산당 5차 전체회의 앞두고 차세대 지도자 구도 관심",
-          "summary": "중국 공산당 지도부가 베이징에서 제5차 중앙위원회 전체회의를 개최하며, 차기 지도부 인선에 대한 관심이 커지고 있습니다. 이번 회의는 내년 5년마다 열리는 당 대회를 앞두고 진행되며, 시진핑 주석의 4연임이 유력한 가운데, 7세대 지도자들이 주요 역할에 오를 준비를 할 것으로 예상됩니다.",
+          "tag": "soc",
+          "title": "일본, 외국인 근로자 위한 일본어 교사 부족 직면",
+          "summary": "일본이 내년 4월 새로운 외국인 근로자 수용 시스템 도입을 앞두고 외국인 근로자를 위한 일본어 교사 부족 문제에 직면했다. 정부 조사에 따르면 설문 응답 기관의 35.9%가 충분한 수의 등록 교사를 확보하지 못했거나 확보 전망이 없다고 답했으며, 이는 일본 사회의 다문화 통합에 과제를 제기하고 있다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/china-fifth-plenum-explainer/"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "데이터 유출 및 사이버 보안 위협 증가에 따른 대응 강화",
-          "summary": "일본 기업 파크24는 데이터 유출로 피해를 입은 타임즈 카 사용자들에게 위로금을 지급할 계획이며, GMO 인터넷은 무단 접근 사고 후 일본 정부에 '능동적 사이버 방어' 조치를 요청했습니다. 이러한 사건들은 데이터 유출 및 사이버 보안 위협 증가에 대한 기업과 정부의 대응 노력을 보여줍니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/24/park24-3000-yen-compensation/"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/24/gmo-cyber-defense-government-request/"
+              "url": "https://www.japantimes.co.jp/news/2026/10/25/japan/japan-language-teacher-shortage/"
             },
             {
               "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-net-provider-gmo-seeks-active-cyber-defense-from-government"
+              "url": "https://asia.nikkei.com/spotlight/japan-immigration/japanese-builder-takenaka-to-offer-meister-credential-for-foreign-staff"
             }
           ],
           "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "eco",
+          "title": "일본 저가 레스토랑 체인 사이제리야, 메뉴 가격 6% 인상",
+          "summary": "일본의 인기 저가 이탈리안 레스토랑 체인 사이제리야가 원자재 및 에너지 비용 상승으로 인해 이달부터 전국 메뉴 가격을 평균 6% 인상할 계획이다. 일부 운영 비용이 높은 매장은 최대 10%까지 가격이 오를 수 있으며, 이는 1998년 상장 이후 처음으로 이루어지는 전면적인 가격 인상이다.",
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/25/companies/saizeriya-price-hike/"
+            }
+          ],
+          "verification": "single",
           "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "중국, J-20 스텔스 전투기 날개에 고성능 레이더 탑재 기술 개발 추진",
-          "summary": "중국 군용기 설계자들이 J-20 스텔스 전투기의 날개에 대형 안테나 배열을 통합하는 혁신적인 방법을 제안했습니다. 이는 비행 기동과 무인기 편대 비행을 활용하여 공중전 중 레이더 탐지 범위를 확장하고 다기능 고성능 공중조기경보 시스템을 구축하려는 목적입니다.",
+          "title": "클라우드 컴퓨팅 선구자 왕젠, 우주가 차세대 AI 프론티어 될 것",
+          "summary": "클라우드 컴퓨팅 선구자이자 알리바바 클라우드 창립자인 왕젠은 우주가 차세대 인공지능(AI)의 개척지가 될 것이라고 주장했다. 중국공정원 원사이자 저장 연구소 소장인 그는 이제 우주 컴퓨팅에 초점을 맞추고 있으며, 이는 AI 기술 발전의 새로운 방향을 제시하는 것으로 해석된다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing"
+              "url": "https://www.scmp.com/tech/tech-trends/article/3371979/why-cloud-computing-pioneer-wang-jian-thinks-space-next-ai-frontier"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "소프트뱅크, 말레이시아에 500억 달러 규모 AI 투자 계획",
+          "summary": "말레이시아 총리는 소프트뱅크 그룹이 인공지능(AI)과 데이터 센터에 중점을 둔 500억 달러 규모의 투자 계획을 말레이시아와 논의 중이라고 밝혔다. 이는 소프트뱅크가 미국과 유럽에 이어 아시아 지역에서 AI 인프라 확장을 추진하려는 움직임의 일환이다.",
+          "sources": [
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says"
             }
           ],
           "verification": "single",
@@ -253,20 +233,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "프랑스 전역 대규모 시위, 경찰과 충돌…900여 명 체포",
-          "summary": "프랑스 전역에서 수십만 명이 참여하는 대규모 시위가 이어졌으며, 일부 도시에서는 경찰과 시위대 간 충돌이 발생하여 거의 1,000명이 체포되었습니다. 특히 파리에서는 시위대와 진압경찰이 충돌하고 최루탄과 물대포가 사용되었으며, 지난주 발생한 약탈과 방화 규모의 폭동은 피했으나 불안은 계속되고 있습니다.",
+          "title": "세르비아 부치치 대통령, 총선 패배 인정하며 정권 교체 수용",
+          "summary": "세르비아의 알렉산다르 부치치 대통령이 총선에서 학생 주도 시위 운동에 패배했음을 인정하고 결과를 수용했다. 선거관리위원회 예비 집계 결과 사상 최고 투표율을 기록했으며, 이는 학생 운동에 유리하게 작용한 것으로 분석된다. 부치치 대통령의 패배 인정 후 수도 베오그라드를 비롯한 주요 도시에서는 승리를 축하하는 대규모 시위가 벌어졌다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
             },
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat"
             }
           ],
           "verification": "multi",
@@ -274,61 +254,57 @@
         },
         {
           "tag": "pol",
-          "title": "우크라이나 스타링크 위성 인터넷 연결 정상화…논란 지속",
-          "summary": "우크라이나 정부는 스타링크 위성 시스템과 군용 스타실드 서비스의 작동 속도가 일주일 이상 중단된 후 정상으로 돌아왔다고 발표했습니다. 하지만 우크라이나 대통령 볼로디미르 젤렌스키는 스타링크 및 스타실드 서비스에 대한 알 수 없는 제한이 우크라이나군에 계속 영향을 미치고 있다고 밝혔으며, 미국 당국과 일론 머스크는 이러한 제한을 누가 통제하는지에 대해 엇갈린 설명을 내놓고 있습니다.",
-          "sources": [
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "soc",
-          "title": "히틀러 '독수리 둥지' 화재 발생, 용의자 체포",
-          "summary": "독일 바이에른 알프스에 위치한 아돌프 히틀러의 산악 은신처 '독수리 둥지'(케흘슈타인하우스)에서 화재가 발생하여 건물 대부분이 파손되었습니다. 경찰은 현장 인근에서 오토바이를 탄 33세 독일 남성을 체포했으며, 용의자가 정신 질환을 앓고 있을 가능성과 정치적 동기를 모두 조사 중입니다.",
+          "title": "프랑스 극우 르펜, '법치 회복' 내세우며 대선 캠페인 시작",
+          "summary": "프랑스의 극우 정치인 마린 르펜이 내년 대통령 선거 운동을 시작하며 '법치 회복'을 주요 공약으로 내세웠다. 르펜은 오를레앙에서 열린 유세에서 최근 프랑스를 휩쓴 사회 불안과 폭력 시위를 언급하며 질서 회복과 국경 강화, 불법 이민자 추방 등을 약속했다. 현재 여론조사에서 선두를 달리고 있는 르펜은 국민들에게 프랑스의 수호자로 자신을 각인시키려 노력하고 있다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.scmp.com/news/world/europe/article/3372092/frances-le-pen-vows-restore-rule-law-presidential-campaign-launch"
             },
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/video/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany"
+              "url": "https://www.euronews.com/2026/10/25/marine-le-pen-launches-presidential-campaign-with-vow-to-restore-rule-of-law"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/marine-le-pen-casts-herself-as-frances-protector-as-country-faces-mounting-troubles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "pol",
-          "title": "브라질 대선 결선투표 앞두고 루라 지지 집회 열려",
-          "summary": "브라질 대선 결선투표를 하루 앞두고 루이스 이나시우 룰라 다시우바 현 대통령의 지지자들이 리우데자네이루 코파카바나 해변에서 대규모 집회를 열었습니다. 약 100만 명 이상이 모인 이 집회는 룰라 대통령이 역사적인 선거 역전을 이뤄내기를 바라는 열망을 보여주었으며, 여론조사에서는 두 후보가 초박빙 접전을 벌이고 있습니다.",
+          "title": "브라질 대선 결선 투표, 투표 시간 연장으로 개표 지연",
+          "summary": "브라질 대선 결선 투표에서 악천후와 대중교통 제한을 이유로 투표 마감 시간이 2시간 연장되는 초유의 사태가 발생했다. 루이스 이나시우 룰라 다시우바 대통령과 플라비우 보우소나루 상원의원 양측의 요청으로 이루어졌으며, 이로 인해 당선자 윤곽 발표 및 개표 집계가 지연될 예정이다. 연방대법원의 일방적 결정에 대한 고등선거재판소 일각의 불만도 제기되어 부정선거 논란으로 비화될 우려도 있다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610260803001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/americas/article/3372096/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
             }
           ],
           "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "머스크, 스페이스X가 우크라이나 스타링크 군사 사용 제한 인정",
+          "summary": "일론 머스크는 스페이스X가 우크라이나의 스타링크 인터넷 서비스를 제한했다고 밝혔다. 그는 우크라이나가 군사 활동에 스타링크를 사용하면서 서비스 약관을 위반했다고 주장했다. 우크라이나 측은 연결 문제가 해결된 것으로 보인다고 언급했으나, 머스크의 이러한 발언에 대해 '매우 이상하다'는 반응을 보였다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "verification": "single",
           "tag_label": "정치·외교"
         }
       ]
@@ -340,12 +316,12 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "영국, AI 생체보안 연구소에 1억 파운드 투자 계획 발표",
-          "summary": "영국 정부는 생물학적 위협에 대한 방어력을 강화하기 위해 '세계 최초'의 AI 생체보안 연구소(AIBL)를 설립할 것이라고 밝혔습니다. 이번 예산안에 따라 정부는 이 연구소 설립에 1억 파운드를 투자하고, 주요 AI 기업들의 지원을 받아 사이버, 생물학, AI 기반 위협에 대응할 역량을 강화할 계획입니다.",
+          "title": "희귀 버섯 Lanmaoa asiatica, 환각 증상 유발하며 작은 인간 보이게 해",
+          "summary": "과학자들이 중국과 필리핀에서 희귀한 버섯 종인 Lanmaoa asiatica를 발견했다. 이 버섯을 섭취하면 환각 증상으로 수많은 작은 인간이 움직이는 것처럼 보이는 '릴리푸트 환각'을 경험하는 것으로 알려졌다. 연구 결과 이 버섯에는 알려진 환각 성분이 없어 새로운 환각 물질이 있을 가능성이 제기되었으며, 이는 신경 질환 및 시각 경험 연구에 중요한 함의를 가질 수 있다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm"
             }
           ],
           "verification": "single",
@@ -353,25 +329,29 @@
         },
         {
           "tag": "tec",
-          "title": "NASA, 소행성 베누 샘플로 태양계 형성 비밀 규명",
-          "summary": "NASA가 소행성 베누에서 채취한 샘플에 대한 새로운 화학 분석 결과, 태양계 형성 방식에 대한 과학자들의 이해를 재정립하고 있습니다. 새로운 증거는 베누가 내부 태양계와 외부 태양계 물질이 혼합된 곳에서 형성되었으며, 목성이 그 형성에 중요한 역할을 했다는 점을 시사합니다.",
+          "title": "아이폰 듀오 화면 깨짐 및 힌지 파손, 디자인 결함 가능성 제기",
+          "summary": "아이폰 듀오에서 화면 깨짐과 힌지 파손 문제가 지속적으로 보고되는 가운데, iFixit의 분해 결과와 유튜버의 분석을 통해 디자인 결함 가능성이 제기되었다. iFixit은 힌지의 복잡성과 특정 부위에 집중되는 압력이 문제의 원인일 수 있다고 추정했으며, 유튜버 CuriousHagi는 힌지 내 약한 부분이 부러지면서 화면이 깨지는 현상을 재현하고 그 원인을 찾아냈다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "인간 언어의 숨겨진 편향성 발견: 의미는 힘, 위험, 질서 중심으로 구성",
-          "summary": "인간 언어의 작동 방식에 대한 70년간의 가정을 뒤엎는 연구 결과가 발표되었습니다. 과학자들은 수십억 개의 단어 사용을 분석하여 의미가 감정뿐만 아니라 힘, 위험, 질서와 같은 차원을 중심으로 구성된다는 사실을 발견했으며, 인간 언어에 안전에 대한 강력하고 숨겨진 선호가 있음을 시사합니다.",
+          "title": "r/opensource 커뮤니티, AI 및 비영어권 사용자 금지 규칙 논란",
+          "summary": "레딧의 r/opensource 커뮤니티가 AI 기반 프로젝트, AI 생성 콘텐츠, AI 관련 프로젝트, 그리고 비영어권 사용자 제출을 금지하는 새로운 규칙을 발표하며 논란이 되고 있다. 운영진은 AI가 오픈소스 커뮤니티와 양립할 수 없다고 주장했지만, 커뮤니티 회원들은 규칙이 너무 광범위하고 모호하다며 반발하고 있으며, 새로운 서브레딧까지 개설되는 등 비판이 이어지고 있다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
             }
           ],
           "verification": "single",
