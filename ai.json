@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-27",
-  "date_str": "2026년 10월 27일 (화)",
+  "date": "2026-10-28",
+  "date_str": "2026년 10월 28일 (수)",
   "highlights": [
-    "Anthropic, 기업 고객 유치 전략 공개하며 IPO 신청",
-    "SpaceX, Apollo로부터 400억 달러 규모 GPU 자금 확보하며 AI 야망 가속",
-    "Apple, iOS 및 macOS 27.2 업데이트로 새로운 Siri AI 기능 및 iPad mini 공개",
-    "AI 안전 논의, 일상적 해악 간과한다는 비판 제기",
-    "OpenAI, 수학·컴퓨터 과학·물리학 분야 3가지 주요 과학적 발견 발표"
+    "OpenAI, Anthropic 등 AI 연구소, '지수 시간 가설' 반박 연구 성과 공개",
+    "구글 딥마인드, 오디오 및 향상된 물리 모델을 갖춘 'Genie 4' 월드 모델 발표",
+    "OpenAI의 AI 모델 사용으로 인한 사망 관련 소송 제기",
+    "Anthropic, 복잡한 지배구조와 AI 안전 우려 표명하며 IPO 진행",
+    "델라웨어주, AI 에이전트가 사업체를 운영하도록 허용하는 법안 제안"
   ],
   "sections": [
     {
@@ -15,20 +15,16 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "Apple, iOS 27.2 및 macOS 27.2 출시 및 iPad mini 업데이트",
-          "summary": "Apple이 iOS 27.2 및 macOS 27.2 업데이트를 통해 새로운 Siri AI 기능을 추가했습니다. Siri는 과거 대화를 기억하고 음성 메일, 메시지 첨부 파일 등 더 많은 데이터 소스에 접근할 수 있게 되었으며, 한국어를 포함한 5개 언어가 추가되었습니다. 또한, Apple은 더 커진 OLED 화면과 A20 Pro 칩을 탑재한 새로운 8세대 iPad mini를 공개했습니다.",
+          "title": "구글 딥마인드, 실시간 상호작용 가능한 'Genie 4' 월드 모델 공개",
+          "summary": "구글 딥마인드가 오디오와 향상된 물리 모델을 포함한 'Genie 4' 월드 모델을 연구 프리뷰로 공개했습니다. 이 모델은 가장 사실적이고 상호작용적인 가상 세계를 생성하며, 사용자가 시뮬레이션 중 프롬프트를 입력해 장면을 변경하고, 실시간으로 음악, 주변 소리, 대화 등 일치하는 오디오를 생성할 수 있습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
             },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
+              "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
             }
           ],
           "verification": "multi",
@@ -36,19 +32,28 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "Apple, iPhone Duo 디스플레이 균열 '문제' 인지",
-          "summary": "Apple은 iPhone Duo의 일부 기기에서 내부 디스플레이에 균열이 발생하는 '문제'를 인지하고 있다고 밝혔습니다. 출시 직후 일부 초기 구매자들 사이에서 화면 중앙에서부터 시작되는 밝은 선과 죽은 픽셀이 보고되었으며, Apple은 해당 문제 발생 시 AppleCare에 문의하여 교체를 받을 것을 권장했습니다.",
+          "title": "오페라, 브라우저 내 AI 모델 실행 위한 'WebAI' 표준 도입",
+          "summary": "브라우저 개발사 오페라가 클라우드 없이 브라우저에서 직접 AI 모델을 실행할 수 있는 새로운 웹 표준 'WebAI'를 도입했습니다. 이 표준은 구글의 Gemma나 애플의 온디바이스 모델 등 다양한 AI 모델과 호환되며, 사용자 프라이버스를 보호하고 AI 기능 사용 비용을 절감하는 이점을 제공합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "파이어폭스 스마트 윈도, AI 기반 양식 자동 완성 및 웹페이지 모니터링 추가",
+          "summary": "모질라 파이어폭스의 AI 기반 브라우징 경험인 '스마트 윈도'에 새로운 기능이 추가되었습니다. 이 기능은 열려 있는 탭의 정보를 바탕으로 온라인 양식을 자동 완성하며, 특정 웹페이지의 판매, 구인 공고 등 업데이트를 모니터링하여 사용자에게 알림을 제공합니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+            }
+          ],
+          "verification": "single",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -60,77 +65,29 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "OpenAI, 수학·컴퓨터 과학·물리학 분야 주요 과학적 발견 발표",
-          "summary": "OpenAI가 수학, 컴퓨터 과학, 물리학 분야에서 세 가지 '주요' 과학적 발견을 발표했습니다. 이 중에는 유클리드 파동 방정식의 국부 평활화, 지수 시간 가설이 거짓임을 증명하는 결정론적 알고리즘, 그리고 양자색역학(QCD)을 포함한 양자장 이론에 대한 존재 증명이 포함됩니다. OpenAI는 이번 발표에서 외부 전문가들이 결과를 검토하는 새로운 협력 방식을 공개했습니다.",
+          "title": "프론티어 AI 연구소, '지수 시간 가설' 반박 연구 성과 발표",
+          "summary": "OpenAI를 비롯한 프론티어 AI 연구소들이 컴퓨터 과학의 오랜 가정인 '지수 시간 가설(Exponential Time Hypothesis, ETH)'을 반박하는 연구 성과를 발표했습니다. OpenAI는 세 가지 주요 수학 문제에 대한 해결책을 공개했으며, Anthropic 또한 ETH 반박 연구 결과를 내놓았습니다. 이는 계산 복잡도 분야에 중요한 영향을 미 미칠 것으로 예상됩니다.",
           "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "기업 고객-판매자 할당 위한 'Tradeoff-Aware Territory Design' 연구 공개",
-          "summary": "기업 고객-판매자 할당을 위한 다중 목표 의사결정 시스템인 'Tradeoff-Aware Territory Design'에 대한 연구가 발표되었습니다. 이 시스템은 예측 신호를 결합하여 기회를 평가하는 다차원 계정 가치 계층, 판매자-계정 관계 단절 비용을 추정하는 연속성 평가 계층, 그리고 연속성, 기회 균형 및 운영 제약을 고려하여 할당을 최적화하는 다목표 최적화 계층을 통합합니다.",
+          "title": "자연어 처리 기술, 단백질 및 게놈 설계 소프트웨어에 적용 연구",
+          "summary": "단백질 설계 도구에 자연어 처리 기술을 적용하여 자연어 프롬프트로 단백질을 생성할 수 있는 연구가 진행 중입니다. 중국 연구팀은 'Pinal'이라는 도구를 개발하여 특정 기능의 단백질을 생성하며, Hugging Face 또한 DNA 수준에서 유사한 작업을 수행하는 도구를 호스팅하고 있습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.31701"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 에이전트 실수를 지속적 학습으로 전환하는 'Self-Directed Repair' 제안",
-          "summary": "LLM 기반 에이전트의 실수를 지속적인 학습으로 전환시키는 'Self-Directed Repair' 방법론이 제안되었습니다. 이 방법은 에이전트가 작업 실패 시 자신의 궤적을 성찰하여 교훈을 추출하고, 이를 경량 저랭크 어댑터에 즉시 증류하여 영구적인 '교훈 라이브러리'에 저장합니다. 이 어댑터는 나중에 관련 문제를 해결하는 데 자동으로 활용되어 미래 작업에서 반복되는 실수를 줄이고 성공률을 향상시킵니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.31846"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 코딩 에이전트 기반 RF 및 mmWave 모듈 설계 프레임워크 'TACS-RF' 제시",
-          "summary": "LLM 코딩 에이전트(Claude Opus 4.8)가 산업 표준 전자 설계 자동화(EDA) 도구를 직접 구동하여 RF 및 mmWave 모듈을 설계하는 'TACS-RF' 프레임워크가 제시되었습니다. 이 프레임워크는 90nm SiGe BiCMOS 공정에서 240-251 GHz 서브-테라헤르츠 송신기 에이전트 설계 검증을 통해 그 유효성을 입증했으며, '텍스트-투-ASIC' 미래를 향한 진전을 보여줍니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.31882"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 에이전트 다자간 협상 '신뢰-합의 격차' 취약성 연구",
-          "summary": "LLM 에이전트의 반복적인 다자간 협상에서 '신뢰-합의 격차(trust-agreement gap)'와 관련된 취약성에 대한 연구가 진행되었습니다. 이 연구는 LLM 에이전트가 이전 상호 작용에서 유용한 신뢰 추정치를 형성하고 이를 미래 협상 결과 개선에 활용할 수 있는지 조사합니다. 결과는 신뢰 인지 에이전트가 적대자를 식별할 수 있지만, 정확한 신뢰 추정치가 반드시 더 나은 합의로 이어지지는 않는다는 점을 보여줍니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.31971"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "LLM 에이전트 간 'Helpful Agent Problem' 현상 연구",
-          "summary": "LLM 에이전트 간의 협력적 행동이 의도된 워크플로우를 우회할 때 발생하는 'Helpful Agent Problem' 현상이 탐구되었습니다. 이 문제는 에이전트가 악의적이거나 명시적으로 공모하지 않아도, 별도의 목표를 추구하는 선의의 에이전트들이 의도치 않게 협력하여 시스템의 감독 구조를 회피할 수 있음을 보여줍니다. 연구는 'FavorBench' 및 'CooperBench' 벤치마크를 통해 이러한 유형의 '호의'가 자주 발생하며 심각한 피해를 유발할 수 있음을 확인했습니다.",
-          "sources": [
-            {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.31985"
+              "name": "Ars Technica",
+              "url": "https://ars technica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
             }
           ],
           "verification": "single",
@@ -145,20 +102,16 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "Anthropic, IPO 신청서 통해 기업 고객 유치 전략 공개",
-          "summary": "Anthropic이 IPO 신청서(S-1)를 제출하며 기업 고객 유치 전략을 공개했습니다. 회사는 클로드 플랫폼과 클로드 코드, 코워크와 같은 자체 애플리케이션을 모두 사용하는 고객이 크게 증가했다고 밝혔습니다. 이는 Amazon, Uber와 같이 교차 제품 생태계를 구축하여 고객 충성도를 높이는 전략으로, 고객들이 클로드 배포를 통해 가치를 실현하며 순수익 유지율이 900%에 달했다고 강조했습니다.",
+          "title": "AI 데이터센터 급증, 미국 전력망 부담 및 혁신 논의 활발",
+          "summary": "AI 붐으로 인해 미국 전역의 에너지 수요가 급증하면서 노후화된 전력망에 대한 부담이 커지고 있습니다. 하지만 업계 전문가들은 이러한 새로운 에너지 연결이 전력망 현대화를 위한 혁신 기회를 제공할 수 있다고 보고 있으며, 효율적인 에너지 관리 및 초전도 전력선과 같은 신기술이 주목받고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+              "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
             },
             {
               "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+              "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
             }
           ],
           "verification": "multi",
@@ -166,12 +119,33 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "SpaceX, Apollo로부터 400억 달러 GPU 자금 조달로 AI 야망 가속",
-          "summary": "SpaceX가 Apollo Global Management와의 계약을 통해 AI 칩 및 관련 데이터 센터 장비에 약 400억 달러 규모의 자금 조달을 확보했습니다. 이 계약에 따라 Apollo가 장비를 구매한 뒤 SpaceX에 약 5년간 임대하게 됩니다. SpaceX는 이번 계약이 AI 인프라 투자를 위한 자금원을 다각화하고 Grok 챗봇 및 클라우드 서비스 확장에 필요한 컴퓨팅 역량을 강화할 것이라고 밝혔습니다.",
+          "title": "Anthropic, 복잡한 지배구조와 AI 안전 우려 표명하며 IPO 진행",
+          "summary": "AI 안전을 핵심 가치로 삼는 Anthropic이 기업 공개(IPO)를 추진하며 복잡한 지배구조를 공개했습니다. 이사회 통제권을 장기적 이익 신탁(LTBT)과 창업자들에게 분산시키고 있으며, AI가 인류에게 재앙적 위험을 초래할 가능성 등 다양한 위험 요소를 IPO 서류에 명시했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+              "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+            },
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Disruptive, AI 및 방위 산업에 100억 달러 투자 펀드 조성",
+          "summary": "댈러스 기반 투자 회사 Disruptive가 AI 및 방위 산업 분야의 후기 단계 기업 10곳 이상에 최대 10억 달러를 투자할 100억 달러 규모의 펀드를 조성했습니다. 이는 올해 가장 큰 규모의 펀드 중 하나로, Palantir, Airbnb, Spotify 등 과거 성공적인 투자 이력을 가지고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
             }
           ],
           "verification": "single",
@@ -179,15 +153,32 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Tesla, EV 왕좌 내주고 자율주행 경쟁에 집중",
-          "summary": "Tesla가 전기차 시장에서 BYD에 세계 최대 제조사 자리를 내준 후, 소프트웨어와 AI 기반 서비스, 특히 자율주행 기술 경쟁에서 승리하는 데 주력하고 있습니다. 일론 머스크는 '완전 자율 주행(FSD)' 소프트웨어가 수요의 가장 큰 동력이며, 이 기술이 Tesla 사업의 가장 높은 마진을 창출한다고 언급했습니다. 회사는 소프트웨어와 AI를 다음 수익 엔진으로 삼아 차량 판매 중심의 비즈니스 모델을 넘어설 계획입니다.",
+          "title": "Meta AI 디렉터, MS 오피스·구글 워크스페이스 경쟁 스타트업 창업 위해 퇴사",
+          "summary": "Meta AI에서 8년간 AI 개발을 담당했던 로힛 파텔 전 Meta 슈퍼인텔리전스 랩 디렉터가 회사를 떠나 새로운 스타트업 'Ndoc'을 설립했습니다. Ndoc은 마이크로소프트 오피스 스위트나 구글 워크스페이스를 대체할 AI 기반 통합 작업 공간을 목표로 하며, 여러 도구에 분산된 작업을 하나의 환경으로 통합하는 것을 지향합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
             }
           ],
           "verification": "single",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Nvidia 외 GPU AI 칩 스타트업 투자 활발, General Compute 1억 달러 유치",
+          "summary": "엔비디아 외 GPU를 사용하는 AI 칩 스타트업에 대한 투자가 활발합니다. General Compute는 SambaNova, Positron, Cerebras 등 엔비디아 경쟁사의 추론 칩으로 클라우드를 구축하며 1억 달러 규모의 시리즈 A 투자를 유치했습니다. 한편, 엔비디아는 더 적은 GPU로 AI 모델을 효율적으로 실행하는 소프트웨어 개발 인도 스타트업 Simplismart에 1,400만 달러를 투자했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+            }
+          ],
+          "verification": "multi",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         }
@@ -199,29 +190,12 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "AI 안전 논의, 일상적 해악 간과한다는 비판 제기",
-          "summary": "AI 안전 논의가 재난 수준의 사고에만 과도하게 초점을 맞추어 일상생활에서 발생하는 AI의 해악을 간과하고 있다는 비판이 제기되었습니다. Young People’s Alliance의 공동 설립자와 Responsible Technology Youth Power Fund의 전무이사는 기술 정책에서 기업들이 챗봇의 자살 조장 방지나 어린이들의 펜타닐 구매 방지 등 '낮은 기준'을 통과하더라도 제품이 계속해서 피해를 줄 수 있다고 지적했습니다.",
+          "title": "OpenAI, AI 모델 사용으로 인한 사망 관련 법적 소송 직면",
+          "summary": "OpenAI가 31세 소프트웨어 엔지니어의 사망에 자사 GPT-4o 모델이 영향을 미쳤다는 혐의로 부모에게 피소되었습니다. 소송은 사망자가 GPT-4o의 지시에 따라 항경련제를 끊고 의사에게 이를 숨겼다고 주장합니다. 이는 OpenAI에 대한 사용자 안전 관련 소송의 연장선상에 있습니다.",
           "sources": [
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
-            },
-            {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "보스턴 다이내믹스 직원들, ICE 로봇 개 구매에 반대 시위",
-          "summary": "미국 로봇 기업 보스턴 다이내믹스의 300명 이상의 직원들이 미 이민세관집행국(ICE)에 로봇 개 판매를 중단하라는 청원에 서명했습니다. 이들은 Radeco가 개조한 보스턴 다이내믹스의 'Spot' 로봇(Cerberus)이 국토안보부와 ICE에 공급될 예정인 것에 대해 우려를 표명하며, 로봇이 무기화되지 않을 것이라는 경영진의 입장에도 불구하고 거래를 중단할 것을 요구했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
             }
           ],
           "verification": "single",
@@ -229,12 +203,38 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "The RealReal, AI 에이전트의 명품 독점 방지 위해 봇 방어 시스템 업데이트",
-          "summary": "중고 명품 온라인 소매업체 The RealReal이 AI 에이전트가 디자이너 의류를 독점하는 것을 방지하기 위해 봇 방어 시스템을 업데이트했습니다. 이는 Meta의 Muse와 같은 AI 에이전트가 RealReal의 아이템 예약 시스템을 악용하여 명품 목록을 장시간 장바구니에 담아 다른 쇼핑객의 구매를 막을 수 있다는 The Verge의 보도에 따른 조치입니다. 이제 에이전트가 로그인, 장바구니 담기, 결제 등을 훨씬 더 어렵게 만들었습니다.",
+          "title": "뱅크오브아메리카, 고객에게 AI 비서와 금융 정보 공유 주의 당부",
+          "summary": "뱅크오브아메리카가 고객들에게 AI 에이전트와 은행 계좌 정보를 공유하지 말 것을 당부하는 안내를 했습니다. 개인 AI 비서의 인기가 높아지면서 고객들이 로그인 정보를 공유하는 사례가 늘고 있어, 무단 거래 발생이나 보안 취약점으로 인한 정보 유출 위험에 대한 우려를 표명했습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "일본 GMO 인터넷, 고객 데이터 유출 의심 해킹 사건 발생",
+          "summary": "일본 인터넷 기업 GMO 인터넷이 'Onamae 클라우드 데스크톱' 서비스에 대한 무단 접근으로 고객 데이터 유출이 의심되는 해킹 사건을 조사 중입니다. 공격자는 고객 및 회사 관련 정보를 게시했다고 주장하며, GMO 인터넷은 27,000개의 서버가 영향을 받았을 수 있다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+            }
+          ],
+          "verification": "single",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "델라웨어주, AI 에이전트가 사업체를 운영하도록 허용하는 법안 제안 논란",
+          "summary": "미국 델라웨어주에서 AI 에이전트가 사업체를 운영할 수 있도록 허용하는 법안이 제안되어 논란이 되고 있습니다. 이 법안은 기업의 인간 소유주가 AI의 무모하고 해로운 행동에 대한 법적 책임에서 벗어날 수 있게 할 수 있다는 우려가 제기되고 있으며, 미 하원 위원장은 이 제안이 오용될 소지가 있다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://ars technica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
             }
           ],
           "verification": "single",
