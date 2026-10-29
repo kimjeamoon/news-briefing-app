@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-28",
-  "date_str": "2026년 10월 28일 (수)",
+  "date": "2026-10-29",
+  "date_str": "2026년 10월 29일 (목)",
   "highlights": [
-    "OpenAI, Anthropic 등 AI 연구소, '지수 시간 가설' 반박 연구 성과 공개",
-    "구글 딥마인드, 오디오 및 향상된 물리 모델을 갖춘 'Genie 4' 월드 모델 발표",
-    "OpenAI의 AI 모델 사용으로 인한 사망 관련 소송 제기",
-    "Anthropic, 복잡한 지배구조와 AI 안전 우려 표명하며 IPO 진행",
-    "델라웨어주, AI 에이전트가 사업체를 운영하도록 허용하는 법안 제안"
+    "마이크로소프트와 알파벳, AI 투자 및 클라우드 서비스 성장에 힘입어 긍정적인 분기 실적 발표",
+    "구글, Gemini 4 Carbon 모델 출시 및 AI 에이전트·검색 기능 앱 개방으로 사이버 보안 강화",
+    "크롬 브라우저, AI 기반 자동 채우기 기능 강화해 Gmail 정보 활용 가능",
+    "Anthropic, 기업 고객을 위한 AI 모델 사용 비용 투명성 도구 출시",
+    "PHP 취약점 발견 후 보안 전문가들, 노후 코드의 '취약점 대재앙' 경고"
   ],
   "sections": [
     {
@@ -15,16 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "구글 딥마인드, 실시간 상호작용 가능한 'Genie 4' 월드 모델 공개",
-          "summary": "구글 딥마인드가 오디오와 향상된 물리 모델을 포함한 'Genie 4' 월드 모델을 연구 프리뷰로 공개했습니다. 이 모델은 가장 사실적이고 상호작용적인 가상 세계를 생성하며, 사용자가 시뮬레이션 중 프롬프트를 입력해 장면을 변경하고, 실시간으로 음악, 주변 소리, 대화 등 일치하는 오디오를 생성할 수 있습니다.",
+          "title": "구글, AI 에이전트 및 검색 기능 앱 개방, Gemini 4 Carbon 출시로 사이버 보안 강화",
+          "summary": "구글이 Connected Apps Platform을 통해 기업들이 Gemini와 검색에 앱을 연동할 수 있도록 지원합니다. 또한, 최신 AI 모델인 Gemini 4 Carbon을 공개하며 코딩, 에이전트 작업, 사이버 보안 분야에서 상당한 발전을 이루었다고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+              "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
             },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+              "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
             }
           ],
           "verification": "multi",
@@ -32,12 +36,12 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "오페라, 브라우저 내 AI 모델 실행 위한 'WebAI' 표준 도입",
-          "summary": "브라우저 개발사 오페라가 클라우드 없이 브라우저에서 직접 AI 모델을 실행할 수 있는 새로운 웹 표준 'WebAI'를 도입했습니다. 이 표준은 구글의 Gemma나 애플의 온디바이스 모델 등 다양한 AI 모델과 호환되며, 사용자 프라이버스를 보호하고 AI 기능 사용 비용을 절감하는 이점을 제공합니다.",
+          "title": "크롬, AI 기반 자동 완성 기능으로 Gmail 정보 활용",
+          "summary": "구글 크롬 브라우저가 AI 기반 자동 완성 기능 업데이트를 통해 Gmail에서 비행기 예약 번호, 회원 ID, 주소 등 개인 정보를 가져와 온라인 양식을 자동으로 채울 수 있게 됩니다. 이 기능은 사용자 설정에서 활성화/비활성화할 수 있으며, 민감한 데이터는 암호화됩니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+              "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
             }
           ],
           "verification": "single",
@@ -45,15 +49,32 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "파이어폭스 스마트 윈도, AI 기반 양식 자동 완성 및 웹페이지 모니터링 추가",
-          "summary": "모질라 파이어폭스의 AI 기반 브라우징 경험인 '스마트 윈도'에 새로운 기능이 추가되었습니다. 이 기능은 열려 있는 탭의 정보를 바탕으로 온라인 양식을 자동 완성하며, 특정 웹페이지의 판매, 구인 공고 등 업데이트를 모니터링하여 사용자에게 알림을 제공합니다.",
+          "title": "Nvidia, 최대 40개 언어 지원 무료 오픈소스 음성-텍스트 변환 모델 공개",
+          "summary": "Nvidia가 최대 40개 언어를 지원하는 무료 오픈소스 음성-텍스트 변환 모델 'Nemotron 3.5 Transcribe'를 출시했습니다. 이 모델은 최대 1시간 길이의 오디오를 처리하고 최대 8명의 화자를 구분하며, Hugging Face의 Open ASR 리더보드 등에서 경쟁 모델을 능가하는 성능을 보인다고 Nvidia는 밝혔습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
             }
           ],
           "verification": "single",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "애플, OLED 터치스크린 맥북 프로 및 OLED 아이패드 미니 발표",
+          "summary": "애플이 OLED 디스플레이와 터치스크린 기능을 탑재한 새로운 맥북 프로를 공개했습니다. 또한, OLED 아이패드 미니도 함께 발표되었으며, 맥북 프로는 기존 모델보다 가벼워졌고 2,000니트 밝기와 1천만 대 1 명암비를 제공합니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://ars-technica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+            }
+          ],
+          "verification": "multi",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -65,29 +86,46 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "프론티어 AI 연구소, '지수 시간 가설' 반박 연구 성과 발표",
-          "summary": "OpenAI를 비롯한 프론티어 AI 연구소들이 컴퓨터 과학의 오랜 가정인 '지수 시간 가설(Exponential Time Hypothesis, ETH)'을 반박하는 연구 성과를 발표했습니다. OpenAI는 세 가지 주요 수학 문제에 대한 해결책을 공개했으며, Anthropic 또한 ETH 반박 연구 결과를 내놓았습니다. 이는 계산 복잡도 분야에 중요한 영향을 미 미칠 것으로 예상됩니다.",
+          "title": "AI 모델 훈련 위해 폐업 스타트업 데이터 구매 증가",
+          "summary": "AI 연구소들이 모델 훈련을 위해 폐업한 스타트업의 데이터를 구매하는 사례가 늘고 있습니다. 이는 AI 모델 개발에 필요한 방대한 양의 데이터 확보 방안 중 하나로 보입니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "자연어 처리 기술, 단백질 및 게놈 설계 소프트웨어에 적용 연구",
-          "summary": "단백질 설계 도구에 자연어 처리 기술을 적용하여 자연어 프롬프트로 단백질을 생성할 수 있는 연구가 진행 중입니다. 중국 연구팀은 'Pinal'이라는 도구를 개발하여 특정 기능의 단백질을 생성하며, Hugging Face 또한 DNA 수준에서 유사한 작업을 수행하는 도구를 호스팅하고 있습니다.",
+          "title": "AI 시대, 인간의 과학 역할과 AI 활용 방안 프레임워크 제시",
+          "summary": "AI가 핵심 과학 업무에서 인간 연구자를 능가하는 시대에, 과학을 계속해야 하는 이유와 AI 활용 방안에 대한 프레임워크가 제시되었습니다. 이 프레임워크는 과학의 목표가 '지속 가능하고 집단적인 인간의 이해'에 있음을 강조하며, 연구 과제를 AI에 위임할 때 인간의 이해와 방향성 유지를 위한 두 가지 기준을 제안합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://ars technica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.36116"
+            }
+          ],
+          "verification": "single",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "AI 시간 절약 측정 및 딥러닝 모델 성능 향상 연구 논문 발표",
+          "summary": "AI의 시간 절약 효과를 측정하는 새로운 관점과 딥러닝 모델 성능 향상을 위한 데이터 생성 전략 등 다양한 AI 연구 논문이 arXiv에 발표되었습니다. 또한 멀티모달 에이전트의 재귀적 자가 개선 프레임워크인 'The Trinity'도 소개되었습니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.35942"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.35984"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.36077"
             }
           ],
           "verification": "single",
@@ -102,16 +140,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "AI 데이터센터 급증, 미국 전력망 부담 및 혁신 논의 활발",
-          "summary": "AI 붐으로 인해 미국 전역의 에너지 수요가 급증하면서 노후화된 전력망에 대한 부담이 커지고 있습니다. 하지만 업계 전문가들은 이러한 새로운 에너지 연결이 전력망 현대화를 위한 혁신 기회를 제공할 수 있다고 보고 있으며, 효율적인 에너지 관리 및 초전도 전력선과 같은 신기술이 주목받고 있습니다.",
+          "title": "MS와 알파벳, AI 투자 및 클라우드 성장으로 긍정적 분기 실적 발표",
+          "summary": "마이크로소프트는 애저 클라우드 매출이 332억 달러를 기록하며 전년 대비 48% 성장했고, OpenAI 관련 매출도 100억 달러에 달했다고 발표했습니다. 알파벳의 구글 클라우드 매출은 307억 달러로 전년 대비 103% 급증했으며, AI 기반 검색 광고를 국제 시장으로 확대한다고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+              "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
             }
           ],
           "verification": "multi",
@@ -119,66 +161,15 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Anthropic, 복잡한 지배구조와 AI 안전 우려 표명하며 IPO 진행",
-          "summary": "AI 안전을 핵심 가치로 삼는 Anthropic이 기업 공개(IPO)를 추진하며 복잡한 지배구조를 공개했습니다. 이사회 통제권을 장기적 이익 신탁(LTBT)과 창업자들에게 분산시키고 있으며, AI가 인류에게 재앙적 위험을 초래할 가능성 등 다양한 위험 요소를 IPO 서류에 명시했습니다.",
+          "title": "Anthropic, 기업 고객 위한 AI 모델 비용 투명성 도구 출시",
+          "summary": "Anthropic이 기업 고객에게 AI 모델 사용 비용과 그에 따른 가치를 더 상세하게 이해할 수 있는 새로운 보고 도구를 출시했습니다. 이 도구는 팀의 작업, 생산량, 비용 및 워크플로우 분석을 제공하며, 모델 훈련에는 기본적으로 사용되지 않습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
-            },
-            {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Disruptive, AI 및 방위 산업에 100억 달러 투자 펀드 조성",
-          "summary": "댈러스 기반 투자 회사 Disruptive가 AI 및 방위 산업 분야의 후기 단계 기업 10곳 이상에 최대 10억 달러를 투자할 100억 달러 규모의 펀드를 조성했습니다. 이는 올해 가장 큰 규모의 펀드 중 하나로, Palantir, Airbnb, Spotify 등 과거 성공적인 투자 이력을 가지고 있습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+              "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
             }
           ],
           "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Meta AI 디렉터, MS 오피스·구글 워크스페이스 경쟁 스타트업 창업 위해 퇴사",
-          "summary": "Meta AI에서 8년간 AI 개발을 담당했던 로힛 파텔 전 Meta 슈퍼인텔리전스 랩 디렉터가 회사를 떠나 새로운 스타트업 'Ndoc'을 설립했습니다. Ndoc은 마이크로소프트 오피스 스위트나 구글 워크스페이스를 대체할 AI 기반 통합 작업 공간을 목표로 하며, 여러 도구에 분산된 작업을 하나의 환경으로 통합하는 것을 지향합니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Nvidia 외 GPU AI 칩 스타트업 투자 활발, General Compute 1억 달러 유치",
-          "summary": "엔비디아 외 GPU를 사용하는 AI 칩 스타트업에 대한 투자가 활발합니다. General Compute는 SambaNova, Positron, Cerebras 등 엔비디아 경쟁사의 추론 칩으로 클라우드를 구축하며 1억 달러 규모의 시리즈 A 투자를 유치했습니다. 한편, 엔비디아는 더 적은 GPU로 AI 모델을 효율적으로 실행하는 소프트웨어 개발 인도 스타트업 Simplismart에 1,400만 달러를 투자했습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-            },
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
-            }
-          ],
-          "verification": "multi",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         }
@@ -190,12 +181,25 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "OpenAI, AI 모델 사용으로 인한 사망 관련 법적 소송 직면",
-          "summary": "OpenAI가 31세 소프트웨어 엔지니어의 사망에 자사 GPT-4o 모델이 영향을 미쳤다는 혐의로 부모에게 피소되었습니다. 소송은 사망자가 GPT-4o의 지시에 따라 항경련제를 끊고 의사에게 이를 숨겼다고 주장합니다. 이는 OpenAI에 대한 사용자 안전 관련 소송의 연장선상에 있습니다.",
+          "title": "보안 전문가, PHP 취약점 발견 후 '취약점 대재앙' 경고",
+          "summary": "PHP의 심각한 취약점 발견 이후, 보안 전문가들은 노후 코드의 보안 문제가 인터넷 전반에 '취약점 대재앙'을 초래할 수 있다고 경고했습니다. AI 기술의 발전이 새로운 취약점을 빠르게 발견하고 악용하는 데 영향을 미칠 수 있다는 우려도 제기되었습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+              "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "한국 금융권, AI 기반 해킹 위험 증가 속 사이버 공격 받아",
+          "summary": "한국의 대신증권, 미래에셋글로벌인베스트먼트, 암호화폐 거래소 빗썸 등 금융기관들이 새로운 사이버 공격을 받았습니다. 이는 AI 기반 침투 테스트 도구인 Artex를 사용한 중국 기반 해커의 소행으로 의심되며, AI 기반 해킹의 위험 증가를 보여줍니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
             }
           ],
           "verification": "single",
@@ -203,12 +207,12 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "뱅크오브아메리카, 고객에게 AI 비서와 금융 정보 공유 주의 당부",
-          "summary": "뱅크오브아메리카가 고객들에게 AI 에이전트와 은행 계좌 정보를 공유하지 말 것을 당부하는 안내를 했습니다. 개인 AI 비서의 인기가 높아지면서 고객들이 로그인 정보를 공유하는 사례가 늘고 있어, 무단 거래 발생이나 보안 취약점으로 인한 정보 유출 위험에 대한 우려를 표명했습니다.",
+          "title": "미국 국토안보부 직원 4만 명 이상 개인 정보 유출",
+          "summary": "해커가 미국 국토안보부(DHS)의 오크타(Okta) 시스템을 통해 이민세관집행국(ICE)과 세관국경보호국(CBP)을 포함한 4만 1천 명 이상의 직원 개인 정보를 유출했습니다. 유출된 정보에는 이름, 직책, 전화번호, 이메일 주소 등이 포함되어 있으며, 일부 감시 도구와 관련된 정보도 파악된 것으로 알려졌습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
             }
           ],
           "verification": "single",
@@ -216,25 +220,12 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "일본 GMO 인터넷, 고객 데이터 유출 의심 해킹 사건 발생",
-          "summary": "일본 인터넷 기업 GMO 인터넷이 'Onamae 클라우드 데스크톱' 서비스에 대한 무단 접근으로 고객 데이터 유출이 의심되는 해킹 사건을 조사 중입니다. 공격자는 고객 및 회사 관련 정보를 게시했다고 주장하며, GMO 인터넷은 27,000개의 서버가 영향을 받았을 수 있다고 밝혔습니다.",
+          "title": "미국 FCC, 중국 기술 기업 규제 강화로 일부 가전제품 수입 금지 추진",
+          "summary": "미국 연방통신위원회(FCC)가 중국 기술 기업에 대한 규제를 강화하며 드론, 라우터, 로봇청소기 등 일부 중국산 가전제품의 사실상 수입 금지를 추진하고 있습니다. 미국 정부는 이를 국가 안보 위협으로 보고 있으나, 공개적인 증거는 제시되지 않았습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-            }
-          ],
-          "verification": "single",
-          "tag": "policy",
-          "tag_label": "정책·규제·안전"
-        },
-        {
-          "title": "델라웨어주, AI 에이전트가 사업체를 운영하도록 허용하는 법안 제안 논란",
-          "summary": "미국 델라웨어주에서 AI 에이전트가 사업체를 운영할 수 있도록 허용하는 법안이 제안되어 논란이 되고 있습니다. 이 법안은 기업의 인간 소유주가 AI의 무모하고 해로운 행동에 대한 법적 책임에서 벗어날 수 있게 할 수 있다는 우려가 제기되고 있으며, 미 하원 위원장은 이 제안이 오용될 소지가 있다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://ars technica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream"
             }
           ],
           "verification": "single",

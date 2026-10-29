@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-28",
-  "date_str": "2026년 10월 28일 (수)",
+  "date": "2026-10-29",
+  "date_str": "2026년 10월 29일 (목)",
   "key5": [
-    "선관위 특별검사팀, 6·3 지방선거 투표지 공개 검증 착수",
-    "SK하이닉스, 3분기 역대 최고 영업이익 기록 및 대규모 주주환원 발표",
-    "네이버, 브룩필드와 12조원 규모 AI 인프라 확보 계약 체결",
-    "대신증권 고객 정보 3만 8천여 건 해킹으로 유출",
-    "트럼프 전 대통령, FBI의 중간선거 수사 개입 및 선거 사기 주장 제기"
+    "삼성전자, 반도체 부문 포함 역대 최대 시설 투자 및 높은 영업이익 기록",
+    "수도권 신규 택지 6곳 지정, 총 7만6700가구 주택 공급 발표",
+    "미국, 중국 기업 3곳 신장 지역 유전자 검사 연루 의혹으로 사실상 수입 금지 조치",
+    "스페인 고속열차 연쇄 추돌 사고 발생, 최소 68명 사망",
+    "애플, OLED 터치스크린 맥북 프로 및 아이패드 미니 신제품 발표"
   ],
   "regions": [
     {
@@ -15,68 +15,68 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "pol",
-          "title": "선관위 특검팀, 6·3 지방선거 투표지 공개 검증 착수",
-          "summary": "이태한 선거관리위원회 특별검사팀이 28일 6·3 지방선거 투표지 공개 검증에 착수했습니다. 특검팀은 서울 송파구 올림픽공원 핸드볼경기장에서 송파구 투표지 약 247만 장과 현장 CCTV 등 물품에 대한 임의 검증을 진행할 예정입니다. 이번 검증은 투표지의 증감 및 위조 여부 등 무결성을 확인하고 투·개표 장비 및 서류 오류 여부를 점검하기 위한 수사 활동의 일환입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261028046300004"
-            },
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261028057200004"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
           "tag": "eco",
-          "title": "SK하이닉스 3분기 역대 최고 영업이익, 대규모 주주환원 발표",
-          "summary": "SK하이닉스가 3분기 영업이익 83조3천338억원을 기록하며 분기 기준 사상 최대 실적을 달성했습니다. 이는 전년 동기 대비 632.1% 증가한 수치입니다. 더불어 SK하이닉스는 60조원 규모의 추가 주주환원 계획을 발표했으며, 3분기 현금배당액은 14조원, 자사주 매입액은 20조원입니다.",
+          "title": "삼성전자, 3분기 반도체 부문 영업익 106조…역대 최대 실적 경신",
+          "summary": "삼성전자가 올해 3분기 연결 기준 매출 195조3천억원, 영업이익 107조4천억원을 기록하며 역대 최대 실적을 경신했다. 특히 반도체(DS) 부문 영업이익은 106조5천억원으로, 분기 영업이익이 100조원을 넘긴 것은 이번이 처음이다. AI 확산에 따른 반도체 수요 확대와 가격 상승이 주요 요인으로 분석된다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261028041851008"
+              "url": "https://www.yna.co.kr/view/AKR20261029067300003"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610280838001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/marketing/1284751.html"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "네이버, 12조원 규모 AI 인프라 확보 계약에 주가 급등",
-          "summary": "네이버는 글로벌 자산운용사 브룩필드와 약 12조원 규모의 컴퓨팅 인프라 확보 계약을 체결했습니다. 이 소식에 28일 장 초반 네이버 주가가 6%대 급등했습니다. 이번 계약은 브룩필드 측 투자목적회사가 그래픽처리장치(GPU)를 확보하고, 네이버클라우드가 이를 공급받아 고객에게 서비스를 제공하는 구조입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261028055700008"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
           "tag": "soc",
-          "title": "대신증권 고객 정보 3만 8천여 건 해킹으로 유출",
-          "summary": "대신증권에서 지난 17일 해커의 비정상적인 접근으로 고객 3만8천490명의 개인정보가 유출되었습니다. 유출된 정보에는 고객명, 이메일, 주소, 통신ID, 은행명 등이 포함되어 있으며, 입·출금 계좌번호와 휴대전화번호는 암호화된 상태로 유출되었습니다. 대신증권은 2차 피해 정황은 발견되지 않았다고 밝혔으며, 금융감독원장은 금융기관에 정보보안 역량 강화를 촉구했습니다.",
+          "title": "수도권 신규택지 6곳 지정, 7만6천700가구 주택 공급 발표",
+          "summary": "정부가 수도권 주택 공급 확대를 위해 서울 경계 5km 이내의 경기 김포, 구리, 하남, 의정부, 고양 내 6곳을 신규 공공주택지구로 지정하고 총 7만6천700가구를 공급할 계획이라고 밝혔다. 이들 지역은 교통 요충지에 위치하며, '최단기 착공 모델'을 적용하여 2030년까지 착공하는 것을 목표로 한다. 국토교통부는 투기 방지를 위해 관련 조사를 진행했으나 의심 사례는 확인되지 않았다고 덧붙였다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/finance/1284517.html"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261029059600003"
             },
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610280902001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/economy/property/1284748.html"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "정부, 2030년부터 전 사업장 퇴직급여 사외적립 의무화 추진",
+          "summary": "더불어민주당과 정부는 퇴직급여의 사외 적립을 단계적으로 의무화하는 방안을 추진하기로 했다. 김영훈 고용노동부 장관은 2028년 100인 이상 사업장을 시작으로 2030년까지 모든 사업장에 퇴직급여 사외 적립을 의무화할 것이라고 밝혔으며, 영세 사업장에는 약 120억 원 규모의 재정 지원을 병행할 예정이다. 또한, 기금형 퇴직연금 활성화 방안도 추진된다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261029037100001"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610290939001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "tec",
+          "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원",
+          "summary": "삼성금융네트웍스와 삼성벤처투자가 '2026 삼성금융 C-Lab Outside' 최종발표회를 통해 인공지능(AI) 기술 등을 활용한 금융 서비스 개발에 협업한 스타트업 4곳을 최우수 기업으로 선정했다. 선정된 기업들은 AI 영상 제작, 위성 데이터 활용 보험 리스크 분석, 해외 부가가치세 환급 서비스, AI 기반 퀀트 투자정보 서비스 분야에서 활동하며, 삼성금융은 이들의 내년 미국 CES 참가를 지원할 예정이다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261029064300008"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -87,33 +87,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 전 대통령, FBI의 정치적 수사 개입 및 선거 사기 주장",
-          "summary": "도널드 트럼프 전 대통령은 다가오는 중간선거를 앞두고 FBI가 정치적 수사에 개입하고 있으며 선거 사기가 진행되고 있다고 주장했습니다. 그의 캠프는 선거 사기 제보에 1백만 달러의 보상을 제안했습니다. 이는 카르텔과의 전쟁 선포와 마약 밀매 조직에 대한 군사 작전 강화 발표와 함께 진행되고 있습니다.",
+          "title": "트럼프 전 대통령, 중간선거 앞두고 선거 관련 발언으로 논란",
+          "summary": "도널드 트럼프 전 대통령이 중간선거를 앞두고 알래스카 상원의원 후보인 메리 펠톨라에 대한 기소 요구를 하는 등 정치적 개입을 이어가고 있다. 뉴욕 타임스는 펠톨라 캠프와 민주당이 선거에 방해꾼 후보를 모집하는 데 도움을 주었다고 보도했다. 또한, 일부 내각 관료들이 해치법을 위반하며 공화당 후보들을 지원하고 있다는 윤리 전문가들의 지적도 나오고 있다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+              "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html"
             },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "미국, 카르텔과의 전쟁 선포 및 마약 밀매 조직에 군사 작전 강화",
-          "summary": "미국은 카르텔과의 전쟁을 선포하고 마약 밀매 조직에 대한 군사 작전을 강화하고 있습니다. 도널드 트럼프 행정부 출범 이후 70건 이상의 공습이 있었으며, 이로 인해 240명 이상이 사망했습니다. 그러나 이러한 공습의 합법성과 마약 밀매 관련 증거 부족에 대한 논란이 제기되고 있습니다.",
-          "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html"
-            },
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific"
+              "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html"
             }
           ],
           "verification": "multi",
@@ -121,37 +104,54 @@
         },
         {
           "tag": "eco",
-          "title": "GM, 100년 이상 뉴욕증권거래소에서 나스닥으로 상장 이전",
-          "summary": "제너럴 모터스(GM)가 100년 이상 뉴욕증권거래소(NYSE)에 상장된 후 나스닥(Nasdaq)으로 상장을 이전한다고 발표했습니다. 나스닥은 현재 많은 기술 기업의 본거지입니다. GM의 이번 결정은 자동차 산업의 변화와 기술 중심 시장으로의 전환을 반영하는 것으로 보입니다.",
+          "title": "미국 연준, 금리 동결 결정에도 2027년부터 회의 횟수 축소",
+          "summary": "미국 연방준비제도(Fed)가 금리를 동결했으나, 내년부터 금리 결정 회의 횟수를 줄일 예정이다. 케빈 M. 워쉬 연준 의장은 2027년에는 7회, 2028년에는 6회 금리 투표를 진행할 것이라고 밝혔다. 이는 전통적으로 연간 8회였던 회의 횟수에서 줄어드는 것으로, 12월 회의 전 '정보가 풍부한' 기간이 향후 정책 방향을 결정하는 데 도움이 될 것이라고 언급했다.",
           "sources": [
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html"
+              "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "soc",
-          "title": "연쇄 살인범 테드 번디, 1974년 십대 소녀 살인 사건 DNA로 연루 확정",
-          "summary": "악명 높은 연쇄 살인범 테드 번디가 1974년 실종된 17세 소녀 멜리사 앤 스미스 살인 사건에 DNA 증거로 연루된 것이 확정되었습니다. 이는 52년 만에 해결된 미제 사건으로, 이전 라우라 앤 에임 살해 사건의 DNA 증거를 통해 스미스 사건과의 연결이 밝혀졌습니다. 유타주 수사당국은 포렌식 기술의 발전을 통해 다른 미제 사건들도 계속 조사 중이라고 밝혔습니다.",
+          "title": "미국 노동운동 및 시민권 운동의 상징, 돌로레스 후에르타 96세로 별세",
+          "summary": "미국 노동운동과 시민권 운동의 선구자이자 상징인 돌로레스 후에르타가 96세의 나이로 별세했다. 후에르타는 세자르 차베스와 함께 전국농장노동자연합(UFW)을 공동 설립하여 가난한 농업 노동자들의 권리를 옹호했으며, 'Sí, se puede!(우리는 할 수 있다!)'라는 구호를 만들어냈다. 그녀는 생전에 대통령 자유 메달을 포함한 수많은 상을 받았으며, 사망 원인은 암으로 알려졌다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/27/us/ted-bundy-cold-case-utah.html"
-            },
-            {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "미국 국토안보부 직원 4만여 명 정보 유출, 사이버 보안 비상",
+          "summary": "미국 국토안보부(DHS) 직원 4만1천여 명의 개인 정보가 유출되는 심각한 사이버 보안 사고가 발생했다. 유출된 정보에는 이름, 직장 주소, 전화번호 등이 포함되어 있으며, 이민세관집행국(ICE) 및 관세국경보호국(CBP) 요원들의 정보도 다수 포함되었다. 이번 유출은 최근 몇 주간 정부 기관을 대상으로 한 세 번째 해킹 또는 정보 유출 사례로, 'Department of Peace'라는 그룹이 정보 유출의 책임이 있다고 밝혔다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -162,54 +162,70 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "시진핑 주석, 일-중 관계의 정치적 기반 보호 촉구",
-          "summary": "시진핑 중국 국가주석이 지난주 별세한 후쿠다 야스오 전 일본 총리의 유족에게 조의를 표하며, 현재 일본 지도부에 양국 관계의 '정치적 기반을 보호'할 것을 촉구했습니다. 이는 지난해 말부터 경색된 양국 관계 속에서 나온 발언입니다. 시 주석은 후쿠다 전 총리가 '올바른 역사관을 견지'했다고 언급했습니다.",
+          "title": "미국, 중국 기업 3곳 '신장 지역 강제노동 연루'로 수입 금지",
+          "summary": "미국 정부가 중국 유전체 분석 기업 BGI그룹 및 2개 관계사의 제품 수입을 사실상 금지했다. 미 국토안보부는 이들 기업이 신장 위구르 지역에서 유전자 검사를 수행하며 강제노동 인력 모집 및 이송을 도왔다고 지적하며, '위구르 강제노동 방지법' 제재 대상 명단에 추가했다. 중국 정부는 이에 대해 자국 기업의 정당한 권익을 침해한다며 반발하고, BGI그룹 측은 강제노동과 무관하다고 주장했다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/27/japan/politics/xi-sends-condolences/"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261029062600009"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "글로벌 자동차 제조사, 중국 시장 점유율 하락에 새 전략 모색",
-          "summary": "폭스바겐과 토요타 등 글로벌 자동차 제조사들의 중국 본토 시장 점유율이 3분기에 다시 하락하여 30% 미만으로 떨어졌습니다. 경기 둔화와 이란 전쟁으로 소비자들이 고가의 해외 브랜드보다 국내 브랜드를 선호하는 경향이 강해졌기 때문입니다. 이에 따라 글로벌 자동차 제조사들은 중국 시장에서의 생존을 위한 새로운 전략을 모색하고 있습니다.",
+          "tag": "pol",
+          "title": "러시아, 북한 노동자를 학생으로 위장해 고용…제재 회피 의혹",
+          "summary": "네덜란드 비영리 단체 글로벌 라이츠 컴플라이언스의 조사에 따르면 러시아가 온라인 플랫폼을 통해 북한 노동자들을 학생으로 위장하여 고용하고 있는 것으로 드러났다. 이러한 방식은 국제법 위반이며, 러시아의 우크라이나 전쟁 노력에 이득이 되고 북한의 미사일 개발을 지원하는 것으로 분석된다. 해당 플랫폼을 운영하는 러시아 사업가는 이미 유럽연합의 제재 대상에 올라있다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/business/china-business/article/3372359/global-carmakers-search-new-china-strategy-market-share-slips-below-30"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/russia-north-korea-forced-labor/"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/location/east-asia/north-korea/russia-imports-north-korean-workers-disguised-as-students-report-shows"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "미래에셋증권, 일본 산코증권 인수하며 일본 주식 시장 진출",
+          "summary": "미래에셋증권이 일본 오카산증권그룹 산하 산코증권을 인수하여 일본 주식 시장에 진출한다. 약 50억엔 규모로 예상되는 이번 인수를 통해 미래에셋증권은 '제1종 금융상품거래업자' 등록을 승계하게 된다. 이는 미래에셋증권의 일본 주식 자기매매 사업 진출을 의미하며, 향후 오카산증권그룹과의 협업을 통해 글로벌X ETF 등의 상품 판매도 논의될 예정이다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610290926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan"
+            }
+          ],
+          "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
           "tag": "tec",
-          "title": "홍콩, AI 발전 속 졸업생 취업 광고 22% 감소",
-          "summary": "홍콩에서 올해 첫 9개월 동안 신규 졸업생 채용 공고가 전년 대비 22% 감소했습니다. 이는 인공지능(AI) 기술의 발전이 고용 시장에 미치는 영향으로 풀이됩니다. 졸업생 한 명당 지원하는 일자리는 56% 증가하여 취업 경쟁이 심화되고 있습니다. 전문가들은 졸업생들에게 인턴십을 통해 소프트 스킬을 강화할 것을 권고하고 있습니다.",
+          "title": "미국-중국 기술 경쟁 심화 속 AI 및 반도체 산업 동향",
+          "summary": "미국과 중국 간의 기술 경쟁이 심화되는 가운데, 양국 모두 AI 및 반도체 산업에 집중하고 있다. 전 CIA 부국장은 미국의 기술 우위를 유지하기 위해 중국 기업에 대한 경제 스파이 활동을 촉구했으며, 한국의 SK하이닉스와 삼성전자는 AI 칩 수요 증가에 힘입어 기록적인 수익을 올리고 있다. 한편, 구글은 자체 개발한 AI 칩(TPU)이 매출 성장에 기여하고 있다고 밝히며 엔비디아의 시장 지배력에 도전하고 있다.",
           "sources": [
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "중국 배터리 공장 하부, 거대한 리튬 매장 가능성 연구 결과",
-          "summary": "새로운 연구 결과에 따르면, 중국의 배터리 제조 중심지, 특히 남동부 해안 지역 아래에 고대 화산 활동으로 형성된 방대한 리튬 매장지가 있을 수 있다고 합니다. 지질학자들은 이러한 지역이 중국의 리튬 배터리 산업 클러스터와 겹친다고 지적했습니다. 현지 공급은 운송 비용과 공급망 위험을 크게 줄일 수 있을 것으로 기대됩니다.",
-          "sources": [
+              "url": "https://www.scmp.com/economy/china-economy/article/3372475/us-should-spy-chinese-firms-maintain-edge-tech-race-ex-cia-official"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/technology/google-parent-s-revenue-jumps-25-as-homegrown-ai-chips-take-on-nvidia"
+            },
             {
               "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3372325/chinas-battery-factories-could-be-sitting-right-top-vast-lithium-deposits"
+              "url": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
@@ -220,34 +236,34 @@
       "en": "EUROPE",
       "stories": [
         {
-          "tag": "pol",
-          "title": "노르웨이·핀란드 정상, 푸틴 러시아 대통령과 이례적 통화",
-          "summary": "핀란드 알렉산더 스텁 대통령과 노르웨이 요나스 가르 스퇴레 총리가 블라디미르 푸틴 러시아 대통령과 이례적인 공동 통화를 가졌습니다. 양국 정상은 우크라이나 전쟁 종식을 위한 '미래 협상에 관한 메시지를 직접 전달'하는 것이 목표였다고 밝혔습니다. 그러나 양측 모두 전쟁 종식에 대한 입장 차이가 크다고 언급했으며, 다른 유럽 국가들은 이번 통화에 대해 회의적인 반응을 보였습니다.",
-          "sources": [
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "이스라엘 총선, 접전 끝에 어느 진영도 확실한 승리 확보 못 해",
-          "summary": "이스라엘 총선에서 베냐민 네타냐후 총리의 연합과 경쟁 진영인 가디 아이젠코트 전 군 참모총장이 치열한 접전 끝에 어느 쪽도 확실한 승리를 확보하지 못했습니다. 출구 조사에 따르면 아이젠코트 진영이 근소하게 앞섰지만, 과반 의석 확보에는 실패했습니다. 역대 최고 수준의 투표율을 기록한 이번 선거 결과에 따라 정부 구성 협상이 장기화될 것으로 예상됩니다.",
+          "tag": "soc",
+          "title": "스페인 고속열차 연쇄 추돌 사고, 최소 68명 사망…국가 애도",
+          "summary": "스페인 톨레도주에서 고속열차가 정지해 있던 다른 열차와 추돌하여 최소 68명이 사망하고 수십 명이 부상당하는 참사가 발생했다. 이는 올해 스페인에서 발생한 두 번째 치명적인 고속열차 사고이며, 2013년 이후 유럽에서 가장 많은 사상자를 낸 열차 사고로 기록되었다. 페드로 산체스 스페인 총리는 사흘간의 국가 애도 기간을 선포하며 고속철도 시스템의 안전성 강화를 촉구했다.",
           "sources": [
             {
               "name": "NPR",
-              "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
             },
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/israeli-opposition-netanyahu-vote/"
+              "url": "https://www.japantimes.co.jp/news/2026/10/29/world/spain-second-train-crash-dead/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "EU, 캐나다 '준회원국' 협상 철회…'더욱 긴밀한 협력'으로 선회",
+          "summary": "유럽연합(EU)이 캐나다에 제안했던 '준회원국' 지위 협상 제안을 철회하고, 대신 '정회원국에 미치지 못하는 더욱 긴밀한 협력'을 모색하기로 했다. 우르줄라 폰데어라이엔 유럽연합 집행위원장이 제안했던 준회원국 지위는 회원국들 간의 이견으로 인해 수정되었으며, 독일, 그리스, 프랑스 등이 반대 의견을 표명한 것으로 알려졌다.",
+          "sources": [
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
@@ -255,33 +271,33 @@
         },
         {
           "tag": "eco",
-          "title": "EU, 새로운 기후 복원력 법안 마련 및 글로벌 세금 수입으로 예산 증대 모색",
-          "summary": "유럽연합(EU) 집행위원회가 극심한 기후 재난에 대한 대응 능력을 강화하기 위한 '기후 복원력 법안'을 발표했습니다. 이 법안은 각국 정부에 2050년 2°C, 2100년 3°C 상승 시나리오에 대비한 계획 수립을 요구합니다. 또한, EU는 다국적 기업에 대한 글로벌 세금 협약 수익을 다음 7개년 예산 증대에 활용하는 방안을 검토 중입니다.",
+          "title": "영국 재무부, 에너지 비용 절감 및 은행 과세 강화 예산안 발표",
+          "summary": "영국 재무장관 존 힐리는 첫 예산안을 발표하며 겨울철 에너지 요금 급등에 대비해 수백만 가구에 100파운드의 에너지 지원금을 지급하고, 은행 초과이윤에 대한 과세를 15개월간 3% 인상하여 6%로 올릴 계획을 밝혔다. 이는 중동 전쟁으로 인한 유가 급등과 생활비 부담 증가에 대응하기 위한 조치로, 임시적인 조치들이 포함되어 향후 재검토될 예정이다.",
           "sources": [
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/healey-targets-brits-energy-costs-raids-banks-in-first-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/eu-eyes-global-tax-deal-revenue-to-boost-next-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/five-takeaways-from-andy-burnhams-first-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "노르웨이, 사이버 공격 3배 증가 및 AI 기술의 심각한 위험 경고",
-          "summary": "노르웨이 국가안보국(NSM)은 지난 6개월간 노르웨이 기관을 대상으로 한 '성공적인' 사이버 공격이 3배 증가했다고 발표했습니다. 특히 국방 산업과 우주 분야가 사이버 위험에 노출되어 있다고 경고했습니다. 또한 NSM은 인공지능(AI) 기술이 노르웨이 기업 및 기관에 '심각한 위험'을 초래할 수 있다고 강조하며, AI가 취약점을 더 빠르고 대규모로 찾아낼 수 있다고 덧붙였습니다.",
+          "tag": "tec",
+          "title": "EU, 오스트리아 인피니언 차세대 반도체 공장에 3.19억 유로 보조금 승인",
+          "summary": "유럽연합(EU) 집행위원회가 오스트리아 빌라흐에 있는 인피니언 테크놀로지스 반도체 시설 업그레이드를 위해 3.19억 유로의 국가 보조금을 승인했다. 이 투자는 11억 유로 규모로, 인피니언을 차세대 질화갈륨(GaN) 전력 반도체의 세계 최초 300mm 웨이퍼 대량 생산 시설로 만들 예정이다. 이는 EU의 반도체법(Chips Act)에 따라 EU의 반도체 공급망 자율성 강화에 기여할 것으로 기대된다.",
           "sources": [
             {
               "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months"
+              "url": "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu"
             }
           ],
           "verification": "single",
-          "tag_label": "사회"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -292,29 +308,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "애플, M6 칩 탑재 아이맥 및 맥북 프로 업데이트",
-          "summary": "애플이 아이맥과 보급형 14인치 맥북 프로를 M6 칩으로 업데이트했다고 발표했습니다. M6 칩은 몇 주 전 맥 미니에 처음 도입된 바 있습니다. 아이맥은 M4에서 M6로 건너뛰어 성능 향상이 크며, Wi-Fi 7 및 Bluetooth 6를 지원합니다.",
+          "title": "MS, 3분기 이익 급증…AI 투자 지속에도 해고 단행",
+          "summary": "마이크로소프트(MS)가 3분기에 366억 달러 이상의 순이익을 기록하며 전년 동기 대비 19% 증가한 923억 달러의 분기 매출을 달성했다. 이는 클라우드 컴퓨팅 사업의 강력한 성장에 힘입은 결과이다. MS는 인공지능(AI)에 수십억 달러를 투자하는 한편, 비용 절감을 위해 전 세계 인력의 4분의 1 이상에 해당하는 약 6만 명의 직원에게 자발적 퇴직을 제안했다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "Anthropic IPO, 인공지능의 잠재적 위험 경고",
-          "summary": "AI 기업 앤트로픽(Anthropic)이 기업공개(IPO)를 앞두고 증권거래위원회(SEC)에 제출한 S-1 서류에서 인공지능이 인류에 미칠 수 있는 잠재적 위험에 대해 경고했습니다. 앤트로픽은 AI가 사람을 협박하거나, 지각력을 갖게 되거나, 인류를 종말시킬 수도 있다고 언급했습니다. 회사는 이러한 위험에도 불구하고 안전한 AI 개발을 위한 독특한 거버넌스 구조를 제안했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+              "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
             }
           ],
           "verification": "multi",
@@ -322,15 +325,32 @@
         },
         {
           "tag": "tec",
-          "title": "제임스 웹 망원경, 엄청난 대기를 가진 뜨거운 용암 행성 발견",
-          "summary": "제임스 웹 우주 망원경이 지구에서 약 280광년 떨어진 뜨거운 용암 행성 'TOI-561 b'가 두꺼운 대기를 유지하고 있다는 놀라운 증거를 발견했습니다. 이전에는 극한 조건 때문에 대기가 사라졌을 것으로 예상되었습니다. 이 행성의 대기는 들어오는 별빛의 약 75%를 반사하며, 규산염 구름이 거대한 '선스크린' 역할을 할 가능성이 제기되었습니다.",
+          "title": "NASA 아르테미스 1호, 달 주변 방사선 수치 및 인체 통과 정보 공개",
+          "summary": "NASA의 아르테미스 1호 임무를 통해 달 주변의 우주 방사선 수치가 지구 저궤도보다 높지만 예상만큼 크지는 않다는 새로운 사실이 밝혀졌다. 오리온 우주선에 탑재된 리튬 불화물 결정으로 만든 실험용 감지기는 방사선이 인체를 통과하는 방식에 대한 놀라운 세부 정보를 포착하여, 향후 달 탐사에 귀중한 통찰력을 제공했다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm"
             }
           ],
           "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "애플, OLED 터치스크린 맥북 프로 및 아이패드 미니 신제품 발표",
+          "summary": "애플이 OLED 디스플레이를 탑재하고 터치스크린 기능을 지원하는 새로운 맥북 프로 모델을 발표했다. 14인치 모델은 3파운드로 이전 모델보다 가벼워졌으며, 최대 2,000니트 밝기와 1천만 대 1의 명암비를 자랑하는 'PROLED XDR' 디스플레이가 특징이다. 터치스크린 맥북 프로의 최고 사양 모델은 최대 14,549달러에 달할 것으로 예상된다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+            }
+          ],
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
