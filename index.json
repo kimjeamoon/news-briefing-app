@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-29",
-  "date_str": "2026년 10월 29일 (목)",
+  "date": "2026-10-30",
+  "date_str": "2026년 10월 30일 (금)",
   "key5": [
-    "삼성전자, 반도체 부문 포함 역대 최대 시설 투자 및 높은 영업이익 기록",
-    "수도권 신규 택지 6곳 지정, 총 7만6700가구 주택 공급 발표",
-    "미국, 중국 기업 3곳 신장 지역 유전자 검사 연루 의혹으로 사실상 수입 금지 조치",
-    "스페인 고속열차 연쇄 추돌 사고 발생, 최소 68명 사망",
-    "애플, OLED 터치스크린 맥북 프로 및 아이패드 미니 신제품 발표"
+    "미국 예측시장 플랫폼 칼시, 10억 달러 투자 유치 및 기업가치 400억 달러 인정",
+    "구글 AI 검색 요약, 광고 수익 영향으로 주가 급락",
+    "스페인 고속열차 충돌, 69명 사망에 애도와 진상 규명 요구",
+    "도어대시, 인스타카트 170억 달러에 인수하며 배달업계 거대 기업 통합",
+    "미국 이민세관집행국(ICE) 요원 수천 명 개인 정보 해킹 유출"
   ],
   "regions": [
     {
@@ -15,17 +15,69 @@
       "en": "KOREA",
       "stories": [
         {
+          "tag": "soc",
+          "title": "여중생 유인 시도 30대 남성, 징역 6개월 실형 선고",
+          "summary": "혼자 있는 여중생을 차에 태우려 한 30대 남성에게 징역 6개월의 실형이 선고되었습니다. 이 남성은 과거에도 청소년 성범죄로 두 차례 처벌받은 전력이 있으며, 출소 한 달 만에 다시 범행을 저지른 것으로 드러났습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261030060700057"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "사회"
+        },
+        {
           "tag": "eco",
-          "title": "삼성전자, 3분기 반도체 부문 영업익 106조…역대 최대 실적 경신",
-          "summary": "삼성전자가 올해 3분기 연결 기준 매출 195조3천억원, 영업이익 107조4천억원을 기록하며 역대 최대 실적을 경신했다. 특히 반도체(DS) 부문 영업이익은 106조5천억원으로, 분기 영업이익이 100조원을 넘긴 것은 이번이 처음이다. AI 확산에 따른 반도체 수요 확대와 가격 상승이 주요 요인으로 분석된다.",
+          "title": "롯데케미칼, 순환경제 벤처기업 지원 '프로젝트 루프 소셜' 5기 출범",
+          "summary": "롯데케미칼이 순환경제 구축을 위한 벤처기업 지원 프로그램 '프로젝트 루프 소셜' 5기를 출범하고 협약식을 진행했습니다. 폐플라스틱 재생 기술을 가진 5개 유망 소셜벤처 기업이 선정되어 사업 실현금, 멘토링, 판로 구축 등 다양한 지원을 받게 됩니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261030060900003"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "한미일 외교장관, 美서 한반도 및 경제안보 협력 논의",
+          "summary": "한미일 외교장관이 미국 애틀랜타에서 만나 한반도 문제, 지역·글로벌 정세, 경제안보 협력 방안 등을 논의했습니다. 북한의 최근 탄도미사일 발사와 북·중 밀착 양상 등을 평가하고 대북 공조 방안에 대해 의견을 교환할 것으로 예상됩니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261029178300504"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "정부·민간 공동 화합물반도체 SPC 설립 추진",
+          "summary": "정부가 민간과 공동 출자하여 화합물반도체 기술 확보 및 제조 인프라를 운영하는 특수목적법인(SPC) 설립을 추진합니다. 이는 국방, 6G, 우주항공 등 미래 전략산업의 핵심 부품인 화합물반도체 국산화를 목표로 합니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261029177100017"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "코스피 4%대 급락, 매도 사이드카 발동",
+          "summary": "코스피가 장중 4%대의 급락세를 보이면서 프로그램 매도호가 일시효력정지(매도 사이드카)가 발동되었습니다. 이는 코스피가 7.57% 급락했던 15일 이후 11거래일 만의 일로, 삼성전자와 SK하이닉스 등 주요 종목들이 큰 폭으로 하락했습니다.",
           "sources": [
             {
               "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261029067300003"
+              "url": "https://www.yna.co.kr/view/AKR20261030061500008"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/marketing/1284751.html"
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1284967.html"
             }
           ],
           "verification": "multi",
@@ -33,50 +85,20 @@
         },
         {
           "tag": "soc",
-          "title": "수도권 신규택지 6곳 지정, 7만6천700가구 주택 공급 발표",
-          "summary": "정부가 수도권 주택 공급 확대를 위해 서울 경계 5km 이내의 경기 김포, 구리, 하남, 의정부, 고양 내 6곳을 신규 공공주택지구로 지정하고 총 7만6천700가구를 공급할 계획이라고 밝혔다. 이들 지역은 교통 요충지에 위치하며, '최단기 착공 모델'을 적용하여 2030년까지 착공하는 것을 목표로 한다. 국토교통부는 투기 방지를 위해 관련 조사를 진행했으나 의심 사례는 확인되지 않았다고 덧붙였다.",
+          "title": "故 최불암 배우 별세, 이 대통령·한 총리 애도",
+          "summary": "배우 최불암(본명 최영한)이 별세하자 이재명 대통령과 한성숙 국무총리가 추모 메시지를 전했습니다. 이 대통령은 최불암 배우를 '우리 시대의 아버지'로 기억하겠다고 밝혔으며, 한 총리는 고인의 연기 인생과 선행이 우리 사회에 큰 귀감이 되었다고 애도했습니다.",
           "sources": [
             {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261029059600003"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261030045600001"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/property/1284748.html"
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284970.html"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "정부, 2030년부터 전 사업장 퇴직급여 사외적립 의무화 추진",
-          "summary": "더불어민주당과 정부는 퇴직급여의 사외 적립을 단계적으로 의무화하는 방안을 추진하기로 했다. 김영훈 고용노동부 장관은 2028년 100인 이상 사업장을 시작으로 2030년까지 모든 사업장에 퇴직급여 사외 적립을 의무화할 것이라고 밝혔으며, 영세 사업장에는 약 120억 원 규모의 재정 지원을 병행할 예정이다. 또한, 기금형 퇴직연금 활성화 방안도 추진된다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261029037100001"
-            },
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610290939001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "tec",
-          "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원",
-          "summary": "삼성금융네트웍스와 삼성벤처투자가 '2026 삼성금융 C-Lab Outside' 최종발표회를 통해 인공지능(AI) 기술 등을 활용한 금융 서비스 개발에 협업한 스타트업 4곳을 최우수 기업으로 선정했다. 선정된 기업들은 AI 영상 제작, 위성 데이터 활용 보험 리스크 분석, 해외 부가가치세 환급 서비스, AI 기반 퀀트 투자정보 서비스 분야에서 활동하며, 삼성금융은 이들의 내년 미국 CES 참가를 지원할 예정이다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261029064300008"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -87,16 +109,16 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 전 대통령, 중간선거 앞두고 선거 관련 발언으로 논란",
-          "summary": "도널드 트럼프 전 대통령이 중간선거를 앞두고 알래스카 상원의원 후보인 메리 펠톨라에 대한 기소 요구를 하는 등 정치적 개입을 이어가고 있다. 뉴욕 타임스는 펠톨라 캠프와 민주당이 선거에 방해꾼 후보를 모집하는 데 도움을 주었다고 보도했다. 또한, 일부 내각 관료들이 해치법을 위반하며 공화당 후보들을 지원하고 있다는 윤리 전문가들의 지적도 나오고 있다.",
+          "title": "공화당, 알래스카 상원의원 선거 '스포일러 후보' 의혹 수사 요구",
+          "summary": "알래스카 상원의원 선거에서 민주당이 '스포일러 후보'를 모집했다는 의혹에 대해 공화당이 법무부와 하원 감독 위원회에 수사를 요구하며 논란이 확산되고 있습니다. 알래스카 주정부도 자체 조사를 시작했습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html"
+              "url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
             },
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html"
+              "url": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html"
             }
           ],
           "verification": "multi",
@@ -104,54 +126,71 @@
         },
         {
           "tag": "eco",
-          "title": "미국 연준, 금리 동결 결정에도 2027년부터 회의 횟수 축소",
-          "summary": "미국 연방준비제도(Fed)가 금리를 동결했으나, 내년부터 금리 결정 회의 횟수를 줄일 예정이다. 케빈 M. 워쉬 연준 의장은 2027년에는 7회, 2028년에는 6회 금리 투표를 진행할 것이라고 밝혔다. 이는 전통적으로 연간 8회였던 회의 횟수에서 줄어드는 것으로, 12월 회의 전 '정보가 풍부한' 기간이 향후 정책 방향을 결정하는 데 도움이 될 것이라고 언급했다.",
+          "title": "예측시장 플랫폼 칼시, 10억 달러 투자 유치 및 기업가치 400억 달러 인정",
+          "summary": "미국 예측시장 플랫폼 칼시(Kalshi)가 400억 달러의 기업가치를 인정받으며 10억 달러 투자를 유치했습니다. 이는 5개월 만에 기업가치가 82% 상승한 것으로, 기업공개(IPO) 이전 마지막 투자 라운드로 해석됩니다. 하지만 유타주 검찰총장은 칼시를 불법 온라인 도박 조장 혐의로 기소하는 등 법적 문제에 직면해 있습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261030063400009"
             },
             {
               "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
+              "url": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "미국 노동운동 및 시민권 운동의 상징, 돌로레스 후에르타 96세로 별세",
-          "summary": "미국 노동운동과 시민권 운동의 선구자이자 상징인 돌로레스 후에르타가 96세의 나이로 별세했다. 후에르타는 세자르 차베스와 함께 전국농장노동자연합(UFW)을 공동 설립하여 가난한 농업 노동자들의 권리를 옹호했으며, 'Sí, se puede!(우리는 할 수 있다!)'라는 구호를 만들어냈다. 그녀는 생전에 대통령 자유 메달을 포함한 수많은 상을 받았으며, 사망 원인은 암으로 알려졌다.",
+          "tag": "eco",
+          "title": "도어대시, 인스타카트 170억 달러에 인수…배달 시장 통합 가속",
+          "summary": "도어대시(DoorDash)가 인스타카트(Instacart)를 170억 달러에 인수하기로 합의했습니다. 이번 거래로 미국 최대 음식 배달 서비스와 최대 온라인 식료품 플랫폼이 통합되어 고객에게 더 많은 선택권을 제공하고 판매자의 서비스 이용을 확대할 것으로 기대됩니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html"
             },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "경제·시장"
         },
         {
-          "tag": "tec",
-          "title": "미국 국토안보부 직원 4만여 명 정보 유출, 사이버 보안 비상",
-          "summary": "미국 국토안보부(DHS) 직원 4만1천여 명의 개인 정보가 유출되는 심각한 사이버 보안 사고가 발생했다. 유출된 정보에는 이름, 직장 주소, 전화번호 등이 포함되어 있으며, 이민세관집행국(ICE) 및 관세국경보호국(CBP) 요원들의 정보도 다수 포함되었다. 이번 유출은 최근 몇 주간 정부 기관을 대상으로 한 세 번째 해킹 또는 정보 유출 사례로, 'Department of Peace'라는 그룹이 정보 유출의 책임이 있다고 밝혔다.",
+          "tag": "eco",
+          "title": "주요 기술 기업 AI 데이터 센터 투자 확대, 월스트리트 우려 증폭",
+          "summary": "아마존을 포함한 주요 기술 기업들이 인공지능(AI) 데이터 센터 투자를 확대하면서 주가 하락과 함께 월스트리트의 우려를 사고 있습니다. 아마존은 목요일 AI 투자 증가를 발표하며 주가가 하락했고, 구글 또한 AI 검색 요약 기능이 광고 수익에 영향을 미치면서 주가가 급락했습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
-          "tag_label": "기술·과학"
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "트럼프, 알리나 하바 변호사 5천만 달러 계약에 분노 보도",
+          "summary": "도널드 트럼프 전 대통령이 자신의 전 변호사 알리나 하바가 부유한 사면 요청자의 가족과 체결한 5천만 달러 규모의 계약에 분노했으며, 이 돈 중 일부가 자신의 미래 대통령 도서관으로 가기를 원했다고 보도되었습니다.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -161,72 +200,77 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "pol",
-          "title": "미국, 중국 기업 3곳 '신장 지역 강제노동 연루'로 수입 금지",
-          "summary": "미국 정부가 중국 유전체 분석 기업 BGI그룹 및 2개 관계사의 제품 수입을 사실상 금지했다. 미 국토안보부는 이들 기업이 신장 위구르 지역에서 유전자 검사를 수행하며 강제노동 인력 모집 및 이송을 도왔다고 지적하며, '위구르 강제노동 방지법' 제재 대상 명단에 추가했다. 중국 정부는 이에 대해 자국 기업의 정당한 권익을 침해한다며 반발하고, BGI그룹 측은 강제노동과 무관하다고 주장했다.",
+          "tag": "eco",
+          "title": "도쿄 물가상승률, 일본은행 2% 목표치 상회",
+          "summary": "도쿄의 소비자 물가상승률이 일본은행(BOJ)의 2% 목표치를 넘어섰습니다. 신선식품을 제외한 소비자 물가는 10월에 전년 동기 대비 2.6% 상승했으며, 이는 중앙은행의 정책 결정 직전 지속적인 물가 압력을 보여줍니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261029062600009"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/tokyo-cpi-october/"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "pol",
+          "title": "다카이치 日총리, 국정 홍보 적극·정치 논란 침묵의 '선택적 SNS'",
+          "summary": "취임 1주년을 앞둔 다카이치 사나에 일본 총리의 SNS 활용법이 주목받고 있습니다. 국정 홍보와 선거 운동에는 적극적이지만, 정치적 논란이나 불리한 사안에는 침묵하는 선택적 소통 행보를 보이고 있습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610301020001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "single",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "pol",
-          "title": "러시아, 북한 노동자를 학생으로 위장해 고용…제재 회피 의혹",
-          "summary": "네덜란드 비영리 단체 글로벌 라이츠 컴플라이언스의 조사에 따르면 러시아가 온라인 플랫폼을 통해 북한 노동자들을 학생으로 위장하여 고용하고 있는 것으로 드러났다. 이러한 방식은 국제법 위반이며, 러시아의 우크라이나 전쟁 노력에 이득이 되고 북한의 미사일 개발을 지원하는 것으로 분석된다. 해당 플랫폼을 운영하는 러시아 사업가는 이미 유럽연합의 제재 대상에 올라있다.",
+          "tag": "soc",
+          "title": "홍콩 타이포 아파트 화재 사망사고, 행정장관 사과 및 건축 산업 개혁 약속",
+          "summary": "홍콩 타이포 지역의 아파트 화재로 168명이 사망한 사고에 대해 존 리 홍콩 행정장관이 사과하고 건축 산업 개혁을 약속했습니다. 독립 보고서는 4개 정부 부서의 부분적 책임과 광범위한 입찰 담합 실패를 지적했습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/russia-north-korea-forced-labor/"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html"
             },
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/location/east-asia/north-korea/russia-imports-north-korean-workers-disguised-as-students-report-shows"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/hong-kong-fire-apology/"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry"
             }
           ],
           "verification": "multi",
+          "tag_label": "사회"
+        },
+        {
+          "tag": "pol",
+          "title": "중국 인민해방군, 긴축 재정 '절약 운동' 시행",
+          "summary": "중국 인민해방군(PLA)이 절약 운동의 일환으로 중고 서류가방을 배포하고 휴일 장식을 재활용하는 등 긴축 재정을 시행하고 있습니다. 이는 2026년부터 2030년까지의 제15차 5개년 계획에 따른 비용 절감 노력의 일환입니다.",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/military/article/3372552/inside-plas-new-austerity-drive-lean-mean-printing-both-sides-machine"
+            }
+          ],
+          "verification": "single",
           "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "미래에셋증권, 일본 산코증권 인수하며 일본 주식 시장 진출",
-          "summary": "미래에셋증권이 일본 오카산증권그룹 산하 산코증권을 인수하여 일본 주식 시장에 진출한다. 약 50억엔 규모로 예상되는 이번 인수를 통해 미래에셋증권은 '제1종 금융상품거래업자' 등록을 승계하게 된다. 이는 미래에셋증권의 일본 주식 자기매매 사업 진출을 의미하며, 향후 오카산증권그룹과의 협업을 통해 글로벌X ETF 등의 상품 판매도 논의될 예정이다.",
+          "title": "도요타 월간 판매량, 중국 시장 침체로 8개월 연속 감소",
+          "summary": "도요타의 9월 자동차 판매량이 전년 대비 2.9% 감소하며 8개월 연속 하락세를 기록했습니다. 이는 고유가로 인해 비전기차 수요가 줄어든 중국 시장의 침체가 주요 원인으로 분석됩니다. 혼다와 닛산 또한 중국 시장에서 큰 폭의 판매량 감소를 보였습니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610290926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/business-deals/south-korea-s-mirae-asset-to-buy-prop-trading-unit-of-japan-s-okasan"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/29/toyota-monthly-sales-slump/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "경제·시장"
-        },
-        {
-          "tag": "tec",
-          "title": "미국-중국 기술 경쟁 심화 속 AI 및 반도체 산업 동향",
-          "summary": "미국과 중국 간의 기술 경쟁이 심화되는 가운데, 양국 모두 AI 및 반도체 산업에 집중하고 있다. 전 CIA 부국장은 미국의 기술 우위를 유지하기 위해 중국 기업에 대한 경제 스파이 활동을 촉구했으며, 한국의 SK하이닉스와 삼성전자는 AI 칩 수요 증가에 힘입어 기록적인 수익을 올리고 있다. 한편, 구글은 자체 개발한 AI 칩(TPU)이 매출 성장에 기여하고 있다고 밝히며 엔비디아의 시장 지배력에 도전하고 있다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/economy/china-economy/article/3372475/us-should-spy-chinese-firms-maintain-edge-tech-race-ex-cia-official"
-            },
-            {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/technology/google-parent-s-revenue-jumps-25-as-homegrown-ai-chips-take-on-nvidia"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
         }
       ]
     },
@@ -237,16 +281,20 @@
       "stories": [
         {
           "tag": "soc",
-          "title": "스페인 고속열차 연쇄 추돌 사고, 최소 68명 사망…국가 애도",
-          "summary": "스페인 톨레도주에서 고속열차가 정지해 있던 다른 열차와 추돌하여 최소 68명이 사망하고 수십 명이 부상당하는 참사가 발생했다. 이는 올해 스페인에서 발생한 두 번째 치명적인 고속열차 사고이며, 2013년 이후 유럽에서 가장 많은 사상자를 낸 열차 사고로 기록되었다. 페드로 산체스 스페인 총리는 사흘간의 국가 애도 기간을 선포하며 고속철도 시스템의 안전성 강화를 촉구했다.",
+          "title": "스페인 고속열차 충돌, 69명 사망…진상 규명 촉구",
+          "summary": "스페인 톨레도 인근에서 발생한 고속열차 충돌 사고로 최소 69명이 사망하고 수십 명이 부상했습니다. 올해 두 번째 고속열차 사고로, 스페인 사회는 비탄에 잠겼으며 정부에 사고 원인에 대한 철저한 진상 규명을 요구하고 있습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/30/world/spain-rail-disaster-answers/"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/29/world/spain-second-train-crash-dead/"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
@@ -254,50 +302,62 @@
         },
         {
           "tag": "pol",
-          "title": "EU, 캐나다 '준회원국' 협상 철회…'더욱 긴밀한 협력'으로 선회",
-          "summary": "유럽연합(EU)이 캐나다에 제안했던 '준회원국' 지위 협상 제안을 철회하고, 대신 '정회원국에 미치지 못하는 더욱 긴밀한 협력'을 모색하기로 했다. 우르줄라 폰데어라이엔 유럽연합 집행위원장이 제안했던 준회원국 지위는 회원국들 간의 이견으로 인해 수정되었으며, 독일, 그리스, 프랑스 등이 반대 의견을 표명한 것으로 알려졌다.",
+          "title": "라가르드 ECB 총재, 임기 2개월여 앞두고 사임 계획",
+          "summary": "크리스틴 라가르드 유럽중앙은행(ECB) 총재가 임기 만료를 수개월 앞둔 2월에 사임할 계획이라고 밝혔습니다. 그녀의 사임으로 유럽 정상들 사이에서 새로운 중앙은행 총재 선출 절차가 시작될 예정입니다. 스페인의 파블로 에르난데스 데 코스 와 네덜란드의 클라스 노트가 유력한 후임으로 거론되고 있습니다.",
           "sources": [
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation/"
             },
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/meet-the-front-runners-to-replace-ecb-christine-lagarde/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "영국 재무부, 에너지 비용 절감 및 은행 과세 강화 예산안 발표",
-          "summary": "영국 재무장관 존 힐리는 첫 예산안을 발표하며 겨울철 에너지 요금 급등에 대비해 수백만 가구에 100파운드의 에너지 지원금을 지급하고, 은행 초과이윤에 대한 과세를 15개월간 3% 인상하여 6%로 올릴 계획을 밝혔다. 이는 중동 전쟁으로 인한 유가 급등과 생활비 부담 증가에 대응하기 위한 조치로, 임시적인 조치들이 포함되어 향후 재검토될 예정이다.",
+          "tag": "pol",
+          "title": "러시아 드론, 우크라이나 드니프로 기차역 공격…최소 14명 사망",
+          "summary": "러시아 드론이 우크라이나 드니프로 기차역을 공격하여 최소 14명이 사망하고 다수가 부상했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 이 공격을 '끔찍하다'고 비난하며 서방 동맹국들의 대응을 촉구했습니다.",
           "sources": [
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/healey-targets-brits-energy-costs-raids-banks-in-first-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/29/world/ukraine-dnipro-train-strike/"
             },
             {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/five-takeaways-from-andy-burnhams-first-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv"
             }
           ],
           "verification": "multi",
-          "tag_label": "경제·시장"
+          "tag_label": "정치·외교"
         },
         {
-          "tag": "tec",
-          "title": "EU, 오스트리아 인피니언 차세대 반도체 공장에 3.19억 유로 보조금 승인",
-          "summary": "유럽연합(EU) 집행위원회가 오스트리아 빌라흐에 있는 인피니언 테크놀로지스 반도체 시설 업그레이드를 위해 3.19억 유로의 국가 보조금을 승인했다. 이 투자는 11억 유로 규모로, 인피니언을 차세대 질화갈륨(GaN) 전력 반도체의 세계 최초 300mm 웨이퍼 대량 생산 시설로 만들 예정이다. 이는 EU의 반도체법(Chips Act)에 따라 EU의 반도체 공급망 자율성 강화에 기여할 것으로 기대된다.",
+          "tag": "pol",
+          "title": "EU 집행위원장, 캐나다에 '준회원국' 지위 제안…일부 회원국 이견",
+          "summary": "우르줄라 폰데어라이엔 EU 집행위원장이 몬트리올 정상회담에서 캐나다와의 새로운 파트너십을 위한 '준회원국(associate member)' 지위를 제안했습니다. 그녀는 이를 '회원국과 가장 가까운 파트너십'이라고 설명했으나, 독일을 비롯한 일부 EU 회원국들은 이 용어 사용에 이견을 표하며 '미래를 위한 동맹' 등 완화된 표현을 선호하고 있습니다.",
           "sources": [
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "verification": "single",
-          "tag_label": "기술·과학"
+          "verification": "multi",
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -308,16 +368,16 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "MS, 3분기 이익 급증…AI 투자 지속에도 해고 단행",
-          "summary": "마이크로소프트(MS)가 3분기에 366억 달러 이상의 순이익을 기록하며 전년 동기 대비 19% 증가한 923억 달러의 분기 매출을 달성했다. 이는 클라우드 컴퓨팅 사업의 강력한 성장에 힘입은 결과이다. MS는 인공지능(AI)에 수십억 달러를 투자하는 한편, 비용 절감을 위해 전 세계 인력의 4분의 1 이상에 해당하는 약 6만 명의 직원에게 자발적 퇴직을 제안했다.",
+          "title": "구글 AI 검색 요약, 광고 수익 영향으로 주가 급락",
+          "summary": "구글의 AI 검색 요약 기능이 광고 수익에 부정적인 영향을 미치면서 구글 모회사 알파벳의 주가가 급락했습니다. 회사는 AI 투자로 인한 현금 소진 속도가 가파르게 늘어났다고 밝혔으며, 월스트리트에서는 AI 투자와 기존 사업 성장 능력 간의 균형에 대한 우려가 커지고 있습니다.",
           "sources": [
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
             }
           ],
           "verification": "multi",
@@ -325,29 +385,58 @@
         },
         {
           "tag": "tec",
-          "title": "NASA 아르테미스 1호, 달 주변 방사선 수치 및 인체 통과 정보 공개",
-          "summary": "NASA의 아르테미스 1호 임무를 통해 달 주변의 우주 방사선 수치가 지구 저궤도보다 높지만 예상만큼 크지는 않다는 새로운 사실이 밝혀졌다. 오리온 우주선에 탑재된 리튬 불화물 결정으로 만든 실험용 감지기는 방사선이 인체를 통과하는 방식에 대한 놀라운 세부 정보를 포착하여, 향후 달 탐사에 귀중한 통찰력을 제공했다.",
+          "title": "레딧, 검색 트래픽 감소에 '로그인 전용' 전환 예정",
+          "summary": "레딧(Reddit)이 사용자 경험을 '로그인 전용'으로 전환할 예정이라고 밝혔습니다. 이는 검색 트래픽 감소와 관련이 있으며, 로그인 사용자에게 최적의 경험을 제공하고 광고 타겟팅 신호를 늘리며 데이터 접근을 보호하기 위함이라고 설명했습니다.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "애플, OLED 터치스크린 맥북 프로 및 아이패드 미니 신제품 발표",
-          "summary": "애플이 OLED 디스플레이를 탑재하고 터치스크린 기능을 지원하는 새로운 맥북 프로 모델을 발표했다. 14인치 모델은 3파운드로 이전 모델보다 가벼워졌으며, 최대 2,000니트 밝기와 1천만 대 1의 명암비를 자랑하는 'PROLED XDR' 디스플레이가 특징이다. 터치스크린 맥북 프로의 최고 사양 모델은 최대 14,549달러에 달할 것으로 예상된다.",
+          "title": "미 이민세관집행국(ICE) 요원 수천 명 개인 정보 대규모 해킹 유출",
+          "summary": "미국 이민세관집행국(ICE) 요원 수천 명을 포함한 미국 국토안보부(DHS) 직원 4만 명 이상의 개인 정보가 대규모 해킹으로 유출되었습니다. 유출된 정보에는 이름, 직장 주소, 전화번호 및 업무 내용 등이 포함되어 있으며, 이는 요원들의 괴롭힘, 스토킹 및 신체적 피해 위험을 야기할 수 있다고 DHS는 밝혔습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak"
             },
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "엔비디아 CEO, 中스파이 표적 가능성…트럼프 정부 침묵 논란",
+          "summary": "미국 정보기관이 엔비디아 CEO 젠슨 황이 중국 스파이의 표적이 되었을 가능성을 인지했으나, 트럼프 행정부가 엔비디아 주가 보호를 위해 조치를 취하지 않았다는 보도가 나왔습니다. 이 스파이는 젠슨 황 CEO에게 직접 접근하여 AI 칩 및 정보를 노린 것으로 추정되며, 미 당국은 황 CEO에게 이 사실을 알리지도 않았다고 전해졌습니다.",
+          "sources": [
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610300849001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
             }
           ],
           "verification": "multi",
