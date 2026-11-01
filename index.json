@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-30",
-  "date_str": "2026년 10월 30일 (금)",
+  "date": "2026-11-01",
+  "date_str": "2026년 11월 1일 (일)",
   "key5": [
-    "미국 예측시장 플랫폼 칼시, 10억 달러 투자 유치 및 기업가치 400억 달러 인정",
-    "구글 AI 검색 요약, 광고 수익 영향으로 주가 급락",
-    "스페인 고속열차 충돌, 69명 사망에 애도와 진상 규명 요구",
-    "도어대시, 인스타카트 170억 달러에 인수하며 배달업계 거대 기업 통합",
-    "미국 이민세관집행국(ICE) 요원 수천 명 개인 정보 해킹 유출"
+    "쿼드 외교장관, 핵심광물 공급망 교란 및 AI 기술 협력 방안 논의",
+    "한국 1~10월 누적 수출액 9천억 달러 돌파, 무역수지 흑자 지속",
+    "이태원 핼러윈 축제, 안전 관리 강화 속 인파 몰려",
+    "트럼프 행정부의 선거 개입 시도에 캘리포니아 주지사 등 법적 대응",
+    "바이낸스, 63억 달러 규모 암호화폐 해킹 발생"
   ],
   "regions": [
     {
@@ -15,86 +15,64 @@
       "en": "KOREA",
       "stories": [
         {
-          "tag": "soc",
-          "title": "여중생 유인 시도 30대 남성, 징역 6개월 실형 선고",
-          "summary": "혼자 있는 여중생을 차에 태우려 한 30대 남성에게 징역 6개월의 실형이 선고되었습니다. 이 남성은 과거에도 청소년 성범죄로 두 차례 처벌받은 전력이 있으며, 출소 한 달 만에 다시 범행을 저지른 것으로 드러났습니다.",
+          "tag": "pol",
+          "title": "쿼드 외교장관, 핵심광물 공급망 교란 및 AI 등 기술 협력 논의",
+          "summary": "쿼드(Quad) 회원국 외교장관들이 워싱턴에서 회담을 열고 핵심광물 공급망 교란에 공동 대응하기로 합의했습니다. 또한, 미국 주도의 AI 기술 협력에 8천500만 달러 이상을 지원하기로 약속했습니다. 특정 국가를 직접 언급하지는 않았으나, 사실상 중국의 공급망 교란 행위를 지목한 것으로 해석됩니다.",
           "sources": [
             {
               "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261030060700057"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "eco",
-          "title": "롯데케미칼, 순환경제 벤처기업 지원 '프로젝트 루프 소셜' 5기 출범",
-          "summary": "롯데케미칼이 순환경제 구축을 위한 벤처기업 지원 프로그램 '프로젝트 루프 소셜' 5기를 출범하고 협약식을 진행했습니다. 폐플라스틱 재생 기술을 가진 5개 유망 소셜벤처 기업이 선정되어 사업 실현금, 멘토링, 판로 구축 등 다양한 지원을 받게 됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261030060900003"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "pol",
-          "title": "한미일 외교장관, 美서 한반도 및 경제안보 협력 논의",
-          "summary": "한미일 외교장관이 미국 애틀랜타에서 만나 한반도 문제, 지역·글로벌 정세, 경제안보 협력 방안 등을 논의했습니다. 북한의 최근 탄도미사일 발사와 북·중 밀착 양상 등을 평가하고 대북 공조 방안에 대해 의견을 교환할 것으로 예상됩니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261029178300504"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "정부·민간 공동 화합물반도체 SPC 설립 추진",
-          "summary": "정부가 민간과 공동 출자하여 화합물반도체 기술 확보 및 제조 인프라를 운영하는 특수목적법인(SPC) 설립을 추진합니다. 이는 국방, 6G, 우주항공 등 미래 전략산업의 핵심 부품인 화합물반도체 국산화를 목표로 합니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261029177100017"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "코스피 4%대 급락, 매도 사이드카 발동",
-          "summary": "코스피가 장중 4%대의 급락세를 보이면서 프로그램 매도호가 일시효력정지(매도 사이드카)가 발동되었습니다. 이는 코스피가 7.57% 급락했던 15일 이후 11거래일 만의 일로, 삼성전자와 SK하이닉스 등 주요 종목들이 큰 폭으로 하락했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261030061500008"
+              "url": "https://www.yna.co.kr/view/AKR20261101003251071"
             },
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/economy/economy_general/1284967.html"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "한국 1~10월 누적 수출액 9천억 달러 돌파, 10월 무역수지 흑자 지속",
+          "summary": "한국의 1월부터 10월까지 누적 수출액이 사상 처음으로 9천억 달러를 돌파했으며, 11월 중 연간 수출액 1조 달러 달성이 확실시됩니다. 10월 수출액은 전년 동기 대비 93.7% 증가한 1천152억 8천만 달러를 기록했고, 무역수지는 425억 달러 흑자로 2개월 연속 400억 달러 이상을 유지했습니다. 반도체 수출은 두 달 연속 500억 달러 이상을 기록하며 성장을 주도했습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261101015300003"
+            },
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261101014400003"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
         },
         {
-          "tag": "soc",
-          "title": "故 최불암 배우 별세, 이 대통령·한 총리 애도",
-          "summary": "배우 최불암(본명 최영한)이 별세하자 이재명 대통령과 한성숙 국무총리가 추모 메시지를 전했습니다. 이 대통령은 최불암 배우를 '우리 시대의 아버지'로 기억하겠다고 밝혔으며, 한 총리는 고인의 연기 인생과 선행이 우리 사회에 큰 귀감이 되었다고 애도했습니다.",
+          "tag": "tec",
+          "title": "삼성전자, 과불화화합물 저감 기술 개발…내년 평택사업장 적용",
+          "summary": "삼성전자가 국내에 배출 허용 기준이 없는 과불화화합물(PFAS) 등 오염물질을 저감하는 기술을 개발했습니다. 이 기술은 방류수에 함유된 과불화화합물을 분리 농축 후 전기 화학 반응으로 처리하는 방식이며, 내년부터 평택사업장 반도체 공정에 적용될 예정입니다. 삼성전자는 2040년까지 오염물질 배출을 자연상태 수준으로 관리하는 '신 환경경영전략' 목표에 따라 연구를 지속할 방침입니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261030045600001"
-            },
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261030130700061"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "soc",
+          "title": "이태원 핼러윈 축제, 안전 관리 강화 속 인파 몰려",
+          "summary": "핼러윈 당일인 31일, 서울 이태원에는 많은 인파가 몰려 축제 분위기가 이어졌습니다. 정부는 '핼러윈 인파안전 특별대책기간'으로 정하고 경찰특공대와 장갑차까지 배치하는 등 안전 관리를 강화했습니다. 한편, 이태원 참사 현장인 '10·29 기억과 안전의 길'에는 희생자들을 추모하는 시민들의 발길이 끊이지 않았습니다.",
+          "sources": [
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284970.html"
+              "url": "https://www.hani.co.kr/arti/society/society_general/1285145.html"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202610312345001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
@@ -109,88 +87,71 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "공화당, 알래스카 상원의원 선거 '스포일러 후보' 의혹 수사 요구",
-          "summary": "알래스카 상원의원 선거에서 민주당이 '스포일러 후보'를 모집했다는 의혹에 대해 공화당이 법무부와 하원 감독 위원회에 수사를 요구하며 논란이 확산되고 있습니다. 알래스카 주정부도 자체 조사를 시작했습니다.",
+          "title": "트럼프 행정부, 선거 개입 시도에 캘리포니아 주지사 등 법적 대응",
+          "summary": "트럼프 행정부가 중간선거에 개입하려 한다는 의혹이 제기되면서, 캘리포니아 주지사는 판사들에게 투표용지 및 투표 기기 압수 영장 시도에 대한 경고를 발령했습니다. 워싱턴주에서는 시민 단체들이 트럼프 행정부의 투표 무효화 노력을 막기 위한 소송을 제기했습니다. 이러한 움직임은 연방 정부의 선거 개입 시도에 대한 우려를 증폭시키고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
+              "url": "https://www.nytimes.com/2026/10/31/us/newsom-california-election-interference.html"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
-        },
-        {
-          "tag": "eco",
-          "title": "예측시장 플랫폼 칼시, 10억 달러 투자 유치 및 기업가치 400억 달러 인정",
-          "summary": "미국 예측시장 플랫폼 칼시(Kalshi)가 400억 달러의 기업가치를 인정받으며 10억 달러 투자를 유치했습니다. 이는 5개월 만에 기업가치가 82% 상승한 것으로, 기업공개(IPO) 이전 마지막 투자 라운드로 해석됩니다. 하지만 유타주 검찰총장은 칼시를 불법 온라인 도박 조장 혐의로 기소하는 등 법적 문제에 직면해 있습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261030063400009"
-            },
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "도어대시, 인스타카트 170억 달러에 인수…배달 시장 통합 가속",
-          "summary": "도어대시(DoorDash)가 인스타카트(Instacart)를 170억 달러에 인수하기로 합의했습니다. 이번 거래로 미국 최대 음식 배달 서비스와 최대 온라인 식료품 플랫폼이 통합되어 고객에게 더 많은 선택권을 제공하고 판매자의 서비스 이용을 확대할 것으로 기대됩니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "eco",
-          "title": "주요 기술 기업 AI 데이터 센터 투자 확대, 월스트리트 우려 증폭",
-          "summary": "아마존을 포함한 주요 기술 기업들이 인공지능(AI) 데이터 센터 투자를 확대하면서 주가 하락과 함께 월스트리트의 우려를 사고 있습니다. 아마존은 목요일 AI 투자 증가를 발표하며 주가가 하락했고, 구글 또한 AI 검색 요약 기능이 광고 수익에 영향을 미치면서 주가가 급락했습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
-            },
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
         },
         {
           "tag": "pol",
-          "title": "트럼프, 알리나 하바 변호사 5천만 달러 계약에 분노 보도",
-          "summary": "도널드 트럼프 전 대통령이 자신의 전 변호사 알리나 하바가 부유한 사면 요청자의 가족과 체결한 5천만 달러 규모의 계약에 분노했으며, 이 돈 중 일부가 자신의 미래 대통령 도서관으로 가기를 원했다고 보도되었습니다.",
+          "title": "미시간주 민주당 상원 후보 간 갈등 심화, 중간선거 앞두고 긴장 고조",
+          "summary": "미국 중간선거를 앞두고 미시간주 민주당 상원 후보 압둘 엘-세이드와 전 경선 경쟁자 헤일리 스티븐스 의원 간의 긴장이 고조되고 있습니다. 엘-세이드 후보는 스티븐스 의원에게 선거 운동 행사 참석 자제를 요청하며 '방해를 원치 않는다'고 밝혔습니다. 이는 상원 다수당 재탈환을 목표로 하는 민주당에게 중요한 경합주에서 당내 분열의 우려를 낳고 있습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html"
+              "url": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
+        },
+        {
+          "tag": "eco",
+          "title": "바이낸스, 63억 달러 규모 암호화폐 해킹 발생",
+          "summary": "세계 최대 암호화폐 거래소 바이낸스에서 63억 달러 규모의 암호화폐 해킹이 발생했습니다. 이는 역사상 최대 규모의 사이버 강도 사건으로 기록될 수 있으며, FBI는 이번 해킹의 배후에 북한 정찰총국 소속 해킹 조직이 있다고 확인했습니다. 바이낸스는 도난당한 자금의 일부를 동결하고, 피해 고객에게 손실을 보상하겠다고 밝혔습니다.",
+          "sources": [
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "캘리포니아 핼러윈 용품점에서 총격 사건 발생, 7명 사상",
+          "summary": "미국 캘리포니아주의 한 핼러윈 용품 매장에서 총격 사건이 발생하여 1명이 사망하고 6명이 부상했습니다. 이 중 최소 3명은 위독한 상태입니다. 경찰은 아직 용의자를 특정하지 못하고 수사를 진행 중이며, 할로윈을 하루 앞두고 발생한 이번 사건은 많은 이들에게 충격을 주고 있습니다.",
+          "sources": [
+            {
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1285144.html"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -200,60 +161,13 @@
       "en": "CHINA & JAPAN",
       "stories": [
         {
-          "tag": "eco",
-          "title": "도쿄 물가상승률, 일본은행 2% 목표치 상회",
-          "summary": "도쿄의 소비자 물가상승률이 일본은행(BOJ)의 2% 목표치를 넘어섰습니다. 신선식품을 제외한 소비자 물가는 10월에 전년 동기 대비 2.6% 상승했으며, 이는 중앙은행의 정책 결정 직전 지속적인 물가 압력을 보여줍니다.",
+          "tag": "pol",
+          "title": "미국·한국·일본, 북한 비핵화를 위한 공동 노력 재확인",
+          "summary": "미국, 한국, 일본 3국은 주요 20개국(G20) 외교장관회의를 계기로 북한의 '완전한 비핵화'를 위한 공동 노력을 재확인했습니다. 3국 외교장관은 유엔 안전보장이사회 결의의 완전한 이행도 약속했습니다. 이는 북한이 핵 보유국 지위를 법제화하고 군축을 거부하는 상황에서 나온 것입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/tokyo-cpi-october/"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "pol",
-          "title": "다카이치 日총리, 국정 홍보 적극·정치 논란 침묵의 '선택적 SNS'",
-          "summary": "취임 1주년을 앞둔 다카이치 사나에 일본 총리의 SNS 활용법이 주목받고 있습니다. 국정 홍보와 선거 운동에는 적극적이지만, 정치적 논란이나 불리한 사안에는 침묵하는 선택적 소통 행보를 보이고 있습니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610301020001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "soc",
-          "title": "홍콩 타이포 아파트 화재 사망사고, 행정장관 사과 및 건축 산업 개혁 약속",
-          "summary": "홍콩 타이포 지역의 아파트 화재로 168명이 사망한 사고에 대해 존 리 홍콩 행정장관이 사과하고 건축 산업 개혁을 약속했습니다. 독립 보고서는 4개 정부 부서의 부분적 책임과 광범위한 입찰 담합 실패를 지적했습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html"
-            },
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/hong-kong-fire-apology/"
-            },
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "pol",
-          "title": "중국 인민해방군, 긴축 재정 '절약 운동' 시행",
-          "summary": "중국 인민해방군(PLA)이 절약 운동의 일환으로 중고 서류가방을 배포하고 휴일 장식을 재활용하는 등 긴축 재정을 시행하고 있습니다. 이는 2026년부터 2030년까지의 제15차 5개년 계획에 따른 비용 절감 노력의 일환입니다.",
-          "sources": [
-            {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/military/article/3372552/inside-plas-new-austerity-drive-lean-mean-printing-both-sides-machine"
+              "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/"
             }
           ],
           "verification": "single",
@@ -261,16 +175,29 @@
         },
         {
           "tag": "eco",
-          "title": "도요타 월간 판매량, 중국 시장 침체로 8개월 연속 감소",
-          "summary": "도요타의 9월 자동차 판매량이 전년 대비 2.9% 감소하며 8개월 연속 하락세를 기록했습니다. 이는 고유가로 인해 비전기차 수요가 줄어든 중국 시장의 침체가 주요 원인으로 분석됩니다. 혼다와 닛산 또한 중국 시장에서 큰 폭의 판매량 감소를 보였습니다.",
+          "title": "동남아 전기차 시장, 중국 기업 선호로 현지 부품업체 어려움 직면",
+          "summary": "동남아시아 전기차(EV) 시장이 성장하고 있지만, 인도네시아, 태국, 말레이시아 등 현지 자동차 부품 공급업체들은 어려움을 겪고 있습니다. 중국 자동차 기업들이 부품을 현지에서 조달하기보다는 자사 공급망을 선호하면서 현지 내연기관차 부품 수요는 감소하고, EV 공급망 진입 장벽은 높아지고 있기 때문입니다. 전문가들은 정부 지원과 중국 제조사와의 협력 없이는 현지 공급망이 약화될 수 있다고 지적합니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/29/toyota-monthly-sales-slump/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers"
             }
           ],
           "verification": "single",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "tec",
+          "title": "폭스콘, 계약 제조 사업 확대를 위한 3가지 전기차 모델 공개",
+          "summary": "대만 전자제품 제조업체 폭스콘이 계약 자동차 제조 사업 확대를 목표로 세 가지 새로운 전기차 모델을 공개했습니다. 새로운 모델 중 하나인 '모델 K'는 화물칸을 장착하면 배달 밴으로 구성할 수 있는 상용차로 활용될 수 있습니다. 폭스콘은 이를 통해 전기차 플랫폼 포트폴리오를 확장할 계획입니다.",
+          "sources": [
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/foxconn-unveils-3-evs-to-grow-contract-manufacturing-business"
+            }
+          ],
+          "verification": "single",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -280,84 +207,72 @@
       "en": "EUROPE",
       "stories": [
         {
-          "tag": "soc",
-          "title": "스페인 고속열차 충돌, 69명 사망…진상 규명 촉구",
-          "summary": "스페인 톨레도 인근에서 발생한 고속열차 충돌 사고로 최소 69명이 사망하고 수십 명이 부상했습니다. 올해 두 번째 고속열차 사고로, 스페인 사회는 비탄에 잠겼으며 정부에 사고 원인에 대한 철저한 진상 규명을 요구하고 있습니다.",
+          "tag": "pol",
+          "title": "폴란드 헌법재판소 권력 투쟁 심화, 투스크 총리 개혁 의지 표명",
+          "summary": "폴란드 헌법재판소를 둘러싼 정부와 고위 판사들 간의 갈등이 격화되면서 경찰이 배치되는 상황이 발생했습니다. 도널드 투스크 총리는 사법부를 탈정치화하겠다는 의지를 재확인하며, 이는 법과정의당(PiS)의 사법부 장악 시도에 대한 개혁의 일환이라고 강조했습니다. 야당은 이를 '쿠데타'로 규정하며 반발하고 있습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/30/world/spain-rail-disaster-answers/"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (World)",
+              "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "G20 외교장관회의 '가족사진' 취소, 러시아 장관 참석 항의",
+          "summary": "G20 외교장관회의에서 러시아 세르게이 라브로프 외교장관의 참석에 대한 항의로 전통적인 '가족사진' 촬영이 취소되었습니다. 미국 국무장관 마르코 루비오는 여러 국가들이 러시아 대표와 함께 사진 촬영을 거부 의사를 밝히자 촬영을 취소했습니다. 영국과 호주 등 일부 유럽 국가들은 러시아의 우크라이나 침공에 대한 비판적 입장을 고수하며 정상적인 관계를 가질 수 없다고 강조했습니다.",
+          "sources": [
+            {
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "soc",
+          "title": "러시아 점령지 Oleshky 주민, 휴전 후 가족과 극적인 재회",
+          "summary": "러시아 점령지 오레슈키(Oleshky)에서 대피한 우크라이나 주민들이 벨라루스를 거쳐 우크라이나 체르니히프 지역으로 이동하며 가족들과 극적으로 재회했습니다. 이번 대피는 멜라니아 트럼프 미국 영부인의 중재로 이뤄진 인도주의적 휴전 덕분입니다. 수년간 고립되어 식량, 물, 전기 없이 지내온 이들은 '지옥에서 돌아왔다'고 말하며 감격스러운 순간을 보냈습니다.",
+          "sources": [
+            {
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "pol",
-          "title": "라가르드 ECB 총재, 임기 2개월여 앞두고 사임 계획",
-          "summary": "크리스틴 라가르드 유럽중앙은행(ECB) 총재가 임기 만료를 수개월 앞둔 2월에 사임할 계획이라고 밝혔습니다. 그녀의 사임으로 유럽 정상들 사이에서 새로운 중앙은행 총재 선출 절차가 시작될 예정입니다. 스페인의 파블로 에르난데스 데 코스 와 네덜란드의 클라스 노트가 유력한 후임으로 거론되고 있습니다.",
+          "tag": "soc",
+          "title": "유럽 전역, 생활비 상승 및 경찰 폭력에 항의하는 대규모 시위 발생",
+          "summary": "프랑스를 비롯한 유럽 전역에서 생활비 상승과 경찰 폭력에 항의하는 대규모 시위가 3주 연속 이어지고 있습니다. 프랑스에서는 수십만 명의 시위대가 거리로 나왔고, 독일 베를린 등 여러 도시에서도 'GenZ has got this' 그룹이 주도하는 시위가 발생했습니다. 일부 지역에서는 시위대와 경찰 간의 충돌이 발생했으며, 경찰은 물대포와 최루탄을 사용했습니다.",
           "sources": [
             {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
             },
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation/"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/meet-the-front-runners-to-replace-ecb-christine-lagarde/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3372853/german-police-fire-water-cannon-during-tense-gen-z-protests"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "러시아 드론, 우크라이나 드니프로 기차역 공격…최소 14명 사망",
-          "summary": "러시아 드론이 우크라이나 드니프로 기차역을 공격하여 최소 14명이 사망하고 다수가 부상했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 이 공격을 '끔찍하다'고 비난하며 서방 동맹국들의 대응을 촉구했습니다.",
-          "sources": [
-            {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/29/world/ukraine-dnipro-train-strike/"
-            },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "EU 집행위원장, 캐나다에 '준회원국' 지위 제안…일부 회원국 이견",
-          "summary": "우르줄라 폰데어라이엔 EU 집행위원장이 몬트리올 정상회담에서 캐나다와의 새로운 파트너십을 위한 '준회원국(associate member)' 지위를 제안했습니다. 그녀는 이를 '회원국과 가장 가까운 파트너십'이라고 설명했으나, 독일을 비롯한 일부 EU 회원국들은 이 용어 사용에 이견을 표하며 '미래를 위한 동맹' 등 완화된 표현을 선호하고 있습니다.",
-          "sources": [
-            {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "사회"
         }
       ]
     },
@@ -368,78 +283,41 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "구글 AI 검색 요약, 광고 수익 영향으로 주가 급락",
-          "summary": "구글의 AI 검색 요약 기능이 광고 수익에 부정적인 영향을 미치면서 구글 모회사 알파벳의 주가가 급락했습니다. 회사는 AI 투자로 인한 현금 소진 속도가 가파르게 늘어났다고 밝혔으며, 월스트리트에서는 AI 투자와 기존 사업 성장 능력 간의 균형에 대한 우려가 커지고 있습니다.",
+          "title": "초고속 여객기 개발사 Boom, AI 데이터 센터 전력 공급으로 사업 전환",
+          "summary": "초고속 여객기 개발사 Boom Supersonic이 AI 데이터 센터에 가스 터빈을 공급하는 사업으로 방향을 전환했습니다. 이는 유나이티드 항공 CEO가 Boom의 초고속 여객기 '오버추어'의 2029년 인도 계획에 대해 회의적인 입장을 밝힌 이후에 나온 것입니다. 트럼프 행정부의 규제 완화 노력에도 불구하고 사업 모델의 변화가 주목됩니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+              "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "레딧, 검색 트래픽 감소에 '로그인 전용' 전환 예정",
-          "summary": "레딧(Reddit)이 사용자 경험을 '로그인 전용'으로 전환할 예정이라고 밝혔습니다. 이는 검색 트래픽 감소와 관련이 있으며, 로그인 사용자에게 최적의 경험을 제공하고 광고 타겟팅 신호를 늘리며 데이터 접근을 보호하기 위함이라고 설명했습니다.",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "미 이민세관집행국(ICE) 요원 수천 명 개인 정보 대규모 해킹 유출",
-          "summary": "미국 이민세관집행국(ICE) 요원 수천 명을 포함한 미국 국토안보부(DHS) 직원 4만 명 이상의 개인 정보가 대규모 해킹으로 유출되었습니다. 유출된 정보에는 이름, 직장 주소, 전화번호 및 업무 내용 등이 포함되어 있으며, 이는 요원들의 괴롭힘, 스토킹 및 신체적 피해 위험을 야기할 수 있다고 DHS는 밝혔습니다.",
-          "sources": [
-            {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak"
-            },
-            {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "엔비디아 CEO, 中스파이 표적 가능성…트럼프 정부 침묵 논란",
-          "summary": "미국 정보기관이 엔비디아 CEO 젠슨 황이 중국 스파이의 표적이 되었을 가능성을 인지했으나, 트럼프 행정부가 엔비디아 주가 보호를 위해 조치를 취하지 않았다는 보도가 나왔습니다. 이 스파이는 젠슨 황 CEO에게 직접 접근하여 AI 칩 및 정보를 노린 것으로 추정되며, 미 당국은 황 CEO에게 이 사실을 알리지도 않았다고 전해졌습니다.",
+          "title": "지구 궤도 우주 쓰레기로부터 위성 보호 위한 '우주 장갑판' 개발",
+          "summary": "미국 우주기업 아토믹-6가 지구 궤도를 떠도는 우주 쓰레기로부터 위성을 보호하기 위한 '우주 장갑판' 기술을 개발했습니다. 이 장갑판은 최대 3㎜ 크기의 우주 쓰레기 공격을 견딜 수 있으며, 기존 금속 장갑판과 달리 충돌 시 2차 파편 생성을 최소화합니다. 이 기술은 지난달 21일 발사된 위성 '스타버스트-1'에 적용되어 우주 비행의 안전성을 높일 것으로 기대됩니다.",
           "sources": [
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610300849001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
-            },
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
+              "url": "https://www.khan.co.kr/article/202611010800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
-          "verification": "multi",
+          "verification": "single",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "과학자들, 빅뱅 직후 물질 재현 위해 산소 원자핵 충돌 실험 진행",
+          "summary": "과학자들이 빅뱅 직후 우주의 초기 물질 상태를 재현하기 위해 산소 원자핵을 빛의 속도에 가깝게 충돌시키는 실험을 진행했습니다. 이 실험은 이전에 예상했던 것보다 더 작고 낮은 에너지 충돌에서도 쿼크-글루온 플라즈마(QGP)가 형성될 수 있음을 보여주었습니다. 이번 연구 결과는 초기 우주가 어떻게 진화했는지 이해하는 데 중요한 단서를 제공합니다.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+            }
+          ],
+          "verification": "single",
           "tag_label": "기술·과학"
         }
       ]
