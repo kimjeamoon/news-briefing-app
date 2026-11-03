@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-01",
-  "date_str": "2026년 11월 1일 (일)",
+  "date": "2026-11-03",
+  "date_str": "2026년 11월 3일 (화)",
   "key5": [
-    "쿼드 외교장관, 핵심광물 공급망 교란 및 AI 기술 협력 방안 논의",
-    "한국 1~10월 누적 수출액 9천억 달러 돌파, 무역수지 흑자 지속",
-    "이태원 핼러윈 축제, 안전 관리 강화 속 인파 몰려",
-    "트럼프 행정부의 선거 개입 시도에 캘리포니아 주지사 등 법적 대응",
-    "바이낸스, 63억 달러 규모 암호화폐 해킹 발생"
+    "미국, 2026년 중간선거 역대 최고 비용 기록하며 치열한 선거전 돌입, 민주당은 낙관적 전망",
+    "경찰청, 생계 곤란 즉석밥 절도범 등 경미범죄 피의자에 생필품 지원 및 사회 복귀 도와",
+    "OpenAI 임원, 미중 AI 회담에서 중국의 '증류 공격' 위협 경고하며 정보 공유에 신중 촉구",
+    "폴란드 최고 재판소 둘러싼 위기 심화, 2027년 선거 앞두고 법치 회복과 쿠데타 논란 가중",
+    "애플, 폴더블 아이폰 Duo 초기 매진에도 공급 불확실성 경고, 높은 수요 지속"
   ],
   "regions": [
     {
@@ -16,67 +16,83 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "쿼드 외교장관, 핵심광물 공급망 교란 및 AI 등 기술 협력 논의",
-          "summary": "쿼드(Quad) 회원국 외교장관들이 워싱턴에서 회담을 열고 핵심광물 공급망 교란에 공동 대응하기로 합의했습니다. 또한, 미국 주도의 AI 기술 협력에 8천500만 달러 이상을 지원하기로 약속했습니다. 특정 국가를 직접 언급하지는 않았으나, 사실상 중국의 공급망 교란 행위를 지목한 것으로 해석됩니다.",
+          "title": "2026년 예산안 여야 첨예 대립, 핵심 쟁점은 '미래대응기금'",
+          "summary": "2026년도 예산안을 두고 여야가 미래대응기금의 용처와 국가채무 증가 문제를 놓고 첨예하게 대립하고 있습니다. 국민의힘은 미래대응기금의 현금성 복지 지출과 국가채무 증가를 비판하며 국회의 통제 강화를 주장하는 반면, 더불어민주당은 사람·인프라 투자와 지방 재정 확충 등을 위한 예산 증액을 추진하고 있습니다.",
           "sources": [
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261101003251071"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261103083500001"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261103075500001"
+            },
+            {
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/national-en/2026/11/02/DEQ3QOP4SVB7XDTPNTVYACKDAY"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "한국 1~10월 누적 수출액 9천억 달러 돌파, 10월 무역수지 흑자 지속",
-          "summary": "한국의 1월부터 10월까지 누적 수출액이 사상 처음으로 9천억 달러를 돌파했으며, 11월 중 연간 수출액 1조 달러 달성이 확실시됩니다. 10월 수출액은 전년 동기 대비 93.7% 증가한 1천152억 8천만 달러를 기록했고, 무역수지는 425억 달러 흑자로 2개월 연속 400억 달러 이상을 유지했습니다. 반도체 수출은 두 달 연속 500억 달러 이상을 기록하며 성장을 주도했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261101015300003"
-            },
-            {
-              "name": "연합뉴스 경제",
-              "url": "https://www.yna.co.kr/view/AKR20261101014400003"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
-          "tag": "tec",
-          "title": "삼성전자, 과불화화합물 저감 기술 개발…내년 평택사업장 적용",
-          "summary": "삼성전자가 국내에 배출 허용 기준이 없는 과불화화합물(PFAS) 등 오염물질을 저감하는 기술을 개발했습니다. 이 기술은 방류수에 함유된 과불화화합물을 분리 농축 후 전기 화학 반응으로 처리하는 방식이며, 내년부터 평택사업장 반도체 공정에 적용될 예정입니다. 삼성전자는 2040년까지 오염물질 배출을 자연상태 수준으로 관리하는 '신 환경경영전략' 목표에 따라 연구를 지속할 방침입니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261030130700061"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
           "tag": "soc",
-          "title": "이태원 핼러윈 축제, 안전 관리 강화 속 인파 몰려",
-          "summary": "핼러윈 당일인 31일, 서울 이태원에는 많은 인파가 몰려 축제 분위기가 이어졌습니다. 정부는 '핼러윈 인파안전 특별대책기간'으로 정하고 경찰특공대와 장갑차까지 배치하는 등 안전 관리를 강화했습니다. 한편, 이태원 참사 현장인 '10·29 기억과 안전의 길'에는 희생자들을 추모하는 시민들의 발길이 끊이지 않았습니다.",
+          "title": "경찰, 경미범죄 피의자 사회 복귀 지원 우수 사례 선정",
+          "summary": "경찰청은 생계가 어려워 즉석밥을 훔친 피의자에게 즉결심판 후 생필품을 지원하는 등 경미범죄심사위원회 우수사례 9건을 선정했습니다. 경찰은 처벌보다 선도와 지원이 필요한 경미범죄에 대해 국민 눈높이에 맞는 공정하고 따뜻한 법 집행을 강화할 방침입니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1285145.html"
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261103080300004"
             },
             {
               "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202610312345001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+              "url": "https://www.khan.co.kr/article/202611031200011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "정부, 인사 업무 AI 시스템 및 디지털 미디어 문해 교육 강화 추진",
+          "summary": "인사혁신처는 인사 업무에 특화된 AI 총괄 시스템을 개발하고, 교육부는 내년부터 디지털 미디어 문해 교육 강화를 위해 매년 20종의 수업 자료를 보급할 계획입니다. 행정안전부는 디지털네이션스 및 OECD 회의에서 한국의 디지털 정부 경험을 공유하며 공공 AI 분야 국제 협력을 확대할 예정입니다.",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261103040800001"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261103066000530"
+            },
+            {
+              "name": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261103077700530"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "eco",
+          "title": "가상자산 과세 유예 논의, 기술특례상장 기업 수익률 저조 분석",
+          "summary": "더불어민주당 국회 재정경제기획위원회는 가상자산 소득 과세를 2년 유예하는 방안을 논의 중이며, 이는 사실상 네 번째 유예가 될 전망입니다. 한편, 기술특례상장 방식으로 코스닥에 상장한 기업의 75%가 5년간 코스닥 지수보다 낮은 수익률을 기록한 것으로 나타나, 단기 주가보다는 기술 진전 및 사업화 가능성에 대한 정성적 평가가 필요하다는 제언이 나왔습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261103085700008"
+            },
+            {
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202611031124001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "en.sedaily.com",
+              "url": "https://en.sedaily.com/politics/2026/10/28/korea-delays-decision-on-crypto-tax-deferral"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "경제·시장"
         }
       ]
     },
@@ -87,16 +103,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "트럼프 행정부, 선거 개입 시도에 캘리포니아 주지사 등 법적 대응",
-          "summary": "트럼프 행정부가 중간선거에 개입하려 한다는 의혹이 제기되면서, 캘리포니아 주지사는 판사들에게 투표용지 및 투표 기기 압수 영장 시도에 대한 경고를 발령했습니다. 워싱턴주에서는 시민 단체들이 트럼프 행정부의 투표 무효화 노력을 막기 위한 소송을 제기했습니다. 이러한 움직임은 연방 정부의 선거 개입 시도에 대한 우려를 증폭시키고 있습니다.",
+          "title": "2026년 중간선거 역대 최고 비용 기록, 민주당은 낙관적 전망",
+          "summary": "2026년 미국 중간선거는 110억 달러 이상의 광고 지출로 역대 가장 비싼 선거가 될 것으로 예상됩니다. 민주당은 선거일이 다가오면서 중간선거 결과에 대해 희망적인 분위기를 보이고 있으며, 여러 여론조사에서 우위를 점하는 것으로 나타났습니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/31/us/newsom-california-election-interference.html"
+              "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "jsonline.com",
+              "url": "https://www.jsonline.com/story/news/politics/analysis/2026/11/02/what-each-party-has-to-be-optimistic-about-in-wisconsins-midterm/92416098007"
             }
           ],
           "verification": "multi",
@@ -104,54 +124,66 @@
         },
         {
           "tag": "pol",
-          "title": "미시간주 민주당 상원 후보 간 갈등 심화, 중간선거 앞두고 긴장 고조",
-          "summary": "미국 중간선거를 앞두고 미시간주 민주당 상원 후보 압둘 엘-세이드와 전 경선 경쟁자 헤일리 스티븐스 의원 간의 긴장이 고조되고 있습니다. 엘-세이드 후보는 스티븐스 의원에게 선거 운동 행사 참석 자제를 요청하며 '방해를 원치 않는다'고 밝혔습니다. 이는 상원 다수당 재탈환을 목표로 하는 민주당에게 중요한 경합주에서 당내 분열의 우려를 낳고 있습니다.",
+          "title": "트럼프 행정부 유권자 사기 주장, 법원 기각으로 선거 논란 지속",
+          "summary": "트럼프 행정부가 캘리포니아에서 비시민권자에게 제공된 2만 장의 우편 투표를 무효화하려던 시도가 대법원에 의해 기각되는 등 유권자 사기 주장을 둘러싼 논란이 계속되고 있습니다. 이는 트럼프 대통령의 선거 과정에 대한 불신 조장 시도에 대한 사법부의 이례적인 질책으로 해석됩니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
+              "url": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/voter-fraud-charges-california-doj"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events"
+              "name": "scotusblog.com",
+              "url": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-intervene-in-california-ballots-dispute"
+            },
+            {
+              "name": "independent.com",
+              "url": "https://www.independent.com/2026/11/02/supreme-court-rejects-trump-emergency-intervention-in-california-elections"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "바이낸스, 63억 달러 규모 암호화폐 해킹 발생",
-          "summary": "세계 최대 암호화폐 거래소 바이낸스에서 63억 달러 규모의 암호화폐 해킹이 발생했습니다. 이는 역사상 최대 규모의 사이버 강도 사건으로 기록될 수 있으며, FBI는 이번 해킹의 배후에 북한 정찰총국 소속 해킹 조직이 있다고 확인했습니다. 바이낸스는 도난당한 자금의 일부를 동결하고, 피해 고객에게 손실을 보상하겠다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "NYT Business",
-              "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html"
-            },
-            {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "경제·시장"
-        },
-        {
           "tag": "soc",
-          "title": "캘리포니아 핼러윈 용품점에서 총격 사건 발생, 7명 사상",
-          "summary": "미국 캘리포니아주의 한 핼러윈 용품 매장에서 총격 사건이 발생하여 1명이 사망하고 6명이 부상했습니다. 이 중 최소 3명은 위독한 상태입니다. 경찰은 아직 용의자를 특정하지 못하고 수사를 진행 중이며, 할로윈을 하루 앞두고 발생한 이번 사건은 많은 이들에게 충격을 주고 있습니다.",
+          "title": "플로리다 제트기 추락 사고, 조사 진행 중…희생자 신원 확인",
+          "summary": "플로리다에서 발생한 치명적인 제트기 추락 사고로 9명이 사망했으며, 미 국가교통안전위원회(NTSB)는 기체 분해 가능성, 결빙 및 난기류 등을 조사 중입니다. 사망자 중에는 기술 기업가와 그의 가족, 그리고 20세 부조종사 등이 포함되어 신원이 확인되었습니다.",
           "sources": [
             {
-              "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/international/international_general/1285144.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "fox7austin.com",
+              "url": "https://www.fox7austin.com/news/family-identifies-20-year-old-co-pilot-nathalia-gadelha-among-nine-killed-florida-learjet-crash"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
+        },
+        {
+          "tag": "tec",
+          "title": "AI 챗봇, 선거 정보 제공에 오도 우려…중간선거 영향 논의 활발",
+          "summary": "AI 챗봇이 중간선거 정보 제공에 활용되면서 유권자를 오도할 수 있다는 우려가 제기되고 있습니다. 연구에 따르면 인기 챗봇들이 후보자 정보나 투표소 개장 시간 등에서 잘못된 정보를 제공하는 경우가 있었으며, 이는 AI가 선거에 미치는 영향에 대한 전문가들의 논의를 활발하게 하고 있습니다.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice"
+            },
+            {
+              "name": "thereport.live",
+              "url": "https://thereport.live/international/ai-chatbots-spread-election-misinformation-ahead-of-us-midterms/42446"
+            },
+            {
+              "name": "japantimes.co.jp",
+              "url": "https://www.japantimes.co.jp/news/2026/11/01/world/politics/ai-chatbots-us-election-scrutiny"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -162,41 +194,57 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미국·한국·일본, 북한 비핵화를 위한 공동 노력 재확인",
-          "summary": "미국, 한국, 일본 3국은 주요 20개국(G20) 외교장관회의를 계기로 북한의 '완전한 비핵화'를 위한 공동 노력을 재확인했습니다. 3국 외교장관은 유엔 안전보장이사회 결의의 완전한 이행도 약속했습니다. 이는 북한이 핵 보유국 지위를 법제화하고 군축을 거부하는 상황에서 나온 것입니다.",
+          "title": "일본 헌법 80주년, 긴급 조항 도입 둘러싼 논쟁 지속",
+          "summary": "일본 헌법 공포 80주년을 맞아 대규모 재난 발생 시 정부 권한을 일시적으로 확대하는 긴급 조항 도입에 대한 논쟁이 계속되고 있습니다. 일부 전문가들은 신속한 재난 대응을 위해 필요하다고 주장하는 반면, 다른 이들은 권력 집중으로 이어질 수 있다며 우려를 표하고 있습니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/"
+              "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/constitution-emergency-clause-debate/"
+            },
+            {
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/articles/-/56816"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "eco",
-          "title": "동남아 전기차 시장, 중국 기업 선호로 현지 부품업체 어려움 직면",
-          "summary": "동남아시아 전기차(EV) 시장이 성장하고 있지만, 인도네시아, 태국, 말레이시아 등 현지 자동차 부품 공급업체들은 어려움을 겪고 있습니다. 중국 자동차 기업들이 부품을 현지에서 조달하기보다는 자사 공급망을 선호하면서 현지 내연기관차 부품 수요는 감소하고, EV 공급망 진입 장벽은 높아지고 있기 때문입니다. 전문가들은 정부 지원과 중국 제조사와의 협력 없이는 현지 공급망이 약화될 수 있다고 지적합니다.",
+          "tag": "pol",
+          "title": "북한, 바이낸스 해킹 배후 지목에 '정치적 도발' 강력 부인",
+          "summary": "북한은 미국 가상자산거래소 바이낸스 해킹의 배후로 지목된 것에 대해 '엄중한 정치적 도발'이라며 강력히 반발했습니다. 통일부는 정확한 상황 파악이 우선이라는 신중한 입장을 보였으며, 김여정 노동당 부장의 담화는 국제적 파장이 큰 사안에 대한 북한의 입장 표명이자 대북 적대시 정책 철회 압박 의도로 분석됩니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers"
+              "name": "연합뉴스 정치",
+              "url": "https://www.yna.co.kr/view/AKR20261103092800504"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/11/03/asia-pacific/north-korea-binance-us-hacking/"
+            },
+            {
+              "name": "bbc.com",
+              "url": "https://www.bbc.com/news/articles/c6rey4v53exgo"
             }
           ],
-          "verification": "single",
-          "tag_label": "경제·시장"
+          "verification": "multi",
+          "tag_label": "정치·외교"
         },
         {
           "tag": "tec",
-          "title": "폭스콘, 계약 제조 사업 확대를 위한 3가지 전기차 모델 공개",
-          "summary": "대만 전자제품 제조업체 폭스콘이 계약 자동차 제조 사업 확대를 목표로 세 가지 새로운 전기차 모델을 공개했습니다. 새로운 모델 중 하나인 '모델 K'는 화물칸을 장착하면 배달 밴으로 구성할 수 있는 상용차로 활용될 수 있습니다. 폭스콘은 이를 통해 전기차 플랫폼 포트폴리오를 확장할 계획입니다.",
+          "title": "OpenAI 임원, 미중 AI 회담서 중국 '증류 공격' 위협 경고",
+          "summary": "OpenAI의 국가 안보 담당 부책임자는 미중 AI 회담에서 정보 공유에 대한 주의를 당부하며, 중국의 '증류 공격' 위협에 대해 경고했습니다. 그녀는 양국이 AI 위험에 대해 동일한 이해를 공유하는지에 대한 회의적인 입장을 표명하며, 미국 기술에 대한 위협에 대비해야 한다고 강조했습니다.",
           "sources": [
             {
-              "name": "Nikkei Asia",
-              "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/foxconn-unveils-3-evs-to-grow-contract-manufacturing-business"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/article/3373052/openai-executive-urges-caution-china-us-ai-talks-warns-distillation-threats"
+            },
+            {
+              "name": "nypost.com",
+              "url": "https://nypost.com/2026/10/29/business/conservative-groups-warn-letting-ai-giants-recklessly-crawl-the-internet-would-jeopardize-news-outlets-national-security-court"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]
@@ -208,16 +256,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "폴란드 헌법재판소 권력 투쟁 심화, 투스크 총리 개혁 의지 표명",
-          "summary": "폴란드 헌법재판소를 둘러싼 정부와 고위 판사들 간의 갈등이 격화되면서 경찰이 배치되는 상황이 발생했습니다. 도널드 투스크 총리는 사법부를 탈정치화하겠다는 의지를 재확인하며, 이는 법과정의당(PiS)의 사법부 장악 시도에 대한 개혁의 일환이라고 강조했습니다. 야당은 이를 '쿠데타'로 규정하며 반발하고 있습니다.",
+          "title": "폴란드 최고 재판소 위기, 2027년 선거 앞두고 전선 형성",
+          "summary": "폴란드에서 최고 헌법재판소를 둘러싼 위기가 심화되면서 2027년 총선을 앞두고 정치적 전선이 형성되고 있습니다. 투스크 총리 정부는 법치 회복을 위해 재판부를 개혁하려 하지만, 카롤 나브로츠키 대통령 지지자들은 이를 쿠데타로 규정하며 반발하고 있습니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/crisis-over-top-court-shapes-polands-battle-lines-before-2027-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+              "name": "politico.eu",
+              "url": "https://www.politico.eu/article/crisis-over-top-court-shapes-polands-battle-lines-before-2027-election"
+            },
+            {
+              "name": "eurasiareview.com",
+              "url": "https://www.eurasiareview.com/02112026-brussels-sides-with-donald-tusk-in-polands-court-crisis"
             }
           ],
           "verification": "multi",
@@ -225,16 +277,20 @@
         },
         {
           "tag": "pol",
-          "title": "G20 외교장관회의 '가족사진' 취소, 러시아 장관 참석 항의",
-          "summary": "G20 외교장관회의에서 러시아 세르게이 라브로프 외교장관의 참석에 대한 항의로 전통적인 '가족사진' 촬영이 취소되었습니다. 미국 국무장관 마르코 루비오는 여러 국가들이 러시아 대표와 함께 사진 촬영을 거부 의사를 밝히자 촬영을 취소했습니다. 영국과 호주 등 일부 유럽 국가들은 러시아의 우크라이나 침공에 대한 비판적 입장을 고수하며 정상적인 관계를 가질 수 없다고 강조했습니다.",
+          "title": "영국 정부, 이민자 정착 위한 엄격한 새 규칙 발표",
+          "summary": "영국 정부가 이민자 정착을 위한 '정착 허가(ILR)' 대기 기간을 5년에서 10년으로 두 배 연장하는 등 더 엄격한 이민 규칙을 발표했습니다. 다만, 고소득자와 일부 공공 서비스 종사자, 요양 보호사 등은 예외를 적용받으며, 불법 입국자의 정착 대기 기간은 최대 30년까지 늘어날 수 있습니다.",
           "sources": [
             {
-              "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/02/british-government-sets-out-tougher-rules-for-migrants-looking-to-settle-in-the-uk"
             },
             {
-              "name": "The Guardian (US)",
-              "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+              "name": "inews.co.uk",
+              "url": "https://inews.co.uk/news/politics/migrants-spared-indefinite-leave-to-remain-crackdown-4866948"
+            },
+            {
+              "name": "gov.uk",
+              "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
             }
           ],
           "verification": "multi",
@@ -242,37 +298,45 @@
         },
         {
           "tag": "soc",
-          "title": "러시아 점령지 Oleshky 주민, 휴전 후 가족과 극적인 재회",
-          "summary": "러시아 점령지 오레슈키(Oleshky)에서 대피한 우크라이나 주민들이 벨라루스를 거쳐 우크라이나 체르니히프 지역으로 이동하며 가족들과 극적으로 재회했습니다. 이번 대피는 멜라니아 트럼프 미국 영부인의 중재로 이뤄진 인도주의적 휴전 덕분입니다. 수년간 고립되어 식량, 물, 전기 없이 지내온 이들은 '지옥에서 돌아왔다'고 말하며 감격스러운 순간을 보냈습니다.",
+          "title": "유럽 슈퍼마켓 냉동고 사이버 공격, 식품 손실 발생",
+          "summary": "유럽 전역의 수십 개 슈퍼마켓에서 냉동고가 사이버 공격을 받아 온도가 갑자기 변하며 식품 손실이 발생했습니다. 벨기에, 아일랜드, 스웨덴, 핀란드, 에스토니아 등 여러 국가에서 피해가 보고되었으며, 일부 상점에서는 최대 50°C까지 온도가 상승하여 수백만 유로 상당의 식품을 폐기해야 했습니다. 미 국방부도 유사한 사건을 조사 중입니다.",
           "sources": [
             {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html"
             },
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "soc",
-          "title": "유럽 전역, 생활비 상승 및 경찰 폭력에 항의하는 대규모 시위 발생",
-          "summary": "프랑스를 비롯한 유럽 전역에서 생활비 상승과 경찰 폭력에 항의하는 대규모 시위가 3주 연속 이어지고 있습니다. 프랑스에서는 수십만 명의 시위대가 거리로 나왔고, 독일 베를린 등 여러 도시에서도 'GenZ has got this' 그룹이 주도하는 시위가 발생했습니다. 일부 지역에서는 시위대와 경찰 간의 충돌이 발생했으며, 경찰은 물대포와 최루탄을 사용했습니다.",
+          "tag": "pol",
+          "title": "러시아, 우크라이나 원조 센터 폭격…휴전 후 전투 재개",
+          "summary": "러시아가 우크라이나 자포리자 지역의 인도주의 원조 센터를 폭격해 최소 26명이 사망했다고 우크라이나가 밝혔습니다. 이 공격은 멜라니아 트럼프 여사의 중재로 헤르손 지역에서 이뤄진 임시 휴전이 종료된 직후 발생했으며, 우크라이나는 러시아가 휴전을 이용해 군사적 위치를 강화했다고 비난했습니다.",
           "sources": [
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3372853/german-police-fire-water-cannon-during-tense-gen-z-protests"
+              "name": "BBC Europe",
+              "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "nbcnews.com",
+              "url": "https://www.nbcnews.com/world/ukraine/russia-bombs-aid-center-shelter-southern-ukraine-killing-24-authoritie-rcna607103"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         }
       ]
     },
@@ -283,41 +347,65 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "초고속 여객기 개발사 Boom, AI 데이터 센터 전력 공급으로 사업 전환",
-          "summary": "초고속 여객기 개발사 Boom Supersonic이 AI 데이터 센터에 가스 터빈을 공급하는 사업으로 방향을 전환했습니다. 이는 유나이티드 항공 CEO가 Boom의 초고속 여객기 '오버추어'의 2029년 인도 계획에 대해 회의적인 입장을 밝힌 이후에 나온 것입니다. 트럼프 행정부의 규제 완화 노력에도 불구하고 사업 모델의 변화가 주목됩니다.",
+          "title": "애플, 폴더블 아이폰 Duo 초기 매진에도 공급 불확실성 경고",
+          "summary": "애플의 첫 폴더블 스마트폰인 아이폰 Duo가 출시 일주일 만에 매진되었으나, 애플 경영진은 공급 제약으로 인해 추가 공급 시기를 예측하기 어렵다고 밝혔습니다. 일부 초기 구매자들 사이에서 화면 균열 문제가 보고되었으나, 애플은 문제가 발생한 제품을 교체해 주고 있다고 언급했습니다. 애플은 그럼에도 불구하고 지난 한 해 동안 전 세계적으로 역대 최다 아이폰 판매량을 기록했습니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+              "name": "BBC Technology",
+              "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+            },
+            {
+              "name": "theregister.com",
+              "url": "https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag_label": "기술·과학"
         },
         {
           "tag": "tec",
-          "title": "지구 궤도 우주 쓰레기로부터 위성 보호 위한 '우주 장갑판' 개발",
-          "summary": "미국 우주기업 아토믹-6가 지구 궤도를 떠도는 우주 쓰레기로부터 위성을 보호하기 위한 '우주 장갑판' 기술을 개발했습니다. 이 장갑판은 최대 3㎜ 크기의 우주 쓰레기 공격을 견딜 수 있으며, 기존 금속 장갑판과 달리 충돌 시 2차 파편 생성을 최소화합니다. 이 기술은 지난달 21일 발사된 위성 '스타버스트-1'에 적용되어 우주 비행의 안전성을 높일 것으로 기대됩니다.",
-          "sources": [
-            {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202611010800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            }
-          ],
-          "verification": "single",
-          "tag_label": "기술·과학"
-        },
-        {
-          "tag": "tec",
-          "title": "과학자들, 빅뱅 직후 물질 재현 위해 산소 원자핵 충돌 실험 진행",
-          "summary": "과학자들이 빅뱅 직후 우주의 초기 물질 상태를 재현하기 위해 산소 원자핵을 빛의 속도에 가깝게 충돌시키는 실험을 진행했습니다. 이 실험은 이전에 예상했던 것보다 더 작고 낮은 에너지 충돌에서도 쿼크-글루온 플라즈마(QGP)가 형성될 수 있음을 보여주었습니다. 이번 연구 결과는 초기 우주가 어떻게 진화했는지 이해하는 데 중요한 단서를 제공합니다.",
+          "title": "허블·제임스 웹 망원경, 태양계 기원 단서 제공하는 고대 천체 발견",
+          "summary": "NASA의 허블 및 제임스 웹 우주망원경이 해왕성 너머의 작고 희미한 27개 천체를 관측하여 태양계 기원에 대한 새로운 단서를 발견했습니다. 이 고대 천체들은 수십억 년 동안 놀랍도록 변하지 않은 상태를 유지했으며, 이들의 예상치 못한 크기와 숫자는 행성 형성의 기존 이론에 도전하고 있습니다. 이는 행성계 형성 초기 물질을 연구할 귀중한 기회를 제공합니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
+            },
+            {
+              "name": "labroots.com",
+              "url": "https://www.labroots.com/trending/space/31329/hubble-webb-ancient-solar-system-time-capsules/amp"
+            },
+            {
+              "name": "theprint.in",
+              "url": "https://theprint.in/science/nasas-hubble-and-webb-telescopes-spot-27-icy-relics-from-solar-systems-infancy/3088193"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag_label": "기술·과학"
+        },
+        {
+          "tag": "tec",
+          "title": "중국, 3년 내 달 착륙 목표 공식 발표…우주 경쟁 심화",
+          "summary": "중국 우주 당국은 2030년 이전에 우주비행사를 달에 착륙시키겠다는 계획을 공식적으로 공개하며, 3년 이내 달 착륙을 목표로 하는 일련의 임무 일정을 제시했습니다. 이는 1960년대와 70년대 NASA의 아폴로 프로그램과 유사한 달 궤도 도킹 방식을 포함하며, 미국보다 빠른 달 착륙을 통해 우주 탐사 경쟁에서 우위를 점하려는 의지를 보여줍니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+            },
+            {
+              "name": "mezha.net",
+              "url": "https://mezha.net/eng/news/mezha-da39f83d950efd97ec748523_china_publicly_details"
+            },
+            {
+              "name": "newscord.org",
+              "url": "https://newscord.org/article/china-unveils-detailed-plan-for-manned-moon-landing-before-2030-in-beijing--Story_20261102_Chinareleasestimelin8bdd6b69"
+            }
+          ],
+          "verification": "multi",
           "tag_label": "기술·과학"
         }
       ]

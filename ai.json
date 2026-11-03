@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-01",
-  "date_str": "2026년 11월 1일 (일)",
+  "date": "2026-11-03",
+  "date_str": "2026년 11월 3일 (화)",
   "highlights": [
-    "OpenAI, 새로운 투자 라운드 목표액 하향 조정 소식",
-    "NAACP, xAI 데이터 센터 대기오염 소송 법원 진행 허가",
-    "Nvidia, Nscale의 웨스트버지니아 AI 데이터 센터 건설 부채 보증 검토 중",
-    "프라이버시 중심 AI 비서 'Ollie', 경쟁 심화로 서비스 중단 발표",
-    "인텔 주가 급락, 정부 보유 지분 120억 달러 감소"
+    "OpenAI, ChatGPT 'Chat' 및 'Work' 탭 통합 및 데이터 센터 그리드 보호 프로그램 도입 발표",
+    "Anthropic, AI의 자기 개선(RSI) 능력에 근접했음을 경고하며 논쟁의 불씨 지펴",
+    "애플, 써드파티 AI 앱 통한 수익 증대 시사 및 1,000달러 가정용 로봇 출시 계획 공개",
+    "42AI, 인간 행동 예측하는 '행동 세계 모델' 공개와 함께 6250만 달러 투자 유치",
+    "뉴욕 타임즈 등 언론사, Brave 브라우저의 저작권 콘텐츠 무단 스크랩 및 배포 혐의로 소송 제기"
   ],
   "sections": [
     {
@@ -15,28 +15,23 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "메타, AI 타마고치 'Muse Charm' 출시 예정",
-          "summary": "마크 저커버그의 메타가 AI 타마고치와 유사한 컨셉의 'Muse Charm'을 출시할 계획입니다. 이는 사용자가 AI 비서를 휴대하며 사용할 수 있도록 하는 장치로, 메타의 오픈소스 코드와 토큰을 사용하여 Muse AI 클라우드에 연결됩니다.",
+          "title": "OpenAI, ChatGPT 탭 통합 및 데이터 센터 그리드 보호 발표",
+          "summary": "OpenAI는 ChatGPT 데스크톱 앱의 'Chat' 및 'Work' 탭을 통합하여 사용자 경험을 간소화한다고 밝혔습니다. 또한, 다가오는 조지아주 데이터 센터에 '그리드 보호 프로그램'을 시범 적용하여 극심한 기상 조건이나 비상시에 최대 1,000메가와트의 전력을 지역 사회에 공급할 계획입니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
-            }
-          ],
-          "verification": "single",
-          "tag": "release",
-          "tag_label": "모델·제품 출시"
-        },
-        {
-          "title": "Windows 11, Xbox 게임 모드 및 검색 기능 단축키 추가",
-          "summary": "최신 Windows 11 인사이더 빌드에 Xbox 게임 모드 및 검색 기능에 대한 새로운 단축키가 추가되었습니다. 이 업데이트는 게임 모드에서 블루투스, 와이파이, 전원 설정을 제어하고, 검색 기능에서 파일, 작업, 웹 결과를 필터링하며, 연결된 휴대폰을 제어하는 등의 개선 사항을 포함합니다.",
-          "sources": [
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+            },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+            },
+            {
+              "name": "Mashable",
+              "url": "https://mashable.com/tech/openai-chatgpt-chat-work-merger-usage-limits"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "release",
           "tag_label": "모델·제품 출시"
         }
@@ -48,67 +43,82 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "메모리 제약 노드 위한 MoE 모델 훈련 최적화 연구 'LRMoE' 발표",
-          "summary": "메모리 제약이 있는 노드에서 효율적인 MoE(Mixture-of-Experts) 모델 훈련을 위한 '수요 측 부하 재조정(LRMoE)' 연구가 발표되었습니다. LRMoE는 역방향 수요를 재보정하고 유지되는 작업 부하의 균형을 맞춰, MoE 레이어 훈련 시간을 21.2%에서 44.8%까지 단축하는 효과를 보였습니다.",
+          "title": "Anthropic, AI의 자기 개선(RSI) 능력 근접 경고",
+          "summary": "Anthropic은 S-1A 수정 보고서를 통해 자사의 AI 모델이 '재귀적 자기 개선(RSI)' 능력에 매우 근접했다고 경고했습니다. RSI는 AI가 스스로를 훈련하고 능력을 극적으로 가속화하여 인간 통제를 벗어날 수 있는 지점을 의미하며, 이는 AI 발전의 잠재적 위험으로 간주됩니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.37720"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+            },
+            {
+              "name": "Межа",
+              "url": "https://mezha.net/eng/news/mezha-ca204e1c0052a71213a13f97"
+            },
+            {
+              "name": "X",
+              "url": "https://x.com/rohanpaul_ai/status/2117326734442049563"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "AI 에이전트 웹 환경 학습 및 평가 프레임워크 'WebAnything' 공개",
-          "summary": "AI 에이전트가 다양한 웹 사이트 환경을 학습하고 평가할 수 있도록 'WebAnything'이라는 새로운 프레임워크가 소개되었습니다. 이 프레임워크는 실제 URL에서 소스를 기반으로 재사용 가능한 웹 환경을 자동으로 재구성하여, 에이전트의 재현 가능한 훈련 및 평가를 지원합니다.",
+          "title": "42AI, 인간 행동 예측 세계 모델 공개 및 투자 유치",
+          "summary": "이스라엘 스타트업 42AI가 '행동 세계 모델'을 공개하며 6250만 달러의 시드 투자를 유치했습니다. 이 모델은 개인의 내재된 심리적 경향을 측정하고 데이터로 변환하여 예측 불가능한 상황에서도 인간의 행동을 확률적으로 예측할 수 있다고 주장합니다. 현재 금융 중개업에서 개별 트레이더의 변동성 조건 반응 예측에 사용되고 있습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.37786"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+            },
+            {
+              "name": "Startup Fortune",
+              "url": "https://startupfortune.com/israeli-startup-42ai-says-its-world-model-can-predict-human-behavior"
+            },
+            {
+              "name": "HyperAI",
+              "url": "https://hyper.ai/en/stories/b6e2d45456503ed8aad761a80376e836"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "AI 에이전트 은밀한 담합 탐지 기술 'PoPLi' 연구",
-          "summary": "AI 에이전트 간의 은밀한 담합을 '파트너-아웃사이더 긍정적 경청(PoPLi)'을 통해 탐지하는 연구가 진행되었습니다. 이 행동 테스트는 비밀 규약을 공유하는 파트너 에이전트와 관련 없는 에이전트의 메시지 반응 차이를 측정하여, 겉으로는 무해해 보이는 메시지 속 담합을 식별합니다.",
+          "title": "MIT 교수진, AI 항생제 발견 연구로 Pritzker AI 상 수상",
+          "summary": "MIT의 레지나 바질레이 교수와 제임스 콜린스 교수가 AI 기반 항생제 발견 연구로 2026년 Pritzker AI 및 과학 연구 우수상을 수상했습니다. 이들은 딥러닝과 생체공학을 통합하여 할리신과 아바우신 등 새로운 항생제를 발견했으며, 이는 약물 내성 병원균에 대한 효과적인 해결책을 제시했습니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.37849"
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102"
+            },
+            {
+              "name": "MIT School of Engineering",
+              "url": "https://engineering.mit.edu/news/school-of-engineering-welcomes-new-faculty-in-2026"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         },
         {
-          "title": "순차적 피드백 기반 언어 모델 평가 'Seq@K' 방법론 제안",
-          "summary": "AI 에이전트가 순차적 피드백 하에서 언어 모델을 평가하고 개선하는 'Seq@K' 방법론이 제안되었습니다. 이 방법론은 모델이 이전 시도에서 받은 피드백을 활용하여 문제를 해결하는 능력을 측정하며, 기존 Pass@K와 달리 반복적인 개선 능력을 중점적으로 평가합니다.",
+          "title": "에이전트 AI, 기업 분석 워크플로우 자동화 및 통찰력 향상 전망",
+          "summary": "에이전트 AI가 기업 분석 분야에서 워크플로우를 자동화하고 통찰력을 기반으로 행동을 취함으로써 분석의 질을 높일 것이라는 전망이 나왔습니다. MIT 기술 리뷰에 따르면, 에이전트 AI는 기존 생성형 AI보다 더 나아가 비즈니스 컨텍스트 부족 문제를 해결하고 데이터 활용도를 높여 기업 전체의 의사결정 과정을 개선할 잠재력을 가집니다.",
           "sources": [
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.37859"
-            }
-          ],
-          "verification": "single",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "AI 지원 판단의 검증 및 기억력 과정 모델 '검증 학습 이론' 발표",
-          "summary": "AI 지원 판단에서 검증과 기억력에 대한 과정 모델인 '검증 학습 이론(Verification Learning Theory, VLT)'이 제시되었습니다. VLT는 AI 지원이 즉각적인 판단 정확도를 높이지만 독립적 수행에 필요한 연습 기회를 줄일 수 있다는 가능성을 공식화하며, 인지된 보조 시스템 신뢰도가 검증 활동과 규칙 사용 기억력에 미치는 영향을 연결합니다.",
-          "sources": [
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+            },
             {
-              "name": "arXiv cs.AI",
-              "url": "https://arxiv.org/abs/2610.37875"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+            },
+            {
+              "name": "Healthcare IT News",
+              "url": "https://www.healthcareitnews.com/news/automation-autonomy-how-eclinicalworks-agentic-ai-enables-intelligent-workflows"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
           "tag": "research",
           "tag_label": "연구·논문"
         }
@@ -120,80 +130,65 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "OpenAI, 새로운 투자 라운드 목표액 하향 조정",
-          "summary": "OpenAI가 새로운 투자 라운드에서 목표 자금 조달액을 당초 300억 달러에서 200억 달러로 하향 조정한 것으로 알려졌습니다. 이는 월스트리트 투자자들이 AI 인프라 지출에 대한 우려를 표하며 기술주 매도가 확산된 시장 상황과 관련이 있는 것으로 분석됩니다.",
+          "title": "애플, AI 앱 수익 증대 및 가정용 로봇 출시 계획 시사",
+          "summary": "애플은 써드파티 AI 앱을 통해 서비스 수익을 늘릴 가능성을 시사했으며, 새로운 1,000달러대 가정용 로봇을 2027년까지 출시할 계획입니다. 이 로봇은 FaceTime 통화 지원, 조명 제어 등 AI 기반 기능을 갖출 예정이지만, 높은 가격에 비해 기능이 아직 제한적이라는 평가도 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Nvidia, Nscale의 웨스트버지니아 AI 데이터 센터 부채 보증 검토",
-          "summary": "Nvidia가 AI 클라우드 제공업체 Nscale의 웨스트버지니아 Anthropic 데이터 센터 건설을 위한 수십억 달러 규모의 부채 자금 조달 보증을 검토 중인 것으로 알려졌습니다. 이는 AI 산업이 투자자들의 우려 속에서도 건설 계획을 유지하기 위해 노력하는 모습을 보여주는 사례로 해석됩니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-            }
-          ],
-          "verification": "multi",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "프라이버시 AI 비서 'Ollie', 시장 경쟁 심화로 서비스 중단",
-          "summary": "프라이버시 중심 AI 비서 스타트업 'Ollie'가 시장 경쟁 심화로 인해 일주일 내 서비스를 중단한다고 발표했습니다. CEO는 급증하는 AI 비서 시장에서 차별화하고 필요한 자본을 조달하기 어려웠다고 밝혔습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "인텔 주가 급락, 정부 보유 지분 120억 달러 감소",
-          "summary": "인텔의 주가가 4분기 예상보다 낮은 실적 전망 발표 후 약 28% 급락하며 정부가 보유한 인텔 지분의 가치가 120억 달러 감소했습니다. 이는 PC 판매 부진과 AI 산업의 메모리 및 부품 흡수로 인한 PC 가격 상승이 주요 원인으로 지목됩니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "Anthropic, IPO 후 신용평가기관으로부터 '정크' 등급 예상",
-          "summary": "Anthropic이 기업공개(IPO) 후 신용평가기관으로부터 높은 '정크' 등급을 받을 것으로 예상된다고 파이낸셜 타임즈가 보도했습니다. 이는 투자은행 블랙스톤의 예측으로, Anthropic이 막대한 컴퓨팅 파워 투자로 인해 재정적 부담을 안고 있다는 우려가 반영된 것으로 보입니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-            }
-          ],
-          "verification": "single",
-          "tag": "industry",
-          "tag_label": "산업·투자·기업"
-        },
-        {
-          "title": "초음속 여객기 개발사 Boom, AI 데이터 센터 전력 공급으로 사업 전환",
-          "summary": "초음속 여객기 개발사 Boom이 AI 데이터 센터 전력 공급 사업으로 방향을 전환하면서, 당초 2029년으로 예정됐던 초음속 여객기 Overture의 출시가 불확실해졌습니다. 일부 초기 투자자들은 회사 항공기 인도 일정에 의구심을 표명하거나 철회했습니다.",
-          "sources": [
+              "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+            },
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+              "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
+            },
+            {
+              "name": "shattered.io",
+              "url": "https://shattered.io/apple-j595-home-robot-1000-facetime-lights-2027-2026"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "머스크, Grok Bot 사용 제한 강화; YC 대표는 AI 에이전트에 연 20만 달러 지출",
+          "summary": "일론 머스크는 Grok Bot의 비용이 \"지속 불가능하게 높다\"는 이유로 주간 사용 제한을 강화했습니다. 한편, Y Combinator의 게리 탄 CEO는 개인 AI 에이전트 사용에 연간 최대 20만 달러를 지출한다고 밝히며, AI 에이전트가 코딩 작업부터 개인 생활 관리까지 다양한 용도로 활용될 수 있음을 보여주었습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+            },
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/grok-bot-usage-limits-costs-unsustainably-high-elon-musk-agents-2026-11"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Squarespace 직원 19% 해고, Trajectory AI 모델 훈련 접근성 개선 투자 유치",
+          "summary": "웹 호스팅 회사 Squarespace가 직원 19%(약 300명)를 해고하며 조직 재편을 단행했습니다. 이는 생성형 AI 웹사이트 빌더의 부상으로 인한 업계 변화에 대응하기 위함입니다. 동시에 Trajectory는 비기술 전문가도 AI 모델 훈련에 접근할 수 있도록 하는 기술 개발을 위해 4500만 달러의 투자를 유치했습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+            },
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+            },
+            {
+              "name": "news.lavx.hu",
+              "url": "https://news.lavx.hu/article/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts-techcrunch"
+            }
+          ],
+          "verification": "multi",
           "tag": "industry",
           "tag_label": "산업·투자·기업"
         }
@@ -205,15 +200,44 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "NAACP, xAI 데이터 센터 대기오염 소송 법원 진행 허가",
-          "summary": "연방 판사가 NAACP가 xAI의 데이터 센터로 인한 대기오염에 대해 제기한 소송 기각 신청을 거부하며 소송 진행을 허가했습니다. NAACP는 xAI가 멤피스 외곽에 위치한 '콜로서스' 데이터 센터의 가스 터빈 운영에 필요한 허가를 받지 않았다고 주장하고 있습니다.",
+          "title": "뉴욕 타임즈 등, Brave 브라우저 저작권 콘텐츠 무단 스크랩 혐의로 소송",
+          "summary": "뉴욕 타임즈를 비롯한 주요 언론사들이 웹 브라우저 Brave를 상대로 저작권 침해 소송을 제기했습니다. 이들은 Brave가 300억 개 이상의 웹 페이지를 무단으로 스크랩하고, 이를 Anthropic, Perplexity 등 AI 회사에 배포했으며, 유료 콘텐츠 장벽을 우회하고 자체 광고를 판매했다고 주장했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+              "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+            },
+            {
+              "name": "Search Engine Journal",
+              "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679"
+            },
+            {
+              "name": "BigGo Finance",
+              "url": "https://finance.biggo.com/news/57385bbc-ac23-48c3-946d-4fc1560866e9"
             }
           ],
-          "verification": "single",
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "Anthropic, Claude의 기존 비디오 게임 복제 방지 시스템 프롬프트 업데이트",
+          "summary": "Anthropic은 Claude 모델의 시스템 프롬프트를 업데이트하여 AI가 기존 비디오 게임을 복제하는 데 사용되는 것을 막기 위한 조치를 취했습니다. 이는 AI를 통한 지적 재산권 침해를 방지하려는 목적으로, 사용자는 여전히 독창적인 게임이나 특정 장르의 게임을 만들 수 있습니다.",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+            },
+            {
+              "name": "IGN",
+              "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update"
+            }
+          ],
+          "verification": "multi",
           "tag": "policy",
           "tag_label": "정책·규제·안전"
         }
