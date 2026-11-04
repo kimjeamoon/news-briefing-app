@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-03",
-  "date_str": "2026년 11월 3일 (화)",
+  "date": "2026-11-04",
+  "date_str": "2026년 11월 4일 (수)",
   "highlights": [
-    "OpenAI, ChatGPT 'Chat' 및 'Work' 탭 통합 및 데이터 센터 그리드 보호 프로그램 도입 발표",
-    "Anthropic, AI의 자기 개선(RSI) 능력에 근접했음을 경고하며 논쟁의 불씨 지펴",
-    "애플, 써드파티 AI 앱 통한 수익 증대 시사 및 1,000달러 가정용 로봇 출시 계획 공개",
-    "42AI, 인간 행동 예측하는 '행동 세계 모델' 공개와 함께 6250만 달러 투자 유치",
-    "뉴욕 타임즈 등 언론사, Brave 브라우저의 저작권 콘텐츠 무단 스크랩 및 배포 혐의로 소송 제기"
+    "데이터센터 전력난 심화로 구형 제트 엔진 활용 증가, xAI와 OpenAI도 도입",
+    "사이버보안 벤처 Ballistic Ventures, AI 기반 보안 붐에 힘입어 4.9억 달러 신규 펀드 조성",
+    "팔란티어, 미국 상업 부문 매출 처음으로 정부 부문 초과 달성하며 역대 최고 분기 실적 기록",
+    "AI 추론 스타트업 Fal, 수요 급증으로 기업 가치 160억 달러로 두 배 성장",
+    "Apple Watch, AI 기반 대화 되감기 및 요약 기능 베타 테스트 시작"
   ],
   "sections": [
     {
@@ -15,20 +15,62 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "OpenAI, ChatGPT 탭 통합 및 데이터 센터 그리드 보호 발표",
-          "summary": "OpenAI는 ChatGPT 데스크톱 앱의 'Chat' 및 'Work' 탭을 통합하여 사용자 경험을 간소화한다고 밝혔습니다. 또한, 다가오는 조지아주 데이터 센터에 '그리드 보호 프로그램'을 시범 적용하여 극심한 기상 조건이나 비상시에 최대 1,000메가와트의 전력을 지역 사회에 공급할 계획입니다.",
+          "title": "넷플릭스, 기분 기반 AI 콘텐츠 추천 'Discover' 탭 출시",
+          "summary": "넷플릭스가 사용자의 기분, 선호도, 시청 가능 시간 등을 기반으로 콘텐츠를 추천해주는 AI 'Discover' 탭을 베타 출시했습니다. 이는 사용자가 긴 목록을 스크롤하는 대신 개인화된 AI 기반 경험을 통해 다음 시청할 콘텐츠를 쉽게 찾도록 돕기 위한 기능입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+              "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+            },
+            {
+              "name": "CNET",
+              "url": "https://www.cnet.com/tech/services-and-software/netflixs-ai-recommendations-aim-to-play-matchmaker-to-your-tastes"
+            },
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/netflix-tests-ai-discover-tab-with-theme-based-recommendations"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Apple Watch AI 대화 되감기 및 요약 기능 베타 시작",
+          "summary": "Apple Watch의 AI 기반 '오디오 인텔리전스' 기술 중 대화 되감기(Live Rewind) 및 시리 요약(Siri Recaps) 기능이 iOS 27.3 업데이트를 통해 개발자 베타 테스트를 시작했습니다. 이 기능들은 사용자가 놓친 대화 내용을 텍스트로 확인하거나 대화의 주요 내용을 요약하는 데 도움을 줍니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+              "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch"
             },
             {
-              "name": "Mashable",
-              "url": "https://mashable.com/tech/openai-chatgpt-chat-work-merger-usage-limits"
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/apple-watch-audio-intelligence-enters-developer-beta-testing"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "Sonos, 새로운 프리셋 및 AI 음성 비서 베타 업데이트 배포",
+          "summary": "Sonos가 새로운 프리셋 기능과 AI 음성 비서 'Sonos 27voice'의 초기 액세스 베타 버전을 포함한 앱 업데이트를 배포합니다. 이 업데이트는 사용자가 특정 볼륨으로 음악을 재생하거나, 자연어로 복잡한 요청을 처리하는 등 향상된 기능을 제공하며, 2024년의 앱 재설계 실패를 만회하기 위한 노력의 일환입니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access"
+            },
+            {
+              "name": "BigGo Finance",
+              "url": "https://finance.biggo.com/news/98fcbe05-60c0-495f-96ba-c22b7b7b651c"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.aol.com/articles/sonos-voice-assistant-launching-early-204849000.html"
             }
           ],
           "verification": "multi",
@@ -43,79 +85,37 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "Anthropic, AI의 자기 개선(RSI) 능력 근접 경고",
-          "summary": "Anthropic은 S-1A 수정 보고서를 통해 자사의 AI 모델이 '재귀적 자기 개선(RSI)' 능력에 매우 근접했다고 경고했습니다. RSI는 AI가 스스로를 훈련하고 능력을 극적으로 가속화하여 인간 통제를 벗어날 수 있는 지점을 의미하며, 이는 AI 발전의 잠재적 위험으로 간주됩니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
-            },
-            {
-              "name": "Межа",
-              "url": "https://mezha.net/eng/news/mezha-ca204e1c0052a71213a13f97"
-            },
-            {
-              "name": "X",
-              "url": "https://x.com/rohanpaul_ai/status/2117326734442049563"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "42AI, 인간 행동 예측 세계 모델 공개 및 투자 유치",
-          "summary": "이스라엘 스타트업 42AI가 '행동 세계 모델'을 공개하며 6250만 달러의 시드 투자를 유치했습니다. 이 모델은 개인의 내재된 심리적 경향을 측정하고 데이터로 변환하여 예측 불가능한 상황에서도 인간의 행동을 확률적으로 예측할 수 있다고 주장합니다. 현재 금융 중개업에서 개별 트레이더의 변동성 조건 반응 예측에 사용되고 있습니다.",
-          "sources": [
-            {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-            },
-            {
-              "name": "Startup Fortune",
-              "url": "https://startupfortune.com/israeli-startup-42ai-says-its-world-model-can-predict-human-behavior"
-            },
-            {
-              "name": "HyperAI",
-              "url": "https://hyper.ai/en/stories/b6e2d45456503ed8aad761a80376e836"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "MIT 교수진, AI 항생제 발견 연구로 Pritzker AI 상 수상",
-          "summary": "MIT의 레지나 바질레이 교수와 제임스 콜린스 교수가 AI 기반 항생제 발견 연구로 2026년 Pritzker AI 및 과학 연구 우수상을 수상했습니다. 이들은 딥러닝과 생체공학을 통합하여 할리신과 아바우신 등 새로운 항생제를 발견했으며, 이는 약물 내성 병원균에 대한 효과적인 해결책을 제시했습니다.",
-          "sources": [
-            {
-              "name": "MIT News (AI)",
-              "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102"
-            },
-            {
-              "name": "MIT School of Engineering",
-              "url": "https://engineering.mit.edu/news/school-of-engineering-welcomes-new-faculty-in-2026"
-            }
-          ],
-          "verification": "multi",
-          "tag": "research",
-          "tag_label": "연구·논문"
-        },
-        {
-          "title": "에이전트 AI, 기업 분석 워크플로우 자동화 및 통찰력 향상 전망",
-          "summary": "에이전트 AI가 기업 분석 분야에서 워크플로우를 자동화하고 통찰력을 기반으로 행동을 취함으로써 분석의 질을 높일 것이라는 전망이 나왔습니다. MIT 기술 리뷰에 따르면, 에이전트 AI는 기존 생성형 AI보다 더 나아가 비즈니스 컨텍스트 부족 문제를 해결하고 데이터 활용도를 높여 기업 전체의 의사결정 과정을 개선할 잠재력을 가집니다.",
+          "title": "MIT, '역 게임 이론' 기반 AI 에이전트 제어 연구 발표",
+          "summary": "MIT 연구원들이 '역 게임 이론'을 활용하여 AI 에이전트가 규칙을 준수하도록 유도하는 새로운 제어 방식을 제안했습니다. 이 접근 방식은 AI 모델이 자율적으로 작동할 때 인간의 의도와 일치하도록 시스템을 설계하는 것을 목표로 합니다.",
           "sources": [
             {
               "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+              "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.41172"
             },
             {
-              "name": "Healthcare IT News",
-              "url": "https://www.healthcareitnews.com/news/automation-autonomy-how-eclinicalworks-agentic-ai-enables-intelligent-workflows"
+              "name": "Winzheng",
+              "url": "https://www.winzheng.com/en/article/reverse-game-theory-ai-agents"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "AI 에이전트 검색 효율성 위한 'Context as Infrastructure' 논문 공개",
+          "summary": "Agentic 시스템의 검색 효율성을 높이기 위한 지식 컴파일러 'Harnesses'를 활용한 연구 논문 'Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses'가 arXiv에 발표되었습니다. 이 논문은 LLM이 문서를 컨텍스트로 보강하여 에이전트가 가장 관련성 높은 정보를 얻도록 돕는 방법을 제시합니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2610.41172"
+            },
+            {
+              "name": "X (구 트위터)",
+              "url": "https://x.com/_reachsumit/status/2117125782661369918"
             }
           ],
           "verification": "multi",
@@ -130,20 +130,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "애플, AI 앱 수익 증대 및 가정용 로봇 출시 계획 시사",
-          "summary": "애플은 써드파티 AI 앱을 통해 서비스 수익을 늘릴 가능성을 시사했으며, 새로운 1,000달러대 가정용 로봇을 2027년까지 출시할 계획입니다. 이 로봇은 FaceTime 통화 지원, 조명 제어 등 AI 기반 기능을 갖출 예정이지만, 높은 가격에 비해 기능이 아직 제한적이라는 평가도 있습니다.",
+          "title": "데이터센터 전력 수요 급증, 구형 제트 엔진으로 대체 추세",
+          "summary": "AI 데이터센터의 전력 수요 급증과 전력망 연결 지연으로 인해 일부 기업들이 퇴역한 제트 엔진을 개조하여 자체 전력원으로 활용하고 있습니다. xAI와 OpenAI는 이미 미시시피와 텍사스 데이터센터에 이 방식을 도입했으며, 이는 빠른 전력 공급 확보를 위한 임시 방편으로 사용되고 있습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+              "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
             },
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html"
             },
             {
-              "name": "shattered.io",
-              "url": "https://shattered.io/apple-j595-home-robot-1000-facetime-lights-2027-2026"
+              "name": "Yahoo Tech",
+              "url": "https://tech.yahoo.com/ai/articles/8-converted-jet-engines-powering-150209531.html"
             }
           ],
           "verification": "multi",
@@ -151,20 +151,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "머스크, Grok Bot 사용 제한 강화; YC 대표는 AI 에이전트에 연 20만 달러 지출",
-          "summary": "일론 머스크는 Grok Bot의 비용이 \"지속 불가능하게 높다\"는 이유로 주간 사용 제한을 강화했습니다. 한편, Y Combinator의 게리 탄 CEO는 개인 AI 에이전트 사용에 연간 최대 20만 달러를 지출한다고 밝히며, AI 에이전트가 코딩 작업부터 개인 생활 관리까지 다양한 용도로 활용될 수 있음을 보여주었습니다.",
+          "title": "Ballistic Ventures, AI 사이버보안 펀드 4.9억 달러 조성 추진",
+          "summary": "사이버보안 전문 벤처캐피털 Ballistic Ventures가 AI 기반 사이버보안 분야의 성장세에 맞춰 4억 9천만 달러 규모의 신규 펀드를 조성하고 있습니다. 이는 AI의 발전이 정교한 사이버 공격과 동시에 새로운 보안 솔루션 기회를 창출하고 있기 때문입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+              "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
             },
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+              "name": "Tech Buzz AI",
+              "url": "https://www.techbuzz.ai/articles/ballistic-ventures-seeks-490m-for-ai-cybersecurity-bet"
             },
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/grok-bot-usage-limits-costs-unsustainably-high-elon-musk-agents-2026-11"
+              "name": "Traders Union",
+              "url": "https://tradersunion.com/news/business-wealth/show/4084121-ballistic-ventures-cybersecurity-ai-funds"
             }
           ],
           "verification": "multi",
@@ -172,20 +172,83 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "Squarespace 직원 19% 해고, Trajectory AI 모델 훈련 접근성 개선 투자 유치",
-          "summary": "웹 호스팅 회사 Squarespace가 직원 19%(약 300명)를 해고하며 조직 재편을 단행했습니다. 이는 생성형 AI 웹사이트 빌더의 부상으로 인한 업계 변화에 대응하기 위함입니다. 동시에 Trajectory는 비기술 전문가도 AI 모델 훈련에 접근할 수 있도록 하는 기술 개발을 위해 4500만 달러의 투자를 유치했습니다.",
+          "title": "팔란티어, 美 상업 매출 최초로 정부 매출 추월하며 분기 최대 실적 달성",
+          "summary": "데이터 분석 기업 팔란티어가 2026년 3분기 실적 발표에서 역대 최대 분기 매출인 23억 1천만 달러를 기록했습니다. 특히 미국 상업 부문 매출이 9억 8천 4백만 달러로 미국 정부 부문 매출 9억 5천 3백만 달러를 처음으로 넘어섰으며, 이는 기업들이 팔란티어의 AI 소프트웨어 도입을 가속화하고 있음을 시사합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+              "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
             },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-u-revenue-soars-119-233415174.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AI 추론 스타트업 Fal, 160억 달러 기업 가치로 두 배 성장",
+          "summary": "AI 추론 스타트업 Fal이 최신 자금 조달 라운드에서 13억 달러를 유치하며 기업 가치가 80억 달러에서 160억 달러로 두 배 증가했습니다. 이는 학습된 AI 모델을 실행하여 결과물을 생성하는 추론 서비스, 특히 오픈 소스 모델을 활용하는 고객들의 수요가 급증한 데 따른 것입니다.",
+          "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+              "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
             },
             {
-              "name": "news.lavx.hu",
-              "url": "https://news.lavx.hu/article/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts-techcrunch"
+              "name": "HyperAI",
+              "url": "https://hyper.ai/en/stories/0018ea6e4618a3fe55b0e320d889c170"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "AMD, 데이터센터 매출 급증으로 사상 최대 분기 실적 달성",
+          "summary": "AMD가 2026년 3분기 사상 최대 분기 매출인 134억 달러를 달성했으며, 데이터센터 사업이 이러한 성장을 견인했습니다. 데이터센터 매출은 85억 달러를 기록하며 전년 동기 대비 크게 증가했고, 리사 수 CEO는 2027년에도 데이터센터가 80% 이상의 매출 성장에 기여할 것으로 전망했습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+            },
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/amds-record-13-4-billion-quarter-lifts-operating-profit-123"
+            },
+            {
+              "name": "CRN",
+              "url": "https://www.crn.com/news/data-center/2026/amd-data-center-revenue-soars-97-percent-on-ai-epyc-demand"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "Binance, 가짜 채용 면접과 내부 AI 도구 활용한 해킹 피해 공개",
+          "summary": "Binance가 63억 달러 규모의 암호화폐 해킹 사건에 대해 해커들이 가짜 채용 면접과 내부 AI 도구를 사용하여 침입했다고 밝혔습니다. 해커들은 악성 소프트웨어 다운로드를 유도하고 내부 AI 도구를 악용하여 지갑을 제어하는 등의 복잡한 다단계 공격을 감행한 것으로 드러났습니다.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+            },
+            {
+              "name": "BBC News",
+              "url": "https://www.bbc.com/news/articles/ck5ynwz9gy67o"
+            },
+            {
+              "name": "The Jerusalem Post",
+              "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-913719"
             }
           ],
           "verification": "multi",
@@ -200,20 +263,20 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "뉴욕 타임즈 등, Brave 브라우저 저작권 콘텐츠 무단 스크랩 혐의로 소송",
-          "summary": "뉴욕 타임즈를 비롯한 주요 언론사들이 웹 브라우저 Brave를 상대로 저작권 침해 소송을 제기했습니다. 이들은 Brave가 300억 개 이상의 웹 페이지를 무단으로 스크랩하고, 이를 Anthropic, Perplexity 등 AI 회사에 배포했으며, 유료 콘텐츠 장벽을 우회하고 자체 광고를 판매했다고 주장했습니다.",
+          "title": "Google, 학교 AI 도구 비활성화 시 검색 기능 제한 방침",
+          "summary": "Google은 2027년부터 K-12 학생 계정에 AI 도구를 기본적으로 비활성화하겠다고 발표했으나, 학교 관리자가 AI 도구를 완전히 제한할 경우 Google 검색 기능도 함께 제한될 수 있다고 밝혔습니다. 이는 Google 검색에 AI 기능이 깊이 통합되어 있기 때문입니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+              "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
             },
             {
-              "name": "Search Engine Journal",
-              "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
             },
             {
-              "name": "BigGo Finance",
-              "url": "https://finance.biggo.com/news/57385bbc-ac23-48c3-946d-4fc1560866e9"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
             }
           ],
           "verification": "multi",
@@ -221,20 +284,41 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "Anthropic, Claude의 기존 비디오 게임 복제 방지 시스템 프롬프트 업데이트",
-          "summary": "Anthropic은 Claude 모델의 시스템 프롬프트를 업데이트하여 AI가 기존 비디오 게임을 복제하는 데 사용되는 것을 막기 위한 조치를 취했습니다. 이는 AI를 통한 지적 재산권 침해를 방지하려는 목적으로, 사용자는 여전히 독창적인 게임이나 특정 장르의 게임을 만들 수 있습니다.",
+          "title": "Apple, 데이팅 및 AI 동반자 앱 연령 제한 18세 이상으로 강화",
+          "summary": "Apple이 앱스토어 정책을 변경하여 데이팅 앱 및 성적/로맨틱 콘텐츠를 제공하는 AI 동반자 앱의 연령 제한을 18세 이상으로 강화했습니다. 11월 16일부터 개발자들은 앱의 연령 등급이 해당 기능을 반영하도록 새로운 콘텐츠 설명을 포함해야 합니다.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
             },
+            {
+              "name": "Global Dating Insights",
+              "url": "https://www.globaldatinginsights.com/featured/apple-app-store-age-rating-dating-apps"
+            },
+            {
+              "name": "Dataconomy",
+              "url": "https://dataconomy.com/2026/11/03/apple-to-require-18-ratings-for-dating-and-ai-companion-apps"
+            }
+          ],
+          "verification": "multi",
+          "tag": "policy",
+          "tag_label": "정책·규제·안전"
+        },
+        {
+          "title": "Nexus Mods, AI 사용 모드 의무 공개 정책 발표",
+          "summary": "PC 게임 모드 웹사이트 Nexus Mods가 새로운 모드 업로드 시 AI 사용 여부를 의무적으로 공개하도록 하는 정책을 발표했습니다. 모드 제작자들은 AI가 작업에 어떻게 사용되었는지 명시해야 하며, 이는 AI 생성 콘텐츠에 대한 커뮤니티의 투명성 요구에 대응하고 플랫폼 내 AI 사용을 명확히 규제하기 위함입니다.",
+          "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+              "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
             },
             {
-              "name": "IGN",
-              "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update"
+              "name": "Tech Buzz AI",
+              "url": "https://www.techbuzz.ai/articles/nexus-mods-makes-ai-disclosure-mandatory-for-all-uploads"
+            },
+            {
+              "name": "TechRaptor",
+              "url": "https://techraptor.net/gaming/news/nexus-mods-adds-mandatory-ai-disclosure-as-backlash-grows"
             }
           ],
           "verification": "multi",
