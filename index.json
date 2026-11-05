@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-04",
-  "date_str": "2026년 11월 4일 (수)",
+  "date": "2026-11-05",
+  "date_str": "2026년 11월 5일 (목)",
   "key5": [
-    "북한, 동해상으로 미상 발사체 발사",
-    "더불어민주당 김민석 대표, 가상자산 과세 유예 공식 제안 및 신천지 입당 의혹 관련 자정 노력 언급",
-    "중앙선거관리위원회 사전투표지 발급기 사업 특혜 의혹으로 특검 압수수색",
-    "미국 중간선거에서 민주당이 노스캐롤라이나, 뉴햄프셔, 조지아 상원 의석 확보",
-    "유럽 전역 슈퍼마켓 냉동고가 사이버 공격을 받아 식량 공급망 취약성 노출"
+    "정부, 청해부대 작전 범위를 호르무즈 인근 해역으로 확대하고 해상초계기 등 추가 전력을 파견한다.",
+    "미국 중간선거에서 민주당이 상하원을 모두 장악하며 압도적인 승리를 거두어 트럼프 행정부의 남은 2년에 큰 변화가 예상된다.",
+    "코스피 지수가 반도체 주식의 급락과 미국 중간선거 결과에 대한 우려로 4% 이상 하락하여 매도 사이드카가 발동되었다.",
+    "SLAC 과학자들이 특수 X-선을 사용하여 기존 두 범주와 다른 '교대자기(altermagnetism)'라는 세 번째 자기 유형의 결정적인 증거를 발견했다.",
+    "헝가리가 공산주의 시대의 비밀 경찰 파일을 공개하여 최대 6만 명의 정보원 신원을 밝혀내고 과거의 억압적인 역사와 마주하고 있다."
   ],
   "regions": [
     {
@@ -16,20 +16,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "북한, 동해상으로 미상 발사체 발사",
-          "summary": "합동참모본부에 따르면 북한이 4일 오전 동해상으로 미상 발사체를 발사했습니다. 발사체가 탄도미사일로 확인될 경우 나흘 만의 발사가 됩니다. 북한은 앞서 지난달 31일 '전술탄도미사일 산포전투부(집속탄 탄두)'를 발사했다고 보도한 바 있습니다.",
+          "title": "청해부대, 호르무즈 인근 해역으로 작전 범위 확대 및 전력 증강",
+          "summary": "정부가 소말리아 아덴만 해역에서 활동하는 청해부대의 임무 구역을 오만 남방 외해까지 확대하고, 최신예 해상초계기 P-8A 포세이돈과 무인 소해전력, 폭발물처리반(EOD) 등 추가 전력을 파견하기로 결정했습니다. 이는 호르무즈 해협 안정화를 위한 국제사회의 노력에 기여하고, 홍해 일대 해적 활동 증가에 대비하기 위함입니다. 이번 확대 조치로 청해부대 임무 구역은 기존 대비 약 두 배 늘어나며, 병력도 75명 추가되어 총 395명이 됩니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261104055100504"
+              "url": "https://www.yna.co.kr/view/AKR20261104155400504"
             },
             {
-              "name": "The Korea Times",
-              "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-fires-unidentified-projectile-toward-east-sea-jcs"
+              "name": "한겨레",
+              "url": "https://www.hani.co.kr/arti/politics/defense/1285875.html"
             },
             {
-              "name": "The Korea Herald",
-              "url": "https://www.koreaherald.com/article/10925065"
+              "name": "Yonhap News Agency",
+              "url": "https://en.yna.co.kr/view/AEN20261105000700315?section=national%2Fdiplomacy"
             }
           ],
           "verification": "multi",
@@ -37,66 +37,62 @@
         },
         {
           "tag": "pol",
-          "title": "김민석 민주당 대표, 가상자산 과세 유예 제안 및 신천지 의혹 자정 노력 언급",
-          "summary": "더불어민주당 김민석 대표가 가상자산 소득 과세 시행을 재차 유예할 것을 정부에 공식 요청했습니다. 또한, 신천지 교인 입당 의혹 논란과 관련하여 당내에서 종교의 정치 개입 우려가 사라지도록 자정 노력과 제도 개선 절차를 밟겠다고 밝혔습니다.",
+          "title": "선관위, 지방선거 투표록 위조 의혹으로 특검 압수수색",
+          "summary": "중앙선거관리위원회가 6·3 지방선거 투표용지 부족사태와 관련하여 투표록 위·변조 의혹으로 특별검사팀의 압수수색을 나흘째 받고 있습니다. 특검팀은 중앙선관위 선거과장 등 10여 명을 직무유기와 공문서 위·변조 등 혐의로 입건하고, 중앙선관위가 지방선관위에 전국 40여 곳 투표소의 투표록을 사후 위·변조하도록 지시했다는 의혹에 대해 자료를 확보 중입니다.",
           "sources": [
             {
               "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261104062500001"
+              "url": "https://www.yna.co.kr/view/AKR20261105068200004"
             },
             {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261104068300001"
+              "name": "chosun.com",
+              "url": "https://www.chosun.com/english/national-en/2026/11/04/2VWC6ZXX7BBL5OO7WSJJYDUSEI"
             },
             {
-              "name": "The Herald Business",
-              "url": "https://mbiz.heraldcorp.com/article/10923880"
+              "name": "news.sbs.co.kr",
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830261"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "선관위 사전투표지 발급기사업 특혜 의혹, 특검 압수수색",
-          "summary": "이태한 선거관리위원회 특별검사팀이 중앙선관위의 사전투표용지 발급기 제작 사업에서 입찰 비리 특혜 정황을 포착해 압수수색을 진행했습니다. 특검팀은 중앙선관위가 특정 업체에 사업 계획을 유출하고 계약 위반을 묵인하며 독점 공급 구조를 만들어준 것으로 보고 있습니다. 이 사업은 약 459억원 규모로 최근 5년간 중앙선관위 발주 사업 중 가장 큰 규모입니다.",
+          "tag": "eco",
+          "title": "코스피 4%대 급락, 매도 사이드카 발동…반도체주 타격",
+          "summary": "코스피 지수가 반도체 대형주의 급락세에 힘입어 4% 넘게 떨어지며 유가증권시장에 '매도 사이드카'가 발동되었습니다. 삼성전자와 SK하이닉스 등 반도체 투톱이 크게 하락했으며, 이는 미국 중간선거에서 민주당이 압승하면서 인공지능(AI) 데이터센터 건설 규제 강화 우려가 커진 영향으로 분석됩니다.",
           "sources": [
             {
-              "name": "연합뉴스 정치",
-              "url": "https://www.yna.co.kr/view/AKR20261104056200004"
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261105070000008"
             },
             {
               "name": "한겨레",
-              "url": "https://www.hani.co.kr/arti/society/society_general/1285681.html"
+              "url": "https://www.hani.co.kr/arti/economy/finance/1285882.html"
             },
             {
-              "name": "SBS 뉴스",
-              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008825987"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "사회"
-        },
-        {
-          "tag": "eco",
-          "title": "현대차그룹, 수소 생산부터 생태계까지 통합 솔루션 공개",
-          "summary": "현대차그룹이 경기도 고양시 킨텍스에서 열리는 '월드 하이드로젠 엑스포 2026'에 참가하여 수소 생산 인프라, 모빌리티, 생태계를 아우르는 통합 수소 기술 비전을 선보였습니다. 특히 고분자전해질막(PEM) 수전해 스택 12개를 통합한 5메가와트(MW)급 전해조 스택 모듈(ESM) 구성 방식을 처음 공개했으며, 이는 연간 약 700톤의 수소를 생산할 수 있습니다. 또한, 새만금 AI 밸리 구상을 중심으로 재생에너지, 수소, AI 데이터센터, 로보틱스, 도시 인프라가 연결되는 미래 산업도시 모델도 제시했습니다.",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "url": "https://www.yna.co.kr/view/AKR20261104067300003"
-            },
-            {
-              "name": "The Asia Business Daily",
-              "url": "https://www.asiae.co.kr/en/article/2026110409474715309"
-            },
-            {
-              "name": "Hyundai Worldwide",
-              "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001300"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202611051025011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
             }
           ],
           "verification": "multi",
           "tag_label": "경제·시장"
+        },
+        {
+          "tag": "soc",
+          "title": "'대구로' 공공배달앱 해킹, 가맹점주 계좌번호 2만5천개 유출",
+          "summary": "대구 공공배달앱 '대구로'가 해킹당해 운영사 직원 시스템 접속 정보 250여 건과 가맹점주 계좌번호 2만5천여 개 등 대규모 개인 정보가 유출되었습니다. 운영사는 사고 발생 다음 날 경찰에 신고했으나, 가맹점주들에게는 나흘 만에 피해 사실을 알렸습니다. 현재까지 금전적인 피해는 확인되지 않았으며, 인성데이타 측은 AI 기술을 활용한 정보 탈취로 추정하고 있습니다.",
+          "sources": [
+            {
+              "name": "연합뉴스 경제",
+              "url": "https://www.yna.co.kr/view/AKR20261105051251053"
+            },
+            {
+              "name": "ajupress.com",
+              "url": "https://www.ajupress.com/view/20261103113002766"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "사회"
         }
       ]
     },
@@ -107,20 +103,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미 중간선거, 민주당 노스캐롤라이나 등 상원 의석 확보",
-          "summary": "미국 중간선거에서 민주당 로이 쿠퍼 후보가 노스캐롤라이나 연방 상원 선거에서 승리하며 공화당 의석을 탈환했습니다. 또한 뉴햄프셔 상원에서도 크리스 파파스 민주당 후보가 승리했으며, 조지아 상원도 민주당 존 오소프 후보가 우세한 것으로 나타나 민주당이 상원 과반 확보에 필요한 의석수를 줄였습니다.",
+          "title": "미 민주당, 중간선거 압승으로 상하원 장악",
+          "summary": "미국 중간선거에서 민주당이 상하원을 모두 장악하며 압도적인 승리를 거두었습니다. 이는 트럼프 행정부의 정책에 대한 유권자들의 심판으로 해석되며, 남은 2년 동안 트럼프 행정부의 국정 운영에 큰 변화가 예상됩니다. 특히 국방, 러시아, 우크라이나, 이란 정책 등 외교 정책에 민주당의 영향력이 커질 것으로 보입니다.",
           "sources": [
             {
-              "name": "경향신문",
-              "url": "https://www.khan.co.kr/article/202611041035001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-            },
-            {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/03/us/north-carolina-senate-whatley-cooper.html"
+              "url": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html"
             },
             {
-              "name": "NBC News",
-              "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+              "name": "virginiabusiness.com",
+              "url": "https://virginiabusiness.com/democrats-seize-congress-in-sweeping-midterm-repudiation-of-trump"
+            },
+            {
+              "name": "rferl.org",
+              "url": "https://www.rferl.org/a/democrats-midterms-trump-russia-ukraine-iran/33890205.html"
             }
           ],
           "verification": "multi",
@@ -128,62 +124,62 @@
         },
         {
           "tag": "pol",
-          "title": "AI 기업들, 미 중간선거 허위 정보 대응 '워룸' 운영",
-          "summary": "OpenAI와 Anthropic을 포함한 주요 인공지능 기업들이 미국 중간선거를 앞두고 허위 정보에 대응하기 위한 '워룸'을 운영하고 있습니다. 이들 기업은 딥페이크, 사이버 공격, AI 기반 검색 결과 등을 통해 확산될 수 있는 잘못된 정보를 모니터링하고 차단하기 위해 노력하고 있습니다. 이는 2018년부터 시작된 선거 관련 허위 정보 확산에 대한 기술 플랫폼의 대응이 AI 시대로 확장된 것입니다.",
+          "title": "캔자스 주, 94년 만에 민주당 상원의원 배출",
+          "summary": "캔자스 주에서 민주당 후보 애덤 해밀턴이 상원의원에 당선되며 거의 100년 만에 민주당 소속 상원의원이 탄생하는 역사적인 이변을 기록했습니다. 감리교 목사이기도 한 해밀턴 후보는 유권자들에게 예의와 중도적인 정책을 약속하며 승리했고, 이는 트럼프 대통령에 대한 교외 지역의 반발과 맞물려 큰 영향을 미친 것으로 분석됩니다.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html"
+              "url": "https://www.nytimes.com/2026/11/04/us/kansas-adam-hamilton-democrats.html"
             },
             {
-              "name": "Semafor",
-              "url": "https://www.semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age"
+              "name": "BBC US & Canada",
+              "url": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/03/ai-is-on-the-ballot-data-centers-are-a-major-political-issue-in-the-midterms-but-the-implications-of-todays-vote-for-ai-go-much-further"
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides"
             }
           ],
           "verification": "multi",
           "tag_label": "정치·외교"
         },
         {
-          "tag": "soc",
-          "title": "플로리다 비행기 추락, 핵심 부품 사고 현장서 4마일 떨어진 곳서 발견",
-          "summary": "플로리다에서 발생한 치명적인 비행기 추락 사고의 핵심 부품들이 사고 현장에서 최대 3.8마일(약 6.1km) 떨어진 곳에서 발견되어, 충돌 전에 비행기가 분해되었을 가능성이 제기되었습니다. 국가교통안전위원회(NTSB) 조사관들은 비행기의 수직 각도를 제어하는 장치의 주요 부분이 여러 조각으로 발견되었으며, 이는 비행 중 기체 일부가 떨어져 나갔음을 시사한다고 밝혔습니다. 이 사고로 탑승자 9명 전원이 사망했습니다.",
+          "tag": "pol",
+          "title": "트럼프, 중간선거 참패 후 국방장관 교체 검토 보도",
+          "summary": "미국 중간선거 참패 이후 트럼프 행정부 내에서 피트 헤그세스 국방장관의 교체 문제가 논의되고 있다는 보도가 나왔습니다. 이란 전쟁이 공화당 선거 패배의 주요 원인으로 지목되면서, 전쟁을 지휘해온 헤그세스 장관의 입지가 흔들리고 있다는 분석입니다. 후임으로는 론 디샌티스 플로리다 주지사가 거론되지만, 트럼프 대통령은 아직 교체를 결정하지 않았다고 밝혔습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html"
+              "name": "경향신문",
+              "url": "https://www.khan.co.kr/article/202611051026001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+            },
+            {
+              "name": "NYT Business",
+              "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html"
             },
             {
               "name": "BBC US & Canada",
-              "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Boston Herald",
-              "url": "https://www.bostonherald.com/2026/11/03/learjet-pilot-florida-crash"
+              "url": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "verification": "multi",
-          "tag_label": "사회"
+          "tag_label": "정치·외교"
         },
         {
           "tag": "eco",
-          "title": "사우디 아람코, 파이프라인 공격에도 3분기 이익 9% 증가",
-          "summary": "사우디아라비아 국영 석유회사 아람코가 파이프라인과 정유시설에 대한 공격에도 불구하고 3분기 순이익이 9% 증가했다고 발표했습니다. 이란과의 전쟁으로 인한 수출 차질과 시설 공격에도 불구하고, 아람코는 7월부터 9월까지 조정된 순이익 312억 달러를 기록하며 전년 동기 대비 실적 개선을 보였습니다. 이는 주로 유가 상승과 정제 마진 개선에 기인합니다.",
+          "title": "미 중간선거 결과, AI 데이터센터 규제 우려 확산",
+          "summary": "미국 중간선거에서 민주당이 압승을 거두면서 인공지능(AI) 데이터센터 건설 규제 강화에 대한 우려가 커지고 있습니다. 유권자들이 데이터센터 개발에 강력한 반대 의사를 표명하며 여러 주에서 건설 금지나 제한 조치가 통과되었고, 이는 AI 산업의 성장 둔화와 관련 기업 주가 하락으로 이어질 수 있다는 분석입니다. 일부 빅테크 및 반도체 기업의 주가에 이미 영향을 미치고 있습니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html"
+              "name": "The Guardian (US)",
+              "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections"
             },
             {
-              "name": "The Business Times",
-              "url": "https://www.businesstimes.com.sg/companies-markets/saudi-aramco-q3-net-profit-rises-34-5-higher-oil-prices-offset-lower-volumes"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/11/05/markets/trump-midterms-data-center-opponents/"
             },
             {
-              "name": "Oil & Gas 360",
-              "url": "https://www.oilandgas360.com/aramco-posts-36-3-billion-profit-as-export-infrastructure-faces-attacks"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/us-elections/article/3373322/costs-above-competition-why-us-voters-arent-buying-trumps-china-ai-pitch"
             }
           ],
           "verification": "multi",
@@ -198,16 +194,20 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "미 중간선거, 미중 관계에 '파괴적 충격' 없을 것",
-          "summary": "중국 전문가들은 미국 중간선거 결과가 미중 관계에 대규모의 '파괴적 충격'을 가져오지 않을 것으로 분석했습니다. 상하이 국제문제연구원 천둥샤오 원장은 의회 구성 변화가 주로 트럼프 대통령의 국내 의제에 영향을 미치고, 외교 정책에 대한 영향은 상대적으로 제한적일 것이라고 전망했습니다. 다만 대만 문제를 둘러싼 잠재적 불안정성은 언급되었습니다.",
+          "title": "홍콩 민주화 운동가 조슈아 웡, 국가보안법으로 중형 위기",
+          "summary": "홍콩의 민주화 운동가 조슈아 웡이 국가보안법 위반 혐의로 더 오랜 징역형에 직면하게 되었습니다. 그는 '외국 세력과의 결탁' 혐의로 기소되었으며, 이번 주 목요일 선고가 내려질 예정입니다. 웡은 이미 6년형을 복역 중이며, 국가보안법 위반은 최대 종신형까지 선고될 수 있습니다. 이는 홍콩 민주화 운동에 대한 중국의 탄압이 심화되고 있음을 보여줍니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3373194/will-us-midterm-results-lead-disruption-washingtons-ties-china"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/joshua-wong-hong-kong-democracy-prison/"
             },
             {
-              "name": "South China Morning Post",
-              "url": "https://amp.scmp.com/news/us/us-elections/article/3373188/trumps-fate-balance-us-midterm-elections-put-house-senate-grabs?streamindex=1&src=amp-next-page-article&rand=1793746879820"
+              "name": "news4jax.com",
+              "url": "https://www.news4jax.com/news/world/2026/11/04/hong-kong-pro-democracy-activist-joshua-wong-faces-sentencing-in-2nd-national-security-case"
+            },
+            {
+              "name": "reuters.com",
+              "url": "https://www.reuters.com/world/china/hong-kong-activist-joshua-wong-set-be-sentenced-national-security-charge-2026-11-04"
             }
           ],
           "verification": "multi",
@@ -215,20 +215,20 @@
         },
         {
           "tag": "pol",
-          "title": "일본 외무상, G7 회의 불참으로 야당 비판 직면",
-          "summary": "일본 외무상이 지난 10월 초 열린 G7 주요 7개국 온라인 정상회의에 불참한 사실이 알려지면서 야당의 비판에 직면했습니다. 야당은 타카이치 외무상의 모호한 설명과 외무성 입장에 불만을 표하며, 자민당 간부들과의 만찬 때문에 회의에 불참했을 가능성을 제기하고 있습니다. 이러한 불참은 외교적 역량에 대한 의문을 불러일으키고 있습니다.",
+          "title": "미·중 국방 당국, 위기 통신 및 예방 실무그룹 개선 합의",
+          "summary": "미국과 중국의 국방 당국자들이 워싱턴에서 만나 '위기 통신 및 예방 실무그룹'의 첫 회의를 가졌습니다. 양측은 양국 간의 위험을 줄이기 위한 '실질적인 통신 조치'를 발전시키는 것의 중요성에 합의했으며, 효과적인 위기 관리를 위한 추가적인 채널과 신속하고 효과적인 소통 방안에 대해서도 논의했습니다. 미 국방부는 향후 수개월 내에 중국 인민해방군과의 핵심 국방 문제에 대한 논의를 계속 진행할 것이라고 밝혔습니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/opposition-takaichi-g7-criticism-mounts/"
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3373321/china-us-defence-officials-agree-improve-communication-reduce-risks"
             },
             {
-              "name": "Nippon.com",
-              "url": "https://www.nippon.com/en/articles/-/56834"
+              "name": "ua.news",
+              "url": "https://ua.news/en/world/ssha-i-kitai-domovilisia-rozvivati-krizovu-komunikatsiiu-south-china-morning-post"
             },
             {
-              "name": "The Herald Business",
-              "url": "https://biz.heraldcorp.com/article/10918172"
+              "name": "war.gov",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4641264/readout-of-november-2026-us-china-crisis-communications-and-prevention-working"
             }
           ],
           "verification": "multi",
@@ -236,20 +236,20 @@
         },
         {
           "tag": "eco",
-          "title": "혼다, EU 신규 규제에 따라 유럽 내 자동차 생산 재검토",
-          "summary": "혼다 자동차의 유럽 책임자가 유럽연합(EU)의 새로운 규제에 따라 유럽 내 자동차 생산 재개를 검토할 수 있다고 밝혔습니다. EU의 '산업 가속화 법안'은 역내 생산 차량에 대한 공공 조달 및 지원을 우선시하는 내용을 담고 있어, 2021년 유럽 내 생산을 중단했던 혼다가 현지 생산 또는 다른 완성차 업체와의 협력을 모색할 가능성이 있습니다. 이는 강화되는 중국과의 경쟁 속에서 현지 생산을 보호하려는 EU의 움직임에 대응하기 위한 것입니다.",
+          "title": "MUFG 에뭇 은행, 현금 카드 없는 디지털 은행으로 운영",
+          "summary": "미쓰비시 UFJ 금융그룹 계열사인 MUFG 에뭇 은행이 내년 초 개설될 디지털 은행으로 현금 카드를 발행하지 않고 운영될 예정입니다. 고객들은 스마트폰을 사용하여 현금을 인출할 수 있으며, 기존의 카드-PIN 인증을 넘어선 다중 인증 방식을 도입하여 보안을 강화할 계획입니다. 이는 일본 주요 금융그룹 산하 은행 중 최초의 사례로, 카드 발행 비용 절감으로 서비스 개선에 자원을 재투자할 방침입니다.",
           "sources": [
             {
               "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/11/04/honda-eu-car-output/"
+              "url": "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/"
             },
             {
-              "name": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-11-03/honda-weighs-restarting-eu-car-output-as-new-rules-take-shape?srnd=homepage-americas"
+              "name": "nippon.com",
+              "url": "https://www.nippon.com/en/articles/-/56888"
             },
             {
-              "name": "Automotive World",
-              "url": "https://www.automotiveworld.com/news/honda-weighs-a-european-return-as-made-in-eu-rules-loom"
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/f61004b3-7e78-4738-9d4f-5f6a43385235"
             }
           ],
           "verification": "multi",
@@ -257,20 +257,16 @@
         },
         {
           "tag": "tec",
-          "title": "바이두, 자율주행차 희귀 도로 위험 시뮬레이션 AI 개발",
-          "summary": "중국 IT 기업 바이두가 자율주행 택시 '아폴로 로보택시'의 희귀 도로 위험 시뮬레이션을 위한 새로운 AI 시뮬레이터 '아폴로 월드'를 개발했습니다. 이 시스템은 신호 위반 자전거 운전자나 갑자기 나타나는 동물과 같이 실제 도로 테스트에서 안전하게 포착하기 어려운 시나리오를 가상으로 생성하여 자율주행차를 훈련시킬 수 있습니다. 이는 급성장하는 자율주행 택시 시장에서 우위를 확보하기 위한 바이두의 노력의 일환입니다.",
+          "title": "도쿄 경찰, AI 기반 사고 재구성 시스템 도입",
+          "summary": "도쿄 경시청이 인공지능(AI)과 3D 공간 데이터를 활용한 교통사고 재구성 시스템을 도입할 계획입니다. 이 시스템은 사고 현장의 3D 데이터와 주변 보안 카메라 영상을 결합하여 현장 조사에 필요한 시간을 단축하고 교통 체증 및 경제적 손실을 줄일 수 있습니다. 2027년 6월부터 테스트를 거쳐 2028년 1월부터 본격 운영될 예정이며, 이를 통해 수사 보고서 및 다이어그램 작성이 더욱 용이해질 것으로 기대됩니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards"
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/crime-legal/tokyo-police-ai-reconstruction/"
             },
             {
-              "name": "The Straits Times",
-              "url": "https://www.straitstimes.com/asia/east-asia/chinas-baidu-launches-ai-model-simulating-road-environment-for-robotaxis"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://m.economictimes.com/tech/technology/chinas-baidu-launches-ai-model-simulating-road-environment-for-robotaxis/amp_articleshow/135499921.cms"
+              "name": "reddit.com",
+              "url": "https://www.reddit.com/r/japan/comments/1xnmcyl/tokyo_police_to_introduce_aibased_accident"
             }
           ],
           "verification": "multi",
@@ -285,20 +281,41 @@
       "stories": [
         {
           "tag": "pol",
-          "title": "스페인 교통부 장관, 열차 충돌 사고 후 사임",
-          "summary": "스페인 교통부 장관 오스카르 푸엔테가 지난주 69명의 사망자를 낸 열차 충돌 사고에 대한 책임을 지고 사임했습니다. 푸엔테 장관은 유럽 내 고속철도망에 대한 신뢰를 회복하기 위해 노력하겠다고 밝힌 바 있으나, 사고의 심각성과 야당의 사임 요구 속에 결국 직책에서 물러나고 다가오는 총선 출마도 포기했습니다. 이번 사고는 올해 스페인에서 발생한 두 번째 심각한 열차 사고입니다.",
+          "title": "헝가리, 공산주의 시대 비밀 경찰 파일 공개…과거사 직면",
+          "summary": "헝가리 정부가 공산주의 시대의 비밀 경찰 파일을 대중에 공개하며, 최대 6만 명에 달하는 정보원들의 신원이 밝혀졌습니다. 이는 45년간의 공산주의 통치 트라우마를 치유하기 위한 조치로, 과거의 억압적인 역사에 직면하려는 의지를 보여줍니다. 비판론자들은 시기가 너무 늦었고 파일이 불완전하다고 지적하지만, 정부는 투명성 확보와 과거 청산을 강조하고 있습니다.",
           "sources": [
             {
-              "name": "South China Morning Post",
-              "url": "https://www.scmp.com/news/world/europe/article/3373189/spains-transport-minister-resigns-after-train-crash-killed-69"
-            },
-            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian (World)",
-              "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed"
+            },
+            {
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/hungary-releases-secret-police-files-from-communist-era/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "verification": "multi",
+          "tag_label": "정치·외교"
+        },
+        {
+          "tag": "pol",
+          "title": "젤렌스키 대통령, 스페인 방문…우크라이나 지원 강화 논의",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 스페인 마드리드를 깜짝 방문하여 페드로 산체스 스페인 총리 및 중남미 지도자들과 회담했습니다. 이번 방문은 이베로-아메리카 정상회의와 동시에 이루어졌으며, 우크라이나에 대한 국제적 지원을 강화하고 특히 중남미 국가들과의 관계를 증진하는 데 목적이 있습니다. 젤렌스키 대통령은 최우선 과제로 우크라이나 방공망 강화와 국방 협력 확대를 언급했습니다.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders"
+            },
+            {
+              "name": "manilatimes.net",
+              "url": "https://www.manilatimes.net/2026/11/05/world/zelenskyy-in-spain-for-talks-with-world-leaders/2462307/amp"
+            },
+            {
+              "name": "bangkokpost.com",
+              "url": "https://www.bangkokpost.com/world/3349080/zelensky-in-spain-for-talks-with-world-leaders"
             }
           ],
           "verification": "multi",
@@ -306,66 +323,45 @@
         },
         {
           "tag": "soc",
-          "title": "유럽 슈퍼마켓 냉동고, 사이버 공격으로 식량 공급망 취약성 노출",
-          "summary": "유럽 전역의 최소 10개국 슈퍼마켓 냉동고가 사이버 공격을 받아 식량 공급망의 취약성이 드러났습니다. 벨기에, 에스토니아, 핀란드, 아일랜드, 이탈리아, 룩셈부르크, 네덜란드, 포르투갈, 독일, 스웨덴 등지에서 냉동고 온도가 급상승하여 유통업체들이 식품을 폐기해야 했으며, 일부 냉동고 온도는 50°C까지 치솟기도 했습니다. 유럽연합(EU) 관계자들은 이를 식량 공급망을 고의로 방해하려는 시도로 보고 심각하게 받아들이고 있습니다.",
+          "title": "프랑스 혈액 보관 시설, 해킹 공격으로 혈액 공급 차질",
+          "summary": "프랑스의 혈액 재고 보관 시설이 해커들의 사이버 공격을 받아 혈액 보관 냉장실의 온도 제어 시스템에 영향을 받았습니다. 해커들은 온도를 높이려고 시도했으나, 직원들의 신속한 대응으로 혈액 제품 손실은 발생하지 않았다고 프랑스 혈액관리국(EFS)이 밝혔습니다. 이번 공격은 최근 유럽 슈퍼마켓 냉장고를 강타했던 사이버 공격과 유사한 것으로 알려졌으며, 누가 배후인지는 아직 불확실합니다.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html"
-            },
-            {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Technology Magazine",
-              "url": "https://technologymagazine.com/news/european-supermarket-freezers-targeted-by-major-cyber-attack"
+              "name": "Politico Europe",
+              "url": "https://www.politico.eu/article/fridge-hacks-hit-french-blood-banks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "name": "cbsnews.com",
+              "url": "https://www.cbsnews.com/news/cyberattack-france-blood-bank"
             }
           ],
           "verification": "multi",
           "tag_label": "사회"
         },
         {
-          "tag": "pol",
-          "title": "러시아, 우크라이나 원조센터·병원 공격으로 30명 이상 사망",
-          "summary": "러시아의 우크라이나 공격으로 원조센터, 호스피스, 병원 등이 타격을 입어 지난 24시간 동안 최소 38명의 민간인이 사망하고 수십 명이 부상했습니다. 특히 남부 자포리자 지역의 코미슈바하 마을에서는 활공탄 공격으로 최소 33명이 사망했으며, 사망자 수는 더 늘어날 것으로 예상됩니다. 러시아는 이 공격이 우크라이나 군사 시설을 겨냥한 것이라고 주장했지만, 해당 지역에는 주요 군사 시설이 없는 것으로 알려졌습니다.",
+          "tag": "tec",
+          "title": "EU AI 규정, 북아일랜드에도 적용…의회 AI 활용 지침 마련",
+          "summary": "유럽연합(EU)의 인공지능(AI) 기기 관련 일부 규정이 북아일랜드에도 적용될 예정입니다. 이는 윈저 프레임워크에 따른 것으로, AI 시스템이 물리적 제품에 내장되어 북아일랜드 시장에 출시될 경우에 해당합니다. 한편, 유럽 의회는 의원들이 법률 제정 시 AI에 지나치게 의존하지 않도록 새로운 AI 활용 지침을 준비 중이며, AI 사용 시 투명성과 책임감을 강조하고 있습니다.",
           "sources": [
             {
               "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "name": "BBC Europe",
-              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "EA WorldView",
-              "url": "https://eaworldview.com/2026/11/ukraine-war-russia-26-civilians-murdered-in-strike-on-aid-center-and-shelter"
-            }
-          ],
-          "verification": "multi",
-          "tag_label": "정치·외교"
-        },
-        {
-          "tag": "pol",
-          "title": "EU, 우크라이나에 개혁 가속화 및 신중한 가입 경로 제시",
-          "summary": "유럽연합(EU) 집행위원회가 우크라이나의 EU 가입 협상을 위한 보다 신중한 로드맵을 준비 중이며, 2027년까지 제한적인 개혁 목표를 설정하고 가입 날짜 약속은 피하고 있습니다. 브뤼셀은 우크라이나에 '법치 개혁 속도 긴급하고 의미 있게 높일 것'을 촉구하며, 2027년 상반기까지 핵심 요건 충족이 개별 정책 분야 협상 잠정 완료의 전제 조건이라고 밝혔습니다. 이는 우크라이나가 전쟁 중 필요한 개혁을 이행하는 데 어려움을 겪고 있음을 반영하는 것입니다.",
-          "sources": [
             {
               "name": "Politico Europe",
-              "url": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+              "url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
-              "name": "Euronews",
-              "url": "https://www.euronews.com/2026/11/03/progress-and-pitfalls-on-the-path-to-a-bigger-eu-five-takeaways-from-the-euronews-enlargem"
-            },
-            {
-              "name": "Kyiv Independent",
-              "url": "https://kyivindependent.com/as-moldova-races-ahead-of-ukraine-on-reforms-eu-set-to-reveal-verdict-on-kyivs-progress"
+              "name": "ua.news",
+              "url": "https://ua.news/en/technologies/u-pivnichnii-irlandiyi-diiatimut-okremi-pravila-es-shchodo-shi-bbc-news"
             }
           ],
           "verification": "multi",
-          "tag_label": "정치·외교"
+          "tag_label": "기술·과학"
         }
       ]
     },
@@ -376,20 +372,20 @@
       "stories": [
         {
           "tag": "tec",
-          "title": "바이낸스, 가짜 채용 면접과 내부 AI 도구로 63억 달러 해킹 당해",
-          "summary": "세계 최대 암호화폐 거래소 바이낸스가 63억 달러 규모의 해킹 사건이 가짜 채용 면접과 내부 인공지능(AI) 도구를 이용한 사회 공학적 기법으로 발생했다고 발표했습니다. 해커들은 가짜 회사 대표를 사칭하여 엔지니어에게 악성코드가 포함된 과제를 다운로드하게 했고, 이를 통해 시스템에 침투한 뒤 내부 AI 도구를 활용하여 자금을 탈취했습니다. 바이낸스는 이번 사건이 수개월에 걸쳐 진행된 정교하고 다단계적인 캠페인이라고 설명했습니다.",
+          "title": "SLAC, 세 번째 자기 유형 '교대자기' 결정적 증거 발견",
+          "summary": "SLAC 국립 가속기 연구소 과학자들이 특수 X-선을 사용하여 '교대자기(altermagnetism)'라는 세 번째 자기 유형의 결정적인 증거를 발견했습니다. 이는 약 90년간 강자성체와 반강자성체 두 가지로 분류되던 자성의 범주에 새로운 장을 열었습니다. 망간 텔루라이드(MnTe) 물질에서 발견된 이 독특한 자기적 특징은 안정성과 정보 전달 효율성을 결합하여 미래 컴퓨팅 및 양자 기술 발전에 기여할 잠재력을 가집니다.",
           "sources": [
             {
-              "name": "The Japan Times",
-              "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/binance-hackers-job-interviews-heist/"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
             },
             {
-              "name": "BBC Technology",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+              "name": "thedebrief.org",
+              "url": "https://thedebrief.org/a-mysterious-new-type-of-magnetism-has-just-been-confirmed-by-scientists"
             },
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html"
+              "name": "quantumzeitgeist.com",
+              "url": "https://quantumzeitgeist.com/slac-magnetic-phase-boost-quantum-tech"
             }
           ],
           "verification": "multi",
@@ -397,20 +393,20 @@
         },
         {
           "tag": "tec",
-          "title": "NASA 소행성 충돌 후 Hera 탐사선 Dimorphos 관찰 시작",
-          "summary": "유럽우주국(ESA)의 헤라(Hera) 탐사선이 NASA의 소행성 충돌 실험(DART)으로 궤도가 변경된 소행성 디모르포스와 모성 소행성 디디모스를 처음으로 분리된 개체로 관측했습니다. 헤라 탐사선은 두 소행성이 현재 지구에서 약 1억 9,700만 km 떨어져 있는 상태에서 디모르포스를 디디모스와 별개의 점으로 식별하는 데 성공했습니다. 헤라는 2022년 NASA DART 임무 이후 디모르포스의 변화를 면밀히 조사하고 과학자들이 예측한 것보다 훨씬 더 많이 궤도가 이동한 이유를 밝혀낼 예정입니다.",
+          "title": "NASA, 허블 우주 망원경 대기권 추락 막기 위한 계획 모색",
+          "summary": "NASA가 허블 우주 망원경을 지구 대기권으로 추락하는 운명에서 구하기 위한 대담한 계획을 모색 중입니다. 35년 넘게 우주 탐사에 기여해 온 허블은 점차 고도를 잃고 있으며, 아무런 조치 없이 방치될 경우 2033년 또는 2034년에 지구로 추락할 수 있습니다. NASA는 민간 우주 기업들에게 허블을 더 높은 궤도로 올리거나, 기능을 개선하거나, 임무 종료 시 안전하게 폐기할 혁신적인 방안을 제안해 줄 것을 요청했습니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
             },
             {
-              "name": "DIY Photography",
-              "url": "https://www.diyphotography.net/esas-hera-spacecraft-resolves-two-asteroids-from-1000-km-away"
+              "name": "techtimes.com",
+              "url": "https://www.techtimes.com/articles/330011/20261104/nasa-considers-hubble-space-telescope-rescue-mission-2033-reentry-approaches.htm"
             },
             {
-              "name": "Universe Today",
-              "url": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time"
+              "name": "cbc.ca",
+              "url": "https://www.cbc.ca/news/science/swift-space-telescope-9.7409515"
             }
           ],
           "verification": "multi",
@@ -418,20 +414,20 @@
         },
         {
           "tag": "tec",
-          "title": "과학자들, 블랙홀 분열 가능성 새로운 루프홀 발견",
-          "summary": "과학자들이 블랙홀이 둘로 쪼개질 수 있는 새로운 가능성을 발견했습니다. 일반적으로 블랙홀은 엔트로피 감소 때문에 분열하지 않지만, 이번 연구는 초고속으로 회전하는 블랙홀의 경우 이러한 물리 법칙에 '루프홀'이 있을 수 있음을 시사합니다. 이 발견은 미래 망원경으로 감지할 수 있는 완전히 새로운 블랙홀 현상의 가능성을 제기하며, 물리학의 이해를 넓히는 데 기여할 수 있습니다.",
+          "title": "스탠퍼드, AI로 천연 식욕 억제 및 지방 감소 분자 'BRP' 발견",
+          "summary": "스탠퍼드 연구진이 인공지능(AI)을 활용하여 동물의 식욕을 억제하고 지방 감소를 촉진하는 천연 분자 'BRP'를 발견했습니다. 이 분자는 기존 오젬픽과 달리 소화기 부작용이나 상당한 근육량 손실 없이 식욕을 최대 50%까지 줄이는 효과를 보였습니다. BRP는 뇌의 식욕 및 신진대사를 조절하는 시상하부에서 선택적으로 작용하는 것으로 보이며, 향후 인체 시험에서 성공할 경우 더욱 정밀한 비만 치료법 개발에 기여할 것으로 기대됩니다.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm"
             },
             {
-              "name": "ZME Science",
-              "url": "https://www.zmescience.com/science/physics/what-happens-black-hole-split-two"
+              "name": "hyper.ai",
+              "url": "https://hyper.ai/en/stories/414341766e692f0c96c1a3ce99aa56ca"
             },
             {
-              "name": "Space.com",
-              "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds"
+              "name": "sciencetechniz.com",
+              "url": "https://www.sciencetechniz.com/2026/11/unlocking-secret-to-weight-loss-ai.html"
             }
           ],
           "verification": "multi",
