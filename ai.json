@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-05",
-  "date_str": "2026년 11월 5일 (목)",
+  "date": "2026-11-06",
+  "date_str": "2026년 11월 6일 (금)",
   "highlights": [
-    "애플, 내부 AI 예산 삭감 및 개인 정보 보호에 초점 맞춘 시리 리캡 출시",
-    "메타, AI 코딩 스타트업 Conductor 인수하며 개발자 도구 강화",
-    "스마트폰 스타트업 Nothing, 12월 스크린 없는 AI 기기 출시 예고",
-    "미국 중간선거, AI 산업의 선거 영향력 확대 시도에도 데이터 센터 반대 여론 표출",
-    "구글의 AI 정책에 학교 반발, DuckDuckGo가 AI 기능 비활성화 옵션 제공하며 대안 제시"
+    "메타, 미국 사용자 대상 AI 아바타 '뮤즈' 영상 채팅 기능 출시",
+    "에어비앤비, 2027년 상반기 출시 목표 AI 여행 에이전트 개발 발표",
+    "클로드, 사용자 은행 계좌 연동 '개인 금융' 도구 출시",
+    "퍼플렉시티, 업무용 AI 에이전트 '팀메이트' 출시",
+    "오픈AI, 데이터 센터 NDA 철회 및 투명성 강화 약속"
   ],
   "sections": [
     {
@@ -15,16 +15,20 @@
       "en": "MODELS & PRODUCTS",
       "stories": [
         {
-          "title": "Nothing, 12월 AI 중심 기기 출시 예정",
-          "summary": "스마트폰 스타트업 Nothing이 12월에 첫 'AI 네이티브' 기기를 출시할 예정입니다. 칼 페이 CEO는 이 기기가 스크린이 없는 '생산성 도구'가 될 것이며, 앱 형태는 아니라고 밝혔습니다. 구체적인 제품의 형태나 기능은 아직 공개되지 않았습니다.",
+          "title": "메타, AI 아바타 '뮤즈' 영상 채팅 기능 미국 출시",
+          "summary": "메타가 미국 사용자를 대상으로 자사 AI 아바타 '뮤즈'와 영상 채팅 및 음성 통화 기능을 출시했습니다. 이 기능은 작년 9월 메타 커넥트 개발자 컨퍼런스에서 처음 소개되었으며, 뮤즈 리얼타임 아바타 및 뮤즈 리얼타임 보이스 기술을 활용하여 사용자 맞춤형 애니메이션 아바타와 실시간 상호작용을 지원합니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+              "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
             },
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+              "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+            },
+            {
+              "name": "tech.yahoo.com",
+              "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-says-us-users-now-194828909.html"
             }
           ],
           "verification": "multi",
@@ -32,16 +36,20 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "AT&T, 스마트 보안 시스템에 Gemini for Home 통합",
-          "summary": "AT&T의 스마트 보안 시스템 'Connected Life'가 Google의 'Gemini for Home'과 통합되었습니다. 이를 통해 사용자는 보안 카메라 영상에서 특정 이벤트를 요약하거나 자연어로 영상을 검색하고, 일일 활동 요약을 받아볼 수 있게 됩니다. 이 기능은 AT&T의 월 $29.99 모니터링 플랜에서 제공됩니다.",
+          "title": "에어비앤비, 2027년 상반기 AI 여행 에이전트 출시 예정",
+          "summary": "에어비앤비가 2027년 상반기 출시를 목표로 자체 AI 여행 에이전트를 개발 중이라고 발표했습니다. 이 에이전트는 기존 챗봇과 달리 여행에 특화된 개인화된 인터페이스를 제공하며, 지도, 사진, 일정 등 수백 가지 여행 관련 요소를 실시간으로 조합하여 맞춤형 여행 계획을 돕습니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
             },
             {
-              "name": "about.att.com",
-              "url": "https://about.att.com/blogs/2026/connected-life-home-security.html"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+            },
+            {
+              "name": "superpowerdaily.com",
+              "url": "https://superpowerdaily.com/posts/airbnb-targets-first-half-2027-rollout-for-an-ai-travel-agent-built-beyond-chat"
             }
           ],
           "verification": "multi",
@@ -49,16 +57,41 @@
           "tag_label": "모델·제품 출시"
         },
         {
-          "title": "애플, 공유된 iCloud 링크 유해 콘텐츠 확인 기능 도입",
-          "summary": "애플은 iOS 27.3 및 관련 OS 업데이트부터 '링크를 가진 모든 사람'에게 공유된 iCloud 항목에 대해 '유해 콘텐츠' 확인을 시작합니다. 이는 아동 성 착취물(CSAM)에 대한 대응 요구에 따른 조치로 보이며, 해당 콘텐츠는 종단간 암호화가 적용되지 않습니다. 애플은 유해 콘텐츠 발견 시 해당 계정을 차단하거나 법 집행 기관에 통보할 수 있습니다.",
+          "title": "클로드, 개인 금융 관리 위한 지출 분석 도구 출시",
+          "summary": "앤트로픽(Anthropic)의 AI 챗봇 클로드(Claude)가 사용자 은행 및 신용카드 계좌를 연동하여 지출을 분석하고 금융 질문에 답변하는 '개인 금융(Personal Finance)' 도구를 출시했습니다. 이 기능은 읽기 전용으로 제공되어 자금을 이동하거나 관리할 수는 없으며, 현재 미국 내 프로, 맥스, 울트라 요금제 사용자에게 베타 버전으로 배포됩니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+            },
+            {
+              "name": "kucoin.com",
+              "url": "https://www.kucoin.com/news/flash/anthropic-launches-personal-finance-tool-for-claude-to-analyze-user-spending"
+            },
+            {
+              "name": "zdnet.com",
+              "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic"
+            }
+          ],
+          "verification": "multi",
+          "tag": "release",
+          "tag_label": "모델·제품 출시"
+        },
+        {
+          "title": "퍼플렉시티, 상시 작동 업무용 AI 에이전트 '팀메이트' 출시",
+          "summary": "퍼플렉시티(Perplexity)가 업무 환경에 최적화된 상시 작동 AI 에이전트 '팀메이트(Teammates)'를 출시했습니다. 이 에이전트는 여러 역할을 동시에 수행하며 기존 퍼플렉시티 도구의 프로젝트, 기술, 기억을 활용하고, 퍼플렉시티 앱 개별 스레드 및 슬랙을 통해 진행 상황을 모니터링하고 상호작용할 수 있습니다.",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
             },
             {
-              "name": "finance.biggo.com",
-              "url": "https://finance.biggo.com/news/d2003f3a-2814-42f3-97d7-a21eba3d6b51"
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/perplexity-launches-teammates-ai-agents-to-battle-openai"
+            },
+            {
+              "name": "startupfortune.com",
+              "url": "https://startupfortune.com/perplexity-launches-teammates-ai-agents-as-wall-street-doubts-ai-payoffs"
             }
           ],
           "verification": "multi",
@@ -73,16 +106,20 @@
       "en": "RESEARCH",
       "stories": [
         {
-          "title": "오픈 소스 AI 시장 성장과 가치 창출 논의",
-          "summary": "오픈 소스 AI 모델이 기업, 정부, 스타트업에서 비용 절감, 제어 및 유연성 증가의 약속으로 주류화되고 있습니다. Hugging Face의 최고 정책 책임자 Irene Solaiman은 TechCrunch 팟캐스트에서 오픈 모델 구축 시 스타트업이 알아야 할 사항과, 모델이 무료일 때 기업이 어떻게 가치를 창출하는지, 그리고 중국 오픈 모델과의 경쟁 구도 등을 논의했습니다. 오픈 소스 AI의 성장은 소수 기업의 독점을 막는 데 중요하다고 언급되었습니다.",
+          "title": "액시엄 매쓰, AI 검증으로 수학 '스택스 프로젝트' 형식적 검증 완료",
+          "summary": "액시엄 매쓰(Axiom Math)가 AI 에이전트를 활용하여 '스택스 프로젝트(Stacks Project)'를 형식적으로 검증했습니다. 이 프로젝트는 인간이 작성한 가장 큰 수학 지식 체계 중 하나로, 7,654페이지에 달하는 내용을 약 1,600만 줄의 컴퓨터 검증 코드로 변환하여 수학 분야에서 AI가 생성하는 결과의 신뢰성을 확보하는 데 기여했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+              "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
             },
             {
-              "name": "wired.com",
-              "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face"
+              "name": "hyper.ai",
+              "url": "https://hyper.ai/en/stories/7dac5ce0cdad0d3f04879d75c6b21cea"
+            },
+            {
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/axiom-math-verifies-stacks-project-to-combat-ai-proof-slop"
             }
           ],
           "verification": "multi",
@@ -90,16 +127,41 @@
           "tag_label": "연구·논문"
         },
         {
-          "title": "AI 에이전트 활용 현황 및 기업 보안 중요성 부각",
-          "summary": "현재 우버의 발표에 따르면, 개인 AI 에이전트를 통한 차량 호출이나 음식 주문 건수가 여전히 매우 적은 것으로 나타났습니다. 이는 AI 에이전트의 활용이 아직 초기 단계임을 보여줍니다. 한편, MIT Technology Review는 AI 에이전트가 기업 데이터에 접근하고 처리하는 과정에서 '데이터 리니지(Data Lineage)'를 통한 보안이 필수적임을 강조하며, 에이전트 기반 기업 환경에서의 데이터 흐름 추적 및 제어의 중요성을 역설했습니다.",
+          "title": "MIT, 로봇의 '흐릿한 기억' 명확화 시스템 개발로 상호작용 개선",
+          "summary": "MIT 연구진이 로봇의 부정확한 기억을 식별하고 수정하는 새로운 메모리 시스템 'UQ-DAAAM'을 개발했습니다. 이 시스템은 여러 관점에서 본 동일한 객체에 대한 설명을 비교하여 로봇의 불확실성을 정량화하고, 이를 바탕으로 객체 설명을 더 정확하게 수정하여 로봇이 환경과 상호작용하는 능력을 향상시킵니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+              "name": "MIT News (AI)",
+              "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+              "name": "news.lavx.hu",
+              "url": "https://news.lavx.hu/article/clearing-up-a-robot-s-fuzzy-memory"
+            },
+            {
+              "name": "sflorg.com",
+              "url": "https://www.sflorg.com/2026/11/rob11052601.html"
+            }
+          ],
+          "verification": "multi",
+          "tag": "research",
+          "tag_label": "연구·논문"
+        },
+        {
+          "title": "아르카이브, LLM 에이전트 시스템 신뢰성 및 자원 관리 논문 공개",
+          "summary": "아르카이브(arXiv)에 LLM 기반 에이전트 시스템의 다양한 기술적 진보를 다루는 여러 논문이 게재되었습니다. 주요 연구 내용은 LLM 검토 기관에서 에이전트의 의사 결정을 관리하는 신뢰성 문제, 도구 사용 에이전트의 운영 제어, 그리고 불확실성을 고려한 에이전트 AI 시스템의 자원 오케스트레이션 등입니다.",
+          "sources": [
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2611.05390"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2611.05391"
+            },
+            {
+              "name": "arXiv cs.AI",
+              "url": "https://arxiv.org/abs/2611.05392"
             }
           ],
           "verification": "multi",
@@ -114,16 +176,20 @@
       "en": "INDUSTRY & INVESTMENT",
       "stories": [
         {
-          "title": "애플, 내부 AI 활용 예산 삭감 및 시리 리캡 출시",
-          "summary": "애플이 엔지니어링 팀의 일일 AI 사용 예산을 기존 300달러에서 200달러로, 일부는 100달러까지 삭감하는 등 내부 AI 활용 예산을 줄이고 있습니다. 동시에 애플은 iOS 27.3 및 watchOS 27.3 개발자 베타 버전을 통해 '시리 리캡(Siri Recaps)' 등 AI 기반 오디오 인텔리전스 기능을 테스트 중입니다. 이 기능은 대화를 녹음하고 요약하여 중요한 내용을 저장할 수 있게 하지만, 개인 정보 보호에 대한 우려도 제기되고 있습니다.",
+          "title": "메타와 오픈AI, 데이터 센터 반발로 AI 투자 확대 우려 표명",
+          "summary": "메타와 오픈AI가 중간선거 이후 데이터 센터 확장에 대한 정치적 반발이 AI 인프라 투자 확대를 어렵게 만들 수 있다고 경고했습니다. 메타는 데이터 센터가 AI의 가시적인 표현이며, 지역 사회의 반발이 AI 기술 전반에 대한 부정적인 정서와 연결되어 있다고 지적했습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+              "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
             },
             {
-              "name": "9to5mac.com",
-              "url": "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs"
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+            },
+            {
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/meta-warns-election-backlash-could-derail-ai-buildout"
             }
           ],
           "verification": "multi",
@@ -131,16 +197,20 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "메타, AI 코딩 스타트업 Conductor 인수",
-          "summary": "메타가 AI 코딩 스타트업 Conductor를 인수했습니다. Conductor는 여러 에이전트를 병렬 작업 공간에 배포하여 소프트웨어 프로젝트를 실행할 수 있는 플랫폼을 제공합니다. 이번 인수는 메타의 AI 역량을 강화하고 개발자 도구 시장에서의 경쟁력을 높이려는 전략으로 해석됩니다. Conductor의 클라우드 서비스는 11월 20일 종료될 예정입니다.",
+          "title": "오픈AI 사장, 2027년 기업공개(IPO) 준비 가능성 언급",
+          "summary": "오픈AI의 공동 설립자 겸 사장인 그렉 브록만(Greg Brockman)이 2027년에 기업공개(IPO) 준비가 완료될 수 있다고 언급했습니다. 그는 월스트리트저널 기술 컨퍼런스에서 기업 매출이 크게 성장하고 있으며, 특히 엔터프라이즈 부문이 크게 약진했다고 밝혔습니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+              "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
             },
             {
-              "name": "mezha.net",
-              "url": "https://mezha.net/eng/news/mezha-6a301a840dd72ead9e66e737_meta_acquires_ai"
+              "name": "cryptobriefing.com",
+              "url": "https://cryptobriefing.com/openai-eyes-2027-ipo-after-strong-q3-2026-revenue-growth"
+            },
+            {
+              "name": "thenextweb.com",
+              "url": "https://thenextweb.com/news/openai-ipo-2027-brockman-enterprise-revenue"
             }
           ],
           "verification": "multi",
@@ -148,16 +218,41 @@
           "tag_label": "산업·투자·기업"
         },
         {
-          "title": "퀄컴, 스마트폰 판매 부진 속 데이터 센터 사업에 집중",
-          "summary": "스마트폰 판매가 2025년 대비 약 20% 감소하면서, 퀄컴이 데이터 센터 사업 확장에 주력하고 있습니다. 퀄컴은 2026년 4분기 실적 발표에서 2027년 1분기 데이터 센터 매출을 약 6억 5천만 달러, 2027년 말까지 50억 달러, 2029년까지 150억 달러로 전망하며, 장기적으로 데이터 센터 칩이 전체 사업의 약 30%를 차지할 것으로 예상했습니다.",
+          "title": "드롭박스, AI 인프라 강화를 위해 티그리스 데이터 3.5억 달러 인수",
+          "summary": "드롭박스(Dropbox)가 클라우드 기술 기업 티그리스 데이터(Tigris Data)를 3억 5천만 달러에 인수하며 AI 인프라 강화에 나섰습니다. 이번 인수는 드롭박스의 AI 인프라 역량을 강화하고, 기업 및 개발자를 위한 새로운 스토리지 플랫폼인 DBX 에이전트 클라우드(DBX Agent Cloud) 개발을 지원할 것으로 기대됩니다.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
             },
             {
-              "name": "mezha.net",
-              "url": "https://mezha.net/eng/news/mezha-d0df89820de0122a38133c5d_qualcomm_turns_to"
+              "name": "techbuzz.ai",
+              "url": "https://www.techbuzz.ai/articles/dropbox-drops-350m-on-tigris-data-in-ai-infrastructure-play"
+            },
+            {
+              "name": "citybiz.co",
+              "url": "https://www.citybiz.co/article/930083/dropbox-plans-to-acquire-tigris-data-launches-ai-infrastructure-platform-and-new-agentic-features"
+            }
+          ],
+          "verification": "multi",
+          "tag": "industry",
+          "tag_label": "산업·투자·기업"
+        },
+        {
+          "title": "휴머노이드 로봇 기업 애질리티, 나스닥 상장으로 첫 순수 휴머노이드 상장사 등극",
+          "summary": "휴머노이드 로봇 기업 애질리티(Agility)가 스팩(SPAC) 합병을 통해 나스닥에 상장하며 순수 휴머노이드 로봇 기업으로는 최초로 공개 시장에 진출했습니다. 애질리티는 2015년 오레곤 주립대학교에서 분사하여 두 발로 안전하게 걷는 로봇 기술을 개발해 왔으며, 산업 현장에 '디지트(Digit)' 로봇을 배치하고 있습니다.",
+          "sources": [
+            {
+              "name": "TechCrunch AI",
+              "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+            },
+            {
+              "name": "finance.biggo.com",
+              "url": "https://finance.biggo.com/news/2ce35340-42e0-4678-8ceb-5a86cfae5229"
+            },
+            {
+              "name": "finance.yahoo.com",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/agility-becomes-first-u-publicly-120000250.html"
             }
           ],
           "verification": "multi",
@@ -172,16 +267,20 @@
       "en": "POLICY & SAFETY",
       "stories": [
         {
-          "title": "AI 산업, 중간선거에 수백만 달러 지출에도 혼합된 결과",
-          "summary": "AI 산업을 지지하거나 반대하는 정치 단체들이 2026년 중간선거에 수백만 달러를 지출하며 AI 규제 미래에 영향을 미치려 했으나, 그 결과는 엇갈렸습니다. 특히 AI 관련 PAC(정치활동위원회)의 지원을 받은 일부 후보들이 낙선하는 등, AI 관련 자금 지출이 선거 결과에 미치는 영향은 제한적이었습니다. OpenAI의 고위 관계자는 2028년 대선을 AI의 중요한 전환점으로 보고, 대중의 AI에 대한 우려를 해소할 정책 개발을 촉구했습니다.",
+          "title": "오픈AI, 데이터 센터 NDA 철회 및 지역 사회 투명성 강화 발표",
+          "summary": "오픈AI가 데이터 센터 프로젝트 관련 비공개 계약(NDA) 사용을 철회하고 지역 사회와의 투명성을 높이기 위한 새로운 약속을 발표했습니다. 이는 데이터 센터 확장에 대한 유권자들의 반대 의견이 확산된 후 나온 조치로, 오픈AI는 공무원과의 NDA를 중단하고, 합법적인 보안 정보 외에는 제한적인 보호만 적용할 것이라고 밝혔습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
             },
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+              "name": "tech-insider.org",
+              "url": "https://tech-insider.org/openai-community-compact-data-center-nda-ban-41-ballot-measures-2026"
+            },
+            {
+              "name": "datacenterdynamics.com",
+              "url": "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave"
             }
           ],
           "verification": "multi",
@@ -189,16 +288,20 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "구글 AI 정책에 학교 반발, DuckDuckGo가 대안 제시",
-          "summary": "구글이 K-12 학교에 AI 도구 사용을 강제하면서, 이를 거부할 경우 구글 검색 사용이 불가능해진다고 발표해 즉각적인 반발에 직면했습니다. 상원의원들과 반독점 옹호자들은 이를 '강탈'이자 '반경쟁적' 행위로 비판했습니다. 이에 DuckDuckGo는 개인 정보 보호에 초점을 맞춘 자사 검색 엔진을 학교에 제안하며, AI 기능을 비활성화할 수 있는 옵션을 제공하고 있습니다.",
+          "title": "오픈AI, 새로운 사이버 보안 모델 출시로 디지털 인프라 보호 노력",
+          "summary": "오픈AI가 사이버 보안에 특화된 새로운 모델 'ChatGPT Cyber'를 출시하며 디지털 인프라 보호 노력을 강화하고 있습니다. 이 모델은 리눅스 커널의 취약점을 스캔하고 패치를 준비하여 948개의 잠재적 문제를 발견했으며, 파이어폭스에서도 81개의 새로운 취약점을 찾아냈습니다. 해당 모델은 현재 Daybreak Red 프로그램의 최고 등급 사용자에게 제공됩니다.",
           "sources": [
             {
               "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+              "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
             },
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+              "name": "theregister.com",
+              "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
+            },
+            {
+              "name": "firstpost.com",
+              "url": "https://www.firstpost.com/tech/openai-launches-gpt-6-cyber-for-security-researchers-with-critical-cybersecurity-rating-14058196.html"
             }
           ],
           "verification": "multi",
@@ -206,16 +309,20 @@
           "tag_label": "정책·규제·안전"
         },
         {
-          "title": "미국 중간선거 이후 데이터 센터 및 AI 인프라 논쟁 심화",
-          "summary": "미국 중간선거 결과 민주당이 의회를 장악하면서 데이터 센터 건설에 대한 대중의 반발이 정치적 이슈로 부상했습니다. 출구 조사에 따르면 응답자의 절반 이상이 AI가 득보다 실이 많을 것이라고 보았고, 약 80%는 주거 지역 내 데이터 센터 건설에 반대했습니다. 오하이오, 텍사스 등 여러 주에서 데이터 센터 건설 제한 조치가 통과되거나 반대 입장을 가진 후보들이 당선되었으며, 이는 향후 AI 인프라 구축에 더 많은 제한과 지연을 가져올 것으로 전망됩니다.",
+          "title": "구글, 학교 AI 검색 필수 제공 논란 속 Gemini 선택권 제시",
+          "summary": "구글이 K-12 학교에 새로운 AI 정책을 발표하며 논란의 중심에 섰습니다. 구글은 학교가 구글 앱을 사용하려면 AI 제품 사용에 동의해야 하며, 검색을 AI 포트폴리오의 일부로 간주하여 학교가 AI를 완전히 거부하면 검색 접근권도 잃을 수 있다고 밝혔습니다. 다만, 구글은 제미니(Gemini) 앱을 비활성화하면서 검색은 유지할 수 있는 선택권을 제공한다고 해명했습니다.",
           "sources": [
             {
-              "name": "TechCrunch AI",
-              "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
             },
             {
-              "name": "MIT Technology Review",
-              "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+              "name": "cnn.com",
+              "url": "https://www.cnn.com/2026/11/03/tech/google-ai-search-policy"
+            },
+            {
+              "name": "theverge.com",
+              "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
             }
           ],
           "verification": "multi",
